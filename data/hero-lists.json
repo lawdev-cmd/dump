@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-08-24T03:20:07.482Z",
+  "generatedAt": "2026-08-24T03:22:28.323Z",
   "movies": {
     "listPath": "giladg/lists/latest-4k-releases",
-    "requestUrl": "https://api.trakt.tv/users/giladg/lists/latest-4k-releases/items?extended=full,images&page=1&limit=10",
+    "requestUrl": "https://api.trakt.tv/users/giladg/lists/latest-4k-releases/items?extended=full,images&page=1&limit=25",
     "items": [
-      {
-        "id": "1741201",
-        "tmdbId": 1741201,
-        "type": "movie",
-        "title": "Chompoo: Lost​ &​ Forgotten​",
-        "overview": "When a young girl vanishes from a remote village, the frantic police hunt become a media frenzy. But who turned a suspected criminal into a celebrity?",
-        "year": "2026",
-        "rating": 5.900000095367432,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/w780/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg",
-        "logoUrl": null,
-        "certificate": "",
-        "runTimeMinutes": 85,
-        "primaryGenre": "Documentary",
-        "secondaryGenre": "",
-        "originCountries": [
-          "TH"
-        ],
-        "originalLanguage": "th"
-      },
       {
         "id": "1732625",
         "tmdbId": 1732625,
@@ -41,26 +21,6 @@
         "secondaryGenre": "Fantasy",
         "originCountries": [
           "US"
-        ],
-        "originalLanguage": "en"
-      },
-      {
-        "id": "1130948",
-        "tmdbId": 1130948,
-        "type": "movie",
-        "title": "Rosebush Pruning",
-        "overview": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
-        "year": "2026",
-        "rating": 5.177419185638428,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/w780/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
-        "logoUrl": "https://image.tmdb.org/t/p/original/dxmSv8GoAow4iNdQgiF3Ts4pwXc.png",
-        "certificate": "",
-        "runTimeMinutes": 99,
-        "primaryGenre": "Drama",
-        "secondaryGenre": "Thriller",
-        "originCountries": [
-          "GB"
         ],
         "originalLanguage": "en"
       },
@@ -203,12 +163,52 @@
           "US"
         ],
         "originalLanguage": "en"
+      },
+      {
+        "id": "1315772",
+        "tmdbId": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "year": "2026",
+        "rating": 7.070702075958252,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/7bfRNJWmYIwyca2kFyd031wwaJm.png",
+        "certificate": "PG",
+        "runTimeMinutes": 90,
+        "primaryGenre": "Animation",
+        "secondaryGenre": "Comedy",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1465557",
+        "tmdbId": 1465557,
+        "type": "movie",
+        "title": "Our Hero, Balthazar",
+        "overview": "Eager to impress his activist crush, a wealthy New York teenager follows an online connection to Texas, where he's convinced he can stop an act of extreme violence.",
+        "year": "2026",
+        "rating": 6.644859790802002,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/wcXcAI1S9N9DG7SvjNTGGCxVlsF.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/uxeRptHGABQAVXW413fdkZEy29z.png",
+        "certificate": "R",
+        "runTimeMinutes": 96,
+        "primaryGenre": "Drama",
+        "secondaryGenre": "Comedy",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
       }
     ]
   },
   "tvShows": {
     "listPath": "omar-comin/lists/top-10-tv-shows-of-the-week",
-    "requestUrl": "https://api.trakt.tv/users/omar-comin/lists/top-10-tv-shows-of-the-week/items?extended=full,images&page=1&limit=10",
+    "requestUrl": "https://api.trakt.tv/users/omar-comin/lists/top-10-tv-shows-of-the-week/items?extended=full,images&page=1&limit=25",
     "items": [
       {
         "id": "95350",
