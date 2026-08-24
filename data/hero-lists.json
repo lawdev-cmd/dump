@@ -1,0 +1,415 @@
+{
+  "generatedAt": "2026-08-24T03:20:07.482Z",
+  "movies": {
+    "listPath": "giladg/lists/latest-4k-releases",
+    "requestUrl": "https://api.trakt.tv/users/giladg/lists/latest-4k-releases/items?extended=full,images&page=1&limit=10",
+    "items": [
+      {
+        "id": "1741201",
+        "tmdbId": 1741201,
+        "type": "movie",
+        "title": "Chompoo: Lost​ &​ Forgotten​",
+        "overview": "When a young girl vanishes from a remote village, the frantic police hunt become a media frenzy. But who turned a suspected criminal into a celebrity?",
+        "year": "2026",
+        "rating": 5.900000095367432,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg",
+        "logoUrl": null,
+        "certificate": "",
+        "runTimeMinutes": 85,
+        "primaryGenre": "Documentary",
+        "secondaryGenre": "",
+        "originCountries": [
+          "TH"
+        ],
+        "originalLanguage": "th"
+      },
+      {
+        "id": "1732625",
+        "tmdbId": 1732625,
+        "type": "movie",
+        "title": "LEGO Disney Princess: Magical Mayhem",
+        "overview": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
+        "year": "2026",
+        "rating": 6,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xNA3Ub2MsAvbyg1GlDrrUQI2Kru.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/iyJc33L3SCOkNrt7lTHITcZtGkx.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/vl95HQWM1cmAkNRmEjqSnOImvzA.png",
+        "certificate": "G",
+        "runTimeMinutes": 22,
+        "primaryGenre": "Animation",
+        "secondaryGenre": "Fantasy",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1130948",
+        "tmdbId": 1130948,
+        "type": "movie",
+        "title": "Rosebush Pruning",
+        "overview": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
+        "year": "2026",
+        "rating": 5.177419185638428,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/dxmSv8GoAow4iNdQgiF3Ts4pwXc.png",
+        "certificate": "",
+        "runTimeMinutes": 99,
+        "primaryGenre": "Drama",
+        "secondaryGenre": "Thriller",
+        "originCountries": [
+          "GB"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1626188",
+        "tmdbId": 1626188,
+        "type": "movie",
+        "title": "Novak Djokovic: The Wolf in Winter",
+        "overview": "Explore the extraordinary journey of tennis GOAT Novak Djokovic, who began playing on the hardscrabble courts of Serbia and rose to become the most accomplished champion in the history of men's tennis.",
+        "year": "2026",
+        "rating": 8.297297477722168,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/irOGUDisK2481lsXRO5qc7TmcMN.png",
+        "certificate": "",
+        "runTimeMinutes": 93,
+        "primaryGenre": "Documentary",
+        "secondaryGenre": "",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1476682",
+        "tmdbId": 1476682,
+        "type": "movie",
+        "title": "Gail Daughtry and the Celebrity Sex Pass",
+        "overview": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
+        "year": "2026",
+        "rating": 6.398026466369629,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/mrvMnjEYFceBSeZG8EuePP3embX.png",
+        "certificate": "R",
+        "runTimeMinutes": 94,
+        "primaryGenre": "Comedy",
+        "secondaryGenre": "",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1084244",
+        "tmdbId": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "year": "2026",
+        "rating": 8.119389533996582,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+        "certificate": "PG",
+        "runTimeMinutes": 102,
+        "primaryGenre": "Animation",
+        "secondaryGenre": "Family",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1493400",
+        "tmdbId": 1493400,
+        "type": "movie",
+        "title": "Camp Rock 3",
+        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+        "year": "2026",
+        "rating": 6.5291666984558105,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/qK9GCg6yjYynL4THWjoNphn5JNN.png",
+        "certificate": "G",
+        "runTimeMinutes": 93,
+        "primaryGenre": "Musical",
+        "secondaryGenre": "Music",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1504358",
+        "tmdbId": 1504358,
+        "type": "movie",
+        "title": "Don't Say Good Luck",
+        "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+        "year": "2026",
+        "rating": 7.736577033996582,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/kkw7ciB1uPAGRlAkiTBhfGHDe4Y.png",
+        "certificate": "PG-13",
+        "runTimeMinutes": 96,
+        "primaryGenre": "Comedy",
+        "secondaryGenre": "Music",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1284465",
+        "tmdbId": 1284465,
+        "type": "movie",
+        "title": "The Death of Robin Hood",
+        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+        "year": "2026",
+        "rating": 6.338047027587891,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/iwZMP3Vbqgj6QHAOAzz9VjRJfNN.png",
+        "certificate": "R",
+        "runTimeMinutes": 123,
+        "primaryGenre": "Drama",
+        "secondaryGenre": "Action",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1308767",
+        "tmdbId": 1308767,
+        "type": "movie",
+        "title": "Young Washington",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "year": "2026",
+        "rating": 7.684582710266113,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/aUQ2XzsGJJ42ow3rn2DTVOXeBlW.png",
+        "certificate": "PG-13",
+        "runTimeMinutes": 121,
+        "primaryGenre": "War",
+        "secondaryGenre": "History",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      }
+    ]
+  },
+  "tvShows": {
+    "listPath": "omar-comin/lists/top-10-tv-shows-of-the-week",
+    "requestUrl": "https://api.trakt.tv/users/omar-comin/lists/top-10-tv-shows-of-the-week/items?extended=full,images&page=1&limit=10",
+    "items": [
+      {
+        "id": "95350",
+        "tmdbId": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "year": "2026",
+        "rating": 8.227272987365723,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 55,
+        "primaryGenre": "Science Fiction",
+        "secondaryGenre": "Fantasy",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "278624",
+        "tmdbId": 278624,
+        "type": "tv",
+        "title": "Lucky",
+        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+        "year": "2026",
+        "rating": 7.6547393798828125,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 50,
+        "primaryGenre": "Drama",
+        "secondaryGenre": "Crime",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "273240",
+        "tmdbId": 273240,
+        "type": "tv",
+        "title": "Off Campus",
+        "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+        "year": "2026",
+        "rating": 8.65680980682373,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/vSCRiiYfTjrIcdyJhb8xyLE3Tdf.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 50,
+        "primaryGenre": "Romance",
+        "secondaryGenre": "Drama",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "287620",
+        "tmdbId": 287620,
+        "type": "tv",
+        "title": "Stuart Fails to Save the Universe",
+        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+        "year": "2026",
+        "rating": 7.870030403137207,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/xW9OE6KMDxModOcrCCTZwFPwJyA.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 24,
+        "primaryGenre": "Comedy",
+        "secondaryGenre": "Fantasy",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "299167",
+        "tmdbId": 299167,
+        "type": "tv",
+        "title": "Dutton Ranch",
+        "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+        "year": "2026",
+        "rating": 8.613534927368164,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/w6rTydgams5hQ6T4d7ieYkg2PsQ.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 50,
+        "primaryGenre": "Western",
+        "secondaryGenre": "Drama",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "283297",
+        "tmdbId": 283297,
+        "type": "tv",
+        "title": "Sterling Point",
+        "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+        "year": "2026",
+        "rating": 8.125438690185547,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/oI9xCt2yBSRhJRWpDb5v3JB3uZ0.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 40,
+        "primaryGenre": "Drama",
+        "secondaryGenre": "Mystery",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "287238",
+        "tmdbId": 287238,
+        "type": "tv",
+        "title": "Furious",
+        "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+        "year": "2026",
+        "rating": 8.344488143920898,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 40,
+        "primaryGenre": "Thriller",
+        "secondaryGenre": "Drama",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "290856",
+        "tmdbId": 290856,
+        "type": "tv",
+        "title": "Marshals",
+        "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+        "year": "2026",
+        "rating": 7.236355304718018,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/hcQsv6SfYpXeQdB7OR29bN6KFY1.png",
+        "certificate": "TV-14",
+        "runTimeMinutes": 45,
+        "primaryGenre": "Drama",
+        "secondaryGenre": "Crime",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "296756",
+        "tmdbId": 296756,
+        "type": "tv",
+        "title": "President Curtis",
+        "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+        "year": "2026",
+        "rating": 7.115384578704834,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/oA1orEp9XUfZRfhX4d5bWjJGuAk.png",
+        "certificate": "TV-14",
+        "runTimeMinutes": 25,
+        "primaryGenre": "Animation",
+        "secondaryGenre": "Comedy",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "278178",
+        "tmdbId": 278178,
+        "type": "tv",
+        "title": "I Will Find You",
+        "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+        "year": "2026",
+        "rating": 8.018798828125,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/mGVDe43J6OaopYxkDnSoBSYnw0v.png",
+        "certificate": "TV-MA",
+        "runTimeMinutes": 40,
+        "primaryGenre": "Thriller",
+        "secondaryGenre": "Drama",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      }
+    ]
+  }
+}
