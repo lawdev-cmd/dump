@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "11362",
+    "tmdbId": 11362,
+    "type": "movie",
+    "title": "The Count of Monte Cristo",
+    "overview": "Young sailor Edmond Dantès is wrongfully imprisoned, escapes, finds treasure, and reinvents himself as the wealthy Count of Monte Cristo to exact revenge on those who betrayed him.",
+    "year": "2002",
+    "rating": 7.87687873840332,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/458/posters/thumb/00390dfc7b.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/458/fanarts/medium/c43a2f323e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/458/logos/medium/73cf48bfa1.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "98",
+    "tmdbId": 98,
+    "type": "movie",
+    "title": "Gladiator",
+    "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+    "year": "2000",
+    "rating": 8.60770320892334,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/067/posters/thumb/a897083955.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/067/fanarts/medium/299c7a8bf5.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/067/logos/medium/089e1984d3.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 155,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "197",
+    "tmdbId": 197,
+    "type": "movie",
+    "title": "Braveheart",
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "year": "1995",
+    "rating": 8.25985336303711,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/160/posters/thumb/fa41cd6b1e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/160/fanarts/medium/3f1c3e0831.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/160/logos/medium/5e3daa0050.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 178,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2112",
+    "tmdbId": 2112,
+    "type": "movie",
+    "title": "Payback",
+    "overview": "With friends like these, who needs enemies? That's the question bad guy Porter is left asking after his wife and partner steal his heist money and leave him for dead -- or so they think. Five months and an endless reservoir of bitterness later, Porter's partners and the crooked cops on his tail learn how bad payback can be.",
+    "year": "1999",
+    "rating": 7.144896507263184,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/461/posters/thumb/250b56f49e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/461/fanarts/medium/cec360aaeb.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/461/logos/medium/a49921e15a.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2493",
+    "tmdbId": 2493,
+    "type": "movie",
+    "title": "The Princess Bride",
+    "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+    "year": "1987",
+    "rating": 8.230125427246094,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/734/posters/thumb/689fe7686b.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/734/fanarts/medium/4c6f7e14e0.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/734/logos/medium/8d41589d93.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "245891",
+    "tmdbId": 245891,
+    "type": "movie",
+    "title": "John Wick",
+    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "year": "2014",
+    "rating": 8.053423881530762,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/149/640/posters/thumb/5390457ad0.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/149/640/fanarts/medium/7ec16ef20d.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/149/640/logos/medium/349c34d062.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "324552",
+    "tmdbId": 324552,
+    "type": "movie",
+    "title": "John Wick: Chapter 2",
+    "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+    "year": "2017",
+    "rating": 7.832513809204102,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/205/127/posters/thumb/59972d4fb2.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/205/127/fanarts/medium/73b5c275cc.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/205/127/logos/medium/e553621255.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "458156",
+    "tmdbId": 458156,
+    "type": "movie",
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+    "year": "2019",
+    "rating": 7.805232048034668,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/304/278/posters/thumb/0cea2a23a6.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/304/278/fanarts/medium/ad559ad64d.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/304/278/logos/medium/937b178c0f.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9461",
+    "tmdbId": 9461,
+    "type": "movie",
+    "title": "Enter the Dragon",
+    "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+    "year": "1973",
+    "rating": 7.627568244934082,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/748/posters/thumb/9bf4589067.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/748/fanarts/medium/e73e4bec06.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/748/logos/medium/f7f76fe90a.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "",
+    "originCountries": [
+      "HK"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "33",
+    "tmdbId": 33,
+    "type": "movie",
+    "title": "Unforgiven",
+    "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+    "year": "1992",
+    "rating": 8.0601806640625,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/027/posters/thumb/925727139f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/027/fanarts/medium/e4db7878ab.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/027/logos/medium/d428a19659.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Western",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11969",
+    "tmdbId": 11969,
+    "type": "movie",
+    "title": "Tombstone",
+    "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+    "year": "1993",
+    "rating": 7.908376693725586,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/982/posters/thumb/7d8d9bb944.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/982/fanarts/medium/941c6cc41b.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/982/logos/medium/10f84dd0b5.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8879",
+    "tmdbId": 8879,
+    "type": "movie",
+    "title": "Pale Rider",
+    "overview": "A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.",
+    "year": "1985",
+    "rating": 7.461818218231201,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/363/posters/thumb/0914177455.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/363/fanarts/medium/2731ac2e89.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/363/logos/medium/a4da6619d1.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "133805",
+    "tmdbId": 133805,
+    "type": "movie",
+    "title": "Carrie",
+    "overview": "An awkward, telekinetic teenage girl is the object of relentless bullying at school and an oppressively religious mother at home.",
+    "year": "2013",
+    "rating": 6.395918369293213,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/090/598/posters/thumb/db5d0c3281.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/090/598/fanarts/medium/c5b6430d2c.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/090/598/logos/medium/20e209635f.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "156022",
+    "tmdbId": 156022,
+    "type": "movie",
+    "title": "The Equalizer",
+    "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+    "year": "2014",
+    "rating": 7.736404895782471,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/101/542/posters/thumb/02a5c8e7d6.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/101/542/fanarts/medium/ef0c1a5a5c.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/101/542/logos/medium/e65386f998.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "395990",
+    "tmdbId": 395990,
+    "type": "movie",
+    "title": "Death Wish",
+    "overview": "A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
+    "year": "2018",
+    "rating": 6.8651838302612305,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/238/823/posters/thumb/e35f06f315.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/238/823/fanarts/medium/a5e3ee603f.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/238/823/logos/medium/41fa2546b6.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "670",
+    "tmdbId": 670,
+    "type": "movie",
+    "title": "Oldboy",
+    "overview": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+    "year": "2003",
+    "rating": 8.349262237548828,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/544/posters/thumb/e3bd5b04ad.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/544/fanarts/medium/c98f253bec.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/544/logos/medium/5c9c163b34.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11901",
+    "tmdbId": 11901,
+    "type": "movie",
+    "title": "High Plains Drifter",
+    "overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+    "year": "1973",
+    "rating": 7.362730503082275,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/919/posters/thumb/cee83f592a.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/919/fanarts/medium/fb86c87423.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/919/logos/medium/5c1d09bede.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "938",
+    "tmdbId": 938,
+    "type": "movie",
+    "title": "For a Few Dollars More",
+    "overview": "Two bounty hunters both pursue the brutal and sadistic bandit, El Indio, who has a large bounty on his head.",
+    "year": "1965",
+    "rating": 8.125506401062012,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/779/posters/thumb/fdc57a0875.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/779/fanarts/medium/05a43721f7.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/779/logos/medium/60c6da93e2.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Western",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9509",
+    "tmdbId": 9509,
+    "type": "movie",
+    "title": "Man on Fire",
+    "overview": "Jaded ex-CIA operative John Creasy reluctantly accepts a job as the bodyguard for a 10-year-old girl in Mexico City. They clash at first, but eventually bond, and when she's kidnapped he's consumed by fury and will stop at nothing to save her life.",
+    "year": "2004",
+    "rating": 7.849788188934326,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/789/posters/thumb/8ad7010208.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/789/fanarts/medium/5b181f3dcb.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/789/logos/medium/c83391f022.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8068",
+    "tmdbId": 8068,
+    "type": "movie",
+    "title": "Desperado",
+    "overview": "El Mariachi plunges headfirst into the dark border underworld when he follows a trail of blood to the last of the infamous Mexican drug lords, Bucho, for an action-packed, bullet-riddled showdown. With the help of his friend and a beautiful bookstore owner, El Mariachi tracks Bucho, takes on his army of desperados, and leaves his own trail of blood.",
+    "year": "1995",
+    "rating": 7.270439147949219,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/035/posters/thumb/99526edbf8.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/035/fanarts/medium/049ec7fdf9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/035/logos/medium/aa30757de4.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "44264",
+    "tmdbId": 44264,
+    "type": "movie",
+    "title": "True Grit",
+    "overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find—a man with 'true grit'—Reuben J. 'Rooster' Cogburn.",
+    "year": "2010",
+    "rating": 7.597170352935791,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/029/981/posters/thumb/097fabce45.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/029/981/fanarts/medium/b5220e7c03.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/029/981/logos/medium/5b5e345bfd.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8292",
+    "tmdbId": 8292,
+    "type": "movie",
+    "title": "Four Brothers",
+    "overview": "Four adopted brothers return to their Detroit hometown when their mother is murdered and vow to exact revenge on the killers.",
+    "year": "2005",
+    "rating": 7.129025459289551,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/115/posters/thumb/7b4572e1bc.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/115/fanarts/medium/51fca401a0.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/115/logos/medium/906e4fa667.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "281957",
+    "tmdbId": 281957,
+    "type": "movie",
+    "title": "The Revenant",
+    "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "year": "2015",
+    "rating": 7.782692909240723,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/179/334/posters/thumb/3115318ef3.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/179/334/fanarts/medium/c8b6995587.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/179/334/logos/medium/1c42cd356a.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 157,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "5548",
+    "tmdbId": 5548,
+    "type": "movie",
+    "title": "RoboCop",
+    "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+    "year": "1987",
+    "rating": 7.6075029373168945,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/003/138/posters/thumb/6a201557e9.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/003/138/fanarts/medium/44126c82aa.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/003/138/logos/medium/874654701e.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10999",
+    "tmdbId": 10999,
+    "type": "movie",
+    "title": "Commando",
+    "overview": "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she's killed.",
+    "year": "1985",
+    "rating": 7.043247222900391,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/137/posters/thumb/aa5e4f89e7.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/137/fanarts/medium/00c262fde7.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/137/logos/medium/c17102de81.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2024",
+    "tmdbId": 2024,
+    "type": "movie",
+    "title": "The Patriot",
+    "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+    "year": "2000",
+    "rating": 7.519159317016602,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/385/posters/thumb/ea32b5d200.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/385/fanarts/medium/4049a23f45.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/385/logos/medium/9a04904b37.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1885",
+    "tmdbId": 1885,
+    "type": "movie",
+    "title": "The Karate Kid",
+    "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+    "year": "1984",
+    "rating": 7.6752448081970215,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/261/posters/thumb/4daf0d959a.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/261/fanarts/medium/588708c052.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/261/logos/medium/ebaaa4d104.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "3131",
+    "tmdbId": 3131,
+    "type": "movie",
+    "title": "Gangs of New York",
+    "overview": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+    "year": "2002",
+    "rating": 7.563438892364502,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/002/100/posters/thumb/da0fc93d4f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/002/100/fanarts/medium/0686ed4ada.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/002/100/logos/medium/b4403a0ceb.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 168,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4929",
+    "tmdbId": 4929,
+    "type": "movie",
+    "title": "Hang 'em High",
+    "overview": "Marshall Jed Cooper survives a hanging, vowing revenge on the lynch mob that left him dangling. To carry out his oath for vengeance, he returns to his former job as a lawman. Before long, he's caught up with the nine men on his hit list and starts dispensing his own brand of Wild West justice.",
+    "year": "1968",
+    "rating": 7.168564796447754,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/002/864/posters/thumb/02a0590af7.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/002/864/fanarts/medium/74d0a92368.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/002/864/logos/medium/46ddd58587.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49026",
+    "tmdbId": 49026,
+    "type": "movie",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "year": "2012",
+    "rating": 8.307616233825684,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/034/073/posters/thumb/0146361178.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/034/073/fanarts/medium/aa4bf8bc5e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/034/073/logos/medium/f495187ee4.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1598",
+    "tmdbId": 1598,
+    "type": "movie",
+    "title": "Cape Fear",
+    "overview": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
+    "year": "1991",
+    "rating": 7.389501571655273,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/053/posters/thumb/04538f17d7.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/053/fanarts/medium/1ea2338255.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/053/logos/medium/31967dbe76.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9342",
+    "tmdbId": 9342,
+    "type": "movie",
+    "title": "The Mask of Zorro",
+    "overview": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",
+    "year": "1998",
+    "rating": 7.052753925323486,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/635/posters/thumb/10387d5f1c.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/635/fanarts/medium/7b0bfcd8b1.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/635/logos/medium/ef2c9363af.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9361",
+    "tmdbId": 9361,
+    "type": "movie",
+    "title": "The Last of the Mohicans",
+    "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+    "year": "1992",
+    "rating": 7.628901958465576,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/653/posters/thumb/b19d0c1634.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/653/fanarts/medium/b86a8b2e99.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/653/logos/medium/e193cd4a61.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "History",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10222",
+    "tmdbId": 10222,
+    "type": "movie",
+    "title": "Kickboxer",
+    "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
+    "year": "1989",
+    "rating": 6.958932399749756,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/434/posters/thumb/72903df3df.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/434/fanarts/medium/84966cf0ee.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/434/logos/medium/93a4a2b5dd.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1367",
+    "tmdbId": 1367,
+    "type": "movie",
+    "title": "Rocky II",
+    "overview": "After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can't put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the \"Master of Disaster\" and the \"Italian Stallion\" are set on a collision course for a climactic battle that is brutal and unforgettable.",
+    "year": "1979",
+    "rating": 7.688897132873535,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/906/posters/thumb/56fcb0ffb8.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/906/fanarts/medium/5a5dfb7b04.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/906/logos/medium/23bcbf1422.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77",
+    "tmdbId": 77,
+    "type": "movie",
+    "title": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "year": "2000",
+    "rating": 8.385087966918945,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/047/posters/thumb/45d6e27ad3.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/047/fanarts/medium/2b4d79c785.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/047/logos/medium/75c8f2628e.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "161",
+    "tmdbId": 161,
+    "type": "movie",
+    "title": "Ocean's Eleven",
+    "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+    "year": "2001",
+    "rating": 7.982374668121338,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/126/posters/thumb/cb87f89b9e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/126/fanarts/medium/2b9ca68018.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/126/logos/medium/4e0bfc2abd.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "187",
+    "tmdbId": 187,
+    "type": "movie",
+    "title": "Sin City",
+    "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+    "year": "2005",
+    "rating": 7.729071140289307,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/151/posters/thumb/3b8a032830.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/151/fanarts/medium/e2f4318f55.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/151/logos/medium/ff95eeb6ab.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "299534",
+    "tmdbId": 299534,
+    "type": "movie",
+    "title": "Avengers: Endgame",
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "year": "2019",
+    "rating": 8.623744010925293,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/191/798/posters/thumb/a286884585.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/191/798/fanarts/medium/73766a5655.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/191/798/logos/medium/0335f659b3.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 181,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "335",
+    "tmdbId": 335,
+    "type": "movie",
+    "title": "Once Upon a Time in the West",
+    "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+    "year": "1968",
+    "rating": 8.235105514526367,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/282/posters/thumb/e367d74e5e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/282/fanarts/medium/288715b638.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/282/logos/medium/b6677cdf18.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 166,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "819",
+    "tmdbId": 819,
+    "type": "movie",
+    "title": "Sleepers",
+    "overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
+    "year": "1996",
+    "rating": 7.877913951873779,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/662/posters/thumb/5b0d3dbbed.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/662/fanarts/medium/04afbd5aa1.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/662/logos/medium/e8b6086ecd.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 147,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9654",
+    "tmdbId": 9654,
+    "type": "movie",
+    "title": "The Italian Job",
+    "overview": "Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.",
+    "year": "2003",
+    "rating": 7.377215385437012,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/929/posters/thumb/ed243f74f9.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/929/fanarts/medium/8421013191.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/929/logos/medium/9897f486b6.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "154",
+    "tmdbId": 154,
+    "type": "movie",
+    "title": "Star Trek II: The Wrath of Khan",
+    "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+    "year": "1982",
+    "rating": 7.815971374511719,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/119/posters/thumb/5d36bf9210.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/119/fanarts/medium/2a56d9ac12.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/119/logos/medium/1d09c0df06.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9277",
+    "tmdbId": 9277,
+    "type": "movie",
+    "title": "The Sting",
+    "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+    "year": "1973",
+    "rating": 8.221481323242188,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/577/posters/thumb/e114888619.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/577/fanarts/medium/ec9a60afdb.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/577/logos/medium/8ce52ee0f0.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11358",
+    "tmdbId": 11358,
+    "type": "movie",
+    "title": "Walking Tall",
+    "overview": "A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.",
+    "year": "2004",
+    "rating": 6.613834857940674,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/454/posters/thumb/90bbeff22c.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/454/fanarts/medium/d1eb3dbf62.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/454/logos/medium/f90884eda8.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "240832",
+    "tmdbId": 240832,
+    "type": "movie",
+    "title": "Lucy",
+    "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "year": "2014",
+    "rating": 6.916510581970215,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/146/856/posters/thumb/b472839702.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/146/856/fanarts/medium/752f1e63d9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/146/856/logos/medium/4427cb747c.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1957",
+    "tmdbId": 1957,
+    "type": "movie",
+    "title": "Enough",
+    "overview": "Working-class waitress Slim thought she was entering a life of domestic bliss when she married Mitch, the man of her dreams. After the arrival of their first child, her picture perfect life is shattered when she discovers Mitch's hidden possessive dark side, a controlling and abusive alter ego that can turn trust, love and tranquility into terror. Terrified for her child's safety, Slim flees with her daughter. Relentless in his pursuit and enlisting the aid of lethal henchmen, Mitch continually stalks the prey that was once his family.",
+    "year": "2002",
+    "rating": 7.055389404296875,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/326/posters/thumb/18df88c958.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/326/fanarts/medium/2fdb7f1421.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/326/logos/medium/1909514f0d.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "438650",
+    "tmdbId": 438650,
+    "type": "movie",
+    "title": "Cold Pursuit",
+    "overview": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+    "year": "2019",
+    "rating": 6.479176998138428,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/284/803/posters/thumb/a58d4e1967.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/284/803/fanarts/medium/5394a34228.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/284/803/logos/medium/d97e403949.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78",
+    "tmdbId": 78,
+    "type": "movie",
+    "title": "Blade Runner",
+    "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+    "year": "1982",
+    "rating": 7.974480152130127,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/048/posters/thumb/2f98dfeefe.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/048/fanarts/medium/df0f222c5a.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/048/logos/medium/5ebce57574.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75656",
+    "tmdbId": 75656,
+    "type": "movie",
+    "title": "Now You See Me",
+    "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+    "year": "2013",
+    "rating": 7.692707538604736,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/055/786/posters/thumb/c4886aa532.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/055/786/fanarts/medium/dd04c771f6.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/055/786/logos/medium/65a6361cea.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12106",
+    "tmdbId": 12106,
+    "type": "movie",
+    "title": "The Quick and the Dead",
+    "overview": "A mysterious woman comes to compete in a quick-draw elimination tournament, in a town taken over by a notorious gunman.",
+    "year": "1995",
+    "rating": 6.819159507751465,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/024/posters/thumb/1d08709a59.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/024/fanarts/medium/cdba6e0581.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/024/logos/medium/17fad7ea9d.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9556",
+    "tmdbId": 9556,
+    "type": "movie",
+    "title": "Darkman",
+    "overview": "Dr. Peyton Westlake is on the verge of realizing a major breakthrough in synthetic skin when his laboratory is destroyed by gangsters. Having been burned beyond recognition and forever altered by an experimental medical procedure, Westlake becomes known as Darkman, assuming alternate identities in his quest for revenge and a new life with a former love.",
+    "year": "1990",
+    "rating": 6.5799031257629395,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/834/posters/thumb/93c60f641c.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/834/fanarts/medium/11f198dcd9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/834/logos/medium/b4b7ac0d59.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "65754",
+    "tmdbId": 65754,
+    "type": "movie",
+    "title": "The Girl with the Dragon Tattoo",
+    "overview": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+    "year": "2011",
+    "rating": 7.77244234085083,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/047/598/posters/thumb/513387b168.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/047/598/fanarts/medium/197a2c71bc.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/047/598/logos/medium/997d164833.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 158,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "25473",
+    "tmdbId": 25473,
+    "type": "movie",
+    "title": "Walking Tall",
+    "overview": "Ex-wrestler and Tennessee Sheriff Buford Pusser walks tall and carries a big stick as he tussles with county-wide corruption and moonshining thugs.",
+    "year": "1973",
+    "rating": 6.9708333015441895,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/015/386/posters/thumb/df0e99468f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/015/386/fanarts/medium/784a864dc1.jpg.webp",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "186",
+    "tmdbId": 186,
+    "type": "movie",
+    "title": "Lucky Number Slevin",
+    "overview": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+    "year": "2006",
+    "rating": 7.774778842926025,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/150/posters/thumb/888ac142ac.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/150/fanarts/medium/6c9e9fdd33.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/150/logos/medium/21cb0cfd17.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9359",
+    "tmdbId": 9359,
+    "type": "movie",
+    "title": "Maverick",
+    "overview": "Bret Maverick is a gambler who would rather con someone than fight them, and needs an additional $3k in order to enter a winner-takes-all poker game beginning in a few days. He joins forces with a woman with a marvelous Southern accent, and the two try and enter the game.",
+    "year": "1994",
+    "rating": 7.273316860198975,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/651/posters/thumb/564a972e8d.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/651/fanarts/medium/4b04213b4d.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/651/logos/medium/563809ad19.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "629",
+    "tmdbId": 629,
+    "type": "movie",
+    "title": "The Usual Suspects",
+    "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+    "year": "1995",
+    "rating": 8.429611206054688,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/505/posters/thumb/e21295d3f6.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/505/fanarts/medium/16013c0329.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/505/logos/medium/f0cf882b67.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "994",
+    "tmdbId": 994,
+    "type": "movie",
+    "title": "Straw Dogs",
+    "overview": "David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate.",
+    "year": "1971",
+    "rating": 7.125189781188965,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/824/posters/thumb/46630696ca.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/824/fanarts/medium/e3035b02a3.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/824/logos/medium/010f0468fd.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "43947",
+    "tmdbId": 43947,
+    "type": "movie",
+    "title": "I Spit on Your Grave",
+    "overview": "A beautiful woman from the city, Jennifer Hills, rents an isolated cabin in the country to write her latest novel. Soon, a group of local lowlifes subject her to a nightmare of degradation, rape, and violence.",
+    "year": "2010",
+    "rating": 6.736281394958496,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/029/693/posters/thumb/1de3f533e8.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/029/693/fanarts/medium/054a6d2921.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/029/693/logos/medium/97c3c6e1f4.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4824",
+    "tmdbId": 4824,
+    "type": "movie",
+    "title": "The Jackal",
+    "overview": "Hired by a powerful member of the Russian mafia to avenge an FBI sting that left his brother dead, a psychopathic hitman known only as The Jackal proves an elusive target for the people charged with the task of bringing him down: a deputy FBI director, a Russian MVK Major,  and a jailed IRA terrorist who can recognize him.",
+    "year": "1997",
+    "rating": 6.8514404296875,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/002/813/posters/thumb/e76286d09b.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/002/813/fanarts/medium/fb79d680c5.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/002/813/logos/medium/1c9efabaac.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10650",
+    "tmdbId": 10650,
+    "type": "movie",
+    "title": "Sudden Impact",
+    "overview": "When a young rape victim takes justice into her own hands and becomes a serial killer, it's up to Dirty Harry Callahan, on suspension from the SFPD, to bring her to justice.",
+    "year": "1983",
+    "rating": 6.829850673675537,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/824/posters/thumb/25389adbd9.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/824/fanarts/medium/6103353009.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/824/logos/medium/f775be7f0d.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "76341",
+    "tmdbId": 76341,
+    "type": "movie",
+    "title": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "year": "2015",
+    "rating": 8.08146858215332,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/056/360/posters/thumb/81486c7fea.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/056/360/fanarts/medium/9fa7570f17.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/056/360/logos/medium/3f245a3882.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "379149",
+    "tmdbId": 379149,
+    "type": "movie",
+    "title": "The Foreigner",
+    "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+    "year": "2017",
+    "rating": 7.336975574493408,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/225/520/posters/thumb/b495282add.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/225/520/fanarts/medium/f255083621.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/225/520/logos/medium/9ba0efb354.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18405",
+    "tmdbId": 18405,
+    "type": "movie",
+    "title": "The Last House on the Left",
+    "overview": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
+    "year": "2009",
+    "rating": 6.680137634277344,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/011/260/posters/thumb/e7ee86c317.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/011/260/fanarts/medium/026b5e0283.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/011/260/logos/medium/78cb683ed0.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12444",
+    "tmdbId": 12444,
+    "type": "movie",
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "year": "2010",
+    "rating": 8.084124565124512,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/228/posters/thumb/92a397b497.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/228/fanarts/medium/d8001102b3.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/228/logos/medium/9026a0867f.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "41283",
+    "tmdbId": 41283,
+    "type": "movie",
+    "title": "Faster",
+    "overview": "After 10 years in prison, Driver is now a free man with a single focus - hunting down the people responsible for brutally murdering his brother.",
+    "year": "2010",
+    "rating": 6.58388090133667,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/027/285/posters/thumb/40a66e3079.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/027/285/fanarts/medium/8ad8533c26.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/027/285/logos/medium/f5f18836b8.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1250",
+    "tmdbId": 1250,
+    "type": "movie",
+    "title": "Ghost Rider",
+    "overview": "In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.",
+    "year": "2007",
+    "rating": 5.977502346038818,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/866/posters/thumb/dca7751cdd.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/866/fanarts/medium/e3054bad95.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/866/logos/medium/1eeb006bab.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10431",
+    "tmdbId": 10431,
+    "type": "movie",
+    "title": "War",
+    "overview": "FBI agent Jack Crawford is out for revenge when his partner is killed and all clues point to the mysterious assassin Rogue. But when Rogue turns up years later to take care of some unfinished business, he triggers a violent clash of rival gangs. Will the truth come out before it's too late? And when the dust settles, who will remain standing?",
+    "year": "2007",
+    "rating": 6.498566627502441,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/623/posters/thumb/63b9882f67.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/623/fanarts/medium/8cb8bdba12.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/623/logos/medium/81c5d7cb19.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4147",
+    "tmdbId": 4147,
+    "type": "movie",
+    "title": "Road to Perdition",
+    "overview": "Mike Sullivan works as a hit man for crime boss John Rooney. Sullivan views Rooney as a father figure, however after his son is witness to a killing, Mike Sullivan finds himself on the run in attempt to save the life of his son and at the same time looking for revenge on those who wronged him.",
+    "year": "2002",
+    "rating": 7.576778888702393,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/002/439/posters/thumb/7a0157f55b.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/002/439/fanarts/medium/41882f0fcc.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/002/439/logos/medium/f00cc34251.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "467938",
+    "tmdbId": 467938,
+    "type": "movie",
+    "title": "Revenge",
+    "overview": "Jen's romantic getaway with her wealthy married boyfriend is disrupted when his friends arrive for an impromptu hunting trip. Tension mounts at the house until the situation culminates in an unexpected way.",
+    "year": "2017",
+    "rating": 6.573889255523682,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/315/159/posters/thumb/3917a63579.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/315/159/fanarts/medium/f8975566cb.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/315/159/logos/medium/71f501aa9b.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1124",
+    "tmdbId": 1124,
+    "type": "movie",
+    "title": "The Prestige",
+    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "year": "2006",
+    "rating": 8.524548530578613,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/851/posters/thumb/552a055be5.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/851/fanarts/medium/55323313e2.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/851/logos/medium/3973126fa5.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9387",
+    "tmdbId": 9387,
+    "type": "movie",
+    "title": "Conan the Barbarian",
+    "overview": "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+    "year": "1982",
+    "rating": 7.079681873321533,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/676/posters/thumb/7b677e58bf.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/676/fanarts/medium/2bef406a99.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/676/logos/medium/11bf40856b.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "345887",
+    "tmdbId": 345887,
+    "type": "movie",
+    "title": "The Equalizer 2",
+    "overview": "Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when his former partner is murdered.",
+    "year": "2018",
+    "rating": 7.372575759887695,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/225/136/posters/thumb/50996d38f5.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/225/136/fanarts/medium/15ae476183.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/225/136/logos/medium/8543aeccf1.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24",
+    "tmdbId": 24,
+    "type": "movie",
+    "title": "Kill Bill: Vol. 1",
+    "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "year": "2003",
+    "rating": 8.212213516235352,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/019/posters/thumb/b6d3bdc572.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/019/fanarts/medium/7197b33f85.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/019/logos/medium/032ac20730.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "393",
+    "tmdbId": 393,
+    "type": "movie",
+    "title": "Kill Bill: Vol. 2",
+    "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+    "year": "2004",
+    "rating": 8.1159029006958,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/313/posters/thumb/72679efccf.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/313/fanarts/medium/5c20f0bfc3.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/313/logos/medium/c30cde4241.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "612",
+    "tmdbId": 612,
+    "type": "movie",
+    "title": "Munich",
+    "overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+    "year": "2005",
+    "rating": 7.313002586364746,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/488/posters/thumb/d281fd4275.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/488/fanarts/medium/3fbef24abf.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/488/logos/medium/f0a0dbdc05.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 164,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "322",
+    "tmdbId": 322,
+    "type": "movie",
+    "title": "Mystic River",
+    "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+    "year": "2003",
+    "rating": 7.877280235290527,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/273/posters/thumb/067bd8fc12.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/273/fanarts/medium/6660a40139.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/273/logos/medium/6de1e3920f.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1542",
+    "tmdbId": 1542,
+    "type": "movie",
+    "title": "Office Space",
+    "overview": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+    "year": "1999",
+    "rating": 7.931605815887451,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/002/posters/thumb/e9bd551d53.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/002/fanarts/medium/bf0b37594e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/002/logos/medium/86b44d057f.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "531503",
+    "tmdbId": 531503,
+    "type": "movie",
+    "title": "Point Blank",
+    "overview": "A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.",
+    "year": "2019",
+    "rating": 6.491620063781738,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/383/448/posters/thumb/1c6f87362d.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/383/448/fanarts/medium/22c342a1a1.jpg.webp",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11157",
+    "tmdbId": 11157,
+    "type": "movie",
+    "title": "She-Devil",
+    "overview": "A cunning and resourceful housewife vows revenge on her husband when he begins an affair with a wealthy romance novelist.",
+    "year": "1989",
+    "rating": 6.631083011627197,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/285/posters/thumb/877dfcba20.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/285/fanarts/medium/7f727fd1ab.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/285/logos/medium/d685051ec8.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11835",
+    "tmdbId": 11835,
+    "type": "movie",
+    "title": "Death Sentence",
+    "overview": "Nick Hume is a mild-mannered executive with a perfect life, until one gruesome night he witnesses something that changes him forever. Transformed by grief, Hume eventually comes to the disturbing conclusion that no length is too great when protecting his family.",
+    "year": "2007",
+    "rating": 6.833700656890869,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/858/posters/thumb/e41d125171.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/858/fanarts/medium/9a59c2cac7.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/858/logos/medium/3e24def245.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79",
+    "tmdbId": 79,
+    "type": "movie",
+    "title": "Hero",
+    "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+    "year": "2002",
+    "rating": 7.707262992858887,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/049/posters/thumb/a26c2310e5.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/049/fanarts/medium/4d236d4abf.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/049/logos/medium/9e11d27f36.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "458594",
+    "tmdbId": 458594,
+    "type": "movie",
+    "title": "Peppermint",
+    "overview": "A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.",
+    "year": "2018",
+    "rating": 7.161560535430908,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/305/444/posters/thumb/9963c6b10a.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/305/444/fanarts/medium/529c6d71ea.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/305/444/logos/medium/6fc2ea6f10.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "359940",
+    "tmdbId": 359940,
+    "type": "movie",
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+    "year": "2017",
+    "rating": 8.043590545654297,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/266/092/posters/thumb/4913f0b764.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/266/092/fanarts/medium/68306153e6.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/266/092/logos/medium/04d37c37fb.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49797",
+    "tmdbId": 49797,
+    "type": "movie",
+    "title": "I Saw the Devil",
+    "overview": "Kyung-chul is a dangerous psychopath who kills for pleasure. Soo-hyeon, a top-secret agent, decides to track down the murderer himself. He promises himself that he will do everything in his power to take vengeance against the killer, even if it means that he must become a monster himself.",
+    "year": "2010",
+    "rating": 7.950023174285889,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/034/728/posters/thumb/1118aa6eaf.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/034/728/fanarts/medium/264ba7fa77.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/034/728/logos/medium/fefada9502.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 144,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "51540",
+    "tmdbId": 51540,
+    "type": "movie",
+    "title": "Horrible Bosses",
+    "overview": "For Nick, Kurt and Dale, the only thing that would make the daily grind more tolerable would be to grind their intolerable bosses into dust. Quitting is not an option, so, with the benefit of a few-too-many drinks and some dubious advice from a hustling ex-con, the three friends devise a convoluted and seemingly foolproof plan to rid themselves of their respective employers... permanently.",
+    "year": "2011",
+    "rating": 7.017120361328125,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/036/171/posters/thumb/2de31b1257.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/036/171/fanarts/medium/5204a46b91.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/036/171/logos/medium/2cd12545ab.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "279",
+    "tmdbId": 279,
+    "type": "movie",
+    "title": "Amadeus",
+    "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+    "year": "1984",
+    "rating": 8.210006713867188,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/235/posters/thumb/9806fbef15.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/235/fanarts/medium/63fac46cf4.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/235/logos/medium/4dcf0ae268.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 160,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12201",
+    "tmdbId": 12201,
+    "type": "movie",
+    "title": "Edge of Darkness",
+    "overview": "As a seasoned homicide detective, Thomas Craven has seen the bleakest side of humanity. But nothing prepares him for the toughest investigation of his life: the search for his only daughter Emma's killer. Now, he is on a personal mission to uncover the disturbing secrets surrounding her murder, including corporate corruption, government collusion and Emma's own mysterious life.",
+    "year": "2010",
+    "rating": 6.708425045013428,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/109/posters/thumb/ac93bb5caf.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/109/fanarts/medium/9457d6a5ba.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/109/logos/medium/8f2e6bf89a.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "272",
+    "tmdbId": 272,
+    "type": "movie",
+    "title": "Batman Begins",
+    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "year": "2005",
+    "rating": 8.242250442504883,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/228/posters/thumb/1ea2a2116d.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/228/fanarts/medium/b1d4b1b065.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/228/logos/medium/8ca8184cb6.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "847153",
+    "tmdbId": 847153,
+    "type": "movie",
+    "title": "Crime Story",
+    "overview": "When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.",
+    "year": "2021",
+    "rating": 5.073770523071289,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/676/676/posters/thumb/113bd2330e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/676/676/fanarts/medium/d7d345ab4f.jpg.webp",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4413",
+    "tmdbId": 4413,
+    "type": "movie",
+    "title": "The Brave One",
+    "overview": "A woman struggles to recover from a brutal attack by setting out on a mission for revenge.",
+    "year": "2007",
+    "rating": 6.8560991287231445,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/002/587/posters/thumb/ed14f7a8d6.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/002/587/fanarts/medium/cd7c15cf58.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/002/587/logos/medium/ea10851bd1.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "23847",
+    "tmdbId": 23847,
+    "type": "movie",
+    "title": "Across 110th Street",
+    "overview": "In a daring robbery, some $300,000 is taken from the Italian mob. Several mafiosi are killed, as are two policemen. Lt. Pope and Capt. Mattelli are two New York City cops trying to break the case. Three small-time criminals are on the run with the money. Will the mafia catch them first, or will the police?",
+    "year": "1972",
+    "rating": 7.12252950668335,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/014/330/posters/thumb/9d73c9329d.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/014/330/fanarts/medium/dc90140542.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/014/330/logos/medium/1a5f818f29.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11075",
+    "tmdbId": 11075,
+    "type": "movie",
+    "title": "Audition",
+    "overview": "Seven years after the death of his wife, widower Shigeharu seeks advice on how to find a new wife from a colleague. Taking advantage of their position as a film company, they stage an audition. Interviewing a series of women, Shigeharu is enchanted by the quiet Asami. But soon things take a twisted turn as Asami isn’t what she seems to be.",
+    "year": "2000",
+    "rating": 7.083172798156738,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/212/posters/thumb/15df5575c6.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/212/fanarts/medium/e818666b88.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/212/logos/medium/2168cc2f42.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14537",
+    "tmdbId": 14537,
+    "type": "movie",
+    "title": "Harakiri",
+    "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
+    "year": "1962",
+    "rating": 8.59117603302002,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/008/754/posters/thumb/18ca5976ce.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/008/754/fanarts/medium/f7399d0898.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/008/754/logos/medium/7c9c2e95d9.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18892",
+    "tmdbId": 18892,
+    "type": "movie",
+    "title": "Jawbreaker",
+    "overview": "When an exclusive clique of teenage socialites accidentally murder their best friend on the morning of her birthday, the three girls responsible conspire to hide the truth.",
+    "year": "1999",
+    "rating": 6.4773359298706055,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/011/607/posters/thumb/8fbd292020.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/011/607/fanarts/medium/7b9ea66ff9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/011/607/logos/medium/160e39c07c.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "27632",
+    "tmdbId": 27632,
+    "type": "movie",
+    "title": "Black Sunday",
+    "overview": "A vengeful witch, Asa Vajda, and her fiendish servant, Igor Jauvitch, return from the grave and begin a bloody campaign to possess the body of the witch's beautiful look-alike descendant: Katia. Only a handsome doctor with the help of family members stand in her way.",
+    "year": "1960",
+    "rating": 6.978758335113525,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/017/032/posters/thumb/644fc30599.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/017/032/fanarts/medium/8cd52ef970.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/017/032/logos/medium/ba33ee9337.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11705",
+    "tmdbId": 11705,
+    "type": "movie",
+    "title": "Red Road",
+    "overview": "Jackie is a CCTV operator. One day, a man shows his face on her monitor, a man she hoped never to see again. Now she has no choice and is compelled to confront him.",
+    "year": "2006",
+    "rating": 6.72053861618042,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/777/posters/thumb/95db3470af.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/777/fanarts/medium/b058b29ed1.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/777/logos/medium/508d83b9eb.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "DK"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14249",
+    "tmdbId": 14249,
+    "type": "movie",
+    "title": "Revenge",
+    "overview": "Michael ‘Jay’ Cochran has just left the Navy after 12 years and he's not quite sure what he's going to do, except that he knows he wants a holiday. He decides to visit Tiburon Mendez, a powerful but shady Mexican businessman who he once flew to Alaska for a hunting trip. Arriving at the Mendez mansion in Mexico, he is immediately surprised by the beauty and youth of Mendez’s wife, Miryea.",
+    "year": "1990",
+    "rating": 6.384740352630615,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/008/548/posters/thumb/5b76f0c06b.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/008/548/fanarts/medium/a7bfd8662d.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/008/548/logos/medium/36fdb1a469.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "19067",
+    "tmdbId": 19067,
+    "type": "movie",
+    "title": "The Duellists",
+    "overview": "In 1800, as Napoleon Bonaparte rises to power in France, a rivalry erupts between Armand and Gabriel, two lieutenants in the French Army, over a perceived insult. For over a decade, they engage in a series of duels amidst larger conflicts, including the failed French invasion of Russia in 1812, and shifts in the political and social systems of Europe.",
+    "year": "1977",
+    "rating": 7.15477991104126,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/011/734/posters/thumb/7c3acec32c.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/011/734/fanarts/medium/266732318e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/011/734/logos/medium/84e17a8cae.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "204082",
+    "tmdbId": 204082,
+    "type": "movie",
+    "title": "Homefront",
+    "overview": "Phil Broker, a retired DEA agent, leads a quiet life with his daughter Maddy, until a school bullying incident draws them into a conflict with Morgan “Gator” Bodine, a local crime boss.",
+    "year": "2013",
+    "rating": 7.048912048339844,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/127/023/posters/thumb/e5600df720.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/127/023/fanarts/medium/1640473783.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/127/023/logos/medium/c6d1e22fde.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "146233",
+    "tmdbId": 146233,
+    "type": "movie",
+    "title": "Prisoners",
+    "overview": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.",
+    "year": "2013",
+    "rating": 8.34643268585205,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/096/797/posters/thumb/d7557cd1ae.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/096/797/fanarts/medium/bafbbf6f44.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/096/797/logos/medium/72895a2a78.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 153,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10461",
+    "tmdbId": 10461,
+    "type": "movie",
+    "title": "Get Carter",
+    "overview": "Jack Carter, a mob enforcer living in Las Vegas, travels back to his hometown of Seattle for his brother's funeral. During this visit, Carter realizes that the death of his brother was not accidental, but a murder. With this knowledge, Carter sets out to kill all those responsible.",
+    "year": "2000",
+    "rating": 5.773584842681885,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/645/posters/thumb/a758a0b0cc.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/645/fanarts/medium/56279fd418.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/645/logos/medium/8dfbf70c25.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "97430",
+    "tmdbId": 97430,
+    "type": "movie",
+    "title": "The Man with the Iron Fists",
+    "overview": "In feudal China, a blacksmith who makes weapons for a small village is put in the position where he must defend himself and his fellow villagers.",
+    "year": "2012",
+    "rating": 5.863968849182129,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/070/784/posters/thumb/70cf0241e0.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/070/784/fanarts/medium/87cb838b5e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/070/784/logos/medium/c5bf005e91.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Action",
+    "secondaryGenre": "",
+    "originCountries": [
+      "HK"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "188166",
+    "tmdbId": 188166,
+    "type": "movie",
+    "title": "Blue Ruin",
+    "overview": "When the quiet life of a beach bum is upended by dreadful news, he sets off for his childhood home to carry out an act of vengeance. However, he proves an inept assassin and finds himself in a brutal fight to protect his estranged family.",
+    "year": "2014",
+    "rating": 6.998117923736572,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/117/788/posters/thumb/c3dca62b07.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/117/788/fanarts/medium/82a0bea8a1.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/117/788/logos/medium/a86911b55c.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "484247",
+    "tmdbId": 484247,
+    "type": "movie",
+    "title": "A Simple Favor",
+    "overview": "Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.",
+    "year": "2018",
+    "rating": 7.29355001449585,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/331/407/posters/thumb/d7aa3344e0.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/331/407/fanarts/medium/9918f7de52.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/331/407/logos/medium/ab03d3e594.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "23631",
+    "tmdbId": 23631,
+    "type": "movie",
+    "title": "Machete",
+    "overview": "After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.",
+    "year": "2010",
+    "rating": 6.672618865966797,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/014/236/posters/thumb/9701fd843b.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/014/236/fanarts/medium/fbda3f888d.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/014/236/logos/medium/a6a64256bc.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "265195",
+    "tmdbId": 265195,
+    "type": "movie",
+    "title": "Wild Tales",
+    "overview": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
+    "year": "2014",
+    "rating": 8.03885269165039,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/163/869/posters/thumb/4589f07b3c.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/163/869/fanarts/medium/c213dcac77.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/163/869/logos/medium/e5c0ab33e8.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "87516",
+    "tmdbId": 87516,
+    "type": "movie",
+    "title": "Oldboy",
+    "overview": "A man has only three and a half days and limited resources to discover why he was imprisoned in a nondescript room for 20 years without any explanation.",
+    "year": "2013",
+    "rating": 6.307648658752441,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/065/762/posters/thumb/6e98539c70.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/065/762/fanarts/medium/310fcf1057.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/065/762/logos/medium/0fc105c50c.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "302528",
+    "tmdbId": 302528,
+    "type": "movie",
+    "title": "Remember",
+    "overview": "With the aid of a fellow Auschwitz survivor and a hand-written letter, an elderly man with dementia goes in search of the person responsible for the death of his family.",
+    "year": "2015",
+    "rating": 7.204322338104248,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/223/772/posters/thumb/02a6c82db4.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/223/772/fanarts/medium/41f64228a9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/223/772/logos/medium/c0a2c7a3a9.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "500664",
+    "tmdbId": 500664,
+    "type": "movie",
+    "title": "Upgrade",
+    "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
+    "year": "2018",
+    "rating": 7.610518455505371,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/347/587/posters/thumb/13a48e742f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/347/587/fanarts/medium/c739f9d67e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/347/587/logos/medium/83063ef9f6.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "290098",
+    "tmdbId": 290098,
+    "type": "movie",
+    "title": "The Handmaiden",
+    "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+    "year": "2016",
+    "rating": 8.347610473632812,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/187/026/posters/thumb/a6705a4db6.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/187/026/fanarts/medium/c2cd32d1f8.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/187/026/logos/medium/a29c28981c.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 145,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12877",
+    "tmdbId": 12877,
+    "type": "movie",
+    "title": "Dead Man's Shoes",
+    "overview": "A soldier returns to his small town and exacts a deadly revenge on the thugs who tormented his disabled brother while he was away.",
+    "year": "2004",
+    "rating": 7.4418768882751465,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/552/posters/thumb/182cda4680.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/552/fanarts/medium/d988ccf9a9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/552/logos/medium/5f41e351e7.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "253450",
+    "tmdbId": 253450,
+    "type": "movie",
+    "title": "The Assassin",
+    "overview": "9th century China. Ten year old general’s daughter Nie Yinniang is abducted by a nun who initiates her into the martial arts, transforming her into an exceptional assassin charged with eliminating cruel and corrupt local governors. One day, having failed in a task, she is sent back by her mistress to the land of her birth, with orders to kill the man to whom she was promised – a cousin who now leads the largest military region in North China. After 13 years of exile, the young woman must confront her parents, her memories and her long-repressed feelings.",
+    "year": "2015",
+    "rating": 5.9712042808532715,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/153/997/posters/thumb/770188dc01.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/153/997/fanarts/medium/b7291b99e1.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/153/997/logos/medium/10c91aec99.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "TW"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "328425",
+    "tmdbId": 328425,
+    "type": "movie",
+    "title": "The Gift",
+    "overview": "Simon and Robyn are a young married couple whose life is going as planned until a chance run-in with Simon's high school acquaintance sends their world into a tailspin.",
+    "year": "2015",
+    "rating": 6.986245155334473,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/209/322/posters/thumb/13105020b9.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/209/322/fanarts/medium/2e7bda898e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/209/322/logos/medium/1371747796.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "423646",
+    "tmdbId": 423646,
+    "type": "movie",
+    "title": "In the Fade",
+    "overview": "Katja's life collapses after the deaths of her husband and son in a bomb attack. After a time of mourning and injustice, Katja seeks revenge.",
+    "year": "2017",
+    "rating": 6.945669174194336,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/268/912/posters/thumb/39de05aa04.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/268/912/fanarts/medium/0a78f828dd.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/268/912/logos/medium/8ada6957a2.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "460885",
+    "tmdbId": 460885,
+    "type": "movie",
+    "title": "Mandy",
+    "overview": "The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.",
+    "year": "2018",
+    "rating": 6.426895618438721,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/308/070/posters/thumb/50a7f41101.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/308/070/fanarts/medium/6175e4648f.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/308/070/logos/medium/fad3408e78.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "398181",
+    "tmdbId": 398181,
+    "type": "movie",
+    "title": "You Were Never Really Here",
+    "overview": "A traumatized veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, Joe's nightmares overtake him as a conspiracy is uncovered—leading to what may be his death trip or his awakening.",
+    "year": "2017",
+    "rating": 6.592040538787842,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/241/168/posters/thumb/8fccaf6c91.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/241/168/fanarts/medium/ff1923bd31.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/241/168/logos/medium/801737e0f9.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "567973",
+    "tmdbId": 567973,
+    "type": "movie",
+    "title": "Furie",
+    "overview": "When a little girl is kidnapped by a trafficking ring, they soon find they messed with the wrong child. Her mother, a notorious former gang leader, is close on their trail and will go to any lengths to bring her child home.",
+    "year": "2019",
+    "rating": 6.651115417480469,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/419/507/posters/thumb/11a01a4249.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/419/507/fanarts/medium/9ca1fde998.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/419/507/logos/medium/189dacf2a7.png.webp",
+    "certificate": "NC-17",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "VN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "534490",
+    "tmdbId": 534490,
+    "type": "movie",
+    "title": "Avengement",
+    "overview": "While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.",
+    "year": "2019",
+    "rating": 6.862514019012451,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/386/259/posters/thumb/3d1c0ab843.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/386/259/fanarts/medium/d328c02e1a.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/386/259/logos/medium/c700754d00.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "637649",
+    "tmdbId": 637649,
+    "type": "movie",
+    "title": "Wrath of Man",
+    "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+    "year": "2021",
+    "rating": 7.477369785308838,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/476/569/posters/thumb/a031694e91.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/476/569/fanarts/medium/f5c7acd753.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/476/569/logos/medium/94a2621408.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "500904",
+    "tmdbId": 500904,
+    "type": "movie",
+    "title": "A Vigilante",
+    "overview": "A once-abused woman devotes herself to ridding victims of their domestic abusers while hunting down the one she must kill to be truly free.",
+    "year": "2019",
+    "rating": 6.195676803588867,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/347/689/posters/thumb/17aa8bfd90.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/347/689/fanarts/medium/2b1a5b5361.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/347/689/logos/medium/d60431a699.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "106747",
+    "tmdbId": 106747,
+    "type": "movie",
+    "title": "Machete Kills",
+    "overview": "Ex-Federale agent Machete is recruited by the President of the United States for a mission which would be impossible for any mortal man – he must take down a madman revolutionary and an eccentric billionaire arms dealer who has hatched a plan to spread war and anarchy across the planet.",
+    "year": "2013",
+    "rating": 6.038234233856201,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/075/798/posters/thumb/e20ef10159.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/075/798/fanarts/medium/cb1ebdab49.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/075/798/logos/medium/3d1957933f.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10264",
+    "tmdbId": 10264,
+    "type": "movie",
+    "title": "Hamlet",
+    "overview": "Hamlet, Prince of Denmark, finds out that his uncle Claudius killed his father to obtain the throne, and plans revenge.",
+    "year": "1990",
+    "rating": 6.607966423034668,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/472/posters/thumb/56a6f350a7.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/472/fanarts/medium/49bb9d56bc.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/472/logos/medium/baf2313cf3.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "513692",
+    "tmdbId": 513692,
+    "type": "movie",
+    "title": "Raging Fire",
+    "overview": "Cheung Sung-bong is a highly respected cop with a long history of success in dangerous cases. However, his past soon comes back to haunt him when a former protégé resurfaces, seeking revenge.",
+    "year": "2021",
+    "rating": 6.665610313415527,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/455/303/posters/thumb/f1bb136fd4.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/455/303/fanarts/medium/f31d53d660.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/455/303/logos/medium/d8df5c60c7.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "HK"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1485",
+    "tmdbId": 1485,
+    "type": "movie",
+    "title": "Get Carter",
+    "overview": "Jack Carter is a small-time hood working in London. When word reaches him of his brother's death, he travels to Newcastle to attend the funeral. Refusing to accept the police report of suicide, Carter seeks out his brother’s friends and acquaintances to learn who murdered his sibling and why.",
+    "year": "1971",
+    "rating": 7.074660778045654,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/980/posters/thumb/e75d0e0fe2.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/980/fanarts/medium/3341057960.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/980/logos/medium/699d2691c6.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "210577",
+    "tmdbId": 210577,
+    "type": "movie",
+    "title": "Gone Girl",
+    "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "year": "2014",
+    "rating": 8.18244457244873,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/130/355/posters/thumb/a0d5dc69fa.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/130/355/fanarts/medium/99eb3cdd9d.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/130/355/logos/medium/af6c742a4d.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 149,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "635",
+    "tmdbId": 635,
+    "type": "movie",
+    "title": "Angel Heart",
+    "overview": "A down-and-out Brooklyn detective is hired to track down a singer on an odyssey that will take him through the desperate streets of Harlem, the smoke-filled jazz clubs of New Orleans, and the swamps of Louisiana and its seedy underworld of voodoo.",
+    "year": "1987",
+    "rating": 7.169082164764404,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/511/posters/thumb/76d9088a02.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/511/fanarts/medium/ce501787ba.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/511/logos/medium/b31bef443f.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2652",
+    "tmdbId": 2652,
+    "type": "movie",
+    "title": "Hard Candy",
+    "overview": "Hayley’s a smart, charming teenage girl. Jeff’s a handsome, smooth fashion photographer. An Internet chat, a coffee shop meet-up, an impromptu fashion shoot back at Jeff’s place. Jeff thinks it’s his lucky night. He’s in for a surprise.",
+    "year": "2006",
+    "rating": 7.119389533996582,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/790/posters/thumb/fbce922ec5.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/790/fanarts/medium/c7bccde07f.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/790/logos/medium/26bc1e7282.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9293",
+    "tmdbId": 9293,
+    "type": "movie",
+    "title": "John Tucker Must Die",
+    "overview": "After discovering they are all dating the same same guy, three popular students from different cliques band together for revenge, so they enlist the help of a new gal in town and conspire to break the jerk's heart, while destroying his reputation.",
+    "year": "2006",
+    "rating": 6.555985927581787,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/593/posters/thumb/2d29b6b8f5.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/593/fanarts/medium/b035ee8df8.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/593/logos/medium/f19199125d.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "273248",
+    "tmdbId": 273248,
+    "type": "movie",
+    "title": "The Hateful Eight",
+    "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+    "year": "2015",
+    "rating": 7.86270809173584,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/171/149/posters/thumb/5ee55321d7.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/171/149/fanarts/medium/98f1d00112.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/171/149/logos/medium/5ad279c488.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 168,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9517",
+    "tmdbId": 9517,
+    "type": "movie",
+    "title": "Bully",
+    "overview": "A group of teenagers in South Florida enact a murder plot against their mutual bully, Bobby, who has emotionally, physically, and sexually abused them for years.",
+    "year": "2001",
+    "rating": 6.690587997436523,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/797/posters/thumb/469e36e630.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/797/fanarts/medium/8138ff7237.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/797/logos/medium/5d1ed42389.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13310",
+    "tmdbId": 13310,
+    "type": "movie",
+    "title": "Let the Right One In",
+    "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+    "year": "2008",
+    "rating": 7.650905609130859,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/812/posters/thumb/c0946e2a49.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/812/fanarts/medium/207a023742.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/812/logos/medium/e2e2807061.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "859",
+    "tmdbId": 859,
+    "type": "movie",
+    "title": "Dangerous Liaisons",
+    "overview": "In 18th century France, Marquise de Merteuil asks her ex-lover Vicomte de Valmont to seduce the future wife of another ex-lover of hers in return for one last night with her. Yet things don’t go as planned.",
+    "year": "1988",
+    "rating": 7.451137065887451,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/702/posters/thumb/0ed1a4dd5e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/702/fanarts/medium/865c49c4d3.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/702/logos/medium/34da32aace.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "119283",
+    "tmdbId": 119283,
+    "type": "movie",
+    "title": "Parker",
+    "overview": "A thief with a unique code of professional ethics is double-crossed by his crew and left for dead. Assuming a new disguise and forming an unlikely alliance with a woman on the inside, he looks to hijack the score of the crew's latest heist.",
+    "year": "2013",
+    "rating": 6.766767978668213,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/082/938/posters/thumb/dd8737866e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/082/938/fanarts/medium/55f7a99bee.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/082/938/logos/medium/5d546d348a.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "58857",
+    "tmdbId": 58857,
+    "type": "movie",
+    "title": "13 Assassins",
+    "overview": "A bravado period action film set at the end of Japan's feudal era in which a group of unemployed samurai are enlisted to bring down a sadistic lord and prevent him from ascending to the throne and plunging the country into a war-torn future.",
+    "year": "2010",
+    "rating": 7.555741310119629,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/042/136/posters/thumb/bc9284707f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/042/136/fanarts/medium/2a244c8e8d.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/042/136/logos/medium/b1b66323fc.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79688",
+    "tmdbId": 79688,
+    "type": "movie",
+    "title": "Joshua",
+    "overview": "A black soldier returns from fighting for the Union in the Civil War only to find out that his mother has been murdered by a gang of white thugs. He becomes a bounty hunter, determined to track down and kill the men who killed his mother.",
+    "year": "1976",
+    "rating": 4.800000190734863,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/059/234/posters/thumb/6ce9b01dc0.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/059/234/fanarts/medium/2fc9cd8e14.jpg.webp",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "397722",
+    "tmdbId": 397722,
+    "type": "movie",
+    "title": "Thoroughbreds",
+    "overview": "Lily and Amanda, two high school students living in suburban Connecticut, rekindle their unlikely friendship after years of drifting apart. Together, they devise a plan to kill Lily's abusive stepfather by hiring a lowlife drug dealer.",
+    "year": "2018",
+    "rating": 6.704695701599121,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/240/668/posters/thumb/74f16429ef.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/240/668/fanarts/medium/565dde928c.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/240/668/logos/medium/b3a6a185ef.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "615457",
+    "tmdbId": 615457,
+    "type": "movie",
+    "title": "Nobody",
+    "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+    "year": "2021",
+    "rating": 7.756613731384277,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/458/837/posters/thumb/abd4b17651.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/458/837/fanarts/medium/dd89331a01.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/458/837/logos/medium/b6a11db6ee.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "539537",
+    "tmdbId": 539537,
+    "type": "movie",
+    "title": "Fantasy Island",
+    "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+    "year": "2020",
+    "rating": 5.82863712310791,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/390/925/posters/thumb/d2cb204619.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/390/925/fanarts/medium/4201add589.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/390/925/logos/medium/7ff0118a72.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "22048",
+    "tmdbId": 22048,
+    "type": "movie",
+    "title": "Foxy Brown",
+    "overview": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
+    "year": "1974",
+    "rating": 6.657563209533691,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/013/461/posters/thumb/0ffe9221be.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/013/461/fanarts/medium/ce16b7d490.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/013/461/logos/medium/a31d3afb6b.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158015",
+    "tmdbId": 158015,
+    "type": "movie",
+    "title": "The Purge",
+    "overview": "Given the country's overcrowded prisons, the U.S. government begins to allow 12-hour periods of time in which all illegal activity is legal. During one of these free-for-alls, a family must protect themselves from a home invasion.",
+    "year": "2013",
+    "rating": 6.5380964279174805,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/102/526/posters/thumb/7ebac3a43f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/102/526/fanarts/medium/ba5edb435b.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/102/526/logos/medium/11eb6e7c92.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "400090",
+    "tmdbId": 400090,
+    "type": "movie",
+    "title": "The Nightingale",
+    "overview": "In 1825, Clare, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker who is also marked by trauma from his own violence-filled past.",
+    "year": "2018",
+    "rating": 7.311371326446533,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/243/386/posters/thumb/4ebfbf49e0.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/243/386/fanarts/medium/2dfdcfa2aa.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/243/386/logos/medium/eca6cffda5.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "466622",
+    "tmdbId": 466622,
+    "type": "movie",
+    "title": "The Rhythm Section",
+    "overview": "When she discovers the plane crash that claimed the lives of her family was no accident, Stephanie Patrick enters the dark, complex world of international espionage seeking vengeance. With nothing left to lose, Stephanie transforms from victim to assassin and discovers that neither revenge nor the truth are what they appear.",
+    "year": "2020",
+    "rating": 5.944953918457031,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/313/813/posters/thumb/1f3a0584e5.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/313/813/fanarts/medium/de2268a755.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/313/813/logos/medium/37b1361ea7.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "438145",
+    "tmdbId": 438145,
+    "type": "movie",
+    "title": "Black '47",
+    "overview": "In 1847, when Ireland is in the grip of the Great Famine that has ravaged the country for two long years, Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, returns home to reunite with his estranged family, only to discover the cruelest reality, a black land where death reigns.",
+    "year": "2018",
+    "rating": 6.862595558166504,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/284/356/posters/thumb/ebbeaf5ed3.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/284/356/fanarts/medium/ec2e19eac1.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/284/356/logos/medium/b1b0941b4e.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "102362",
+    "tmdbId": 102362,
+    "type": "movie",
+    "title": "Dead Man Down",
+    "overview": "In New York City, a crime lord's right-hand man is seduced by a woman seeking retribution.",
+    "year": "2013",
+    "rating": 6.627176284790039,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/073/282/posters/thumb/09aa0cb724.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/073/282/fanarts/medium/0d861d50a9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/073/282/logos/medium/25a1d10cde.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14577",
+    "tmdbId": 14577,
+    "type": "movie",
+    "title": "Dirty Work",
+    "overview": "Unemployed and recently dumped, Mitch and his buddy Sam start a revenge-for-hire business to raise the $50,000 that Sam's father needs to get a heart transplant.",
+    "year": "1998",
+    "rating": 6.584737300872803,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/008/788/posters/thumb/b8d78bb4e4.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/008/788/fanarts/medium/d095c00b59.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/008/788/logos/medium/ec81d4843c.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80188",
+    "tmdbId": 80188,
+    "type": "movie",
+    "title": "Boy Wonder",
+    "overview": "A young Brooklyn boy witnesses the brutal murder of his mother and grows up obsessed with finding her killer. Thus begins his life as a quiet, straight-A student by day and a self-appointed hero at night. But what is a real hero? And who decides what is right or wrong? As the boundaries blur, Sean's dual life wears on his psyche and his two worlds careen dangerously close to colliding. Like a graphic novel you can't put down, Boy Wonder challenges morality, distorting perceptions of what is right and what is justified, as it races to its shocking conclusion.",
+    "year": "2010",
+    "rating": 6.6820807456970215,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/059/669/posters/thumb/19d6fd00eb.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/059/669/fanarts/medium/ef8a545a7e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/059/669/logos/medium/6234d44720.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "21242",
+    "tmdbId": 21242,
+    "type": "movie",
+    "title": "Valdez Is Coming",
+    "overview": "Old Mexican-American sheriff Bob Valdez has always been a haven of sanity in a land of madmen when it came to defending law and order. But the weapon smuggler Frank Tanner is greedy and impulsive. When Tanner provokes a shooting that causes the death of an innocent man and Valdez asks him to financially compensate the widow, Tanner refuses to do so and severely humiliates Valdez, who will do justice and avenge his honor, no matter what it takes.",
+    "year": "1971",
+    "rating": 6.765217304229736,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/013/015/posters/thumb/9d4034cf18.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/013/015/fanarts/medium/e783533d6e.jpg.webp",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Western",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "385332",
+    "tmdbId": 385332,
+    "type": "movie",
+    "title": "Terminal",
+    "overview": "In the dark heart of a sprawling, anonymous city, two assassins carry out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress lead dangerous double lives.  Murderous consequences unravel in the dead of night, as their lives intertwine at the hands of a mysterious criminal mastermind who is hell-bent on revenge.",
+    "year": "2018",
+    "rating": 6.116052627563477,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/226/562/posters/thumb/e77cd60cca.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/226/562/fanarts/medium/8443d4b21b.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/226/562/logos/medium/e395bbc405.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10988",
+    "tmdbId": 10988,
+    "type": "movie",
+    "title": "Diabolique",
+    "overview": "The wife and mistress of a cruel school master collaborate in a carefully planned and executed scheme to murder him. The plan goes well until the body, which has been strategically dumped, disappears. The psychological strain starts to weigh on the two women when a retired police investigator begins looking into the man's disappearance on a whim.",
+    "year": "1996",
+    "rating": 5.835259914398193,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/127/posters/thumb/a01e1d70e3.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/127/fanarts/medium/2e7cd70c89.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/127/logos/medium/a3ace817b7.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12524",
+    "tmdbId": 12524,
+    "type": "movie",
+    "title": "Titus",
+    "overview": "Titus Andronicus returns from the wars and sees his sons and daughters taken from him, one by one. Shakespeare's goriest and earliest tragedy.",
+    "year": "1999",
+    "rating": 6.644654273986816,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/296/posters/thumb/16dbe1565a.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/296/fanarts/medium/d0b4a9fa1c.jpg.webp",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18899",
+    "tmdbId": 18899,
+    "type": "movie",
+    "title": "Vengeance",
+    "overview": "A French chef swears revenge after a violent attack on his daughter's family in Macau, during which her husband and her two children are murdered. To help him find the killers, he hires three local hit-men working for the mafia.",
+    "year": "2009",
+    "rating": 6.659090995788574,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/011/613/posters/thumb/a9503a441d.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/011/613/fanarts/medium/e6790a57bd.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/011/613/logos/medium/741b9c76eb.png.webp",
+    "certificate": "",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "HK"
+    ],
+    "originalLanguage": ""
+  }
+]

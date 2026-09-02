@@ -1,0 +1,942 @@
+[
+  {
+    "id": "1035259",
+    "tmdbId": 1035259,
+    "type": "movie",
+    "title": "The Naked Gun",
+    "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
+    "year": "2025",
+    "rating": 6.436999320983887,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/832/642/posters/thumb/f9a252e32e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/832/642/fanarts/medium/f07c193071.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/832/642/logos/medium/4fb9dd7705.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "771",
+    "tmdbId": 771,
+    "type": "movie",
+    "title": "Home Alone",
+    "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+    "year": "1990",
+    "rating": 7.991333961486816,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/614/posters/thumb/cfd8a21e95.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/614/fanarts/medium/8ae4756821.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/614/logos/medium/d8aed8d069.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "953",
+    "tmdbId": 953,
+    "type": "movie",
+    "title": "Madagascar",
+    "overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+    "year": "2005",
+    "rating": 7.474489212036133,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/792/posters/thumb/3ffad9abce.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/792/fanarts/medium/c8bc14ab26.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/792/logos/medium/54f2dd3cfd.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "3049",
+    "tmdbId": 3049,
+    "type": "movie",
+    "title": "Ace Ventura: Pet Detective",
+    "overview": "He's Ace Ventura: Pet Detective. The Ace is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+    "year": "1994",
+    "rating": 7.053368091583252,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/002/026/posters/thumb/29209bb3ca.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/002/026/fanarts/medium/a03f38f45a.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/002/026/logos/medium/da93d620c3.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37136",
+    "tmdbId": 37136,
+    "type": "movie",
+    "title": "The Naked Gun: From the Files of Police Squad!",
+    "overview": "When the bumbling Lieutenant Frank Drebin investigates events following the shooting of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+    "year": "1988",
+    "rating": 7.617386341094971,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/023/709/posters/thumb/5b0c053d52.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/023/709/fanarts/medium/fc4ca6dbf4.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/023/709/logos/medium/f04052eda9.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "772",
+    "tmdbId": 772,
+    "type": "movie",
+    "title": "Home Alone 2: Lost in New York",
+    "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+    "year": "1992",
+    "rating": 7.477088928222656,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/615/posters/thumb/021dabe397.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/615/fanarts/medium/c1aa29dea6.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/615/logos/medium/d8eef106b9.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "267193",
+    "tmdbId": 267193,
+    "type": "movie",
+    "title": "Grimsby",
+    "overview": "Wrongfully accused and on the run, a top MI6 assassin joins forces with his long-lost, football hooligan brother to save the world from a sinister plot.",
+    "year": "2016",
+    "rating": 6.605231285095215,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/165/674/posters/thumb/3ab548c6df.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/165/674/fanarts/medium/0c0a645baf.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/165/674/logos/medium/f319d048c2.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2300",
+    "tmdbId": 2300,
+    "type": "movie",
+    "title": "Space Jam",
+    "overview": "With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.",
+    "year": "1996",
+    "rating": 7.173506736755371,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/621/posters/thumb/b71a617f4e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/621/fanarts/medium/34726425cc.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/621/logos/medium/869cd38168.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10527",
+    "tmdbId": 10527,
+    "type": "movie",
+    "title": "Madagascar: Escape 2 Africa",
+    "overview": "Alex, Marty, and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just long enough to make it to the African continent. There the New Yorkers encounter members of their own species for the first time. Africa proves to be a wild place, but Alex and company wonder if it is better than their Central Park home.",
+    "year": "2008",
+    "rating": 7.1147894859313965,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/705/posters/thumb/bad9e0f155.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/705/fanarts/medium/25ac460571.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/705/logos/medium/0e55e20f79.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80321",
+    "tmdbId": 80321,
+    "type": "movie",
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "overview": "Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.",
+    "year": "2012",
+    "rating": 7.153239727020264,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/059/799/posters/thumb/d6ef2a1a8e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/059/799/fanarts/medium/9e2707c695.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/059/799/logos/medium/70b464f7b7.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9273",
+    "tmdbId": 9273,
+    "type": "movie",
+    "title": "Ace Ventura: When Nature Calls",
+    "overview": "Summoned from an ashram in Tibet, Ace finds himself on a perilous journey into the jungles of Africa to find Shikaka, the missing sacred animal of the friendly Wachati tribe. He must accomplish this before the wedding of the Wachati's Princess to the prince of the warrior Wachootoos. If Ace fails, the result will be a vicious tribal war.",
+    "year": "1995",
+    "rating": 6.759057521820068,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/573/posters/thumb/1c8f1f9cf1.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/573/fanarts/medium/314bc4f6d7.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/573/logos/medium/a66604f995.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13161",
+    "tmdbId": 13161,
+    "type": "movie",
+    "title": "Big Stan",
+    "overview": "A weak con man panics when he learns he's going to prison for fraud. He hires a mysterious martial arts guru who helps transform him into a martial arts expert who can fight off inmates who want to hurt or love him.",
+    "year": "2007",
+    "rating": 6.669922828674316,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/711/posters/thumb/3a278a9ec3.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/711/fanarts/medium/9ea3699d4f.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/711/logos/medium/2832bfe9dd.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1019939",
+    "tmdbId": 1019939,
+    "type": "movie",
+    "title": "Hundreds of Beavers",
+    "overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers.",
+    "year": "2024",
+    "rating": 7.482180118560791,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/820/070/posters/thumb/d213f03d48.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/820/070/fanarts/medium/7d9ef1af48.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/820/070/logos/medium/c9a6c84411.png.webp",
+    "certificate": "NR",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "5709",
+    "tmdbId": 5709,
+    "type": "movie",
+    "title": "Amazon Women on the Moon",
+    "overview": "Centered on a television station which features a 1950s-style sci-fi movie interspersed with a series of wild commercials, wacky shorts and weird specials, this lampoon of contemporary life and pop culture skewers some of the silliest spectacles ever created in the name of entertainment.",
+    "year": "1987",
+    "rating": 6.320987701416016,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/003/229/posters/thumb/958bdf663b.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/003/229/fanarts/medium/d27ea2ab27.jpg.webp",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12309",
+    "tmdbId": 12309,
+    "type": "movie",
+    "title": "Bachelor Party",
+    "overview": "On the eve of his wedding to his longtime girlfriend, unassuming nice guy Rick is dragged out for a night of debauchery by his friends.",
+    "year": "1984",
+    "rating": 6.508745193481445,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/182/posters/thumb/a950ff7cac.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/182/fanarts/medium/a4fbc95339.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/182/logos/medium/18b9b34e80.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "854",
+    "tmdbId": 854,
+    "type": "movie",
+    "title": "The Mask",
+    "overview": "Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit of the Norse god Loki. Donning it transforms him into an unrestrained, green-faced, cartoon-like wild man. While the mask grants him the confidence to woo a local singer, it also makes him the target of a ruthless mobster.",
+    "year": "1994",
+    "rating": 7.447174072265625,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/697/posters/thumb/8f470557dc.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/697/fanarts/medium/26844083fd.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/697/logos/medium/599236218b.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13203",
+    "tmdbId": 13203,
+    "type": "movie",
+    "title": "Son in Law",
+    "overview": "Country girl Rebecca has spent most of her life on a farm in South Dakota, and, when she goes away to college in Los Angeles, Rebecca immediately feels out of place in the daunting urban setting. She is befriended by a savvy party animal named Crawl, who convinces the ambivalent Rebecca to stay in the city. When Thanksgiving break rolls around, Rebecca, no longer an innocent farm girl, invites Crawl back to South Dakota, where he pretends to be her fiancé.",
+    "year": "1993",
+    "rating": 6.68470573425293,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/007/749/posters/thumb/615d36ec1f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/007/749/fanarts/medium/ab406810a9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/007/749/logos/medium/820a5af2ec.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10156",
+    "tmdbId": 10156,
+    "type": "movie",
+    "title": "History of the World: Part I",
+    "overview": "An uproarious version of history that proves nothing is sacred – not even the Roman Empire, the French Revolution and the Spanish Inquisition.",
+    "year": "1981",
+    "rating": 7.07839298248291,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/372/posters/thumb/29657dbcb5.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/372/fanarts/medium/50537e549a.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/372/logos/medium/b93c0a1fd6.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Musical",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9486",
+    "tmdbId": 9486,
+    "type": "movie",
+    "title": "Johnny English",
+    "overview": "A lowly pencil pusher working for MI7, Johnny English is suddenly promoted to super spy after Agent One is assassinated and every other agent is blown up at his funeral. When a billionaire entrepreneur sponsors the exhibition of the Crown Jewels—and the valuable gems disappear on the opening night and on English's watch—the newly-designated agent must jump into action to find the thief and recover the missing gems.",
+    "year": "2003",
+    "rating": 6.766030788421631,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/770/posters/thumb/64c016a9a6.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/770/fanarts/medium/e9b5aa0e08.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/770/logos/medium/e12ff17291.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11584",
+    "tmdbId": 11584,
+    "type": "movie",
+    "title": "Roxanne",
+    "overview": "In this modern take on Edmond Rostand's classic play \"Cyrano de Bergerac,\" C. D. Bales is the witty, intelligent, and brave fire chief of a small Pacific Northwest town who, due to the size of his enormous nose, declines to pursue the girl of his dreams, lovely Roxanne Kowalski. Instead, when his shy underling Chris McConnell becomes smitten with Roxanne, C.D. feeds the handsome young man the words of love to win her heart.",
+    "year": "1987",
+    "rating": 6.834197044372559,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/662/posters/thumb/4479f63c9f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/662/fanarts/medium/4524128006.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/662/logos/medium/61dace9a9c.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "474395",
+    "tmdbId": 474395,
+    "type": "movie",
+    "title": "Teen Titans Go! To the Movies",
+    "overview": "All the major DC superheroes are starring in their own films, all but the Teen Titans, so Robin is determined to remedy this situation by getting over his role as a sidekick and becoming a movie star. Thus, with a few madcap ideas and an inspirational song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams.",
+    "year": "2018",
+    "rating": 7.254849910736084,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/322/102/posters/thumb/bf34bb1509.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/322/102/fanarts/medium/1dd3145a22.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/322/102/logos/medium/39143ec15c.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Superhero",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "463272",
+    "tmdbId": 463272,
+    "type": "movie",
+    "title": "Johnny English Strikes Again",
+    "overview": "Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man - Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills - what few he has - as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.",
+    "year": "2018",
+    "rating": 6.7846832275390625,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/310/488/posters/thumb/58f13f46e7.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/310/488/fanarts/medium/5364b8f6e3.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/310/488/logos/medium/56c977328d.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "27225",
+    "tmdbId": 27225,
+    "type": "movie",
+    "title": "S.O.B.",
+    "overview": "A movie producer who made a huge flop tries to salvage his career by revamping his film as an erotic production, where its family-friendly star takes her top off.",
+    "year": "1981",
+    "rating": 6.449999809265137,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/016/682/posters/thumb/ef9283fb5f.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/016/682/fanarts/medium/b7f4f519d8.jpg.webp",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "47168",
+    "tmdbId": 47168,
+    "type": "movie",
+    "title": "The Wind in the Willows",
+    "overview": "Jailed for his reckless driving, rambunctious Mr. Toad has to escape from prison when his beloved Toad Hall comes under threat from the wily weasels, who plan to build a dog food factory on the very meadow sold to them by Toad himself.",
+    "year": "1996",
+    "rating": 7.043479919433594,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/032/515/posters/thumb/0db296a1f4.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/032/515/fanarts/medium/6ff31fe191.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/032/515/logos/medium/5d335557a5.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "32450",
+    "tmdbId": 32450,
+    "type": "movie",
+    "title": "Brain Donors",
+    "overview": "Three manic idiots—a lawyer, a cab driver and a handyman—team up to run a ballet company to fulfil the will of a millionaire. Stooge-like antics result as the trio try to outwit the rich widow and her scheming big-shot lawyer, who also wants to run the ballet.",
+    "year": "1992",
+    "rating": 6.752136707305908,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/020/827/posters/thumb/1fda334c17.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/020/827/fanarts/medium/b74364a3a0.jpg.webp",
+    "logoUrl": null,
+    "certificate": "PG",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "23521",
+    "tmdbId": 23521,
+    "type": "movie",
+    "title": "Daffy Duck's Quackbusters",
+    "overview": "In this feature-length film combining footage from classic Warner Brothers cartoon shorts with newly animated bridging sequences, Daffy Duck, after having induced laughter in an ailing millionaire and forestalled the millionaire's death for a time (as chronicled in Daffy Dilly (1948), is the beneficiary for the deceased millionaire's assets. But the millionaire's will clearly stipulates that Daffy must use the money for the common good, by providing a service, and should Daffy think of pursuing selfish aims, the millionaire's ghost will \"repossess\" his millions by making them disappear from Earthly existence. Under the pretense of community service, Daffy opens an exorcism agency and employs Porky Pig, Sylvester Cat, and Bugs Bunny to track and eliminate ghosts, ghouls, and other monsters, while Daffy secretly schemes to use his learned \"ghost-busting\" talents to rid himself of the millionaire's nagging spirit.",
+    "year": "1988",
+    "rating": 7.22857141494751,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/014/181/posters/thumb/e642dfa82a.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/014/181/fanarts/medium/0179a82460.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/014/181/logos/medium/980f54badd.png.webp",
+    "certificate": "G",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "31112",
+    "tmdbId": 31112,
+    "type": "movie",
+    "title": "Bon Voyage, Charlie Brown (and Don't Come Back!)",
+    "overview": "Charlie Brown, Linus, Peppermint Patty and Marcie travel to France as foreign exchange students. Also along is Snoopy and Woodstock. While everyone is excited about the opportunity to travel to a foreign country, Charlie is disturbed by a letter he receives from a mysterious girl from France who invites him as a her guest only to find that he does not seem welcomed to her Chateau.",
+    "year": "1980",
+    "rating": 6.794702053070068,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/019/855/posters/thumb/d9e1665059.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/019/855/fanarts/medium/c272baf080.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/019/855/logos/medium/1042f20e76.png.webp",
+    "certificate": "G",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "26730",
+    "tmdbId": 26730,
+    "type": "movie",
+    "title": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",
+    "overview": "If Bugs Bunny were to direct his signature inquiry--\"What's up, doc?\"--toward the modern-day Warner Bros. creative team, he wouldn't be far off. For 1001 Rabbit Tales, they've doctored up a batch of classic cartoons featuring the carrot muncher and his bumbling comrades and bundled them, near seamlessly, into a feature-length film. Here's the premise: Bugs and Daffy, both book salesmen, are competing to sell the most copies of a kids' book. Instead of burrowing a beeline to his sales territory (he should have made a left at Albuquerque), Bugs ends up in the castle of Yosemite Sam, here a harem-leading honcho. Sam's pain-in-the-spurs son, Prince Abalaba, needs somebody to read him stories; Bugs, who'd sooner take the job than suffer the alternative, that involving being boiled in oil, signs on.",
+    "year": "1982",
+    "rating": 7.240963935852051,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/016/299/posters/thumb/4b18c2d0e7.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/016/299/fanarts/medium/50d222579c.jpg.webp",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "16127",
+    "tmdbId": 16127,
+    "type": "movie",
+    "title": "Forbidden Zone",
+    "overview": "A mysterious door in the basement of the Hercules house leads to the Sixth Dimension by way of a gigantic set of intestine. When Frenchy slips through the door, King Fausto falls in love with her. The jealous Queen Doris takes Frenchy prisoner, and it is up to the Hercules family and friend Squeezit Henderson to rescue her.",
+    "year": "1982",
+    "rating": 6.873563289642334,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/009/888/posters/thumb/5cc973c7ed.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/009/888/fanarts/medium/d77f221038.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/009/888/logos/medium/d9163b461e.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "41394",
+    "tmdbId": 41394,
+    "type": "movie",
+    "title": "The Looney, Looney, Looney Bugs Bunny Movie",
+    "overview": "Bugs Bunny hosts an award show featuring several classic Looney Tunes shorts and characters.",
+    "year": "1981",
+    "rating": 7.400000095367432,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/027/382/posters/thumb/8a0fc89d23.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/027/382/fanarts/medium/867b259c16.jpg.webp",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10482",
+    "tmdbId": 10482,
+    "type": "movie",
+    "title": "Guest House Paradiso",
+    "overview": "Richie and Eddie are in charge of the worst hotel in the UK, Guest House Paradiso, neighbouring a nuclear power plant. The illegal immigrant chef has fled and all the guests have gone. But when a famous Italian filmstar, Gina Carbonara, who is in hiding from a fiance she doesn't want to marry, arrives at the hotel, things get very interesting!",
+    "year": "1999",
+    "rating": 6.611353874206543,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/665/posters/thumb/390f0f2464.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/665/fanarts/medium/c379bff9e8.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/665/logos/medium/3dc017bef4.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "25562",
+    "tmdbId": 25562,
+    "type": "movie",
+    "title": "Soapdish",
+    "overview": "Celeste Talbert is the star of the long-running soap opera \"The Sun Also Sets.\" With the show's ratings down, Celeste's ruthlessly ambitious co-star, Montana Moorehead, and the show's arrogant producer, David Seton Barnes, plot to aggravate her into leaving the show by bringing back her old flame, Jeffrey Anderson, and hiring her beautiful young niece, Lori Craven.",
+    "year": "1991",
+    "rating": 6.788819789886475,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/015/453/posters/thumb/d240f0f08d.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/015/453/fanarts/medium/07b04db139.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/015/453/logos/medium/95e6598d4b.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "19357",
+    "tmdbId": 19357,
+    "type": "movie",
+    "title": "Summer Rental",
+    "overview": "Jack Chester, an overworked air traffic controller, takes his family on vacation to the beach. Things immediately start to go wrong for the Chesters, and steadily get worse. Jack ends up in a feud with a local yachtsman, and has to race him to regain his pride and family's respect.",
+    "year": "1985",
+    "rating": 6.638801097869873,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/011/927/posters/thumb/93a2834d06.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/011/927/fanarts/medium/4d60741fd4.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/011/927/logos/medium/1070d33075.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14170",
+    "tmdbId": 14170,
+    "type": "movie",
+    "title": "Funny Farm",
+    "overview": "Sportswriter Andy Farmer moves with his schoolteacher wife Elizabeth to the country in order to write a novel in relative seclusion. Of course, seclusion is the last thing the Farmers find in the small, eccentric town, where disaster awaits them at every turn.",
+    "year": "1988",
+    "rating": 6.8302106857299805,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/008/486/posters/thumb/89900e3673.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/008/486/fanarts/medium/c79bed543e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/008/486/logos/medium/fff43f33ea.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11937",
+    "tmdbId": 11937,
+    "type": "movie",
+    "title": "The Gods Must Be Crazy II",
+    "overview": "Xixo is back again. This time, his children accidentally stow away on a fast-moving poachers' truck, unable to get off, and Xixo sets out to rescue them. Along the way, he encounters a couple of soldiers trying to capture each other and a pilot and passenger of a small plane, who are each having a few problems of their own.",
+    "year": "1989",
+    "rating": 6.917989253997803,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/952/posters/thumb/62c745c3a2.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/952/fanarts/medium/d55150275f.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/952/logos/medium/5deb5b246a.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "ZA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "25472",
+    "tmdbId": 25472,
+    "type": "movie",
+    "title": "Merry Madagascar",
+    "overview": "While trapped on the island of Madagascar, the Central Park Zoo escapees receive a visit from Santa--crash landing on their territory and getting amnesia to boot! The animals must help Santa assume his rightful place in the universe, while King Julian laps up the opportunity for his subjects.",
+    "year": "2009",
+    "rating": 6.931884288787842,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/015/385/posters/thumb/be50209835.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/015/385/fanarts/medium/d49c07ebd9.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/015/385/logos/medium/549ada874a.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10345",
+    "tmdbId": 10345,
+    "type": "movie",
+    "title": "K-9",
+    "overview": "The extravagant cop Michael Dooley needs some help to fight a drug dealer who has tried to kill him. A \"friend\" gives him a dog named Jerry Lee (Officer Lewis), who has been trained to smell drugs. With his help, Dooley sets out to put his enemy behind the bars, but Jerry Lee has a personality of his own and works only when he wants to. On the other hand, the dog is quite good at destroying Dooley's car, house and sex-life...",
+    "year": "1989",
+    "rating": 6.481761932373047,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/005/543/posters/thumb/6728cfd558.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/005/543/fanarts/medium/0d04b34579.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/005/543/logos/medium/58c94a0d07.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "6283",
+    "tmdbId": 6283,
+    "type": "movie",
+    "title": "MouseHunt",
+    "overview": "Down-on-their luck brothers, Lars and Ernie Smuntz, aren't happy with the crumbling old mansion they inherit... until they discover the estate is worth millions. Before they can cash in, they have to rid the house of its single, stubborn occupant—a tiny and tenacious mouse.",
+    "year": "1997",
+    "rating": 6.795138835906982,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/003/567/posters/thumb/57644afd20.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/003/567/fanarts/medium/a6ffb7d175.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/003/567/logos/medium/bd72a679cf.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11212",
+    "tmdbId": 11212,
+    "type": "movie",
+    "title": "Baby's Day Out",
+    "overview": "Baby Bink couldn't ask for more: he has adoring (if somewhat sickly-sweet) parents, lives in a huge mansion, and he's just about to appear in the social pages of the paper. Unfortunately, not everyone in the world is as nice as Baby Bink's parents—especially the three enterprising kidnappers who pretend to be photographers from the newspaper. Successfully kidnapping Baby Bink, they have a harder time keeping hold of the rascal, who not only keeps one step ahead of them, but seems to be more than a little bit smarter than the three bumbling criminals.",
+    "year": "1994",
+    "rating": 7.000737190246582,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/338/posters/thumb/3ee2c4b535.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/338/fanarts/medium/e600337445.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/338/logos/medium/2bf54bab2d.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11185",
+    "tmdbId": 11185,
+    "type": "movie",
+    "title": "See No Evil, Hear No Evil",
+    "overview": "A murder takes place in the shop of David Lyons, a deaf man who fails to hear the gunshot being fired. Outside, blind man Wally Karue hears the shot, but cannot see the perpetrator. Both are arrested, but escape to form an unlikely partnership. Being chased by both the law AND the original killers, can the pair work together to outwit them all?",
+    "year": "1989",
+    "rating": 7.178679466247559,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/311/posters/thumb/595fd4b586.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/311/fanarts/medium/701c5c7d28.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/311/logos/medium/9533e40067.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2665",
+    "tmdbId": 2665,
+    "type": "movie",
+    "title": "Airplane II: The Sequel",
+    "overview": "A faulty computer causes a passenger space shuttle to head straight for the sun, and man-with-a-past Ted Striker must save the day and get the shuttle back on track – again – all the while trying to patch up his relationship with Elaine.",
+    "year": "1982",
+    "rating": 6.566893577575684,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/001/796/posters/thumb/a2436f5d63.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/001/796/fanarts/medium/8623c50a16.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/001/796/logos/medium/f674705b3d.png.webp",
+    "certificate": "PG",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9490",
+    "tmdbId": 9490,
+    "type": "movie",
+    "title": "Half Baked",
+    "overview": "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+    "year": "1998",
+    "rating": 6.960464000701904,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/774/posters/thumb/79cfaf7242.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/774/fanarts/medium/67fe6ee946.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/774/logos/medium/2ecc14f0ec.png.webp",
+    "certificate": "R",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11381",
+    "tmdbId": 11381,
+    "type": "movie",
+    "title": "Tommy Boy",
+    "overview": "To save the family business, two ne’er-do-well traveling salesmen hit the road with disastrously funny consequences.",
+    "year": "1995",
+    "rating": 7.3272833824157715,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/006/477/posters/thumb/ca2073132c.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/006/477/fanarts/medium/21d8bb688a.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/006/477/logos/medium/ad8a272773.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9255",
+    "tmdbId": 9255,
+    "type": "movie",
+    "title": "Hot Shots! Part Deux",
+    "overview": "Topper Harley is found to be working as an odd-job-man in a monastery. The CIA want him to lead a rescue mission into Iraq, to rescue the last rescue team, who went in to rescue the last rescue team—who went in to rescue hostages left behind after Desert Storm.",
+    "year": "1993",
+    "rating": 6.944070816040039,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/004/555/posters/thumb/7626305716.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/004/555/fanarts/medium/528ff6bc5f.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/004/555/logos/medium/2360a8b73e.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "36593",
+    "tmdbId": 36593,
+    "type": "movie",
+    "title": "Naked Gun 33⅓: The Final Insult",
+    "overview": "Frank Drebin is persuaded out of retirement to go undercover in a state prison. There he has to find out what top terrorist, Rocco, has planned for when he escapes. Adding to his problems, Frank's wife, Jane, is desperate for a baby.",
+    "year": "1994",
+    "rating": 6.941454887390137,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/023/250/posters/thumb/cb5edee884.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/023/250/fanarts/medium/d37dfee1ad.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/023/250/logos/medium/4b66925a07.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37137",
+    "tmdbId": 37137,
+    "type": "movie",
+    "title": "The Naked Gun 2½: The Smell of Fear",
+    "overview": "Bumbling lieutenant Frank Drebin is out to foil the big boys in the energy industry, who intend to suppress technology that will put them out of business.",
+    "year": "1991",
+    "rating": 7.181403160095215,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/023/710/posters/thumb/c97f059df2.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/023/710/fanarts/medium/c5e20e12cc.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/023/710/logos/medium/c96189772b.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "928",
+    "tmdbId": 928,
+    "type": "movie",
+    "title": "Gremlins 2: The New Batch",
+    "overview": "Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!",
+    "year": "1990",
+    "rating": 6.883319854736328,
+    "posterUrl": "https://media.trakt.tv/images/movies/000/000/770/posters/thumb/049583890e.jpg.webp",
+    "backdropUrl": "https://media.trakt.tv/images/movies/000/000/770/fanarts/medium/c785d9327e.jpg.webp",
+    "logoUrl": "https://media.trakt.tv/images/movies/000/000/770/logos/medium/338187234e.png.webp",
+    "certificate": "PG-13",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]
