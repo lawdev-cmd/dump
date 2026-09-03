@@ -1,0 +1,793 @@
+[
+  {
+    "id": "673271",
+    "tmdbId": 673271,
+    "type": "movie",
+    "title": "13: The Musical",
+    "overview": "After moving from New York City to Indiana, a 12 year old navigates his parents' divorce, his impending bar mitzvah and his new school's social circles.",
+    "year": "2022",
+    "rating": 5.957,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rqShG2kTbsVbgrgjfoEwawjR88N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bE1AJOGtcvjegirI5Np6sTUO0gz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wMASCaBbsJYYh8E0LUc3qTJD9IL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "483104",
+    "tmdbId": 483104,
+    "type": "movie",
+    "title": "A Christmas Prince",
+    "overview": "When a reporter goes undercover as a nanny to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love - but will she be able to keep up her lie?",
+    "year": "2017",
+    "rating": 6.597,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x0IGQsMzVbsF7noj5cCfEk1GU7s.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mNjoA9jDNbxPJqeYmeETLStpYZF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k0YYliKpkJKwcY6gLgHSh0vq8kE.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "TV Movie",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "587693",
+    "tmdbId": 587693,
+    "type": "movie",
+    "title": "A Christmas Prince: The Royal Baby",
+    "overview": "Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.",
+    "year": "2019",
+    "rating": 6.261,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4RErLw0APt8qQiee0d8VCKasWwl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uuCj46exjP6UOo976MAWACWFv1X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aYSYRxw4YQjSNlhETasWsNo1LG4.png",
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "525041",
+    "tmdbId": 525041,
+    "type": "movie",
+    "title": "A Christmas Prince: The Royal Wedding",
+    "overview": "A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she's cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.",
+    "year": "2018",
+    "rating": 6.373,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8oybDLEOvFdUprK8BkFLN2ZwBC1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mmGnKNfxj2LapGkJKKUMuhJsJPo.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "588730",
+    "tmdbId": 588730,
+    "type": "movie",
+    "title": "A Second Chance: Rivals!",
+    "overview": "As Maddy takes on coaching a team of young twelve-year-old gymnasts, she faces up to intense city versus country rivalry, racism, cyberbullying and her own self-doubt but eventually takes the challenge head on.",
+    "year": "2019",
+    "rating": 6.926,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/egTUn0oodsHa6gC9XXux40eSAhQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9XgSUxQt3FNmVbX6YQEWJhbzU3w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5U5rqYY6R1nzDWLmvxqpHSTIaMZ.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "AU",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "699102",
+    "tmdbId": 699102,
+    "type": "movie",
+    "title": "A Week Away",
+    "overview": "Troubled teen Will Hawkins has a run-in with the law that puts him at an important crossroad: go to juvenile detention or attend a Christian summer camp. At first a fish-out-of-water, Will opens his heart, discovers love with a camp regular, and sense of belonging in the last place he expected to find it.",
+    "year": "2021",
+    "rating": 6.889,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/htTS07IvYv3rv57ftzNEprefwSq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2VnghbG2qWChcE6CdZBMDtDQKCF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/clj8uwn7VOhRpumPylyeOTKiqrB.png",
+    "certificate": "NR",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "367541",
+    "tmdbId": 367541,
+    "type": "movie",
+    "title": "Becoming Santa",
+    "overview": "A man is shocked to learn that the parents of his girlfriend are Santa Claus and Mrs. Claus.",
+    "year": "2015",
+    "rating": 5.274,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/s0rhwbCxnWw640Q9aMwMvu2hd3I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/znHjGYiwFNkMZf3oe4vl5b5F0Nt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2FEq4okTfdAlTM4ZAeoMh40YoVh.png",
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "495193",
+    "tmdbId": 495193,
+    "type": "movie",
+    "title": "Benji",
+    "overview": "Two school kids strike up a friendship with an orphaned puppy named Benji. When danger befalls them and they end up kidnapped by robbers who are in over their heads, Benji and his scruffy sidekick come to the rescue.",
+    "year": "2018",
+    "rating": 6.916,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/79pacM3h5FoETnfuRC6O2qPfzn4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eOkbeZ658RHVt7ULoFBqmesxEYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pcY0y3jZG2RFf6Trau43lcJ406y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "671295",
+    "tmdbId": 671295,
+    "type": "movie",
+    "title": "Blue Miracle",
+    "overview": "To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.",
+    "year": "2021",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wlDSL8Rn4eQCzDPy1pPRkCh8H32.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7piVB6weeJdWB6xL0wzJJeHNo6O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e206Ihv0bXfed4pLwWwLlGczruX.svg",
+    "certificate": "NR",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "MX",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "832046",
+    "tmdbId": 832046,
+    "type": "movie",
+    "title": "Charming",
+    "overview": "Living alone with her pet vacuum cleaner in a depressing elderly center, Lisette hopes to find love online, but ends up becoming friends with Jules, a young janitor.",
+    "year": "2021",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zul7SrFKT0NLpDZByVeVh6wVZ5p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bbuwhzkqrqcCOZMT68uqMi2eLyE.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 21,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "936960",
+    "tmdbId": 936960,
+    "type": "movie",
+    "title": "Christmas with You",
+    "overview": "Feeling career burnout, pop star Angelina escapes to grant a young fan's wish in small-town New York, where she not only finds the inspiration to revitalize her career but also a shot at true love.",
+    "year": "2022",
+    "rating": 5.839,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/26RZloFHUyc0GTsybmnUPpSCPHb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1ZnbzMbxgSqKuCh9aOQCvv1mAyN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gWEoTwshXaL8iyMGCVxkq8e4fvy.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "786705",
+    "tmdbId": 786705,
+    "type": "movie",
+    "title": "Confessions of an Invisible Girl",
+    "overview": "When the clever but socially-awkward Tetê joins a new school, she'll do anything to fit in. But the queen bee among her classmates has other ideas.",
+    "year": "2021",
+    "rating": 6.632,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fRxz9cKaCOF5noUBvoA6cebOdUE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bfYGNAK6JRVExXON7CmHiOT2NJc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3dOhMe42C7tP0neDR1ZTx6PWPKJ.png",
+    "certificate": null,
+    "runTimeMinutes": 91,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1387866",
+    "tmdbId": 1387866,
+    "type": "movie",
+    "title": "Disaster Holiday",
+    "overview": "A workaholic dad, trying to win over his kids, heads to the coast of Durban for a big work meeting — under the guise of a family road trip vacation.",
+    "year": "2024",
+    "rating": 6.677,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pNZHImRQhSq5qEPSpDkmWLRB4RS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z67sUtzwoKi1CI81i8vKpVcHJAx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u10UEcXVEfrT0ke6YwHKMhlE0Nf.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "ZA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "858408",
+    "tmdbId": 858408,
+    "type": "movie",
+    "title": "Dog Gone",
+    "overview": "When his beloved dog goes missing, a young man embarks on an incredible search with his parents to find him and give him life-saving medication.",
+    "year": "2023",
+    "rating": 6.226,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fMvLn5NetWkYqUSsWqx66qPPOG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qDzRz0hIK2nNFSvLz2rEyGL7KhQ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "683127",
+    "tmdbId": 683127,
+    "type": "movie",
+    "title": "Earwig and the Witch",
+    "overview": "A headstrong orphan discovers a world of spells and potions while living with a selfish witch.",
+    "year": "2021",
+    "rating": 5.856,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9oK820JieICOcfUhI6mkpFrcA9m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t9YEokkCYAIWPmI4jNP57JZUhq9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "415959",
+    "tmdbId": 415959,
+    "type": "movie",
+    "title": "Every Christmas Has a Story",
+    "overview": "A TV personality has an on-air snafu and admits she hates Christmas. Following the debacle, she is invited to the Most Christmas-y town in America to try and repair her image. Forced to work with her ex-boyfriend Jack, the show’s producer, the magic of Christmas and this special town will change the way she views Christmas and her life.",
+    "year": "2016",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sIJNhvGQ7eOygi0Gp7vPRYDL5Cy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/au9aD23QOEIxS5zeSYgGB8BUYE5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a4h7b0vayZEuoqwAkLgwa9wk3Uv.png",
+    "certificate": "G",
+    "runTimeMinutes": 84,
+    "primaryGenre": "TV Movie",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "664236",
+    "tmdbId": 664236,
+    "type": "movie",
+    "title": "Extinct",
+    "overview": "Op and Ed, two adorable donut-shaped animals - flummels - accidentally time-travel from 1835 to modern-day Shanghai.  There they discover traffic, trans fats, and worst of all, that flummels are now extinct. It's up to this bumbling pair to save themselves and their species...and, just maybe, change the course of history.",
+    "year": "2021",
+    "rating": 6.195,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9cnHvJPXNNxhnxHdDWHIEmxoilF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iNS4ubDEgxD7j9iEJmwXNmu3TVh.png",
+    "certificate": null,
+    "runTimeMinutes": 84,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CN",
+      "CA",
+      "UA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "726664",
+    "tmdbId": 726664,
+    "type": "movie",
+    "title": "Fearless",
+    "overview": "A teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard.",
+    "year": "2020",
+    "rating": 5.866,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5oQJ6HeNGWnEtP9Qyt5IZjuKI7j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s7NC2kntiPB3WltWj9bnNTkoqUp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fFVPpfRb6iX64W0E1qBJsIX8fFy.png",
+    "certificate": "PG",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "83389",
+    "tmdbId": 83389,
+    "type": "movie",
+    "title": "From Up on Poppy Hill",
+    "overview": "Yokohama, 1963. Japan is picking itself up from the devastation of World War II and preparing to host the 1964 Olympics—and the mood is one of both optimism and conflict as the young generation struggles to throw off the shackles of a troubled past. Against this backdrop of hope and change, a friendship begins to blossom between high school students Umi and Shun—but a buried secret from their past emerges to cast a shadow on the future and pull them apart.",
+    "year": "2011",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rRLYX4RZIyloHSJwvZKAhphAjiB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mazqYfDUreT2KE6ZsaWT59JARHZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mFDqCcXBLImJrgu2TJLmcq3BvC9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "602609",
+    "tmdbId": 602609,
+    "type": "movie",
+    "title": "Good Sam",
+    "overview": "A news reporter looks into who has been anonymously leaving large cash gifts on random doorsteps in New York.",
+    "year": "2019",
+    "rating": 5.984,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8HYTN6cCfqUwBEGAlKcXhEjiSEd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pzoOV3MxfPZeMJksepdYJrAnqAm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7OdoIn9IbgoCETAWlmNaBZ7p36g.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "789708",
+    "tmdbId": 789708,
+    "type": "movie",
+    "title": "Hilda and the Mountain King",
+    "overview": "When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3vm7LOe7DhkiA7umBhslQy9MdkY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/892rHLop6XobpTmdJ05UfkWMZpf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cx3Mf2QzTWaq00LcdS6hot8Qh6x.svg",
+    "certificate": null,
+    "runTimeMinutes": 83,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CA",
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "531438",
+    "tmdbId": 531438,
+    "type": "movie",
+    "title": "Holiday in the Wild",
+    "overview": "When her husband abruptly ends their marriage, empty nester Kate embarks on a solo second honeymoon in Africa, finding purpose and potential romance.",
+    "year": "2019",
+    "rating": 6.476,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kDXMzBpiUJld5zLnSqDmGln3XuM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/t2Po4BVdG3UmlfOACo9US1zjumr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lPTGtuY6IJP2tkAzyRZveMJHuZz.png",
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "817648",
+    "tmdbId": 817648,
+    "type": "movie",
+    "title": "Home Team",
+    "overview": "Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.",
+    "year": "2022",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aGDtBTmSKa1TRmpWwcvqtCQP09v.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bx6ygKQWzENYkXH6MZUghPMysAj.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "421632",
+    "tmdbId": 421632,
+    "type": "movie",
+    "title": "I'll Be Home for Christmas",
+    "overview": "Jackie Foster, a dynamic Assistant District Attorney and single mom, is looking forward to wrapping up her latest case and spending Christmas with Gracie, her adorable and precocious, eight-year old daughter. But when Jackie’s estranged dad, Jack , a gruff retired police officer, unexpectedly shows up at her door, they will be forced to confront old wounds.",
+    "year": "2016",
+    "rating": 6.157,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jecVCKLA2rttDps4jiFdtd0pA3n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zKmZvgLUZ77xdWUtuTkmyriU3n1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/y9Zxti4CYqWIkdahs5AA0wBUrlc.png",
+    "certificate": "G",
+    "runTimeMinutes": 84,
+    "primaryGenre": "TV Movie",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "780632",
+    "tmdbId": 780632,
+    "type": "movie",
+    "title": "June & Kopi",
+    "overview": "A street dog is taken in by a young couple, and the family pit becomes an instant accomplice as he adjusts to his new, loving home.",
+    "year": "2021",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wY3bXOBc513NcZIdkYBoj46fPaH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/plXZR3lhtA5VjQ4CDpUXNwgwYIi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yP4Iq4nubte1LUwxETOe8hDyedF.png",
+    "certificate": "NR",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1180406",
+    "tmdbId": 1180406,
+    "type": "movie",
+    "title": "Meet Me at the Christmas Train Parade",
+    "overview": "When Charlotte's son Benny learns about the old tradition of the Christmas train parade, he persuades her to try and reignite the Christmas magic that brought together their community and the neighboring towns. They enlist the help of Benny’s teacher, but just as Charlotte thinks she might be falling for him, she finds out that he’s been harboring secrets related to why the parade ended in the first place.",
+    "year": "2024",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ulUCXhT0tIyO4SePZOrMtnAQY5p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2h12mUzzNoXZVCAomnJPmrbEjP7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ii9YRmwxOvttkur9Q5CJI8cKJqx.png",
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "TV Movie",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "32471",
+    "tmdbId": 32471,
+    "type": "movie",
+    "title": "Mixtape",
+    "overview": "On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother – who struggles talking about her late daughter – Beverly sees the mixtape as a chance to finally learn more about her parents.",
+    "year": "2021",
+    "rating": 6.935,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2fpG1PiHPHdLt8X2e7WAct7EVB7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kl5LXP7St8ct25BaBUehDGXT3gd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tC5vphFdRmTk2k1MVEFzhKElfJM.png",
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1139829",
+    "tmdbId": 1139829,
+    "type": "movie",
+    "title": "Orion and the Dark",
+    "overview": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+    "year": "2024",
+    "rating": 6.504,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eoxIFOrAmOeKe3dJ5JTXhw3DUa6.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "347689",
+    "tmdbId": 347689,
+    "type": "movie",
+    "title": "Pee-wee's Big Holiday",
+    "overview": "A fateful meeting with a mysterious stranger inspires Pee-wee Herman to take his first-ever holiday.",
+    "year": "2016",
+    "rating": 6.098,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k5bZS2NsgVswuThBfyJYaV6T6zu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6UWkQY3osYYH70kzHCxAtadzE4e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7uXOwAOJz4oyFKOju9Z6YyX4M6H.png",
+    "certificate": "PG",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "765172",
+    "tmdbId": 765172,
+    "type": "movie",
+    "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+    "overview": "When a mysterious stranger arrives from the future with a dire warning, Leo is forced to rise and lead his brothers, Raph, Donnie, and Mikey in a fight to save the world from a terrifying alien species.",
+    "year": "2022",
+    "rating": 7.301,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rSmTqtb7gICeRwvsEmq0uJxR4XU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7Bp3zLFUNTvEapUMyshBpd5fnxm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9fjBU0xORugNyShtPokN0sTVhf1.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "756403",
+    "tmdbId": 756403,
+    "type": "movie",
+    "title": "Riverdance: The Animated Adventure",
+    "overview": "A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan’s multi-platinum Grammy Award-winning music.",
+    "year": "2021",
+    "rating": 5.971,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i6TRDlVuuEXMyLSlIkDd8YhBN0r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qqthj8EUL4QKlDBoMcPqeWvi6Ya.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m0M3pvkK6DtKVcsGN33obeSjx5d.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1053725",
+    "tmdbId": 1053725,
+    "type": "movie",
+    "title": "Royally Yours, This Christmas",
+    "overview": "A royal prince falls in love with a single mother and hotel housekeeper at Christmastime after he mistakes her for a wealthy hotel guest.",
+    "year": "2023",
+    "rating": 5.882,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xXAfoerUWcVaaQhgv2z3e4Fsvzq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5nZamwrKlfZIi4s7amTxHU041yl.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "TV Movie",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "790493",
+    "tmdbId": 790493,
+    "type": "movie",
+    "title": "Spy Kids: Armageddon",
+    "overview": "When the children of the world’s greatest secret agents unwittingly help a powerful game developer unleash a computer virus that gives him control of all technology, they must become spies themselves to save their parents and the world.",
+    "year": "2023",
+    "rating": 5.93,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8h1yc6i7N5LRR0AXRxFImtJOIq3.png",
+    "certificate": "PG",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "645757",
+    "tmdbId": 645757,
+    "type": "movie",
+    "title": "That Christmas",
+    "overview": "It's an unforgettable Christmas for the townsfolk of Wellington-on-Sea when the worst snowstorm in history alters everyone's plans — including Santa's.",
+    "year": "2024",
+    "rating": 7.142,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1rpyQcniNIJgsE0wKLOqPk2n7b7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ytsDbIahUvcCwLHiJa4QWDFtu6d.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37168",
+    "tmdbId": 37168,
+    "type": "movie",
+    "title": "The Dog Who Stopped the War",
+    "overview": "As the Christmas holidays begin, a group of 10 war-obsessed kids have a wave of inspiration: What if they spend the next two weeks engaged in a simulated war, armed only with shields, wooden swords, snowballs, and a fierce sense of competition? With a bounty chest waiting for the winners, the two sides gradually grow in size, and the war grows in importance, taking over all aspects of their lives.",
+    "year": "1984",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qcSY8yGixq5CgHmbljISWNDAkfy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h7BsTTniQ9UqLhoFuviILYwongH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1I9MqMxvW55wvpulxAd4s6JT2uO.png",
+    "certificate": "G",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA",
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "560044",
+    "tmdbId": 560044,
+    "type": "movie",
+    "title": "The Willoughbys",
+    "overview": "When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.",
+    "year": "2020",
+    "rating": 7.044,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3C7jcMtTpBmzzTbUWPKhMJyvDJO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tidW8EmEE52psVysL1IrDbbxZVq.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1149920",
+    "tmdbId": 1149920,
+    "type": "movie",
+    "title": "Too Old for Fairy Tales 2",
+    "overview": "Your favourite gamer trio is back! This time, Waldek, Staszek and Delfina will spend an adventure-packed summer in the Tatra Mountains. During the trip, Waldek accidentally finds out that his father – the man he has heard so much about from his mum, the person who abandoned his family a long time ago – lives nearby. The boy is determined to find him and ask him about the reasons for his decision. Together with Staszek, under the cover of night, they set out on their mission. The hazards of the mountain trail, however, are nothing compared to what Delfina will have to do. The creative teenager has to hide the truth about the boys’ disappearance from her aunt, the mother of Waldek and… her new partner. How will this secret mission affect the lives of all the characters?  Will Waldek find an answer to the questions that haunt him and understand the actions of his father?",
+    "year": "2024",
+    "rating": 6.457,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lSwdb0yuSVpL7vT8516eHwm4lLJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aXvPIT3m1kyfRr1rvY02bWEyDHl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h3mvIN0xwJpqmxdy2id8qNzOf3i.png",
+    "certificate": null,
+    "runTimeMinutes": 97,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "PL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "579741",
+    "tmdbId": 579741,
+    "type": "movie",
+    "title": "Words Bubble Up Like Soda Pop",
+    "overview": "After meeting one day, a shy boy who expresses himself through haiku and a bubbly but self-conscious girl share a brief, magical summer.",
+    "year": "2021",
+    "rating": 7.341,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ooISQS2rzVqgkt2aq5HNoz8n2sa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4lGB2Iy7BruiRfvVc6MZ2UM0yNX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8dLccmyxBgvqo5FySsoiFnLqvRL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "638597",
+    "tmdbId": 638597,
+    "type": "movie",
+    "title": "YES DAY",
+    "overview": "A mom and dad who usually say no decide to say yes to their kids' wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.",
+    "year": "2021",
+    "rating": 6.67,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cJwkku3SPprS0Splfgh8VFRd0xn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tGacpFLRjUMgRDGrAvKPvJCSKft.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

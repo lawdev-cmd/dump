@@ -1,0 +1,524 @@
+[
+  {
+    "id": "105",
+    "tmdbId": 105,
+    "type": "movie",
+    "title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "year": "1985",
+    "rating": 8.329,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "certificate": "PG",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196",
+    "tmdbId": 196,
+    "type": "movie",
+    "title": "Back to the Future Part III",
+    "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "year": "1990",
+    "rating": 7.496,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "272",
+    "tmdbId": 272,
+    "type": "movie",
+    "title": "Batman Begins",
+    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "year": "2005",
+    "rating": 7.73,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "197",
+    "tmdbId": 197,
+    "type": "movie",
+    "title": "Braveheart",
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "year": "1995",
+    "rating": 7.945,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qkh7u6JaZaj5ZI3pZBsQaBSoIjy.png",
+    "certificate": "R",
+    "runTimeMinutes": 178,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "146",
+    "tmdbId": 146,
+    "type": "movie",
+    "title": "Crouching Tiger, Hidden Dragon",
+    "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+    "year": "2000",
+    "rating": 7.438,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ddFXUM2KfVdlApvbDIaqNvfmC83.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "HK",
+      "TW"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "581859",
+    "tmdbId": 581859,
+    "type": "movie",
+    "title": "Da 5 Bloods",
+    "overview": "Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.",
+    "year": "2020",
+    "rating": 6.42,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/Aq5Zhj9iaTF6BEKNk05dlUxeHKa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2PcygbgXBvmsOB8C08wp5ixpBfz.png",
+    "certificate": "R",
+    "runTimeMinutes": 155,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "555604",
+    "tmdbId": 555604,
+    "type": "movie",
+    "title": "Guillermo del Toro's Pinocchio",
+    "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+    "year": "2022",
+    "rating": 7.997,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/e782pDRAlu4BG0ahd777n8zfPzZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sFHqRdrAw1xvX8ltoJkyAVsHjPh.png",
+    "certificate": "PG",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1487",
+    "tmdbId": 1487,
+    "type": "movie",
+    "title": "Hellboy",
+    "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+    "year": "2004",
+    "rating": 6.677,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lbaTEneOofwvAyg77R8HbFML2zT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Et15vXHzqeYj24w3XMxkE4qkZc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329",
+    "tmdbId": 329,
+    "type": "movie",
+    "title": "Jurassic Park",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "year": "1993",
+    "rating": 7.976,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ec4wy0iZFkHTxw04HyX4r06DwrH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24",
+    "tmdbId": 24,
+    "type": "movie",
+    "title": "Kill Bill: Vol. 1",
+    "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "year": "2003",
+    "rating": 7.97,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mIiJMgtGAIbQVrIElG0s7lCBs50.png",
+    "certificate": "R",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "393",
+    "tmdbId": 393,
+    "type": "movie",
+    "title": "Kill Bill: Vol. 2",
+    "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+    "year": "2004",
+    "rating": 7.874,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oWnoYWltTGSfTcUZrXYHwJ3Fl9j.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "240832",
+    "tmdbId": 240832,
+    "type": "movie",
+    "title": "Lucy",
+    "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "year": "2014",
+    "rating": 6.476,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ax3ZZ1zY19ChEkZ45Ie7OxjTabt.png",
+    "certificate": "R",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "387426",
+    "tmdbId": 387426,
+    "type": "movie",
+    "title": "Okja",
+    "overview": "A young girl named Mija risks everything to prevent a powerful, multi-national company from kidnapping her best friend - a massive animal named Okja.",
+    "year": "2017",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x8PmjDi2mkAKznApIz78C9v3tvt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/574i7x7CoiXCAXz6PD4DtSWXvSw.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "792",
+    "tmdbId": 792,
+    "type": "movie",
+    "title": "Platoon",
+    "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "year": "1986",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q4A2A7h9HsKKBfTxESAdc2N4hVg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/104cnXJEg5405iAVQj3m5Id1LZZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11621",
+    "tmdbId": 11621,
+    "type": "movie",
+    "title": "Porco Rosso",
+    "overview": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
+    "year": "1992",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ec4m0EvVlEtVl5aySdw6ab9uG0b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gChm9syaXaZA0ixKvaWwOyeKzr9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "128",
+    "tmdbId": 128,
+    "type": "movie",
+    "title": "Princess Mononoke",
+    "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "year": "1997",
+    "rating": 8.319,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zmLS3kmBxLlVS1yxRY4x9WiLMrw.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "273481",
+    "tmdbId": 273481,
+    "type": "movie",
+    "title": "Sicario",
+    "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+    "year": "2015",
+    "rating": 7.427,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/995VQDIxH5nKRLt5qXqmMdPj0kz.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11509",
+    "tmdbId": 11509,
+    "type": "movie",
+    "title": "Silverado",
+    "overview": "Four unwitting heroes cross paths on their journey to the sleepy town of Silverado. Little do they know the town where their family and friends reside has been taken over by a corrupt sheriff and a murderous posse. It's up to the sharp-shooting foursome to save the day, but first they have to break each other out of jail, and learn who their real friends are.",
+    "year": "1985",
+    "rating": 6.949,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rPDcuFniW2yZrSRbLjeNdQy7P45.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/izMjLF8mdnFWMXEHkdrfUzFNy47.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 133,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "508883",
+    "tmdbId": 508883,
+    "type": "movie",
+    "title": "The Boy and the Heron",
+    "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+    "year": "2023",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3Fee44nFACylWN35FYhp2fPydGl.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "826",
+    "tmdbId": 826,
+    "type": "movie",
+    "title": "The Bridge on the River Kwai",
+    "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+    "year": "1957",
+    "rating": 7.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/94SBMz11SiEwrLaWUOVx5om7NHu.png",
+    "certificate": "PG",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49026",
+    "tmdbId": 49026,
+    "type": "movie",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "year": "2012",
+    "rating": 7.797,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18",
+    "tmdbId": 18,
+    "type": "movie",
+    "title": "The Fifth Element",
+    "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+    "year": "1997",
+    "rating": 7.59,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/msVBaxnGvE57AOLDvFDVpaIZqaV.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "218",
+    "tmdbId": 218,
+    "type": "movie",
+    "title": "The Terminator",
+    "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "year": "1984",
+    "rating": 7.69,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hdVL9WCFXxCFrsWH0R8UnhptHso.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24961",
+    "tmdbId": 24961,
+    "type": "movie",
+    "title": "The Wiz",
+    "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+    "year": "1978",
+    "rating": 6.189,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9zkvOuDQzpYSKUTtSlP6QDe3JNv.png",
+    "certificate": "G",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1045021",
+    "tmdbId": 1045021,
+    "type": "movie",
+    "title": "Thug Life",
+    "overview": "In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout and raise him as their own. Years later, when an assassination attempt shakes Sakthivel's empire, suspicion turns inward. Consumed by vengeance, Sakthivel sets out to destroy the very family he once built.",
+    "year": "2025",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jH2wFFESmlPgfqO5LgCMVFJymFY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xI3c07VIq7WIYswXLFshNRvkmo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/suwmruLPVWEHZ6pzMXejGBZRk3y.png",
+    "certificate": "NR",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74",
+    "tmdbId": 74,
+    "type": "movie",
+    "title": "War of the Worlds",
+    "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+    "year": "2005",
+    "rating": 6.568,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Ahz089ftZAvdUAtD5KqREd6Qnsd.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

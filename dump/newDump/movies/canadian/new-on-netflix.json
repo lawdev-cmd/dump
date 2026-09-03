@@ -1,0 +1,83 @@
+[
+  {
+    "id": "991334",
+    "tmdbId": 991334,
+    "type": "movie",
+    "title": "My Mother's Men",
+    "overview": "Young Elsie is shocked to learn that her eccentric mother wanted her ashes to be scattered among her five ex-husbands. Elsie is adamant about carrying out her mother's wishes, but the trip fundamentally alters her course.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vg0g8Ps4kvo1Tr5jiAhtcb4BpR2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/52S5rU3Je2KHUt8nCrSfkEhfrGy.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 126,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "942243",
+    "tmdbId": 942243,
+    "type": "movie",
+    "title": "Ru",
+    "overview": "After a dangerous sea crossing and a stay in a camp in Malaysia, the young Vietnamese Tinh and her family are accepted as refugees in Canada and arrive in Montreal where they begin their new life. But for Tinh, adapting has its share of difficulties.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/48m1dBNxnBRHS1Fm30eTWgvVOrv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9M4sa2AIjo2yrerOfBJdcIKqNia.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1008408",
+    "tmdbId": 1008408,
+    "type": "movie",
+    "title": "Something You Said Last Night",
+    "overview": "An aspiring twenty-something writer accompanies her equally reluctant younger sister and their deliriously happy parents on vacation where she navigates her family's expectations and her own desires.",
+    "year": "2023",
+    "rating": 5.111,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iqShlRPeXZwpVQ7s3j4MMIUMVos.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2YceDGM5HaGox0nsDQdLQiF84Wv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nxbF0iLqo5deWjSfiQCIVWVLZa4.png",
+    "certificate": null,
+    "runTimeMinutes": 96,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA",
+      "CH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1039227",
+    "tmdbId": 1039227,
+    "type": "movie",
+    "title": "Suze",
+    "overview": "When her only daughter goes off to university, an empty nest mother gets stuck taking care of her daughter's heart-broken ex-boyfriend, who she can't stand.",
+    "year": "2025",
+    "rating": 7.538,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j1CBbkJGuWMjZw7jzxVa2wCDvSL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ryhPsBgcSE2IcsrYkEeF5plSb93.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wHJ2QxvNdWu5BkggU1VWhTnKP2j.png",
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  }
+]

@@ -1,0 +1,803 @@
+[
+  {
+    "id": "9476",
+    "tmdbId": 9476,
+    "type": "movie",
+    "title": "A Knight's Tale",
+    "overview": "William Thatcher, a knight's peasant apprentice, gets a chance at glory when the knight dies suddenly mid-tournament. Posing as a knight himself, William won't stop until he's crowned tournament champion—assuming matters of the heart don't get in the way.",
+    "year": "2001",
+    "rating": 6.888,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gkT737kgnmI6jZyXbUBJRwVbGkW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fgpM6MOf6ABxSUzboRKwGDUMXnW.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 133,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "643215",
+    "tmdbId": 643215,
+    "type": "movie",
+    "title": "Asterix & Obelix: The Middle Kingdom",
+    "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+    "year": "2023",
+    "rating": 4.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vsRhZCmZFYYgrfqK54temfuDlBJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "59678",
+    "tmdbId": 59678,
+    "type": "movie",
+    "title": "Attack the Block",
+    "overview": "A South London teen gang must team up with the other residents of their housing estate to protect the neighbourhood from a terrifying alien invasion.",
+    "year": "2011",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sRqMT16pw1VpHay6a0dmYaupFYL.png",
+    "certificate": "R",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "993710",
+    "tmdbId": 993710,
+    "type": "movie",
+    "title": "Back in Action",
+    "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+    "year": "2025",
+    "rating": 6.43,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l3WIseJcQk2PD9etf4YXycpfSoq.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105",
+    "tmdbId": 105,
+    "type": "movie",
+    "title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "year": "1985",
+    "rating": 8.329,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "certificate": "PG",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "165",
+    "tmdbId": 165,
+    "type": "movie",
+    "title": "Back to the Future Part II",
+    "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+    "year": "1989",
+    "rating": 7.785,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcMAuJFNVfEKjdBsWg5XIOSdTZa.png",
+    "certificate": "PG",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196",
+    "tmdbId": 196,
+    "type": "movie",
+    "title": "Back to the Future Part III",
+    "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "year": "1990",
+    "rating": 7.496,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "573435",
+    "tmdbId": 573435,
+    "type": "movie",
+    "title": "Bad Boys: Ride or Die",
+    "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+    "year": "2024",
+    "rating": 7.312,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A38YMEsKLrPftHlNABasQR1uj1R.svg",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "280180",
+    "tmdbId": 280180,
+    "type": "movie",
+    "title": "Beverly Hills Cop: Axel F",
+    "overview": "Forty years after his unforgettable first case in Beverly Hills, Detroit cop Axel Foley returns to do what he does best: solve crimes and cause chaos.",
+    "year": "2024",
+    "rating": 6.628,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yE0iZBxkL8aKYNkkeHoUzx5M88c.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6v2rzni6cAg0Rn597XR2H4d5Igd.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "417489",
+    "tmdbId": 417489,
+    "type": "movie",
+    "title": "Bon Cop Bad Cop 2",
+    "overview": "Ward and Bouchard must face an important car theft ring that turns out to be a lot more than they bargained for: one where the stolen cars will serve as bombs in a well planned terrorist attack.",
+    "year": "2017",
+    "rating": 6.392,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sXP6WjVJGeZuqVQJVMMAf8CeGma.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cJmXtzMJM8dgYTlMysBPPSr0tB3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uhX5VoLh5wDdM6rZ1sWtYeaZGm9.png",
+    "certificate": null,
+    "runTimeMinutes": 126,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "15049",
+    "tmdbId": 15049,
+    "type": "movie",
+    "title": "Bon Cop Bad Cop",
+    "overview": "When the body of the executive of hockey Benoit Brisset is found on the billboard of the border of Quebec and Ontario, the jurisdiction of the crime is shared between the two police forces and detectives David Bouchard from Montreal and Martin Ward from Toronto are assigned to work together. With totally different styles, attitudes and languages.",
+    "year": "2006",
+    "rating": 6.394,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kidOf2K4pEM0Llsm8aIRcANTcSF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f8Vy1YNbHcZSwXAS8zCzZ2yiSQz.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "302699",
+    "tmdbId": 302699,
+    "type": "movie",
+    "title": "Central Intelligence",
+    "overview": "Calvin Joyner, a mild-mannered accountant whose high school glory days are long behind him, reconnects with an awkward pal from high school through Facebook. After meeting up, Calvin’s mundane life takes an unexpectedly thrilling turn when he's thrust into the world of international espionage.",
+    "year": "2016",
+    "rating": 6.416,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/12gfRwL8RuZUQ4kiGzq9kRYBK5J.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e1n3cv44H0LsL46ejV4kALVi2Jx.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "205022",
+    "tmdbId": 205022,
+    "type": "movie",
+    "title": "Chennai Express",
+    "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
+    "year": "2013",
+    "rating": 6.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9j7XfhBJKNfidMCa8JsNbqU1waV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8u7dfVGGBcGrk1nCu55X5RqImwv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Ch5mF02b7uu9OX38NjpQhQIjfQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "755566",
+    "tmdbId": 755566,
+    "type": "movie",
+    "title": "Day Shift",
+    "overview": "An LA vampire hunter has a week to come up with the cash to pay for his kid's tuition and braces. Trying to make a living these days just might kill him.",
+    "year": "2022",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tkl7n5r542S40hnYDI27lGNCACu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yjZM4QrgA7PqX18Es6DxvJQH3ba.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fogbBJyeMvex7c87wRj6lbIZ3Qc.png",
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "897087",
+    "tmdbId": 897087,
+    "type": "movie",
+    "title": "Freelance",
+    "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+    "year": "2023",
+    "rating": 6.392,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lrJQNZHYLpitvLHJxuwKBJWn1Cw.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "456750",
+    "tmdbId": 456750,
+    "type": "movie",
+    "title": "Game Over, Man!",
+    "overview": "Three friends are on the verge of getting their video game financed when their benefactor is taken hostage by terrorists.",
+    "year": "2018",
+    "rating": 5.47,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/58BnnYeQOTzdMBghZIH1tSH0REx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/inhn4rTCAhvnu9yR5Kl1ZCRjBki.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "967847",
+    "tmdbId": 967847,
+    "type": "movie",
+    "title": "Ghostbusters: Frozen Empire",
+    "overview": "The Spengler family returns to where it all started - the iconic New York City firehouse - to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.",
+    "year": "2024",
+    "rating": 6.442,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8bphDsI8M22A8ztDabHV03rOhlS.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8960",
+    "tmdbId": 8960,
+    "type": "movie",
+    "title": "Hancock",
+    "overview": "Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
+    "year": "2008",
+    "rating": 6.356,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iv1sHWduVdF7svwnS2Z86dzzOcJ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8427",
+    "tmdbId": 8427,
+    "type": "movie",
+    "title": "I Spy",
+    "overview": "When the Switchblade, the most sophisticated prototype stealth fighter created yet, is stolen from the U.S. government, one of the United States' top spies, Alex Scott, is called to action. What he doesn't expect is to get teamed up with a cocky civilian, World Class Boxing Champion Kelly Robinson, on a dangerous top secret espionage mission. Their assignment: using equal parts skill and humor, catch Arnold Gundars, one of the world's most successful arms dealers.",
+    "year": "2002",
+    "rating": 5.44,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hmjCMtkeqxruMVocq7iwMx899xi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qwGkQpQbDXuHDOq909RQmJPENwN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9JpoGHdmaa8dQ7Ztj24DsBmYnIW.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "512200",
+    "tmdbId": 512200,
+    "type": "movie",
+    "title": "Jumanji: The Next Level",
+    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "year": "2019",
+    "rating": 6.871,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nmpQDwh8LrBe7eDCPr1xcUif8Pc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "955916",
+    "tmdbId": 955916,
+    "type": "movie",
+    "title": "Lift",
+    "overview": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+    "year": "2024",
+    "rating": 6.435,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AaModY6YpQmEFzG56ALP1PFLPUU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bR6tFgqFaJv0nn585laKuJgEukh.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "656103",
+    "tmdbId": 656103,
+    "type": "movie",
+    "title": "Love and Monsters",
+    "overview": "A warm sea, hot sun, a burning beauty in a police uniform and a bottle of wine are all that Yura Skvortsov needs to be happy, who has come to the resort to heal his mental wounds. Of course, there is a low season at any resort. But only here, in Bulgaria, it comes literally. First, the English dog disappears, then the lion, and then the already few tourists disappear altogether. Yura will have to defend his right to live and love in a fierce battle with unknown monsters that threaten all living things. Fortunately, the invincible monsters have one weak point: alcohol is poison for them. Now, in order to survive and defeat the unknown evil, the heroes will have to drink without getting dry.",
+    "year": "2021",
+    "rating": 2.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xoIk7ikX2XnhSkfQTidDOKPxZP4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nEEU0AlxTgfBRdyzLQb3AFlK3yU.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14134",
+    "tmdbId": 14134,
+    "type": "movie",
+    "title": "Main Hoon Na",
+    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+    "year": "2004",
+    "rating": 6.624,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
+    "certificate": "PG",
+    "runTimeMinutes": 179,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "787",
+    "tmdbId": 787,
+    "type": "movie",
+    "title": "Mr. & Mrs. Smith",
+    "overview": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+    "year": "2005",
+    "rating": 6.694,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tgDSUwWMgypgmcBhRs9u30RLPNC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kIWqFbTwqHNBPkXwmbqhoJfbZLH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "514999",
+    "tmdbId": 514999,
+    "type": "movie",
+    "title": "Murder Mystery",
+    "overview": "On a long-awaited trip to Europe, a New York City cop and his hairdresser wife scramble to solve a baffling murder aboard a billionaire's yacht.",
+    "year": "2019",
+    "rating": 6.252,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bSMSO9xupd4R4vwTPqigHn2quLN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wL8KA3zIJQPbbU5hJlyIdmmLZit.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3PXagFwLrEndLDA3t5PstzVE9Nm.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "638974",
+    "tmdbId": 638974,
+    "type": "movie",
+    "title": "Murder Mystery 2",
+    "overview": "After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.",
+    "year": "2023",
+    "rating": 6.362,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mXW4IwnCRvlVBOleidPhD2nCpkQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "256961",
+    "tmdbId": 256961,
+    "type": "movie",
+    "title": "Paul Blart: Mall Cop 2",
+    "overview": "Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.",
+    "year": "2015",
+    "rating": 5.167,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qML63w7vgspicwLK6xXGLK17cM0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cVsmfmsuUWjM9EKhtmqxtPmQjQG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fhSzdfEV1RxD2H3HCy4XFPd6KhQ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "287947",
+    "tmdbId": 287947,
+    "type": "movie",
+    "title": "Shazam!",
+    "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+    "year": "2019",
+    "rating": 6.97,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nMdTehFJ30XAz9MLIk96kKYuPfy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "27573",
+    "tmdbId": 27573,
+    "type": "movie",
+    "title": "The Bounty Hunter",
+    "overview": "Milo Boyd, a down-on-his-luck bounty hunter, thinks he's seeing an upswing in fortune when he gets a call to bring in his bail-jumping ex-wife, a reporter named Nicole. Milo considers the job an easy payday, but Nicole quickly escapes to chase a lead on a murder case. The former spouses play an escalating game of one-upmanship, until they suddenly find themselves on the run for their lives.",
+    "year": "2010",
+    "rating": 5.851,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fJPKar0jnAsS09l3xfP6LL8sUkX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zoBpc8yHzZMpOyFiiMP1iKSZzwH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bbsn2v0R9Tlg0u4wG3kg1XvWx00.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "389053",
+    "tmdbId": 389053,
+    "type": "movie",
+    "title": "The Do-Over",
+    "overview": "The life of a bank manager is turned upside down when a friend from his past manipulates him into faking his own death and taking off on an adventure.",
+    "year": "2016",
+    "rating": 5.709,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z9VCm2E6gCAwbM2SELRawfqdXBO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rDZArKpxVhrLXrRYD9xF271klVf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5BQqvUeYDZUxBYyfS8Dm7DeJJO9.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "412988",
+    "tmdbId": 412988,
+    "type": "movie",
+    "title": "The Happytime Murders",
+    "overview": "In a world where humans coexist with puppets—who are seen as lesser citizens—cast members of a beloved 1990s children's television series begin getting murdered one by one. Puppet Phil Philips, an ex-LAPD detective-turned-private eye, takes on the case at the request of his old boss in order to assist his former partner, Detective Connie Edwards.",
+    "year": "2018",
+    "rating": 5.818,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rWxkur51srfVnMn2QOFjE7mbq6h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nMEGEPQIyS30KIJpZETGpluFquJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9seJ04DSxvL1zAEhoQ6xOdc5lKn.png",
+    "certificate": "R",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "390043",
+    "tmdbId": 390043,
+    "type": "movie",
+    "title": "The Hitman's Bodyguard",
+    "overview": "The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+    "year": "2017",
+    "rating": 6.894,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r0IKaC9zbEVjyAFF7xxfuCk7qvV.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "522931",
+    "tmdbId": 522931,
+    "type": "movie",
+    "title": "Hitman's Wife's Bodyguard",
+    "overview": "The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius's even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.",
+    "year": "2021",
+    "rating": 6.625,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bjIPzixuWnOzxDG25WaXKuy9lYZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zAgXLOZiCTkmXahbzh3kxrCanzD.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "667739",
+    "tmdbId": 667739,
+    "type": "movie",
+    "title": "The Man from Toronto",
+    "overview": "A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin known as The Man from Toronto in hopes of staying alive.",
+    "year": "2022",
+    "rating": 6.386,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uTCfTibqtk4f90cC59bLPMOmsfc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cw1BkYi8bP62hTw5HoEngVZfTTw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nFd2FoiV4hEH6sE9vT5wL3p9Ide.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "203801",
+    "tmdbId": 203801,
+    "type": "movie",
+    "title": "The Man from U.N.C.L.E.",
+    "overview": "At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo's only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.",
+    "year": "2015",
+    "rating": 7.076,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bu0LiPEWKHWViRoaFwlTAzZ8wyS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pqg5goNhKh371m4ULYApeEtKuQj.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "854",
+    "tmdbId": 854,
+    "type": "movie",
+    "title": "The Mask",
+    "overview": "Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit of the Norse god Loki. Donning it transforms him into an unrestrained, green-faced, cartoon-like wild man. While the mask grants him the confidence to woo a local singer, it also makes him the target of a ruthless mobster.",
+    "year": "1994",
+    "rating": 6.995,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bGz2KRRj4NMJ0M8SdydzMEb0u5M.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "921636",
+    "tmdbId": 921636,
+    "type": "movie",
+    "title": "The Out-Laws",
+    "overview": "A straight-laced bank manager is about to marry the love of his life. When his bank is held up by infamous Ghost Bandits during his wedding week, he believes his future in-laws who just arrived in town, are the infamous Out-Laws.",
+    "year": "2023",
+    "rating": 5.982,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fjWcAbHRxCSR4kLGvsPEhNjR2ts.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/FJemiI4NRti02iVXLGFwlIowcP.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "704239",
+    "tmdbId": 704239,
+    "type": "movie",
+    "title": "The Union",
+    "overview": "A New Jersey construction worker goes from regular guy to aspiring spy when his long-lost high school sweetheart recruits him for an espionage mission.",
+    "year": "2024",
+    "rating": 6.035,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iHYdmjzphqXEhnlhC4UIRykJOy8.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "615678",
+    "tmdbId": 615678,
+    "type": "movie",
+    "title": "Thunder Force",
+    "overview": "In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.",
+    "year": "2021",
+    "rating": 5.469,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3mKMWP5OokB7QpcOMA1yl8BXFAF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z7HLq35df6ZpRxdMAE0qE3Ge4SJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2LZrjoganP7IciO9I0HCjptpDXf.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1218628",
+    "tmdbId": 1218628,
+    "type": "movie",
+    "title": "Trouble Man",
+    "overview": "Jaxen, a former cop turned Atlanta PI, is hired to find missing R&B star Jahari. His investigation uncovers her disappearance is connected to a larger conspiracy, forcing him to question those around him and his own past.",
+    "year": "2025",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/v3ETgv42JkchzAYK4ZDI5VvsY3w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q6DLjPZM7tMeNcLNjgyyRfamnuT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rWso7QUhCLZo7eotFXhvGNqXTDd.png",
+    "certificate": null,
+    "runTimeMinutes": 92,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

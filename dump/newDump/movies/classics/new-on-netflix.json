@@ -1,0 +1,82 @@
+[
+  {
+    "id": "712",
+    "tmdbId": 712,
+    "type": "movie",
+    "title": "Four Weddings and a Funeral",
+    "overview": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+    "year": "1994",
+    "rating": 6.772,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ejFaHWnDP29z7ePw2cJVOsWvOvH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/47y2zl1CkIX0KtHAAStlm5W4AnL.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "19494",
+    "tmdbId": 19494,
+    "type": "movie",
+    "title": "Nine to Five",
+    "overview": "Three female employees of a sexist, egotistical, lying, hypocritical bigot find a way to turn the tables on him.",
+    "year": "1980",
+    "rating": 6.949,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/anGHRo1tAAVoa7juvAuxldAE4lL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ks428BV2mUhc0jplt7SeM7RQ6nq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8poVSHQVQopTc6c6YSXfWrlEpj8.png",
+    "certificate": "PG",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "792",
+    "tmdbId": 792,
+    "type": "movie",
+    "title": "Platoon",
+    "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "year": "1986",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q4A2A7h9HsKKBfTxESAdc2N4hVg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/104cnXJEg5405iAVQj3m5Id1LZZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9040",
+    "tmdbId": 9040,
+    "type": "movie",
+    "title": "Serpico",
+    "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+    "year": "1973",
+    "rating": 7.529,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dXlO2Ri2RvVYWRtBsr6GsIVkleX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3po2GzgKV86GIxcZ4xqDXCarclQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

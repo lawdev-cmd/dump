@@ -1,0 +1,385 @@
+[
+  {
+    "id": "508763",
+    "tmdbId": 508763,
+    "type": "movie",
+    "title": "A Dog's Way Home",
+    "overview": "The adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
+    "year": "2019",
+    "rating": 7.389,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w7MsyOpP003FYhsiTgVHa3rNsrz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/paEDq9mSUIve1inHpFalKjYECcL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CN",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "438590",
+    "tmdbId": 438590,
+    "type": "movie",
+    "title": "A-X-L",
+    "overview": "The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.",
+    "year": "2018",
+    "rating": 6.369,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2PCcEJ1lUJgir598yMGXkluJa6y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8V7UJlMazAR6FrlbqMMESMcZpqS.png",
+    "certificate": "PG",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "643215",
+    "tmdbId": 643215,
+    "type": "movie",
+    "title": "Asterix & Obelix: The Middle Kingdom",
+    "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+    "year": "2023",
+    "rating": 4.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vsRhZCmZFYYgrfqK54temfuDlBJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105",
+    "tmdbId": 105,
+    "type": "movie",
+    "title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "year": "1985",
+    "rating": 8.329,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "certificate": "PG",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "165",
+    "tmdbId": 165,
+    "type": "movie",
+    "title": "Back to the Future Part II",
+    "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+    "year": "1989",
+    "rating": 7.785,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcMAuJFNVfEKjdBsWg5XIOSdTZa.png",
+    "certificate": "PG",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196",
+    "tmdbId": 196,
+    "type": "movie",
+    "title": "Back to the Future Part III",
+    "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "year": "1990",
+    "rating": 7.496,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "592867",
+    "tmdbId": 592867,
+    "type": "movie",
+    "title": "Dragon Quest: Your Story",
+    "overview": "Luca follows in his father's footsteps to rescue his mother from evil Ladja. Finding the heavenly hero who wields the Zenithian sword is his only hope.",
+    "year": "2019",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5R70ehKGh5V0ZYOdikxwSfoLGMt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vKhp5yhdtPkKsBOYXMjb5Yi05e7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1lCMwBfmgR96EcpIfaYLP62avMB.png",
+    "certificate": "PG",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "877957",
+    "tmdbId": 877957,
+    "type": "movie",
+    "title": "Drifting Home",
+    "overview": "One fateful summer, a group of elementary school kids set adrift on an abandoned apartment building must look within themselves to find a way back home.",
+    "year": "2022",
+    "rating": 7.356,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iNf1wC8cK6e8zgNyuMUqWFT7Din.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7id7oE3gqZuO0piWN20Ev7V90wl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dNPXuhbnUtsMwcaSlfKXzMIKcP2.png",
+    "certificate": "PG",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1092329",
+    "tmdbId": 1092329,
+    "type": "movie",
+    "title": "Journey to Bethlehem",
+    "overview": "A young woman carrying an unimaginable responsibility. A young man torn between love and honor. A jealous king who will stop at nothing to keep his crown.",
+    "year": "2023",
+    "rating": 7.68,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cJgF1vjiNoRAh5UePmiPfjrw6Iv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qJlbMCpBZTvS5QZ7z2bFCYyRjSB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rZpfG11z861DAY6ocjYbKKnKMoq.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "272878",
+    "tmdbId": 272878,
+    "type": "movie",
+    "title": "Max",
+    "overview": "A dog that helped soldiers in Afghanistan returns to the U.S. and is adopted by his handler's family after suffering a traumatic experience.",
+    "year": "2015",
+    "rating": 7.116,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d3ACos3t4YwXML8keTA0wKN8e36.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bxBpDzktYTDMpx7VrS6r6wNDeTk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/srdLXzWCHkf8yHbJm4MYivdAtmJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "851281",
+    "tmdbId": 851281,
+    "type": "movie",
+    "title": "Monster Hunter: Legends of the Guild",
+    "overview": "In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.",
+    "year": "2021",
+    "rating": 5.719,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zkPheFJAk0xjGW9IC3rAxjNuDSB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uUYQOYpgCgzzgZavJ6SeZCwrmav.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1231574",
+    "tmdbId": 1231574,
+    "type": "movie",
+    "title": "My Oni Girl",
+    "overview": "A shy teenage boy's inability to say no is tested when a headstrong girl drags him on a mystical journey amid summer snow to find her missing mom.",
+    "year": "2024",
+    "rating": 7.226,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k69kkwsipkPn7Nzq488kHGQTPo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p1qQ9HjerdG2Xg4IopznsmaahDM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kFCLYSRjNqrLexfV2mCufyZ5MjP.png",
+    "certificate": "PG",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11621",
+    "tmdbId": 11621,
+    "type": "movie",
+    "title": "Porco Rosso",
+    "overview": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
+    "year": "1992",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ec4m0EvVlEtVl5aySdw6ab9uG0b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gChm9syaXaZA0ixKvaWwOyeKzr9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "36214",
+    "tmdbId": 36214,
+    "type": "movie",
+    "title": "Rebirth of Mothra",
+    "overview": "A new Mothra takes to the air and battles against Desghidorah to save all of humanity.",
+    "year": "1996",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7GYJ433TAUZbvcZDUxY71zFNAbQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eCWmP3C3I4pg5kywdNCJz9khYh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Amf31EuLAR8nRvopn6uAVpTBHvw.png",
+    "certificate": null,
+    "runTimeMinutes": 104,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "36212",
+    "tmdbId": 36212,
+    "type": "movie",
+    "title": "Rebirth of Mothra II",
+    "overview": "The fairies from Infant Island discover a lost city, as well as a giant monster that is attracted to environmental calamities.",
+    "year": "1997",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1tXKK2HZCzxWmuE7MeJ0o38aUKn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/njEV665uPL7ptlhod0UCMb1P4PV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/67B4W1MsdIT3VqyOaO8EtxT2KIL.png",
+    "certificate": null,
+    "runTimeMinutes": 97,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "36247",
+    "tmdbId": 36247,
+    "type": "movie",
+    "title": "Rebirth of Mothra III",
+    "overview": "To save the world, Mothra goes back in time in an attempt to defeat a younger King Ghidorah.",
+    "year": "1998",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gjPOYcixy3ESaCYnucjFkluSEW5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tSxd9g80Av9ZbFsFXJK6oUAmCOR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2juyKJ4gWAvNQDbw4ux8EHvStYT.png",
+    "certificate": null,
+    "runTimeMinutes": 99,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "626393",
+    "tmdbId": 626393,
+    "type": "movie",
+    "title": "The Sleepover",
+    "overview": "Two siblings who discover their seemingly normal mom is a former thief in witness protection. Mom is forced to pull one last job, and the kids team up to rescue her over the course of an action-packed night.",
+    "year": "2020",
+    "rating": 6.384,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mQngZ4DtXqdkX9fOQRsm9iym5OW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4MckokzyUB3SuyTRpDjqkqQIz2X.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24961",
+    "tmdbId": 24961,
+    "type": "movie",
+    "title": "The Wiz",
+    "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+    "year": "1978",
+    "rating": 6.189,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9zkvOuDQzpYSKUTtSlP6QDe3JNv.png",
+    "certificate": "G",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "739986",
+    "tmdbId": 739986,
+    "type": "movie",
+    "title": "True Spirit",
+    "overview": "When the tenacious young sailor Jessica Watson sets out to be the youngest person to sail solo, nonstop and unassisted around the world, many expect her to fail. With the support of her sailing coach and mentor Ben Bryant and her parents, Jessica is determined to accomplish what was thought to be impossible, navigating some of the world’s most challenging stretches of ocean over the course of 210 days.",
+    "year": "2023",
+    "rating": 6.996,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5qntAorVEzixuYOIPMCGwDiuGkd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dA34DDakXgvbjnyKocOcLJtKz0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u83WmNUgkGGWuqHbriGKyxBIpI3.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "AU",
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]
