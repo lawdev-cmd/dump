@@ -1,0 +1,787 @@
+[
+  {
+    "id": "1163258",
+    "tmdbId": 1163258,
+    "type": "movie",
+    "title": "12th Fail",
+    "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+    "year": "2023",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nhnKWMtAdD31Wklbq4JR4IDWbHa.png",
+    "certificate": "PG",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "40807",
+    "tmdbId": 40807,
+    "type": "movie",
+    "title": "50/50",
+    "overview": "Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.",
+    "year": "2011",
+    "rating": 7.197,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/inJlDPDtKlbXn9zhdTrohhbFlD6.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "453",
+    "tmdbId": 453,
+    "type": "movie",
+    "title": "A Beautiful Mind",
+    "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+    "year": "2001",
+    "rating": 7.852,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/egRFWszdVWBcKWnlm7D0s0Aq5wq.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "332562",
+    "tmdbId": 332562,
+    "type": "movie",
+    "title": "A Star Is Born",
+    "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+    "year": "2018",
+    "rating": 7.489,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/px1y5QKnt2VReQsOk4sfh71tINy.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Music",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "644",
+    "tmdbId": 644,
+    "type": "movie",
+    "title": "A.I. Artificial Intelligence",
+    "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+    "year": "2001",
+    "rating": 7.069,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "283587",
+    "tmdbId": 283587,
+    "type": "movie",
+    "title": "Beasts of No Nation",
+    "overview": "Based on the experiences of Agu, a child fighting in the civil war of a West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
+    "year": "2015",
+    "rating": 7.582,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Edm0assnCckcdCFrUdufR9daaI.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "650",
+    "tmdbId": 650,
+    "type": "movie",
+    "title": "Boyz n the Hood",
+    "overview": "Three friends growing up in South Central Los Angeles navigate a neighborhood plagued by violence, unemployment, and crime, each responding differently to the harsh realities of street life. As tragedy strikes close to home, their friendship, choices, and hopes for a better future are put to the ultimate test.",
+    "year": "1991",
+    "rating": 7.638,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kaS8BkTZESnkoB5i1zRQ02FIRGk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xensHK9qUso0rIrTeQw3ConGu2s.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6Advq2hn9AdzGkl3Yo5zaV8Ij0g.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "142",
+    "tmdbId": 142,
+    "type": "movie",
+    "title": "Brokeback Mountain",
+    "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+    "year": "2005",
+    "rating": 7.784,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yS4ATObRBWI3JIH2Te0S4iZNfq.png",
+    "certificate": "R",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1167307",
+    "tmdbId": 1167307,
+    "type": "movie",
+    "title": "David",
+    "overview": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+    "year": "2025",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8c0u0yRU0cjGoAPkHoOZQpq4esp.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "ZA",
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "472734",
+    "tmdbId": 472734,
+    "type": "movie",
+    "title": "Dumplin'",
+    "overview": "To prove a point about measuring up and fitting in, Texas teen Willowdean “Dumplin’” Dickson enters a local pageant run by her ex-beauty queen mom.",
+    "year": "2018",
+    "rating": 6.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9c9X3HHlBKuPpvOcFIxlldS7TGh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eLEk0oQpa6FfnmKeIK1wRnO6Y4k.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "497582",
+    "tmdbId": 497582,
+    "type": "movie",
+    "title": "Enola Holmes",
+    "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+    "year": "2020",
+    "rating": 7.218,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tq4PQYmth5PMId45vXr8QlEKfdB.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "940721",
+    "tmdbId": 940721,
+    "type": "movie",
+    "title": "Godzilla Minus One",
+    "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+    "year": "2023",
+    "rating": 7.595,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/glnJMBoFXWAaD7j7pFmNW8d7RpI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "705861",
+    "tmdbId": 705861,
+    "type": "movie",
+    "title": "Hustle",
+    "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+    "year": "2022",
+    "rating": 7.695,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cPKhz9dztcnOsHFn8dGakR9M5dn.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46738",
+    "tmdbId": 46738,
+    "type": "movie",
+    "title": "Incendies",
+    "overview": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+    "year": "2010",
+    "rating": 8.102,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jDADVUZdWCTArACWXIdiedbfi1i.png",
+    "certificate": "R",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "313369",
+    "tmdbId": 313369,
+    "type": "movie",
+    "title": "La La Land",
+    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+    "year": "2016",
+    "rating": 7.897,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/97DYpdDmiOpfn9l9I2dGxDH01t1.svg",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "596161",
+    "tmdbId": 596161,
+    "type": "movie",
+    "title": "Let Him Go",
+    "overview": "Following the loss of their son, a retired sheriff and his wife leave their Montana ranch to rescue their young grandson from the clutches of a dangerous family living off the grid in the Dakotas.",
+    "year": "2020",
+    "rating": 6.825,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ZLD4pjmMLt9I3t1a7SFJBekIh1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xxnfN5YX4I9JmBxLjZw4g7mQuz6.png",
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "492188",
+    "tmdbId": 492188,
+    "type": "movie",
+    "title": "Marriage Story",
+    "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+    "year": "2019",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9jqMHHph7PCca30w0SQtR3yReJZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "618219",
+    "tmdbId": 618219,
+    "type": "movie",
+    "title": "Mosul",
+    "overview": "When ISIS took their homes, families and city, one group of men fought to take it all back. Based on true events, this is the story of the Nineveh SWAT team, a renegade police unit who waged a guerrilla operation against ISIS in a desperate struggle to save their home city of Mosul.",
+    "year": "2019",
+    "rating": 6.688,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dW1UNgDkVNreqYJk1YKo4ACa705.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hBPV18ocvkYbiD9kOJRgorPo5O8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wREgNBIytrJAx1fNOJjWsqIxpjM.png",
+    "certificate": null,
+    "runTimeMinutes": 102,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1151039",
+    "tmdbId": 1151039,
+    "type": "movie",
+    "title": "Nonnas",
+    "overview": "After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual nonnas — grandmothers — as the chefs.",
+    "year": "2025",
+    "rating": 6.774,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rN6HA9a4oUpy4HKgnOHqaO751Kd.png",
+    "certificate": "PG",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1222248",
+    "tmdbId": 1222248,
+    "type": "movie",
+    "title": "Number 24",
+    "overview": "On the brink of the Second World War, a young Norwegian man's drive to resist the Nazis sets a new course for his future – and the future of his country.",
+    "year": "2024",
+    "rating": 7.147,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8r4Fk4GZMPZGRBjxFJsZjJICj0O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6ZPoWuoRhrZrSNSyh4bBBk4grmM.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "War",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "974036",
+    "tmdbId": 974036,
+    "type": "movie",
+    "title": "Ordinary Angels",
+    "overview": "Inspired by the incredible true story of a hairdresser who single-handedly rallies an entire community to help a widowed father save the life of his critically ill young daughter.",
+    "year": "2024",
+    "rating": 7.685,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4RoH6458UkjmCNH8SicnmSjBoB5.png",
+    "certificate": "PG",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "206487",
+    "tmdbId": 206487,
+    "type": "movie",
+    "title": "Predestination",
+    "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+    "year": "2014",
+    "rating": 7.415,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ywYmVAIm01aM4UT5770WSC3iWGD.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4348",
+    "tmdbId": 4348,
+    "type": "movie",
+    "title": "Pride & Prejudice",
+    "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+    "year": "2005",
+    "rating": 8.054,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vuyRQbu5GHZcZ1Ky6SXLjO0QHnb.png",
+    "certificate": "PG",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1592",
+    "tmdbId": 1592,
+    "type": "movie",
+    "title": "Primal Fear",
+    "overview": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+    "year": "1996",
+    "rating": 7.66,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dZM71rHXh3Oo3WZlw8YpMMsoVB5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6SRkTyAD0bXdWA1JepAi3KAJlp0.png",
+    "certificate": "R",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1330021",
+    "tmdbId": 1330021,
+    "type": "movie",
+    "title": "Remarkably Bright Creatures",
+    "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+    "year": "2026",
+    "rating": 8.438,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9yhvM7mpxH8smgRAdLJwy4JE5R2.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4148",
+    "tmdbId": 4148,
+    "type": "movie",
+    "title": "Revolutionary Road",
+    "overview": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children. Based on a novel by Richard Yates.",
+    "year": "2008",
+    "rating": 6.987,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ra9aXj8PpUbUHwwTRSl5zsL6WHM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i6nHGHjWIryKo1jwWkZxrTJ5V4V.png",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9040",
+    "tmdbId": 9040,
+    "type": "movie",
+    "title": "Serpico",
+    "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+    "year": "1973",
+    "rating": 7.529,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dXlO2Ri2RvVYWRtBsr6GsIVkleX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3po2GzgKV86GIxcZ4xqDXCarclQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "363676",
+    "tmdbId": 363676,
+    "type": "movie",
+    "title": "Sully",
+    "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+    "year": "2016",
+    "rating": 7.205,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sdr6rygIuRNJeRqeDZidOHhmQaK.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "491480",
+    "tmdbId": 491480,
+    "type": "movie",
+    "title": "The Boy Who Harnessed the Wind",
+    "overview": "Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.",
+    "year": "2019",
+    "rating": 7.885,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tx7mBYNlB7xhX53sH26e29GgE3L.png",
+    "certificate": null,
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "GB",
+      "MW"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "826",
+    "tmdbId": 826,
+    "type": "movie",
+    "title": "The Bridge on the River Kwai",
+    "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+    "year": "1957",
+    "rating": 7.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/94SBMz11SiEwrLaWUOVx5om7NHu.png",
+    "certificate": "PG",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "633515",
+    "tmdbId": 633515,
+    "type": "movie",
+    "title": "The Forgotten Battle",
+    "overview": "During WWII's crucial Battle of the Scheldt, the lives of a glider pilot, a Nazi soldier and a reluctant Resistance recruit tragically intersect.",
+    "year": "2021",
+    "rating": 7.096,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qmCCXB6fn1Sjztm4t56Xviw0uDI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hJUljtL7HQ794yk6XAJthhyc5He.png",
+    "certificate": "R",
+    "runTimeMinutes": 126,
+    "primaryGenre": "War",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "NL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "318121",
+    "tmdbId": 318121,
+    "type": "movie",
+    "title": "The Fundamentals of Caring",
+    "overview": "Having suffered a tragedy, Ben becomes a caregiver to earn money. His first client, Trevor, is a hilarious 18-year-old with muscular dystrophy. One paralyzed emotionally, one paralyzed physically, Ben and Trevor hit the road on a trip into the western states. The folks they collect along the way will help them test their skills for surviving outside their calculated existence. Together, they come to understand the importance of hope and the necessity of true friendship.",
+    "year": "2016",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zZ0eda1GyHILNSoq9KF5u0hcq6O.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9kAKDdnHvhS93eMTqsXwiVaBtw7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ajgX4nv3lqht5h0TXQ67MogGaSF.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1247",
+    "tmdbId": 1247,
+    "type": "movie",
+    "title": "The Good Shepherd",
+    "overview": "Edward Wilson, the only witness to his father's suicide and member of the Skull and Bones Society while a student at Yale, is a morally upright young man who values honor and discretion, qualities that help him to be recruited for a career in the newly founded OSS. His dedication to his work does not come without a price though, leading him to sacrifice his ideals and eventually his family.",
+    "year": "2006",
+    "rating": 6.358,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qWmF0rQRPeIVQRfwQN3C9VFKsBh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kR0b1QrKIn4AJs1a56ejU7tWfoh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uSSI7vj6TmGwXvHn9ApjN2BmR7M.png",
+    "certificate": "R",
+    "runTimeMinutes": 167,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "618162",
+    "tmdbId": 618162,
+    "type": "movie",
+    "title": "The Harder They Fall",
+    "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
+    "year": "2021",
+    "rating": 6.614,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gxovnh8a9o6h7xItEqDx1bhOVJ3.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Western",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "489243",
+    "tmdbId": 489243,
+    "type": "movie",
+    "title": "The Hummingbird Project",
+    "overview": "A pair of high-frequency traders go up against their old boss in an effort to make millions in a fiber-optic cable deal.",
+    "year": "2019",
+    "rating": 6.17,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cx7CuTtcJvjZAP6ZFWoxylCXKFP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4N6eXAhEm2rdwyMUrY2c4c7lTfO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xm59EiW34gstON9KV3KldtSEBRn.png",
+    "certificate": "R",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "531876",
+    "tmdbId": 531876,
+    "type": "movie",
+    "title": "The Outpost",
+    "overview": "A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.",
+    "year": "2020",
+    "rating": 6.901,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2ZsiregLZBzou3jDvp6RdpZ0Kwv.png",
+    "certificate": "R",
+    "runTimeMinutes": 123,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "84892",
+    "tmdbId": 84892,
+    "type": "movie",
+    "title": "The Perks of Being a Wallflower",
+    "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+    "year": "2012",
+    "rating": 7.804,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aM6E4DBP6588q3tEr9hz41ls80q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r1GVuodjkXCl23a2mpjDINZWw73.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "473033",
+    "tmdbId": 473033,
+    "type": "movie",
+    "title": "Uncut Gems",
+    "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+    "year": "2019",
+    "rating": 7.17,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hiF1jRHALkH8WzynYVURoNXQX6T.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "835113",
+    "tmdbId": 835113,
+    "type": "movie",
+    "title": "Woman of the Hour",
+    "overview": "An aspiring actress crosses paths with a prolific serial killer in '70s LA when they're cast on an episode of \"The Dating Game.\"",
+    "year": "2024",
+    "rating": 6.389,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n6KXCV9jqUDDL5HCIoKHQ8kD9Fq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hdzERGxwo1CQzANmc5zFcTJlnSm.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

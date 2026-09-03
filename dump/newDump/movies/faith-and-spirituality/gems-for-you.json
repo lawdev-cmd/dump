@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1525446",
+    "tmdbId": 1525446,
+    "type": "movie",
+    "title": "Agape: The Unconditional Love",
+    "overview": "A story about a silent, but deep struggle. About a caregiver who loves unconditionally, with a heart that never asks for something back.",
+    "year": "2025",
+    "rating": 3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aylX6hIIbeIK2sOyeA5NeEVVm74.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w4M9w57wpH5um8UTX25548okOsJ.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 105,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1207005",
+    "tmdbId": 1207005,
+    "type": "movie",
+    "title": "Deive Leonardo: The Answer",
+    "overview": "Social media phenomenon Deive Leonardo reflects on God's love, sings and tells stories about the disciple Peter's spiritual journey in this special.",
+    "year": "2023",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pXAFc9Agri5xW0lqcOpVP7ydiki.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/faysJAFo9JEgwihTRsKaAU2nigZ.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 83,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1092329",
+    "tmdbId": 1092329,
+    "type": "movie",
+    "title": "Journey to Bethlehem",
+    "overview": "A young woman carrying an unimaginable responsibility. A young man torn between love and honor. A jealous king who will stop at nothing to keep his crown.",
+    "year": "2023",
+    "rating": 7.68,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cJgF1vjiNoRAh5UePmiPfjrw6Iv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qJlbMCpBZTvS5QZ7z2bFCYyRjSB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rZpfG11z861DAY6ocjYbKKnKMoq.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1061089",
+    "tmdbId": 1061089,
+    "type": "movie",
+    "title": "Nothing Is Impossible",
+    "overview": "When an NBA team suddenly announces open tryouts, a high school janitor gets a second chance at both love and life.",
+    "year": "2022",
+    "rating": 6.683,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2QNqDa8aKylMzSHDWHbhPVxDgla.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/th0GkJcFf9cwzLnvcb1ymBNHRTW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wSNsAZJubO2QoAA5wwn8lGamCwt.png",
+    "certificate": "PG",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "137440",
+    "tmdbId": 137440,
+    "type": "show",
+    "title": "Stories of a Generation - with Pope Francis",
+    "overview": "Stories Of A Generation narrates the values of life: from love to pain, from work to dreams. 18 generational stories are enriched with the participation of Pope Francis and Martin Scorsese.",
+    "year": "2021",
+    "rating": 7.071,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qtOOSDlTAcfGIDbLwHHoV0QtQqI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/haEpitDI5AFbEP9Mg2swqLrQcBq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mYlfDU8OInbhUN8DHiuZV3NPSeh.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  }
+]

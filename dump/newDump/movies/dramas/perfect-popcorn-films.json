@@ -1,0 +1,725 @@
+[
+  {
+    "id": "644",
+    "tmdbId": 644,
+    "type": "movie",
+    "title": "A.I. Artificial Intelligence",
+    "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+    "year": "2001",
+    "rating": 7.069,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1511417",
+    "tmdbId": 1511417,
+    "type": "movie",
+    "title": "Bāhubali: The Epic",
+    "overview": "When a mysterious child is found by a tribal couple near a roaring waterfall, they raise him as their own. As he grows, Sivudu is drawn to the world beyond the cliffs, where he discovers the ancient kingdom of Mahishmati, ruled by a cruel tyrant, haunted by rebellion, and bound to his past. What begins as a quest for love soon unravels a legacy of betrayal, sacrifice, and a forgotten prince.",
+    "year": "2025",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wCwZ4ljSsWyZyTiyk1tGQtBHTDx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mOTwXTjYJmgNFiL4KU5wWLkwNy9.png",
+    "certificate": null,
+    "runTimeMinutes": 224,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "348892",
+    "tmdbId": 348892,
+    "type": "movie",
+    "title": "Bajrangi Bhaijaan",
+    "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+    "year": "2015",
+    "rating": 7.816,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 159,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "518963",
+    "tmdbId": 518963,
+    "type": "movie",
+    "title": "Believer",
+    "overview": "After a traumatic event, a drug trafficker turns sides and conspires with a dangerously ambitious undercover police officer to bring down the mysterious kingpin of a major drug cartel.",
+    "year": "2018",
+    "rating": 7.174,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8mXEq5vomTKsR5YTQIgLj1b2phZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fZHXNbtjp14cNMbnrC2VNd10rJY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h5Nc0506EXf2fbcU5DWC7VZPgJd.png",
+    "certificate": null,
+    "runTimeMinutes": 123,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "360814",
+    "tmdbId": 360814,
+    "type": "movie",
+    "title": "Dangal",
+    "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+    "year": "2016",
+    "rating": 7.873,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w9Bxolh7pQY8SfNPPpuKahQhxkY.png",
+    "certificate": "PG",
+    "runTimeMinutes": 161,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2119",
+    "tmdbId": 2119,
+    "type": "movie",
+    "title": "Days of Thunder",
+    "overview": "Talented but unproven stock car driver Cole Trickle gets a break and with the guidance of veteran Harry Hogge turns heads on the track. The young hotshot develops a rivalry with a fellow racer that threatens his career when the two smash their cars. But with the help of his doctor, Cole just might overcome his injuries-- and his fear.",
+    "year": "1990",
+    "rating": 6.393,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8UvcoeMJag8UWGF8sg7eYspzq0Q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/t61Pj0FsdvM5JSEdzTcbpLM4ZaH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p43ZlspHwnqSn1d4ELFE6a4Oe3h.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "497582",
+    "tmdbId": 497582,
+    "type": "movie",
+    "title": "Enola Holmes",
+    "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+    "year": "2020",
+    "rating": 7.218,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tq4PQYmth5PMId45vXr8QlEKfdB.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "829280",
+    "tmdbId": 829280,
+    "type": "movie",
+    "title": "Enola Holmes 2",
+    "overview": "Enola takes on her first official case as a detective, but to solve the mystery of a missing girl, she'll need help from friends — and brother Sherlock.",
+    "year": "2022",
+    "rating": 7.404,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rjlG7C5GZfXutoVoE3BJaYGUhk4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iBZmFkIwDMupJT2pTDEYcUn2og5.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1202033",
+    "tmdbId": 1202033,
+    "type": "movie",
+    "title": "Enola Holmes 3",
+    "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+    "year": "2026",
+    "rating": 6.766,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "724209",
+    "tmdbId": 724209,
+    "type": "movie",
+    "title": "Heart of Stone",
+    "overview": "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.",
+    "year": "2023",
+    "rating": 6.696,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m1k24MwmoqAdKMPJDaBLwdB5Tps.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2GhDlqZl1JeSjEp3nTLvjReaBzS.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "705861",
+    "tmdbId": 705861,
+    "type": "movie",
+    "title": "Hustle",
+    "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+    "year": "2022",
+    "rating": 7.695,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cPKhz9dztcnOsHFn8dGakR9M5dn.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "132316",
+    "tmdbId": 132316,
+    "type": "movie",
+    "title": "Jab Tak Hai Jaan",
+    "overview": "Samar Anand, a London-based struggling musician falls in love with Meera Thappar. After a severe accident, a panicked Meera promises God to leave Samar if he lives. Heartbroken, Samar leaves for India to become a fearless bomb disposal expert in the army.",
+    "year": "2012",
+    "rating": 7.035,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sgf60uAPn95lBAcSX9eQE8bKxTb.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 176,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "872906",
+    "tmdbId": 872906,
+    "type": "movie",
+    "title": "Jawan",
+    "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "year": "2023",
+    "rating": 7.04,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7VQCCoFTVUt4rpsrgF9TE69L5lw.png",
+    "certificate": "NR",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "889737",
+    "tmdbId": 889737,
+    "type": "movie",
+    "title": "Joker: Folie à Deux",
+    "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "year": "2024",
+    "rating": 5.403,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AVWlQpVhpudyFsSh3OQIieHHYf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cy6WlTXPsAZEIfNK2laJiSETwb1.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10757",
+    "tmdbId": 10757,
+    "type": "movie",
+    "title": "Kabhi Khushi Kabhie Gham",
+    "overview": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.",
+    "year": "2001",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eJrD94E1msYEa0DygvkvdEKpChm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xfOSqabgVwcMlZnjdwHwO83KEeG.png",
+    "certificate": null,
+    "runTimeMinutes": 209,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "722149",
+    "tmdbId": 722149,
+    "type": "movie",
+    "title": "Luther: The Fallen Sun",
+    "overview": "A gruesome serial killer is terrorizing London while brilliant but disgraced detective John Luther sits behind bars. Haunted by his failure to capture the cyber psychopath who now taunts him, Luther decides to break out of prison to finish the job by any means necessary.",
+    "year": "2023",
+    "rating": 6.631,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6oxnVw91yzv9fYwGaz941Mwlwbv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x4RdUUd6ijdzaDPQgPQ3Tj2iM4o.png",
+    "certificate": "R",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77930",
+    "tmdbId": 77930,
+    "type": "movie",
+    "title": "Magic Mike",
+    "overview": "Mike, an experienced stripper, takes a younger performer called The Kid under his wing and schools him in the arts of partying, picking up women, and making easy money.",
+    "year": "2012",
+    "rating": 6.159,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7DWGkbncSGb3nG6MAd2ZqxDvwEt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/99v62uPvDBtK2JOdwbz1xDz5T3B.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "407436",
+    "tmdbId": 407436,
+    "type": "movie",
+    "title": "Mowgli: Legend of the Jungle",
+    "overview": "A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.",
+    "year": "2018",
+    "rating": 6.472,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pApaVlxJCp2o4mrzCAD3AaLjq77.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1EItjI31GSnMJoaJZBRl0UZBJ3b.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10312",
+    "tmdbId": 10312,
+    "type": "movie",
+    "title": "Patch Adams",
+    "overview": "The true story of Dr. Hunter \"Patch\" Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh—even if it meant risking his own career.",
+    "year": "1998",
+    "rating": 7.31,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rSxRM9ndmYsXYravDgslNf7nAbM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37786",
+    "tmdbId": 37786,
+    "type": "movie",
+    "title": "Sex and the City 2",
+    "overview": "Carrie, Charlotte, and Miranda are all married now, but they're still up for a little fun in the sun. When Samantha gets the chance to visit one of the most extravagant vacation destinations on the planet and offers to bring them all along, they surmise that a women-only retreat may be the perfect excuse to eschew their responsibilities and remember what life was like before they decided to settle down.",
+    "year": "2010",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6CtFxG3WbeS8khj0Wzshmqg2zLM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gPqqEBBpSl7E4Fz8uMBqoBLxcTP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mkOxHKayJT89exlFcUlq0Y3iXwf.png",
+    "certificate": "R",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4564",
+    "tmdbId": 4564,
+    "type": "movie",
+    "title": "Sex and the City",
+    "overview": "When Carrie's big step forward in her relationship goes awry, best friends Charlotte, Miranda and Samantha are there to help her pick up the pieces.",
+    "year": "2008",
+    "rating": 6.547,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AhNfnsGW95RKHQNLdgFH48UN0Zy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/osHKguxvXPIUJJzsO3DEORZZ8QD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/edhrsNIVoD36wYwr5WLGLh4tYEv.png",
+    "certificate": "R",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1934",
+    "tmdbId": 1934,
+    "type": "movie",
+    "title": "Shakespeare in Love",
+    "overview": "Young William Shakespeare is forced to stage his latest comedy, 'Romeo and Ethel, the Pirate's Daughter', before it's even written. When lovely noblewoman Viola de Lesseps auditions for a role, they fall into forbidden love — and Shakespeare's play finds a new life (and title). As their relationship intensifies, the comedy soon transforms into tragedy.",
+    "year": "1998",
+    "rating": 6.826,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gkEzrnmF8fJCjeg2xuy9sju65ra.png",
+    "certificate": "R",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "581389",
+    "tmdbId": 581389,
+    "type": "movie",
+    "title": "Space Sweepers",
+    "overview": "When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.",
+    "year": "2021",
+    "rating": 7.026,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bmemsraCG1kIthY74NjDnnLRT2Q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5EzzK7yVLeoJzDQnXUu7k8zxv5U.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "376812",
+    "tmdbId": 376812,
+    "type": "movie",
+    "title": "Sultan",
+    "overview": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
+    "year": "2016",
+    "rating": 6.842,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oarT8LL2XE0aPU9kXqrD249Z4rM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/74bUfGDD0kJ53M334vQcbJRzsI8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qCvkXph5MNPcnDKG0qrVpc4Fx3f.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 170,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9767",
+    "tmdbId": 9767,
+    "type": "movie",
+    "title": "The Break-Up",
+    "overview": "Pushed to the breaking-up point after their latest 'why can't you do this one little thing for me?' argument, Brooke calls it quits with her boyfriend Gary. What follows is a hilarious series of remedies, war tactics, overtures and undermining tricks – all encouraged by the former couple's friends and confidantes …and the occasional total stranger! When neither ex is willing to move out of their shared apartment, the only solution is to continue living as hostile roommates until one of them reaches breaking point.",
+    "year": "2006",
+    "rating": 5.903,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ghCLIPRZNAndBoIZJ8f7lN5Mlly.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tukmcuDcTgFesqveQQWKhKXKEzg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/prRNbpL7deCidGLF3A0o4JWzwVZ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "826",
+    "tmdbId": 826,
+    "type": "movie",
+    "title": "The Bridge on the River Kwai",
+    "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+    "year": "1957",
+    "rating": 7.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/94SBMz11SiEwrLaWUOVx5om7NHu.png",
+    "certificate": "PG",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "64682",
+    "tmdbId": 64682,
+    "type": "movie",
+    "title": "The Great Gatsby",
+    "overview": "Nick Carraway arrives in New York in 1922, an era of loose morals, glittering jazz and bootleg kings. Chasing his own American Dream, Nick encounters the mysterious millionaire Gatsby and his bewitching cousin Daisy. Soon, Nick is drawn into the captivating world of the super-rich, their illusions, loves and deceits. Bearing witness to this new world, Nick pens a tale of impossible love, incorruptible dreams and unforgettable tragedy -- mirroring our own times and struggles.​",
+    "year": "2013",
+    "rating": 7.347,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j9NGh8z7v2mLpGKkvUAHox81bqi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyuA1KnohLENvWSReLb7gu88DNy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "618162",
+    "tmdbId": 618162,
+    "type": "movie",
+    "title": "The Harder They Fall",
+    "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
+    "year": "2021",
+    "rating": 6.614,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gxovnh8a9o6h7xItEqDx1bhOVJ3.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Western",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "614911",
+    "tmdbId": 614911,
+    "type": "movie",
+    "title": "The Midnight Sky",
+    "overview": "A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.",
+    "year": "2020",
+    "rating": 5.731,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dueiWzWc81UAgnbDAyH4Gjqnh4n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u6AH3PDY8bbzvEdLI2fy70aDpbY.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "552688",
+    "tmdbId": 552688,
+    "type": "movie",
+    "title": "The Mother",
+    "overview": "A deadly female assassin comes out of hiding to protect the daughter that she gave up years before, while on the run from dangerous men.",
+    "year": "2023",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n5NSF8wZeWQHHZtuWgbRAVpqXFR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b29iVYH1DbdQE9byBxZwmzlwJgx.png",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "50619",
+    "tmdbId": 50619,
+    "type": "movie",
+    "title": "The Twilight Saga: Breaking Dawn - Part 1",
+    "overview": "Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.",
+    "year": "2011",
+    "rating": 6.184,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iPqoeXEfByDN399PQQ42IJHV2kN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/arHrAT6Xyh75E4Wkh1kv4ejzK8E.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "50620",
+    "tmdbId": 50620,
+    "type": "movie",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "overview": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
+    "year": "2012",
+    "rating": 6.451,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5w4oUpsjzrVd5FKF2DDcGONT1kv.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24021",
+    "tmdbId": 24021,
+    "type": "movie",
+    "title": "The Twilight Saga: Eclipse",
+    "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
+    "year": "2010",
+    "rating": 6.187,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r37lEfIlQVYdvvRaDTxZLhczOXD.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18239",
+    "tmdbId": 18239,
+    "type": "movie",
+    "title": "The Twilight Saga: New Moon",
+    "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.",
+    "year": "2009",
+    "rating": 5.986,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e1btrS0eVqXMfm9AmMSEoWDOwSE.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4251",
+    "tmdbId": 4251,
+    "type": "movie",
+    "title": "Veer-Zaara",
+    "overview": "Squadron Leader Veer Pratap Singh, a pilot in the Indian Air Force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound.",
+    "year": "2004",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hr3MP43lWatnNKtmsYutFUYrLQl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4MsHOBXI4Xx4dqa9xvnE8zIL5Mz.png",
+    "certificate": "PG",
+    "runTimeMinutes": 192,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "518896",
+    "tmdbId": 518896,
+    "type": "movie",
+    "title": "Warriors of Future",
+    "overview": "When a meteor carrying a destructive plant strikes the world, a suicide squad is given hours to save their post-apocalyptic city from total collapse.",
+    "year": "2022",
+    "rating": 6.962,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2l9LbxBSkJseoxYcIJjclnmxyq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8ybdSPM1AutUK48gmMPOfu8TcyB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aCE3BpijDpHiSkyWQFkFQul4q7s.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "CN",
+      "HK"
+    ],
+    "originalLanguage": ""
+  }
+]

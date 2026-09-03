@@ -1,0 +1,785 @@
+[
+  {
+    "id": "424121",
+    "tmdbId": 424121,
+    "type": "movie",
+    "title": "Apostle",
+    "overview": "In 1905, a man travels to a remote island in search of his missing sister who has been kidnapped by a mysterious religious cult.",
+    "year": "2018",
+    "rating": 6.15,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mgUhrL1JVZM8TpZrmaSZRYsSC6E.png",
+    "certificate": "R",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "695962",
+    "tmdbId": 695962,
+    "type": "movie",
+    "title": "Bhool Bhulaiyaa 2",
+    "overview": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for eighteen years.",
+    "year": "2022",
+    "rating": 6.143,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4anJikUop9pepyORUH8IpNdhbqq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kPO12gmhADFTuyjiP3VZzRTitEC.png",
+    "certificate": null,
+    "runTimeMinutes": 143,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9529",
+    "tmdbId": 9529,
+    "type": "movie",
+    "title": "Candyman",
+    "overview": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+    "year": "1992",
+    "rating": 6.666,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/l0JgqFNxeMb1OoHq1CzdYC3Y5J8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2XexWAaYXVWVWP80LbWTr8KPJHK.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "838484",
+    "tmdbId": 838484,
+    "type": "movie",
+    "title": "Choose or Die",
+    "overview": "In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.",
+    "year": "2022",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/isxWigGBWpXtc2xOxybiYWxHzWm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oEf7fKJLizxMyqVQg9auHmBiQBy.png",
+    "certificate": "NR",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "599975",
+    "tmdbId": 599975,
+    "type": "movie",
+    "title": "Countdown",
+    "overview": "A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.",
+    "year": "2019",
+    "rating": 6.208,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A2gg4AujbLakz91ZhF7VDXoU6Al.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "396493",
+    "tmdbId": 396493,
+    "type": "movie",
+    "title": "Creep 2",
+    "overview": "After finding an ad online for “video work,” Sara, a video artist whose primary focus is creating intimacy with lonely men, thinks she may have found the subject of her dreams. She drives to a remote house in the forest and meets a man claiming to be a serial killer. Unable to resist the chance to create a truly shocking piece of art, she agrees to spend the day with him. However, as the day goes on, she discovers she may have dug herself into a hole from which she can’t escape.",
+    "year": "2017",
+    "rating": 6.337,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xn4qe52O0gwfapVT9aOZOPA4wQt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAbh5omatolkOuC3Ol1yAHYnOLZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "886083",
+    "tmdbId": 886083,
+    "type": "movie",
+    "title": "Deadstream",
+    "overview": "A disgraced internet personality attempts to win back his followers by livestreaming one night alone in a haunted house. But when he accidentally unleashes a vengeful spirit, his big comeback event becomes a real-time fight for his life.",
+    "year": "2022",
+    "rating": 6.293,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dC38JMmb17geWFIjIBgNoKRMFnL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2NrIzba4wHUYXJurKAMFs70Qcok.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1rcy4i1p6R0QYWjsXWUoz0THoss.png",
+    "certificate": "NR",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "671317",
+    "tmdbId": 671317,
+    "type": "movie",
+    "title": "Disappear Completely",
+    "overview": "An ambitious and insensitive tabloid crime photographer falls victim to a mysterious illness that makes him lose, one by one, his five senses.",
+    "year": "2024",
+    "rating": 6.825,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9w2Gl8zRfCdlFd9O3UWdb8caNke.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2WO1Q4KpVSOOGCzVpTSUpgo9ZzF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pIyTOVlNLrPmcqzxAT1tCoDGl2d.png",
+    "certificate": null,
+    "runTimeMinutes": 100,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "726208",
+    "tmdbId": 726208,
+    "type": "movie",
+    "title": "Don't Listen",
+    "overview": "After a tragic turn of events at the new home he's fixing up, Daniel hears a ghostly plea for help, spurring him to seek out a famous paranormal expert.",
+    "year": "2020",
+    "rating": 6.435,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lXvBgevABC9n5R6Gg76R3pN1h2M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h00iFXMpGuls2GEnXIGFzQUeaFr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k7PWndchOQ1a4LFtDcOyktdS9UT.png",
+    "certificate": null,
+    "runTimeMinutes": 98,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "591274",
+    "tmdbId": 591274,
+    "type": "movie",
+    "title": "Fear Street: 1978",
+    "overview": "In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns' history come alive.",
+    "year": "2021",
+    "rating": 7.171,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oMnJhVFr0xVfxy4HPBt1LDKoFgV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6rJifYFt5JW0qH2Cqc9WTTYaWdg.png",
+    "certificate": "R",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "591275",
+    "tmdbId": 591275,
+    "type": "movie",
+    "title": "Fear Street: 1666",
+    "overview": "In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly consequences for centuries to come, and it's up to teenagers in 1994 to finally put an end to their town's curse, before it's too late.",
+    "year": "2021",
+    "rating": 7.067,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jLeOzQLZJEpmAMDnfKMmORFGuV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o6hyfeLluZO5bciZtDlxquf4wsh.png",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1001414",
+    "tmdbId": 1001414,
+    "type": "movie",
+    "title": "Fear Street: Prom Queen",
+    "overview": "Who will be voted queen at Shadyside High's 1988 prom? For underdog Lori, competition is cutthroat even before someone starts killing off the candidates.",
+    "year": "2025",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qspghhpOyaBGgZDJoCbV2o9WNMU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bC69b9TTCWVUAEQmS7l8kNjWfWc.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "741434",
+    "tmdbId": 741434,
+    "type": "movie",
+    "title": "Homunculus",
+    "overview": "A homeless man meets a medical school student who pays him to volunteer for a surgical procedure known as trepanation, drilling a hole in his skull, which ends up giving him the ability to communicate with the dark side of people’s subconscious minds.",
+    "year": "2021",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fnqmGW6N9fxEyPEylC2qT4bbUmd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1eTfD2dnT5FbVZwgdJJISjzh2Fm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/BaKHrLWNQdHJqLoUOL2W1Mm0sI.png",
+    "certificate": "NR",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "481375",
+    "tmdbId": 481375,
+    "type": "movie",
+    "title": "Malevolent",
+    "overview": "A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.",
+    "year": "2018",
+    "rating": 5.016,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gbq5yQTQ1AfcBQb0y4ozUPTzd8Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i2PQLKOun5HzRMuGEG6tzeBIcbF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v8GQLyGM1CUCx15fQPaO3si7gIi.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "999722",
+    "tmdbId": 999722,
+    "type": "movie",
+    "title": "Old People",
+    "overview": "A woman who's returned home with her two kids to attend her sister's wedding must suddenly defend their lives against older people on a killing spree.",
+    "year": "2022",
+    "rating": 5.648,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2JKKheLcrpXXYSUD3mkmdq8I9p3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/djPUo00dbry1frPzDLD5dgsmG7e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hs0eosjSKKaO5c0iAyV9R3b4nP1.png",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "59115",
+    "tmdbId": 59115,
+    "type": "movie",
+    "title": "Quarantine 2: Terminal",
+    "overview": "A plane is taken over by a mysterious virus. When the plane lands it is placed under quarantine. Now a group of survivors must band together to survive the quarantine.",
+    "year": "2011",
+    "rating": 5.709,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mHMwoMPLkWHsMeNtFZSNSUOOJ1r.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "560362",
+    "tmdbId": 560362,
+    "type": "movie",
+    "title": "Rattlesnake",
+    "overview": "After a mysterious woman saves her daughter from a deadly snakebite, a single mother must repay the debt by killing a stranger before sundown.",
+    "year": "2019",
+    "rating": 5.251,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/meEuc9El2efDGZMARPjd4u4qHhd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dfkBYDfGH94AyGlba2kRIgysNCs.png",
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "991814",
+    "tmdbId": 991814,
+    "type": "movie",
+    "title": "Re/Member",
+    "overview": "Six high schoolers stuck in a murderous time loop must find the scattered remains of an unknown victim to break the curse and finally see another day.",
+    "year": "2022",
+    "rating": 6.679,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iBD2Ja8TuKb7WZQnsa8SrMJiqLR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uhAU3MI8YsUue7qqjFrpRQDpgvd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Hj72JAcxBnJV843eUy6Wfw5pTP.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1475372",
+    "tmdbId": 1475372,
+    "type": "movie",
+    "title": "Shutter",
+    "overview": "Darwin, a senior photographer who consistently uses a manual camera, is shocked to discover the appearance of a woman's shadow in every photo he takes. Soon, the woman's figure appears in real life, terrorizing him. Pia, Darwin's girlfriend, decides to investigate the woman's identity. It turns out the woman is Lilies, an outstanding student who once studied at their university. When Darwin's friends die one by one, Pia is convinced this is related to a 'sin' Darwin committed in the past.",
+    "year": "2025",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7GXs0b8ZyeZ5tTajITMMO0aZX4J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ey31jdHYSf30Es3VLYTjZJEWGde.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5sUdPbhy2cx3zzv5HeDyNjwFznH.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1489931",
+    "tmdbId": 1489931,
+    "type": "movie",
+    "title": "Suzzanna: Witchcraft",
+    "overview": "Suzzanna is determined to exact revenge on Bisman, the cruel village ruler who killed her father with black magic. To achieve this, she learns black magic, but realizes Bisman's power is immense. In the midst of her efforts, Suzzanna falls in love with Pramuja, a religious man who doesn't know her secret, forcing her to choose between pursuing her revenge or sacrificing him for love.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4DeSEKQqraTR10zYAkbQuRazagF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x1xLzh1w9wn9lq5KCzlrxIQWzS0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ak1fKXxUNcmZFEKBBROy1fvijQf.png",
+    "certificate": null,
+    "runTimeMinutes": 135,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "419479",
+    "tmdbId": 419479,
+    "type": "movie",
+    "title": "The Babysitter",
+    "overview": "When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.",
+    "year": "2017",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uAzKNxGnbK5SL7VF7UeQyZdQLHV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wNW576H4HtGy3kQHDeI4x8uHEZ3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hSWjIpCkSg3s1UbktRJ9vtE87ti.png",
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "623491",
+    "tmdbId": 623491,
+    "type": "movie",
+    "title": "The Babysitter: Killer Queen",
+    "overview": "Two years after defeating a satanic cult led by his babysitter Bee, Cole's trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.",
+    "year": "2020",
+    "rating": 6.308,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/imy1OoT1xddt2kqw6hhc4v01e8i.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qDV3sQRhqyXflUfH6gOTGkPXTaV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oiTaWFaZy67PUE5iFsagsmlaHNd.png",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "741998",
+    "tmdbId": 741998,
+    "type": "movie",
+    "title": "The Binding",
+    "overview": "While visiting her fiancé's mother in southern Italy, a woman must fight the mysterious and malevolent curse intent on claiming her daughter.",
+    "year": "2020",
+    "rating": 5.473,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w5zUq6OgL87MARwReUUXABx1Xeo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tOOfXpIKyY80kY108pwSgLozgRA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zNmQ6K9xEWrejbWCvPhsZObLBHT.png",
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1161048",
+    "tmdbId": 1161048,
+    "type": "movie",
+    "title": "The Conference",
+    "overview": "A ragtag group of public sector employees battle not only their own discord but also a bloodthirsty killer during a seemingly innocuous retreat.",
+    "year": "2023",
+    "rating": 5.499,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uLH5rUkRNwAUt6YqR86f8ewXZEY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rrucFNW1qOgSPL4n2Fy6CdpBDEY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pkZSDrF6z39BhsCLNdync74b60d.png",
+    "certificate": "NC-17",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1306525",
+    "tmdbId": 1306525,
+    "type": "movie",
+    "title": "The Elixir",
+    "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+    "year": "2025",
+    "rating": 5.955,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A6aJLPhtmin9ZTWC2h7dnrMHU4z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7TlUXPp8mMyPfc8tDyhvHCq7RxB.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "605373",
+    "tmdbId": 605373,
+    "type": "movie",
+    "title": "The Influence",
+    "overview": "After moving back to her family home to care for her dying mother, a nurse haunted by her childhood memories must struggle with an evil force in the house.",
+    "year": "2019",
+    "rating": 4.849,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xGUMfHIiEzuNVGeRAggLprzo1gG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j0gADYc94vowdGeANLceDCKleKt.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 99,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "243940",
+    "tmdbId": 243940,
+    "type": "movie",
+    "title": "The Lazarus Effect",
+    "overview": "Medical researcher Frank, his fiancee Zoe and their team have achieved the impossible: they have found a way to revive the dead. After a successful, but unsanctioned, experiment on a lifeless animal, they are ready to make their work public. However, when their dean learns what they've done, he shuts them down. Zoe is killed during an attempt to recreate the experiment, leading Frank to test the process on her. Zoe is revived -- but something evil is within her.",
+    "year": "2015",
+    "rating": 5.305,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4aq0TOLvITU3iWRUfxlRc83lMz1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nMlsS5v0BY9W1GhRBUNrRPF90Xh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aVRuhwNWpGaVTKg6CoHvslPPIgE.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "529962",
+    "tmdbId": 529962,
+    "type": "movie",
+    "title": "The Perfection",
+    "overview": "When troubled musical prodigy Charlotte seeks out Elizabeth, the new star pupil of her former school, the encounter sends both musicians down a sinister path with shocking consequences.",
+    "year": "2018",
+    "rating": 6.426,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p7hhwxJmcgbja9Cj3DWPTvKqUrS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7nwN2wB4yCn0LVTCpZiH5bY4Y5Z.png",
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "926980",
+    "tmdbId": 926980,
+    "type": "movie",
+    "title": "The Privilege",
+    "overview": "A wealthy teen and his friends attending an elite private school uncover a dark conspiracy while looking into a series of strange supernatural events.",
+    "year": "2022",
+    "rating": 5.214,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tN5Ws9NXR6N3LR2S39rHfCXrFkN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eBMW1OcY9f4XfFWaUGR3IKKaf6o.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "316727",
+    "tmdbId": 316727,
+    "type": "movie",
+    "title": "The Purge: Election Year",
+    "overview": "Two years after choosing not to kill the man who killed his son, former police sergeant Leo Barnes has become head of security for Senator Charlene Roan, the front runner in the next Presidential election due to her vow to eliminate the Purge. On the night of what should be the final Purge, a betrayal from within the government forces Barnes and Roan out onto the street where they must fight to survive the night.",
+    "year": "2016",
+    "rating": 6.377,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gg7tlp45xqGWMra0sqQVPvybje2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/a7V3ZXCDAk3P7GjpgfN0IInjh0r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4x0HAycNVXWiu4IAAVj0utz2zn4.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "760747",
+    "tmdbId": 760747,
+    "type": "movie",
+    "title": "The Trip",
+    "overview": "A dysfunctional couple head to a remote lakeside cabin under the guise of reconnecting, but each has secret designs to kill the other. Before they can carry out their respective plans, unexpected visitors arrive and the couple is faced with a greater danger than anything they could have plotted.",
+    "year": "2021",
+    "rating": 6.707,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ebG8W3shUDBqhOz3VmB4m02HkFf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/miWYR5GcGlJ2E4tYO4Um9NT2tcS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kWM9wHAtMqFM8BNZNoBurI6tRM3.png",
+    "certificate": null,
+    "runTimeMinutes": 113,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "895001",
+    "tmdbId": 895001,
+    "type": "movie",
+    "title": "The Whole Truth",
+    "overview": "When two siblings stumble on a strange hole in the wall of their grandparents' house, horrifying incidents reveal sinister secrets about their family.",
+    "year": "2021",
+    "rating": 6.49,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6xo2OFHncAymOQtzHwPFF0nyHPl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5WnfgU7myfqgkbl3CSj7LQeHU0e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ln9VYJBZ3Yn3q4yxiNqqWwTh3Ui.png",
+    "certificate": "R",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "512025",
+    "tmdbId": 512025,
+    "type": "movie",
+    "title": "There's Someone Inside Your House",
+    "overview": "As the countdown to graduation begins, students at Osborne High are being stalked by a maniac intent on exposing their darkest secrets to the entire town, terrorizing victims while wearing a life-like mask of their own face. With a mysterious past of her own, Makani and her friends must discover the killer's identity before they become victims themselves.",
+    "year": "2021",
+    "rating": 5.328,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/GaPJQscaH4MtYQTbJyWjCUIho8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rCzYrGstiybMwDPcZlePAN7IWBh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/35xhs9wZ3zExrN78yZFyvXLnfVy.png",
+    "certificate": "NR",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "827931",
+    "tmdbId": 827931,
+    "type": "movie",
+    "title": "Time Cut",
+    "overview": "A teen in 2024 accidentally time-travels to 2003, days before a masked killer murders her sister. Can she change the past without destroying the future?",
+    "year": "2024",
+    "rating": 5.641,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qYvOcinXcnebhmCxYeivurh91T1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m65wshPpjiNP6neBp1CstMyMdAF.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "375012",
+    "tmdbId": 375012,
+    "type": "movie",
+    "title": "Under the Shadow",
+    "overview": "After Shideh's building is hit by a missile during the Iran-Iraq War, a superstitious neighbor suggests that the missile was cursed and might be carrying malevolent Middle-Eastern spirits. She becomes convinced a supernatural force within the building is attempting to possess her daughter Dorsa, and she has no choice but to confront these forces if she is to save her daughter and herself.",
+    "year": "2016",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bsHpzc7mVbJfZBaD0EISJkm3f3H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/keX3XBX34vUDDULvcohfzPXIU8T.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "613093",
+    "tmdbId": 613093,
+    "type": "movie",
+    "title": "Valley of the Dead",
+    "overview": "During the Spanish Civil War, sworn enemies must work together when they encounter flesh-eating zombies created in a Nazi experiment.",
+    "year": "2020",
+    "rating": 6.219,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/avokvOwhjVR9GgISsSSgb2A343G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h6XfgbzQEV4sitsIVY63pawLI0s.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1OmCpxTp0AdbzbxXNI3vQ0C410R.png",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "788752",
+    "tmdbId": 788752,
+    "type": "movie",
+    "title": "Viking Wolf",
+    "overview": "After witnessing a grotesque murder at a party in her new town, a teenager starts having strange visions and bizarre desires.",
+    "year": "2022",
+    "rating": 5.818,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2sJgljCEHQxuHbCJK6p15zM9vVM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d0YSRmp819pMRnKLfGMgAQchpnR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zl2dxDrtdziGdlu5QXFW3zGa3CX.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10053",
+    "tmdbId": 10053,
+    "type": "movie",
+    "title": "When a Stranger Calls",
+    "overview": "Far away from the site of a gruesome murder, a teenager named Jill Johnson arrives at a luxurious home for a baby-sitting job. With the children fast asleep, she settles in for what she expects to be an ordinary evening. Soon, the ringing of a phone and the frightening words of a sadistic caller turn Jill's routine experience into a night of terror.",
+    "year": "2006",
+    "rating": 5.739,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r5FAdQAtgRpHuSI4x5ydvcVHuFz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8nluZo04z9Y8iynYmnMmvO9bU9L.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tOViWaxNVFtyh8tTrpfGCEIuyLD.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "760104",
+    "tmdbId": 760104,
+    "type": "movie",
+    "title": "X",
+    "overview": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+    "year": "2022",
+    "rating": 6.708,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/o375tDNib7tihlkWdtLW1fQhNL1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dPtVq3KBCwd8T153ENnw9iz9Tw4.png",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

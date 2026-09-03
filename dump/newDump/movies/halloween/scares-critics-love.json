@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1111873",
+    "tmdbId": 1111873,
+    "type": "movie",
+    "title": "Abigail",
+    "overview": "A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.",
+    "year": "2024",
+    "rating": 6.648,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2TPoqmatGDfBOiRxqNoL11ncCJe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/akHjTgpuwiZU5JzJ2GWVrAzVn5h.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "99966",
+    "tmdbId": 99966,
+    "type": "show",
+    "title": "All of Us Are Dead",
+    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+    "year": "2022",
+    "rating": 8.284,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cEc7XPbGxSKXfiZU0z8czFOImI2.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "917496",
+    "tmdbId": 917496,
+    "type": "movie",
+    "title": "Beetlejuice Beetlejuice",
+    "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+    "year": "2024",
+    "rating": 6.919,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/61Z6mL60ltShU393JkgBawAaeCw.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "88052",
+    "tmdbId": 88052,
+    "type": "show",
+    "title": "Black Summer",
+    "overview": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+    "year": "2019",
+    "rating": 6.917,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d27fZpY8jSZDOs1k0JCL0RY0b94.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hRwyiBwWKbol9tg3fLFNFkuATqL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u1edD3i4QaJOG9q9OM7ebkfkGtA.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71024",
+    "tmdbId": 71024,
+    "type": "show",
+    "title": "Castlevania",
+    "overview": "A vampire hunter fights to save a besieged city from an army of otherworldly beasts controlled by Dracula himself.",
+    "year": "2017",
+    "rating": 8.272,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/WzFHnJY44uDERER0xi1jOdoafT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jLE5bsPA9xOKzBWOaOmKbp1DWQS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rM4H1xXRLpkHiOJiMOVWXwFG1Fo.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "123548",
+    "tmdbId": 123548,
+    "type": "show",
+    "title": "Castlevania: Nocturne",
+    "overview": "As revolution sweeps France, Richter Belmont fights to uphold his family's legacy and prevent the rise of a ruthless, power-hungry vampire ruler.",
+    "year": "2023",
+    "rating": 7.814,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4XJwo95ktJ7xupw1bCMuP91kyYr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1swj9HxDkjzsO3yHlSwRA38hMFN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x3ghCqQlTFlScQeAYazB2Oj5k6s.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 34,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79242",
+    "tmdbId": 79242,
+    "type": "show",
+    "title": "Chilling Adventures of Sabrina",
+    "overview": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night.",
+    "year": "2018",
+    "rating": 8.164,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3UZ43UxVAFmtbQGFdZQ8KxiwJO5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7q0o5kW5k4thzas3sJvgSlt1xdu.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "113988",
+    "tmdbId": 113988,
+    "type": "show",
+    "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+    "overview": "This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade.",
+    "year": "2022",
+    "rating": 7.958,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/llLKLlbuE2ZH0WfdQTJcy3WsmLi.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "271015",
+    "tmdbId": 271015,
+    "type": "show",
+    "title": "Love & Crown",
+    "overview": "In the Great Qi dynasty, young Emperor Xiao Huan assumes the alias Bai Chifan and draws close to Ling Cangcang, daughter of the Grand Tutor, to reclaim power from him and the Empress Dowager. Cangcang, the brave and righteous leader of the Fenglai Pavilion, joins him in investigating the Lingbi Sect. Their bond deepens into love, but her master's death sparks a fatal misunderstanding. Though they become Emperor and Empress, old wounds keep them apart. Refusing to abandon the truth, Cangcang endures betrayal and peril, only to discover Xiao Huan's silent devotion. Together, they restore peace, and prove that neither love nor the realm must be forsaken.",
+    "year": "2025",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8ZfQhScZEE9xcM3rno9uM52qRBE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1ybpRrDgtejMdAP04Qhtd52QwWT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/58FBDVrzZH3VJKZ1xEoTl4ogWmh.png",
+    "certificate": null,
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13916",
+    "tmdbId": 13916,
+    "type": "show",
+    "title": "Death Note",
+    "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+    "year": "2006",
+    "rating": 8.62,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1NWy6mi2O5gZanKigYBWGIEQqSh.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "235930",
+    "tmdbId": 235930,
+    "type": "show",
+    "title": "Devil May Cry",
+    "overview": "In this epic battle of good vs. evil, the lines are blurry as hell. But a devilishly handsome demon hunter could be the world's best hope for salvation.",
+    "year": "2025",
+    "rating": 8.226,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o9hnKyKcgroZbpT9bRIqhftxdJ6.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1062722",
+    "tmdbId": 1062722,
+    "type": "movie",
+    "title": "Frankenstein",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "year": "2025",
+    "rating": 7.618,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AjgdfuPzZdqCEH6qxPqRXtmYFDZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "277843",
+    "tmdbId": 277843,
+    "type": "show",
+    "title": "Ghosts Off Grid",
+    "overview": "Ghosts Off Grid dives deep into the idea that everything around us is made of energy, even our own bodies. When we die, where does that energy go? In this series, the hosts search for electrical impulses away from the built infrastructure.",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "287540",
+    "tmdbId": 287540,
+    "type": "show",
+    "title": "Glitch!",
+    "overview": "\"GLITCH!\" follows Chloe Ling, who after the death of her mother, immerses herself in virtual-reality gaming through an advanced device called Deep-Lace. But when her favourite first-person shooter game glitches, it inexplicably unleashes a ruthless game boss that hunts her in the real world. Faced with treachery and danger, Chloe must rally her gaming friends, a coder from her past, and a non-playable character (NPC) to destroy the game before it puts the fate of Singapore at risk.",
+    "year": "2018",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qqCii2ezkhNExZrXaCvDFBq1kgG.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 31,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "SG"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "940721",
+    "tmdbId": 940721,
+    "type": "movie",
+    "title": "Godzilla Minus One",
+    "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+    "year": "2023",
+    "rating": 7.595,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/glnJMBoFXWAaD7j7pFmNW8d7RpI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "83659",
+    "tmdbId": 83659,
+    "type": "show",
+    "title": "Guillermo del Toro's Cabinet of Curiosities",
+    "overview": "Bizarre nightmares unfold in eight tales of terror in this visually stunning, spine-tingling horror collection curated by Guillermo del Toro.",
+    "year": "2022",
+    "rating": 7.452,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gM1diqqPFu5oRpEVsx84SPBYvV3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/An13FAe9MNcHeCqYlSwgGmaZoSu.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "255752",
+    "tmdbId": 255752,
+    "type": "show",
+    "title": "Haunted Hotel",
+    "overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
+    "year": "2025",
+    "rating": 8.108,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qQ4tWKwP5wPRyZGxXkiSkKYqzgm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dd53C6KejVsr8gBTJB7lkCf6F9M.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "285838",
+    "tmdbId": 285838,
+    "type": "show",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "year": "2026",
+    "rating": 8.134,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/21nrcCJkHtuPvDLkZDOg2mstBtS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "95731",
+    "tmdbId": 95731,
+    "type": "show",
+    "title": "Magic of Disney's Animal Kingdom",
+    "overview": "Magic of Disney’s Animal Kingdom gives viewers a backstage pass to explore the magic of nature within Disney’s Animal Kingdom Theme Park, Disney’s Animal Kingdom Lodge and The Seas with Nemo & Friends at EPCOT. Each episode dives into the details, unveiling the multifaceted aspects of animal care, conservation and Disney Imagineering and showcases the parks’ magnificent array of more than 300 species and 5,000-plus animals and the herculean tasks their animal care experts undertake to keep things running day and night.",
+    "year": "2020",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lNRO8KT7tEXIp4vGfGvD7JudLHW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qzwHwm9TajGPrQGllN0xcGelpNa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mawgKkjP63SnuG7oZUDe6YkXXDD.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "86831",
+    "tmdbId": 86831,
+    "type": "show",
+    "title": "Love, Death & Robots",
+    "overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+    "year": "2019",
+    "rating": 8.206,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vL5BQvXH96cJzmNK5n7QliQxy90.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nBrkOZyI75artyizuBFeya48KbO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/QRyBVJUv9WY6u14scmG4ZD8VVG.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "97400",
+    "tmdbId": 97400,
+    "type": "show",
+    "title": "Midnight Mass",
+    "overview": "The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe.",
+    "year": "2021",
+    "rating": 7.564,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/YauN3gyvgqktYhze4gXPWuoZBY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qhUiIRrMkcZSjKxCh5lxdbAE5nV.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "70485",
+    "tmdbId": 70485,
+    "type": "show",
+    "title": "Mr. Mercedes",
+    "overview": "A demented serial killer taunts a retired police detective with a series of lurid letters and emails, forcing the ex-cop to undertake a private, and potentially felonious, crusade to bring the killer to justice before he can strike again.",
+    "year": "2017",
+    "rating": 7.145,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/diYVGzRSAJpOCE5Avd5ZKBFUepi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x31J7rE0yKSGDmXpkJtoGRg5FNk.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69470",
+    "tmdbId": 69470,
+    "type": "show",
+    "title": "Santa Clarita Diet",
+    "overview": "They're ordinary husband and wife realtors until she undergoes a dramatic change that sends them down a road of death and destruction. In a good way.",
+    "year": "2017",
+    "rating": 7.429,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5rBjNm2sRubaXKBnU904NInFi7P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zPCDfLwOEtEhddaT2xeO5ChErsV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cayyejlXLuxNcD5KPcTwEltPiOY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "176",
+    "tmdbId": 176,
+    "type": "movie",
+    "title": "Saw",
+    "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+    "year": "2004",
+    "rating": 7.427,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e88hNPJWxslmv5WEeOfFFikJo5v.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "951491",
+    "tmdbId": 951491,
+    "type": "movie",
+    "title": "Saw X",
+    "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
+    "year": "2023",
+    "rating": 7.15,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lyk8p9fW7xYN4AxZ22Q2kaITfhP.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "259265",
+    "tmdbId": 259265,
+    "type": "show",
+    "title": "Something Very Bad Is Going to Happen",
+    "overview": "A bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
+    "year": "2026",
+    "rating": 6.541,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eK39KSennwJPzzgQ6V3q1iSSRYt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tsatObfXdVBtYmHkjdBEKzKzyNB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rQhqxVdMR2WWvjpz6JFr1ClBbNd.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1114513",
+    "tmdbId": 1114513,
+    "type": "movie",
+    "title": "Speak No Evil",
+    "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+    "year": "2024",
+    "rating": 7.093,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zr3qHlfh6NwhaV1ZabPPlc2OShu.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "66732",
+    "tmdbId": 66732,
+    "type": "show",
+    "title": "Stranger Things",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "year": "2016",
+    "rating": 8.553,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "218632",
+    "tmdbId": 218632,
+    "type": "show",
+    "title": "Bitter Sweet Hell",
+    "overview": "Noh Young-won, a successful psychological counselor and celebrity, and her mother-in-law, Hong Sa-kang, face an incident that threatens their happy family and they try to work together to protect their precious family.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zuuDEN1QcXBNVoZ05PwWHZarJY8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iliTRhADRlq42fmBiHfPAWqUg5l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rGMqkb5tGZ4ACnTgxpEDnCvsKvj.png",
+    "certificate": null,
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1118584",
+    "tmdbId": 1118584,
+    "type": "movie",
+    "title": "Talk to Me",
+    "overview": "Farid, who works abroad, locks himself on the last day of his stay in Beirut in his son Rawad's room, to find what he is hiding there. Separated by a locked door, the dysfunctional dynamic between them intensifies, and the past resurfaces.",
+    "year": "2022",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9t7gUKSxXjvQpgHdC7VUhJ1BTBK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AnV8SUecu2AHf0moME3qWpk59NS.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 21,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "LB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2667",
+    "tmdbId": 2667,
+    "type": "movie",
+    "title": "The Blair Witch Project",
+    "overview": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
+    "year": "1999",
+    "rating": 6.369,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ghPJw3XfhELokIf6V5QL0VpsXtK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zR4i8xCkXImxmMK9OVGwngRufmr.png",
+    "certificate": "R",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "224941",
+    "tmdbId": 224941,
+    "type": "show",
+    "title": "The Boroughs",
+    "overview": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
+    "year": "2026",
+    "rating": 7.216,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tFNKk1t5sH27jAKh497pYh4hmzJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "22970",
+    "tmdbId": 22970,
+    "type": "movie",
+    "title": "The Cabin in the Woods",
+    "overview": "Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.",
+    "year": "2012",
+    "rating": 6.656,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wJffMiCnrszaNclKggGixYWB7D7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7ZA3PEkAKWgZyYkcQVpCme4M1M4.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "279323",
+    "tmdbId": 279323,
+    "type": "show",
+    "title": "The East Palace",
+    "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+    "year": "2026",
+    "rating": 8.239,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/555iLcFftDIlo3Z0CnoTdvP9WSK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "157065",
+    "tmdbId": 157065,
+    "type": "show",
+    "title": "The Fall of the House of Usher",
+    "overview": "To secure their fortune — and future — two ruthless siblings build a family dynasty that begins to crumble when their heirs mysteriously die, one by one.",
+    "year": "2023",
+    "rating": 7.552,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/exVZ4mZxiYIsIvaJqPzwJzCpvq4.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "72844",
+    "tmdbId": 72844,
+    "type": "show",
+    "title": "The Haunting of Hill House",
+    "overview": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+    "year": "2018",
+    "rating": 8.104,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uRzuoUz6UwgTM0sZxRW4ubfdhwB.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "82104",
+    "tmdbId": 82104,
+    "type": "show",
+    "title": "The Order",
+    "overview": "Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic.",
+    "year": "2019",
+    "rating": 7.606,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AtcZyZizpGhofYumo1JrjuIFkXv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x6Ti1NKEG2GmFR39I7qzdjkNbII.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "129035",
+    "tmdbId": 129035,
+    "type": "show",
+    "title": "The Walking Dead: Origins",
+    "overview": "The Walking Dead: Origins is a series of specials exploring the journeys of the series' most celebrated characters. Each episode charts the story of the zombie apocalypse from the point of view of a single character and features new interviews and narrations from the actors that portray these iconic characters, interwoven with clips from the most pivotal moments of their journeys so far.",
+    "year": "2021",
+    "rating": 7.749,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6stEKYqgLBhSieTRnnZ5ShE5ZPS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mFAiusk8yF0GeBK0xIcte4GdWWE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ai8jAkL697KVRHkR1a5NaIwEg5p.png",
+    "certificate": null,
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "812583",
+    "tmdbId": 812583,
+    "type": "movie",
+    "title": "Wake Up Dead Man: A Knives Out Mystery",
+    "overview": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it’s clear that all is not well in the pews. After a sudden and seemingly impossible murder rocks the town, the lack of an obvious suspect prompts local police chief Geraldine Scott to join forces with renowned detective Benoit Blanc to unravel a mystery that defies all logic.",
+    "year": "2025",
+    "rating": 7.21,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cT7ZcQDZqY0gGRLfevRXR5baEha.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 145,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "119051",
+    "tmdbId": 119051,
+    "type": "show",
+    "title": "Wednesday",
+    "overview": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+    "year": "2022",
+    "rating": 8.332,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m5nR52ErmLa0fkY4ItBuYaQuXJJ.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

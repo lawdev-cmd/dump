@@ -1,0 +1,806 @@
+[
+  {
+    "id": "601337",
+    "tmdbId": 601337,
+    "type": "movie",
+    "title": "83",
+    "overview": "On the 25th of June 1983, the Lord’s Cricket Ground witnessed one of the biggest underdog stories in the history of sports. Fourteen inspired players - led by a man's self-belief and conviction - fought against all odds and orchestrated India’s greatest sporting triumph by beating the two-time World Champions West Indies.",
+    "year": "2021",
+    "rating": 7.239,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gTOMTFUbMxSApPRTuECMrl5RyQ2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h2mMP0V8HSbVKYgCWZlhGRtL3aP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cDk5INzqVUhLBifwQsDG2xFWI7S.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 160,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1163258",
+    "tmdbId": 1163258,
+    "type": "movie",
+    "title": "12th Fail",
+    "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+    "year": "2023",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nhnKWMtAdD31Wklbq4JR4IDWbHa.png",
+    "certificate": "PG",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "937278",
+    "tmdbId": 937278,
+    "type": "movie",
+    "title": "A Man Called Otto",
+    "overview": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
+    "year": "2022",
+    "rating": 7.747,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v2LilmCylr3bL9TCZSj6syjowZh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7wD947mwPtkyoQ8jFZy1Y88ALid.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1086729",
+    "tmdbId": 1086729,
+    "type": "movie",
+    "title": "Amar Singh Chamkila",
+    "overview": "A humble singer's brash lyrics ignite fame and fury across Punjab as he grapples with soaring success and brutal criticism before his untimely death.",
+    "year": "2024",
+    "rating": 7.676,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t9wSGgaPfbGUBBlne7xw8GaArvu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qh7PWKRfy2K8rZZP7LzembGgWIU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rB7xitKUZVNBvRuaBeCgGwCHlnt.png",
+    "certificate": null,
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "671295",
+    "tmdbId": 671295,
+    "type": "movie",
+    "title": "Blue Miracle",
+    "overview": "To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.",
+    "year": "2021",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wlDSL8Rn4eQCzDPy1pPRkCh8H32.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7piVB6weeJdWB6xL0wzJJeHNo6O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e206Ihv0bXfed4pLwWwLlGczruX.svg",
+    "certificate": "NR",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "MX",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "296524",
+    "tmdbId": 296524,
+    "type": "movie",
+    "title": "Deepwater Horizon",
+    "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+    "year": "2016",
+    "rating": 6.902,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqEAHLh2bkxZCEMAkoksxy38lZJ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68718",
+    "tmdbId": 68718,
+    "type": "movie",
+    "title": "Django Unchained",
+    "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "year": "2012",
+    "rating": 8.193,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
+    "certificate": "R",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "472734",
+    "tmdbId": 472734,
+    "type": "movie",
+    "title": "Dumplin'",
+    "overview": "To prove a point about measuring up and fitting in, Texas teen Willowdean “Dumplin’” Dickson enters a local pageant run by her ex-beauty queen mom.",
+    "year": "2018",
+    "rating": 6.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9c9X3HHlBKuPpvOcFIxlldS7TGh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eLEk0oQpa6FfnmKeIK1wRnO6Y4k.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "497582",
+    "tmdbId": 497582,
+    "type": "movie",
+    "title": "Enola Holmes",
+    "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+    "year": "2020",
+    "rating": 7.218,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tq4PQYmth5PMId45vXr8QlEKfdB.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "829280",
+    "tmdbId": 829280,
+    "type": "movie",
+    "title": "Enola Holmes 2",
+    "overview": "Enola takes on her first official case as a detective, but to solve the mystery of a missing girl, she'll need help from friends — and brother Sherlock.",
+    "year": "2022",
+    "rating": 7.404,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rjlG7C5GZfXutoVoE3BJaYGUhk4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iBZmFkIwDMupJT2pTDEYcUn2og5.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "707886",
+    "tmdbId": 707886,
+    "type": "movie",
+    "title": "Feel the Beat",
+    "overview": "After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.",
+    "year": "2020",
+    "rating": 7.547,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fZBQOScjDT8TAipEyCkLVeDTu5c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/71SzY5QxckcGgCF5UNu4CmKPftQ.png",
+    "certificate": "G",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "980489",
+    "tmdbId": 980489,
+    "type": "movie",
+    "title": "Gran Turismo",
+    "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+    "year": "2023",
+    "rating": 7.696,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/taQ9BjH8k1OZPM3hViIM9KoI9FN.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "645489",
+    "tmdbId": 645489,
+    "type": "movie",
+    "title": "Gunjan Saxena: The Kargil Girl",
+    "overview": "Inspired by the life of a fearless young officer who made history by becoming the first Indian female Air Force officer to fly in a combat zone during the 1999 Kargil War",
+    "year": "2020",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ezaMkH1y6fFvJydpsc3Hf3oXcIu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g0QVLqVusHcG9a5wMoTINyYGdJC.png",
+    "certificate": null,
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1417941",
+    "tmdbId": 1417941,
+    "type": "movie",
+    "title": "Haq",
+    "overview": "In 1980s India, Shazia Bano takes her husband to court after he abandons her and their children, sparking a national battle over faith, women’s rights, and justice.",
+    "year": "2025",
+    "rating": 7.483,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tO7OI5MyzPSiVmlXXnlBKlAJH92.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wFqJMVP0nrsgKeA2kwshRkIz1fw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uGMJ8T2nQuAq2R7XU3IbbjZutu6.png",
+    "certificate": "PG",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "531438",
+    "tmdbId": 531438,
+    "type": "movie",
+    "title": "Holiday in the Wild",
+    "overview": "When her husband abruptly ends their marriage, empty nester Kate embarks on a solo second honeymoon in Africa, finding purpose and potential romance.",
+    "year": "2019",
+    "rating": 6.476,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kDXMzBpiUJld5zLnSqDmGln3XuM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/t2Po4BVdG3UmlfOACo9US1zjumr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lPTGtuY6IJP2tkAzyRZveMJHuZz.png",
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "705861",
+    "tmdbId": 705861,
+    "type": "movie",
+    "title": "Hustle",
+    "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+    "year": "2022",
+    "rating": 7.695,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cPKhz9dztcnOsHFn8dGakR9M5dn.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1163194",
+    "tmdbId": 1163194,
+    "type": "movie",
+    "title": "Lost Ladies",
+    "overview": "In 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they both encounter a host of colourful characters, resulting in hilarious and unexpected consequences.",
+    "year": "2024",
+    "rating": 7.805,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uUVXEEyMsyWxrcbmAppUCYg6egV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a7XPdZ9za4kjj5lwwWu5Ks86rso.png",
+    "certificate": null,
+    "runTimeMinutes": 123,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1239511",
+    "tmdbId": 1239511,
+    "type": "movie",
+    "title": "Lucky Baskhar",
+    "overview": "A middle-class bank clerk who longs to trade stability for adventure gets more than he bargained for when he unexpectedly becomes a wealthy man.",
+    "year": "2024",
+    "rating": 7.698,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/a47JQFl9L7VDa79tEvnTOJe0rPa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q8UyN4XhpmChtneZXdZ8fktQka6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/68sP6ojhkMgma9YYCNEerbyPMyi.png",
+    "certificate": "NR",
+    "runTimeMinutes": 151,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1118224",
+    "tmdbId": 1118224,
+    "type": "movie",
+    "title": "Maharaja",
+    "overview": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"Lakshmi\" has been taken, leaving them uncertain if it's a person or object, jeer at his request until they learn what they're really looking for.",
+    "year": "2024",
+    "rating": 7.701,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/s0m4TM1XRAftQStgKpw024RvkJo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/if61bpqSXngkGoGNjMdHZt02wZS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/34PSeGad1e8rIIpxirSEB1cI46p.png",
+    "certificate": null,
+    "runTimeMinutes": 141,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1509573",
+    "tmdbId": 1509573,
+    "type": "movie",
+    "title": "Meet, Greet & Bye",
+    "overview": "A mother, who loves watching K-dramas, decides to stop her chemo treatment after losing hope of getting better. Her only dream before dying is to meet her ultimate K-drama idol, who is visiting Manila for a series of events. Her four children agree to work together with the condition that once their mother meets their idol, she will undergo therapy before her time runs out.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7gEBNzmaTiBVG3g0eUDPU3kPbcc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iCUYNsFbNnbiUzOA7MeFOfV8DYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rvSsLy3Xi8m34cZZDfcyLLYiMVD.png",
+    "certificate": "NR",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "653457",
+    "tmdbId": 653457,
+    "type": "movie",
+    "title": "Mimi",
+    "overview": "An aspiring actress in a small town in Rajasthan agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes an unexpected turn when they refuse to have the child anymore.",
+    "year": "2021",
+    "rating": 6.872,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AtCUHSf5sG31FL0vugxplft5FXW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nZUIFepKU3QYwdnfMPN7Oqv6KYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mFPkK7MkgNGb0fKr07Mw1lOZkNx.svg",
+    "certificate": null,
+    "runTimeMinutes": 132,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1151039",
+    "tmdbId": 1151039,
+    "type": "movie",
+    "title": "Nonnas",
+    "overview": "After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual nonnas — grandmothers — as the chefs.",
+    "year": "2025",
+    "rating": 6.774,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rN6HA9a4oUpy4HKgnOHqaO751Kd.png",
+    "certificate": "PG",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "888710",
+    "tmdbId": 888710,
+    "type": "movie",
+    "title": "OMG 2",
+    "overview": "Life is bliss until one day Kanti Sharan Mudgal’s son Vivek is blamed for immoral conduct and expelled from school. Overwhelmed, Kanti plans to leave town until a divine intervention leads him to seek justice by taking those responsible to court.",
+    "year": "2023",
+    "rating": 7.357,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kApiO3oL6t100aCtkcwEhk2kqgK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9wmSV9Nk3j7GIEBQghJIGI0U2Nk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pwz6Yon9oeaDDzeYSAFh3yzEq9P.png",
+    "certificate": null,
+    "runTimeMinutes": 155,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "974036",
+    "tmdbId": 974036,
+    "type": "movie",
+    "title": "Ordinary Angels",
+    "overview": "Inspired by the incredible true story of a hairdresser who single-handedly rallies an entire community to help a widowed father save the life of his critically ill young daughter.",
+    "year": "2024",
+    "rating": 7.685,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4RoH6458UkjmCNH8SicnmSjBoB5.png",
+    "certificate": "PG",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "762975",
+    "tmdbId": 762975,
+    "type": "movie",
+    "title": "Purple Hearts",
+    "overview": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+    "year": "2022",
+    "rating": 8.043,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jdZM1Gs6DtRGvosgqaXRrIkvYX7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hPIpXRnw4Jk1m3hQsQClCcBiCjh.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1330021",
+    "tmdbId": 1330021,
+    "type": "movie",
+    "title": "Remarkably Bright Creatures",
+    "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+    "year": "2026",
+    "rating": 8.438,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9yhvM7mpxH8smgRAdLJwy4JE5R2.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "921655",
+    "tmdbId": 921655,
+    "type": "movie",
+    "title": "Rescued by Ruby",
+    "overview": "Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.",
+    "year": "2022",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tPlJEodEn0SSV4avo8KSawtlTlN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zQG1FYDqoWo2hYhE5GVZ1yrWSfh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/peC67TPghLHPreE48sxEKRXfZI5.png",
+    "certificate": "G",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1252470",
+    "tmdbId": 1252470,
+    "type": "movie",
+    "title": "Sikandar Ka Muqaddar",
+    "overview": "After an unsolved diamond heist, a hard-nosed cop’s pursuit of his key suspect turns into obsession, until they finally face each other — and the truth.",
+    "year": "2024",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a3TqD6eiL5MAyN5B0mtn8jObuRz.png",
+    "certificate": "R",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1426776",
+    "tmdbId": 1426776,
+    "type": "movie",
+    "title": "STRAW",
+    "overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point — and into a shocking act of desperation.",
+    "year": "2025",
+    "rating": 7.684,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ky8YMrHxRKlCmNku38fw7Wo9k3w.png",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "327331",
+    "tmdbId": 327331,
+    "type": "movie",
+    "title": "The Dirt",
+    "overview": "The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
+    "year": "2019",
+    "rating": 7.436,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lFLwxSd9JReOBBxoUwQFBANcyIl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sXID3fXjARG5BuXuDbEh2MeWj8j.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "451480",
+    "tmdbId": 451480,
+    "type": "movie",
+    "title": "The Guernsey Literary & Potato Peel Pie Society",
+    "overview": "Free-spirited writer Juliet Ashton forms a life-changing bond with the delightful and eccentric Guernsey Literary and Potato Peel Pie Society, when she decides to write about the book club they formed during the occupation of Guernsey in WWII.",
+    "year": "2018",
+    "rating": 7.393,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mGDUIbcrdULI7N0eg1Ip7oY0aUS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9IbGIGYNVEm1HXViYPBQmbuz9E.png",
+    "certificate": null,
+    "runTimeMinutes": 124,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "500682",
+    "tmdbId": 500682,
+    "type": "movie",
+    "title": "The Highwaymen",
+    "overview": "In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.",
+    "year": "2019",
+    "rating": 6.773,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7SleH2eUSnAohTcn6zkYkGXJDVP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oi0sR8J3WEg8ZE6ZyXEckNGu5mu.png",
+    "certificate": "R",
+    "runTimeMinutes": 133,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "205587",
+    "tmdbId": 205587,
+    "type": "movie",
+    "title": "The Judge",
+    "overview": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
+    "year": "2014",
+    "rating": 7.33,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/anPUcSUkSlwP7bw7oi6kDRRyfjE.png",
+    "certificate": "R",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1254786",
+    "tmdbId": 1254786,
+    "type": "movie",
+    "title": "The Life List",
+    "overview": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+    "year": "2025",
+    "rating": 6.956,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/psLsBU07NfJCq60DTQdXf2gEXQ6.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "552688",
+    "tmdbId": 552688,
+    "type": "movie",
+    "title": "The Mother",
+    "overview": "A deadly female assassin comes out of hiding to protect the daughter that she gave up years before, while on the run from dangerous men.",
+    "year": "2023",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n5NSF8wZeWQHHZtuWgbRAVpqXFR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b29iVYH1DbdQE9byBxZwmzlwJgx.png",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "736918",
+    "tmdbId": 736918,
+    "type": "movie",
+    "title": "The Noel Diary",
+    "overview": "Cleaning out his childhood home at Christmas, a novelist meets a woman searching for her birth mother. Will an old diary unlock their pasts — and hearts?",
+    "year": "2022",
+    "rating": 6.298,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cL8T5paT0xYohsEkaBqzdAM8evA.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "84892",
+    "tmdbId": 84892,
+    "type": "movie",
+    "title": "The Perks of Being a Wallflower",
+    "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+    "year": "2012",
+    "rating": 7.804,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aM6E4DBP6588q3tEr9hz41ls80q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r1GVuodjkXCl23a2mpjDINZWw73.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "556803",
+    "tmdbId": 556803,
+    "type": "movie",
+    "title": "The Princess Switch",
+    "overview": "When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.",
+    "year": "2018",
+    "rating": 6.981,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A8XgZE8CsHiYN243MEd07GLCep.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iHbHTn6awwTTu9kcfBe2hkTuWXS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hL1iizvDmqndlnQGjY0BJJU5PaU.png",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1061699",
+    "tmdbId": 1061699,
+    "type": "movie",
+    "title": "The Six Triple Eight",
+    "overview": "During World War II, the US Army's only all-Black, all-women battalion takes on an impossible mission: sorting through a three-year backlog of 17 million pieces of mail that hadn't been delivered to American soldiers and finish within six months.",
+    "year": "2024",
+    "rating": 7.579,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/olZLOl80bMb0iALVTBDDpU7OYvy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "645886",
+    "tmdbId": 645886,
+    "type": "movie",
+    "title": "The Unforgivable",
+    "overview": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
+    "year": "2021",
+    "rating": 7.409,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1b3dNFDuE7i05TJlXrIC571yR01.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sjKKTxkyY4PoaMNHAROUpkWh7dw.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

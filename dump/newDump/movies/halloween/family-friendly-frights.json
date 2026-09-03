@@ -1,0 +1,788 @@
+[
+  {
+    "id": "624963",
+    "tmdbId": 624963,
+    "type": "movie",
+    "title": "A Babysitter's Guide to Monster Hunting",
+    "overview": "Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she's watching on Halloween.",
+    "year": "2020",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bkld8Me0WiLWipLORRNfF1yIPHu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ezLKohe4HKsHQbwQwhv0ARo83NC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6b3ud9fp0DJ5vyMI0X8OEtz4BEi.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "65294",
+    "tmdbId": 65294,
+    "type": "show",
+    "title": "A Series of Unfortunate Events",
+    "overview": "The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents' death.",
+    "year": "2017",
+    "rating": 7.408,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/scQYe3wMt98baZAPhuBcewEqns7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2curMKLRUHgL6EfdlmC1PLSYE1V.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "133355",
+    "tmdbId": 133355,
+    "type": "show",
+    "title": "A Tale Dark & Grimm",
+    "overview": "Follow Hansel and Gretel as they walk out of their own story into a winding and wickedly witty tale full of strange — and scary — surprises.",
+    "year": "2021",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uhnOfK4DOIrB7pGMTvsIOdFE8g7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/luzRIdzL9RzfQoaIVyZW6CvMxY6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/29CCxYTj43K55kkxbpkXxb0HuhO.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "3126",
+    "tmdbId": 3126,
+    "type": "movie",
+    "title": "Alvin and the Chipmunks Meet Frankenstein",
+    "overview": "The Chipmunks work in an amusement park attraction. After Alvin drives a crazy tour group, they miss their next performance and are locked in the park after closing time. Little do they know that the real Dr. Frankenstein has been hired in a new attraction called, \"Frankenstein's Castle\"; figuring that the castle isn't scary enough, the mad scientist recreates the real Monster.",
+    "year": "1999",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hiXOFmWtxQ3LdrGgP2uOuR1DHBp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vsLwmFVWKg1qydVJDX5sA5psiCa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o6VlLd7USJ28AOLpX8BjxPfprhE.png",
+    "certificate": "G",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78036",
+    "tmdbId": 78036,
+    "type": "show",
+    "title": "Creeped Out",
+    "overview": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
+    "year": "2017",
+    "rating": 7.208,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5TFYkGC8eSUlIz2TMqL4IKPUbBK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9YrrHB7LIiuMElYpgeLbXi0uZj9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ni1xkvFZInnEQMSOVArt1YPzmQJ.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "CA",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "214668",
+    "tmdbId": 214668,
+    "type": "show",
+    "title": "Dance Monsters",
+    "overview": "In this feel-good competition, amateur dancers disguised as CGI avatars bring their best moves, hoping to win $250,000 — and a second shot at their dreams.",
+    "year": "2022",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kpJHtIFlg1QgDIuXdi3l3OS81dF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cQdrTdh7gSIpqwwKLpgiEAan6k8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xsUqQqG5QCEWKwhzd9OtZ99tclL.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158139",
+    "tmdbId": 158139,
+    "type": "show",
+    "title": "Dead End: Paranormal Park",
+    "overview": "Two teens and a talking pug team up to battle demons at a haunted theme park — and maybe even save the world from a supernatural apocalypse.",
+    "year": "2022",
+    "rating": 7.282,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hWN2Y6smsfxffPUCYPHihXDqbnP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zyYjhlRqJrsUfNxNUJazPkiOUSf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zF2ijmebuH8vkJChEqU9TtCkECD.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "929472",
+    "tmdbId": 929472,
+    "type": "movie",
+    "title": "Erax",
+    "overview": "Monstrous creatures leap from a magical storybook and unleash mayhem and mischief for Auntie Opal and her tween niece Nina in this spooky short film.",
+    "year": "2022",
+    "rating": 4.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rMp04rYhy4yfOfjZq5F9R3wkeqo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n67cIiOFqzdralhIbjppltWZDYe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xZ0vlpeWrDPKGg9OBF1zm7mQtEb.png",
+    "certificate": "PG",
+    "runTimeMinutes": 14,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1091181",
+    "tmdbId": 1091181,
+    "type": "movie",
+    "title": "Family Pack",
+    "overview": "When an old card game comes to life, a family jumps back in time to a medieval village where they must unmask werewolves to secure their return home.",
+    "year": "2024",
+    "rating": 5.607,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uL1dR0L65GZgy3h2gvZcxDu0bRG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pFLs2qFhfp7k2zgT69fTkcl0uHF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/elcb0PggCqFy7cyLP8Wwd5UhEGM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "136394",
+    "tmdbId": 136394,
+    "type": "show",
+    "title": "Freeridge",
+    "overview": "Four teen friends work to reverse a curse after a peculiar old box seems to bring misfortune — and more — into their lives.",
+    "year": "2023",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/14dtUdFPXmjLNNOjkYCHCNOg01d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1MoNmwLWUYxAu76he68dYGrutjE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jCD6zBtLDrViIK9LTVmBAik26ay.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 31,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "967847",
+    "tmdbId": 967847,
+    "type": "movie",
+    "title": "Ghostbusters: Frozen Empire",
+    "overview": "The Spengler family returns to where it all started - the iconic New York City firehouse - to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.",
+    "year": "2024",
+    "rating": 6.442,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8bphDsI8M22A8ztDabHV03rOhlS.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "466876",
+    "tmdbId": 466876,
+    "type": "movie",
+    "title": "Gnome Alone",
+    "overview": "When Chloe discovers that her new home's garden gnomes are not what they seem, she must decide between the pursuit of a desired high school life and taking up the fight against the Troggs.",
+    "year": "2017",
+    "rating": 6.122,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uAv8MOm26tAbSZbUiOtrHZx10gQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kIJvyyrWmPOp0oqyTHLQnI7PDYB.png",
+    "certificate": "PG",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "400155",
+    "tmdbId": 400155,
+    "type": "movie",
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "overview": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
+    "year": "2018",
+    "rating": 6.841,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gvUYIHWzq7r3KuzAaKvly2h0SjM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v5unLnqRqo998hol1p1BCjfBWpM.png",
+    "certificate": "PG",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "617505",
+    "tmdbId": 617505,
+    "type": "movie",
+    "title": "Hubie Halloween",
+    "overview": "Hubie Dubois, despite his devotion to his hometown of Salem, Massachusetts (and its legendary Halloween celebration), is a figure of mockery for kids and adults alike. But this year, something really is going bump in the night, and it’s up to Hubie to save Halloween.",
+    "year": "2020",
+    "rating": 5.88,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dbhC6qRydXyRmpUdcl9bL9rARya.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aOeshAxAhiDVIiHsXVFmF6bgclh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/et5zTM34qBIdrHJJPjEUWifijM8.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1119090",
+    "tmdbId": 1119090,
+    "type": "movie",
+    "title": "I Am Frankelda",
+    "overview": "A gifted young writer in 19th-century Mexico journeys into her subconscious and comes face to face with characters from her own spooky stories.",
+    "year": "2025",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hDzllxB1TQ7uUxVvjnGHirJJovt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pme7D46PxaOdNWika46q5VUS2CR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gTXKbvZCpfEI4vXp4gWcLCNX7KF.png",
+    "certificate": "NR",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "235228",
+    "tmdbId": 235228,
+    "type": "show",
+    "title": "I Woke Up a Vampire",
+    "overview": "On her 13th birthday, Carmie discovers that she's actually half human, half vampire — and that mythical powers make middle school way more complicated.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6P4tca2yL0pgS9xdmtGpZJyUubD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nQQQVpEYudncIuoyD5YUzYbqulK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1W4L2iHsTywbNgKt5B86P3TQHhC.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "106292",
+    "tmdbId": 106292,
+    "type": "show",
+    "title": "Julie and the Phantoms",
+    "overview": "Teenage Julie finds her passion for music and life while helping the Phantoms -- a trio of ghostly guys -- become the band they were never able to be.",
+    "year": "2020",
+    "rating": 8.41,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m6uNY62Rx6gpUkC7urCOrOTlaj2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zIML9hklxKu9qbESWrSPwD25f4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wXhMsjJ29t7Ngj16cn16hGLE5pg.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "803796",
+    "tmdbId": 803796,
+    "type": "movie",
+    "title": "KPop Demon Hunters",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "year": "2025",
+    "rating": 8.002,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mzHotrzOHHvGN4B8fyVQ55h7Z25.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "213241",
+    "tmdbId": 213241,
+    "type": "show",
+    "title": "Lockwood & Co.",
+    "overview": "A girl with extraordinary psychic abilities joins two gifted teen boys at a small ghost-hunting agency to fight the many deadly spirits haunting London.",
+    "year": "2023",
+    "rating": 7.53,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lxWSGo8D6MbFbQmM9tqhbaG80TP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/t65wB2iajohomOYqcQVwjBFebHh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nd0TzzAd7UaXVShqlGdvzutECXP.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "656103",
+    "tmdbId": 656103,
+    "type": "movie",
+    "title": "Love and Monsters",
+    "overview": "A warm sea, hot sun, a burning beauty in a police uniform and a bottle of wine are all that Yura Skvortsov needs to be happy, who has come to the resort to heal his mental wounds. Of course, there is a low season at any resort. But only here, in Bulgaria, it comes literally. First, the English dog disappears, then the lion, and then the already few tourists disappear altogether. Yura will have to defend his right to live and love in a fierce battle with unknown monsters that threaten all living things. Fortunately, the invincible monsters have one weak point: alcohol is poison for them. Now, in order to survive and defeat the unknown evil, the heroes will have to drink without getting dry.",
+    "year": "2021",
+    "rating": 2.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xoIk7ikX2XnhSkfQTidDOKPxZP4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nEEU0AlxTgfBRdyzLQb3AFlK3yU.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "262841",
+    "tmdbId": 262841,
+    "type": "movie",
+    "title": "Monster Trucks",
+    "overview": "Tripp is a high school senior with a knack for building trucks who makes an incredible discovery - a gas-guzzling creature named Creech. To protect his mischievous new friend, Tripp hides Creech under the hood of his latest creation, turning it into a real-life super-powered Monster Truck. Together, this unlikely duo with a shared taste for speed team up on a wild and unforgettable journey to reunite Creech with his family.",
+    "year": "2016",
+    "rating": 6.081,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aUzNybWqURfeg9BveLr4GOVCkti.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w0I6KQ3r9DdNZ0tIsD1CA67Hr6x.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dph67qtRtkbV5NcFARNOR5lUgye.png",
+    "certificate": "PG",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "669671",
+    "tmdbId": 669671,
+    "type": "movie",
+    "title": "Night Teeth",
+    "overview": "A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions—and their dangerous, shadowy underworld—he must fight to stay alive.",
+    "year": "2021",
+    "rating": 6.428,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1i8SJSdjAqd6PI5lPxhPaYKhUU3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xmqXQOGxFaUCZr9wXrD2WD2V3aT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vWmCLeGnOr5H30zNcWNeG1SaTQZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "739990",
+    "tmdbId": 739990,
+    "type": "movie",
+    "title": "Nightbooks",
+    "overview": "Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, magical New York City apartment. His original hair-raising tales are the only thing keeping him safe as he desperately tries to find a way out of this twisted place.",
+    "year": "2021",
+    "rating": 6.111,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ysJte1iqN8pFQ470tumnViB1wHP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dnxxSyB7Ux8H2cvxK0uqlQTuwc1.png",
+    "certificate": "NR",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "382517",
+    "tmdbId": 382517,
+    "type": "movie",
+    "title": "Open Season: Scared Silly",
+    "overview": "The humans and animals believe a werewolf is on the loose, and former hunter Shaw uses the opportunity to re-open the season. Boog, Elliot, and Mr. Weenie have to face their fears and find the werewolf to get the season closed permanently.",
+    "year": "2015",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lvxznRSXxzmGGh4kicfmYvZhedK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ejEBQsgTQIWudUXLRIgcAVkFl3l.png",
+    "certificate": "PG",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "133064",
+    "tmdbId": 133064,
+    "type": "show",
+    "title": "Scaredy Cats",
+    "overview": "On Willa Ward’s twelfth birthday, she inherits a beautiful charm necklace that belonged to her mother, who was a witch.  She soon learns 2 bad witches, Wilma and Wanda are after her locket so they can have ultimate power, and she alongside her best friends Scout and Lily turn into cats to escape.",
+    "year": "2021",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vhgh0RZgN3h54Xlpvuz6Atruq7W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5eKtvO2ZS8QVCtqZj3a4xumuGnv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p2EfM810oz2J4uR95KEKPaxRVZk.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18123",
+    "tmdbId": 18123,
+    "type": "show",
+    "title": "Scooby-Doo! Mystery Incorporated",
+    "overview": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
+    "year": "2010",
+    "rating": 8.231,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2VvLk11UlmdHFPQkDgm4KPSjLrs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5OSGsg6ilKf7SGsc8cAbhsY1ENF.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1371727",
+    "tmdbId": 1371727,
+    "type": "movie",
+    "title": "Sing: Thriller",
+    "overview": "Buster Moon dreams up a star-studded spectacle set to Michael Jackson's \"Thriller\" in this animated short featuring characters from the hit \"Sing\" films.",
+    "year": "2024",
+    "rating": 7.176,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g0PZr8TYqIhSWq1EPmTisIqfr0K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9Rhs8yzMTtAcOUvJXqUg7kzljb7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xt0ukyR1j40PbF5Z9MjLAJqeDUW.png",
+    "certificate": "G",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "117678",
+    "tmdbId": 117678,
+    "type": "show",
+    "title": "Skull Island",
+    "overview": "Shipwrecked in the South Pacific, a group of explorers encounter a menagerie of fearsome creatures — including the giant ape who rules the island: Kong.",
+    "year": "2023",
+    "rating": 7.033,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8XApFlqookjHKWuScJgUoWnpFt8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tGum8pp4gImTfFbWjnk1efTZirR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7MQXZpj4FAEiZpHpcdj2Eb4zd9W.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "224263",
+    "tmdbId": 224263,
+    "type": "show",
+    "title": "Stranger Things: Tales from '85",
+    "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/krRJcoEVbkT2fPZDqmj9zWp9ZQR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ff4nzGS3122NvLVN10dheKtEZ9E.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1329336",
+    "tmdbId": 1329336,
+    "type": "movie",
+    "title": "The Bad Guys: Haunted Heist",
+    "overview": "The crafty Bad Guys crew embarks on a high-stakes Halloween heist to swipe a priceless amulet from a spooky mansion. What could go wrong?",
+    "year": "2024",
+    "rating": 6.864,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oEJC05CqPugMxC4rFu9r6r6vg6m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rI9Mh0Q0XAtqTiSgKI0M2fflO1X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qxyng0c7B6Wsr5C4XOQKeJEMy4y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "864959",
+    "tmdbId": 864959,
+    "type": "movie",
+    "title": "The Curse of Bridge Hollow",
+    "overview": "A Halloween-hating dad reluctantly teams up with his teenage daughter when an evil spirit wreaks havoc by making their town's decorations come to life.",
+    "year": "2022",
+    "rating": 6.501,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pZv3qb5wK3h0kOUL2HOloYioAT9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vB0wfVJvE8Xoe3Ni3xBoFJGXLP1.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79948",
+    "tmdbId": 79948,
+    "type": "show",
+    "title": "The Hollow",
+    "overview": "Three teens join forces to find a way home after waking up in a strange realm filled with magic portals, perplexing puzzles and vicious beasts.",
+    "year": "2018",
+    "rating": 6.907,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9sDgeNu67umBkX209Yh78d4tyv9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yhhVjgPlCI18nGX5pJqFPTbcB9G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hWLRjBnC3WepZUWXmMdXpkApNHV.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "818750",
+    "tmdbId": 818750,
+    "type": "movie",
+    "title": "The In Between",
+    "overview": "After surviving a car accident that took the life of her boyfriend, a teenage girl believes he's attempting to reconnect with her from the after world.",
+    "year": "2022",
+    "rating": 7.33,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/334KZ2yt18AjPN9VmJw68sEkc7U.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2e5WaNnXQ5U76Hk3lhcp4mnJk66.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "169590",
+    "tmdbId": 169590,
+    "type": "show",
+    "title": "The Last Bus",
+    "overview": "After embarking on a life-changing field trip, a group of whip-smart students fight to save humanity from an army of ruthless drones.",
+    "year": "2022",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tv1jyfYC0ZClQod9v6IbhwP6ak.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wJ7F26oy8jsE8E3KwaBYO0jTtaa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s9yeXlgvocn9tfgd8jaCuiJcGss.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "92684",
+    "tmdbId": 92684,
+    "type": "show",
+    "title": "The Last Kids on Earth",
+    "overview": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+    "year": "2019",
+    "rating": 8.14,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8mNQpab95fhyR2JF4nJ6dIORwKJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jlqUjWV6loT0Ss3Ckdi8CTrMZKJ.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69581",
+    "tmdbId": 69581,
+    "type": "show",
+    "title": "The Worst Witch",
+    "overview": "Mayhem and mishaps follow young witch Mildred Hubble wherever she goes. She just can't help it! But with her friends' help, Mildred always manages to avoid disaster just in time.",
+    "year": "2017",
+    "rating": 7.411,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rboZ8THSUD68ux24f9wuf4ptBln.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qn34A8dkm7zcntQoGacvWbj8781.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "511817",
+    "tmdbId": 511817,
+    "type": "movie",
+    "title": "Wendell & Wild",
+    "overview": "Two scheming demons strike a deal with a punk rock-loving teen so they can leave the Underworld and live out their dreams in the Land of the Living.",
+    "year": "2022",
+    "rating": 6.584,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/apBUC70udhxoLzXo7DqclQ6gcXo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/as1NqRM1L6nR2GMmg1kRkGDg0SY.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "286822",
+    "tmdbId": 286822,
+    "type": "show",
+    "title": "Winx Club: The Magic Is Back",
+    "overview": "When Bloom discovers she has magic, her life takes a wild turn. At the Alfea school for fairies and witches, she meets five girls who become her best friends — and her greatest strength. Together, they’re the Winx. As dark secrets rise and powerful enemies close in, the Winx will need to unlock their true potential to protect their world — and themselves.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oFO3GdOHzLIp3F6qrDbcC65MYUX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5W4ST8DCqSUQh4itmwUJ6dVMeZs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iA4HBg2MElV7jzSaihGm6EUDx0s.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231727",
+    "tmdbId": 231727,
+    "type": "show",
+    "title": "Wolf King",
+    "overview": "A young commoner comes of age and learns he's the last of a long line of Werewolves — and heir to the throne.",
+    "year": "2025",
+    "rating": 6.806,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/crfpyT8XZo8kKihagGP6jVx6n8G.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  }
+]
