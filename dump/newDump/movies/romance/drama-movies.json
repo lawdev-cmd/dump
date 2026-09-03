@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1119173",
+    "tmdbId": 1119173,
+    "type": "movie",
+    "title": "A Beautiful Life",
+    "overview": "When a young fisherman with a hidden talent gets discovered by a music producer, he must decide if he's ready to open himself up to stardom — and love.",
+    "year": "2023",
+    "rating": 6.872,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x6PvT4HAkK7phdj54Zao8rY5oBT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6BI1XjPNT5VYEJ4vXkdyuiKLMYt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cA2WhK7QKVsnuqTgqhz8rUsGezk.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "DK"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "448557",
+    "tmdbId": 448557,
+    "type": "movie",
+    "title": "After Everything",
+    "overview": "When Elliot, a brash 23-year-old living carefree in New York City, meets the sensible Mia and receives a damning diagnosis all in the same week, his world is turned completely upside down. But as their love blossoms amidst the chaos of his treatment, they discover that Elliot's illness is not the real test of their relationship – it's everything else.",
+    "year": "2018",
+    "rating": 6.474,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5fwosV84f3BOV2h4kqcbpQplFLY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/k2fAJ7LazXL9OGWIplv9XqD3Zct.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "142",
+    "tmdbId": 142,
+    "type": "movie",
+    "title": "Brokeback Mountain",
+    "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+    "year": "2005",
+    "rating": 7.784,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yS4ATObRBWI3JIH2Te0S4iZNfq.png",
+    "certificate": "R",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10337",
+    "tmdbId": 10337,
+    "type": "movie",
+    "title": "Bugsy",
+    "overview": "New York gangster Ben 'Bugsy' Siegel takes a brief business trip to Los Angeles. A sharp-dressing womanizer with a foul temper, Siegel doesn't hesitate to kill or maim anyone crossing him. In L.A. the life, the movies, and most of all strong-willed Virginia Hill detain him while his family wait back home. Then a trip to a run-down gambling joint at a spot in the desert known as Las Vegas gives him his big idea.",
+    "year": "1991",
+    "rating": 6.345,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hSGncpMByW8zx2aOSXdZB0e70yA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zLyT3ekJMkp9RQxjvhkruv0nNr6.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "392",
+    "tmdbId": 392,
+    "type": "movie",
+    "title": "Chocolat",
+    "overview": "In the winter of 1959, a single mother and her young daughter arrive in a rural French town, where they open an unusual chocolate shop that disrupts the moral fiber of the strictly Catholic townsfolk and mayor.",
+    "year": "2000",
+    "rating": 6.971,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lnwPvyj8UR7MetG2pQ92453IIoR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ci7lHSttckIgO6TlaT4X1zy8CDi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uLRVOYfOwABmlfUrsLKFqcs4qHC.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1214835",
+    "tmdbId": 1214835,
+    "type": "movie",
+    "title": "De De Pyaar De 2",
+    "overview": "When Ashish meets his girlfriend's parents for the first time, their age difference sparks outrage and a madcap plot to drive him out of her life.",
+    "year": "2025",
+    "rating": 6.667,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oH6Pan7upyAPY8sGSJ1WmYmTcuL.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "22971",
+    "tmdbId": 22971,
+    "type": "movie",
+    "title": "Dear John",
+    "overview": "While Sergeant John Tyree is home on two weeks leave from Germany, he meets Savannah after he dives into the ocean to retrieve Savannah's purse that had fallen off a pier. John eventually falls in love with Savannah, who promises to write to him until he returns from overseas.",
+    "year": "2010",
+    "rating": 6.834,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2lAPv2jQ5eh54l4EttA9wjDljED.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bIzhIEW1zOmoGyx8qWQx4u3avWo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/illy0dfd6TsFE0oJO0O910yBmi.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "19404",
+    "tmdbId": 19404,
+    "type": "movie",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+    "year": "1995",
+    "rating": 8.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2y2BbO3udAS9Zfzya3ifqUn7JUh.png",
+    "certificate": "PG",
+    "runTimeMinutes": 190,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "417261",
+    "tmdbId": 417261,
+    "type": "movie",
+    "title": "Forever My Girl",
+    "overview": "Years after leaving his fiancée at the altar to pursue fame and fortune, country music star Liam Page returns home hoping to win her back.",
+    "year": "2018",
+    "rating": 7.631,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gEsBPNcGAuNBU5MGaOAlnm6uDe7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AqGle1tpAYb1ngOMv3BfmRelhZz.png",
+    "certificate": "PG",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1468683",
+    "tmdbId": 1468683,
+    "type": "movie",
+    "title": "Heartstopper Forever",
+    "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+    "year": "2026",
+    "rating": 7.204,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oWOyUOqH3FwePHhFTx6KDS59b9u.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1432631",
+    "tmdbId": 1432631,
+    "type": "movie",
+    "title": "Idhayam Murali",
+    "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+    "year": "2026",
+    "rating": 6.889,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aeI0gsEH4DReeQtBnBhAIyiFCJQ.png",
+    "certificate": null,
+    "runTimeMinutes": 164,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "132316",
+    "tmdbId": 132316,
+    "type": "movie",
+    "title": "Jab Tak Hai Jaan",
+    "overview": "Samar Anand, a London-based struggling musician falls in love with Meera Thappar. After a severe accident, a panicked Meera promises God to leave Samar if he lives. Heartbroken, Samar leaves for India to become a fearless bomb disposal expert in the army.",
+    "year": "2012",
+    "rating": 7.035,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sgf60uAPn95lBAcSX9eQE8bKxTb.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 176,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4254",
+    "tmdbId": 4254,
+    "type": "movie",
+    "title": "Kal Ho Naa Ho",
+    "overview": "An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away.",
+    "year": "2003",
+    "rating": 7.467,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rTELwIG56mizXNT9Q27fVA2e7uh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7DnwtbWhjwI643PGQGVIVOhDsDR.png",
+    "certificate": "PG",
+    "runTimeMinutes": 187,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14134",
+    "tmdbId": 14134,
+    "type": "movie",
+    "title": "Main Hoon Na",
+    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+    "year": "2004",
+    "rating": 6.624,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
+    "certificate": "PG",
+    "runTimeMinutes": 179,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11518",
+    "tmdbId": 11518,
+    "type": "movie",
+    "title": "Mohabbatein",
+    "overview": "At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster.",
+    "year": "2000",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dDsYaBazrYKg9bv8qgsEohZQMat.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s3IfP462ibiQkfU767D4YcMbKTt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yjCsR6w7EmV8KIaUNS3WVvMN4nW.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 216,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1307078",
+    "tmdbId": 1307078,
+    "type": "movie",
+    "title": "My Oxford Year",
+    "overview": "An ambitious American fulfilling her dream of studying at Oxford falls for a charming Brit hiding a secret that may upend her perfectly planned life.",
+    "year": "2025",
+    "rating": 7.018,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8bwh6JVD0ilbvtZloLTCnAnfDJc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8079",
+    "tmdbId": 8079,
+    "type": "movie",
+    "title": "Om Shanti Om",
+    "overview": "In the early 70s, aspiring actor Om Prakash Makhija, and a famous starlet Shantipriya, are murdered. Thirty years later, his reincarnation Om Kapoor sets out to discover the mystery of their demise.",
+    "year": "2007",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oArsQTD4bPPMtRjqr03SO9W6phF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mBdT7nvhXmvZKK1mieS261IApcI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTEPafUc9Drd3G11rOPlMYGpNFC.png",
+    "certificate": "NR",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "6023",
+    "tmdbId": 6023,
+    "type": "movie",
+    "title": "P.S. I Love You",
+    "overview": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.",
+    "year": "2007",
+    "rating": 7.174,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x6M9nlTpgpI4AOw0tMkOAVbhL5z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7JrXKA5vkyqITySzbx8iZB89ivk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ohmSAZa7n85C7nuCvGSvmnFy9XB.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1320660",
+    "tmdbId": 1320660,
+    "type": "movie",
+    "title": "Pati Patni Aur Woh Do",
+    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "year": "2026",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pA4Cg2DW1a2s9HQzqueKgYVaVua.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "297222",
+    "tmdbId": 297222,
+    "type": "movie",
+    "title": "PK",
+    "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+    "year": "2014",
+    "rating": 7.703,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/BnDydsaEeMhywD5Snv6jN77ifh.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 153,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538273",
+    "tmdbId": 1538273,
+    "type": "movie",
+    "title": "Pyaar Prema Kalyanam",
+    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+    "year": "2026",
+    "rating": 7.318,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14072",
+    "tmdbId": 14072,
+    "type": "movie",
+    "title": "Rab Ne Bana Di Jodi",
+    "overview": "A boring, reserved husband secretly becomes a lively, confident stranger to woo his own unaware wife only to make her fall head over heels for his dashing alter ego.",
+    "year": "2008",
+    "rating": 7.095,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qugyZNhZah8IaXfPQIxlsDHsOpK.png",
+    "certificate": "PG",
+    "runTimeMinutes": 167,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "23169",
+    "tmdbId": 23169,
+    "type": "movie",
+    "title": "Remember Me",
+    "overview": "Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.",
+    "year": "2010",
+    "rating": 7.097,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j7umuMiLCHvWT7wYhFKJOTFSokF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kbxk09QgBJfJjnp66ey3JCEshKf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5IXmNcBM9bcbh6F2nJyEiFoiIQQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1241634",
+    "tmdbId": 1241634,
+    "type": "movie",
+    "title": "Saiyaara",
+    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+    "year": "2025",
+    "rating": 6.367,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qnJ0VhbFAeu7YUPpEB3AZ3d1bAI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37786",
+    "tmdbId": 37786,
+    "type": "movie",
+    "title": "Sex and the City 2",
+    "overview": "Carrie, Charlotte, and Miranda are all married now, but they're still up for a little fun in the sun. When Samantha gets the chance to visit one of the most extravagant vacation destinations on the planet and offers to bring them all along, they surmise that a women-only retreat may be the perfect excuse to eschew their responsibilities and remember what life was like before they decided to settle down.",
+    "year": "2010",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6CtFxG3WbeS8khj0Wzshmqg2zLM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gPqqEBBpSl7E4Fz8uMBqoBLxcTP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mkOxHKayJT89exlFcUlq0Y3iXwf.png",
+    "certificate": "R",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4564",
+    "tmdbId": 4564,
+    "type": "movie",
+    "title": "Sex and the City",
+    "overview": "When Carrie's big step forward in her relationship goes awry, best friends Charlotte, Miranda and Samantha are there to help her pick up the pieces.",
+    "year": "2008",
+    "rating": 6.547,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AhNfnsGW95RKHQNLdgFH48UN0Zy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/osHKguxvXPIUJJzsO3DEORZZ8QD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/edhrsNIVoD36wYwr5WLGLh4tYEv.png",
+    "certificate": "R",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49022",
+    "tmdbId": 49022,
+    "type": "movie",
+    "title": "Something Borrowed",
+    "overview": "Though Rachel is a successful attorney and a loyal, generous friend, she is still single. After one drink too many at her 30th-birthday celebration, Rachel unexpectedly falls into bed with her longtime crush, Dex -- who happens to be engaged to her best friend, Darcy. Ramifications of the liaison threaten to destroy the women's lifelong friendship, while Ethan, Rachel's confidant, harbors a potentially explosive secret of his own.",
+    "year": "2011",
+    "rating": 6.234,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/66VZu75VeLGc6tcAypqyGzWcPeN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pKh2qMYoC5vXaRiU0qBK3IPXk76.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4AEQXDfGNyRI8xLim7HAw8qaOzC.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "376812",
+    "tmdbId": 376812,
+    "type": "movie",
+    "title": "Sultan",
+    "overview": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
+    "year": "2016",
+    "rating": 6.842,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oarT8LL2XE0aPU9kXqrD249Z4rM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/74bUfGDD0kJ53M334vQcbJRzsI8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qCvkXph5MNPcnDKG0qrVpc4Fx3f.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 170,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1142921",
+    "tmdbId": 1142921,
+    "type": "movie",
+    "title": "Tere Ishk Mein",
+    "overview": "A psychology student attempts to rehabilitate a volatile young man, before evolving into a doomed romance.",
+    "year": "2025",
+    "rating": 5.364,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3FgFKX1gW21LzjT0Yniflaqmhpr.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 169,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "293863",
+    "tmdbId": 293863,
+    "type": "movie",
+    "title": "The Age of Adaline",
+    "overview": "After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.",
+    "year": "2015",
+    "rating": 7.467,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t8uaVXoPYbRQjZoeHeC5AwPsB6C.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9767",
+    "tmdbId": 9767,
+    "type": "movie",
+    "title": "The Break-Up",
+    "overview": "Pushed to the breaking-up point after their latest 'why can't you do this one little thing for me?' argument, Brooke calls it quits with her boyfriend Gary. What follows is a hilarious series of remedies, war tactics, overtures and undermining tricks – all encouraged by the former couple's friends and confidantes …and the occasional total stranger! When neither ex is willing to move out of their shared apartment, the only solution is to continue living as hostile roommates until one of them reaches breaking point.",
+    "year": "2006",
+    "rating": 5.903,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ghCLIPRZNAndBoIZJ8f7lN5Mlly.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tukmcuDcTgFesqveQQWKhKXKEzg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/prRNbpL7deCidGLF3A0o4JWzwVZ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "376134",
+    "tmdbId": 376134,
+    "type": "movie",
+    "title": "The Discovery",
+    "overview": "In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor's son Will, who has arrived at his father's isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.",
+    "year": "2017",
+    "rating": 6.257,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dA7YLnc5ztTGiVPWz3GsaMRRz9r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rb5giIlJ6IKl3d23NDLkQdQmf7s.png",
+    "certificate": null,
+    "runTimeMinutes": 102,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "35690",
+    "tmdbId": 35690,
+    "type": "movie",
+    "title": "The Last Song",
+    "overview": "A drama centered on a rebellious girl who is sent to a Southern beach town for the summer to stay with her father. Through their mutual love of music, the estranged duo learn to reconnect.",
+    "year": "2010",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/76twEOHXAM2oKnvZYBI5bP6GeDu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7TUNSWElqh6bG2OZ9aEkTKeORtC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dCa9TEOtiz6s3CkLadVRDTqSv9w.png",
+    "certificate": "PG",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1254786",
+    "tmdbId": 1254786,
+    "type": "movie",
+    "title": "The Life List",
+    "overview": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+    "year": "2025",
+    "rating": 6.956,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/psLsBU07NfJCq60DTQdXf2gEXQ6.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "50619",
+    "tmdbId": 50619,
+    "type": "movie",
+    "title": "The Twilight Saga: Breaking Dawn - Part 1",
+    "overview": "Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.",
+    "year": "2011",
+    "rating": 6.184,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iPqoeXEfByDN399PQQ42IJHV2kN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/arHrAT6Xyh75E4Wkh1kv4ejzK8E.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "50620",
+    "tmdbId": 50620,
+    "type": "movie",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "overview": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
+    "year": "2012",
+    "rating": 6.451,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5w4oUpsjzrVd5FKF2DDcGONT1kv.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24021",
+    "tmdbId": 24021,
+    "type": "movie",
+    "title": "The Twilight Saga: Eclipse",
+    "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
+    "year": "2010",
+    "rating": 6.187,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r37lEfIlQVYdvvRaDTxZLhczOXD.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18239",
+    "tmdbId": 18239,
+    "type": "movie",
+    "title": "The Twilight Saga: New Moon",
+    "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.",
+    "year": "2009",
+    "rating": 5.986,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e1btrS0eVqXMfm9AmMSEoWDOwSE.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "801857",
+    "tmdbId": 801857,
+    "type": "movie",
+    "title": "Toscana",
+    "overview": "",
+    "year": "2022",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4hfTkqiunjVliIAFAD47FIyLVTp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xYmvkOs46oGCPX1cxD8wnK9T86k.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "185008",
+    "tmdbId": 185008,
+    "type": "movie",
+    "title": "Yeh Jawaani Hai Deewani",
+    "overview": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+    "year": "2013",
+    "rating": 7.296,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hvaSiRRM93aCSzTmKlY4sHERL0S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2NeOmDPauwvkt1pEvtD6jxor7eS.png",
+    "certificate": null,
+    "runTimeMinutes": 160,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1435760",
+    "tmdbId": 1435760,
+    "type": "movie",
+    "title": "Andrew Schulz: LIFE",
+    "overview": "In this razor-sharp yet heartfelt special, Andrew Schulz unpacks the wildest moment of his life — becoming a father.",
+    "year": "2025",
+    "rating": 7.276,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qxOnOEKlrwd8b5krR456OFE1Bm3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/89OKtJFENLdMczcVkPonRqUYjRh.png",
+    "certificate": "R",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1380447",
+    "tmdbId": 1380447,
+    "type": "movie",
+    "title": "Anthony Jeselnik: Bones and All",
+    "overview": "Anthony Jeselnik celebrates 20 years of delivering boundary-pushing comedy to the masses in this razor-sharp stand-up special.",
+    "year": "2024",
+    "rating": 7.053,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lU96zGB4H8X1Jkrmh40J3I1enjE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z8T2u6LfUfAicPSeIvCDby69PIV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iaL1Z4hvECSZCAIgBu16liI20mF.png",
+    "certificate": "R",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "991115",
+    "tmdbId": 991115,
+    "type": "movie",
+    "title": "Bill Burr: Live at Red Rocks",
+    "overview": "Comedian Bill Burr sounds off on cancel culture, feminism, getting bad reviews from his wife and a life-changing epiphany during a fiery stand-up set.",
+    "year": "2022",
+    "rating": 7.286,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w3VmDVhgVq8c9lWNkMzsSeJIdgA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y8FPyS7QkBjvfnxTp8xrBViV7u8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oHaCBA80qcNwEZXb7ta9dYwvhm1.png",
+    "certificate": null,
+    "runTimeMinutes": 82,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "823754",
+    "tmdbId": 823754,
+    "type": "movie",
+    "title": "Bo Burnham: Inside",
+    "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+    "year": "2021",
+    "rating": 7.959,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/812INBGmPAFZ01pmt9ooGYYRZnG.png",
+    "certificate": "R",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "400608",
+    "tmdbId": 400608,
+    "type": "movie",
+    "title": "Bo Burnham: Make Happy",
+    "overview": "Combining his trademark wit and self-deprecating humor with original music, Bo Burnham offers up his unique twist on life in this stand-up special about  life, death, sexuality, hypocrisy, mental illness and Pringles cans.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qVThhskXZZHDfj4m8jOx2CxIVIW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kd1hpESgbp1Faax3OM6XCcL95Mb.png",
+    "certificate": null,
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "91252",
+    "tmdbId": 91252,
+    "type": "show",
+    "title": "Daniel Sloss: Live Shows",
+    "overview": "Comedian Daniel Sloss is ready to find the funny in some very dark topics, from the deeply personal to the truly irreverent.",
+    "year": "2018",
+    "rating": 8.036,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lQYap35AzK1i3wZC3xIgMTOdpUA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5phZ3Kq8xqDA492Rclq2wlL5Tiv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w9ehp3UuamG9AWH1CYyUtFkhP1H.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "879540",
+    "tmdbId": 879540,
+    "type": "movie",
+    "title": "Dave Chappelle: The Closer",
+    "overview": "As he closes out his slate of comedy specials, Dave takes the stage to try and set the record straight — and get a few things off his chest.",
+    "year": "2021",
+    "rating": 7.144,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vhAWkiH6l6sK7xtyn2daHgzPEhZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dkFeN0lZilw3oOiawPMkZbh4Gxa.png",
+    "certificate": "NR",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1601195",
+    "tmdbId": 1601195,
+    "type": "movie",
+    "title": "Dave Chappelle: The Unstoppable...",
+    "overview": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special.",
+    "year": "2025",
+    "rating": 6.629,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/smbIQ9Fzx9LaWtTDm8x7GAaDvCe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mAQ9da34TsH976PJqvl3D2li7Kf.png",
+    "certificate": "R",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "311991",
+    "tmdbId": 311991,
+    "type": "show",
+    "title": "Funny AF with Kevin Hart",
+    "overview": "Kevin Hart travels the country with the help of comedy legends to find the next stand-up superstar — with the winner crowned live by your real-time vote.",
+    "year": "2026",
+    "rating": 7.167,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/79RIETmTtj1LJgbVoUbt93vHGf3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9YMc4NsYp0k4FeroxJfIRzWTOEH.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1749166",
+    "tmdbId": 1749166,
+    "type": "movie",
+    "title": "Jared Freid: The Family Plan",
+    "overview": "The special finds Freid keeping his issues “in the family,” joking about everything from vacationing with his parents to a Karen video that hits close to home.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pbkEx1zKRsffOhg3Gfqv7cGkVgJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2f09TFiCXdf6IRnzVVmhyAP7BdF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ji2wmHjGzS4wN24MCRQG6TWQZji.png",
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1720716",
+    "tmdbId": 1720716,
+    "type": "movie",
+    "title": "Jeff Arcuri: Nice to Meet You",
+    "overview": "Jeff Arcuri's rapid-fire wit is nonstop as he balances outrageous jokes with heartfelt reflections on making his wife laugh during her cancer journey.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pn5pu5LWufLymW6Szq6Nx0Tf93f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h1vftUKvYQccqtxSJPv6XXzv9TZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xTd76tLtYzflghwIoRlBF67dq6g.png",
+    "certificate": "R",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "633517",
+    "tmdbId": 633517,
+    "type": "movie",
+    "title": "Jeff Dunham: Beside Himself",
+    "overview": "The ventriloquist, Jeff Dunham, taped his second Netflix special in his hometown of Dallas, TX in the American Airlines Center. He returns with his normal cast of characters including Walter, Bubba J, Peanut, José Jalapeño on a Stick, Achmed the Dead Terrorist, and one of his newest additions Larry, a high strung, chain-smoking, on-again, off-again personal adviser to the President.",
+    "year": "2019",
+    "rating": 7.423,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vOEVIc3b5SVeHPSThos7YbYLCSc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ifj403oNW2cVdLMsUyY1cNA0G6R.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t9roaCKp1wWDxUN5X8oqnrwzJnU.png",
+    "certificate": null,
+    "runTimeMinutes": 58,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1517042",
+    "tmdbId": 1517042,
+    "type": "movie",
+    "title": "Jim Jefferies: Two Limb Policy",
+    "overview": "Comedian Jim Jefferies unleashes his thoughts on tiny mustaches, straight-guy struggles and why acting doesn't count as a real job.",
+    "year": "2025",
+    "rating": 6.742,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1ZFOIX6Tt4fRUDmoVD5sdSniTnJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2ZoBBreDTovx1WCkr8TAS0WEeC3.png",
+    "certificate": "R",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1262852",
+    "tmdbId": 1262852,
+    "type": "movie",
+    "title": "Jimmy Carr: Natural Born Killer",
+    "overview": "Jimmy Carr refutes the idea that you can't joke about anything these days with his edgy takes on gun control, religion, cancel culture and consent.",
+    "year": "2024",
+    "rating": 6.375,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5ntu2EZsk1HDaV7OjhZJT7OumSt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ArD1bN4HN4AQMD8lROutHrjRZ0T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3jrxsh5lC8U4eMYt2I8Hhm1VCiN.png",
+    "certificate": "R",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1517426",
+    "tmdbId": 1517426,
+    "type": "movie",
+    "title": "Joe DeRosa: I Never Promised You a Rose Garden",
+    "overview": "\"I Never Promised You A Rose Garden\" is an all-new hour of hopeless comedy derived from the troubled mind of Joe DeRosa. Celebrating pure evil, abandonment, and societal collapse, Joe’s bleak outlook on society will actually bring you joy in this dire climate.",
+    "year": "2025",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3hw1R78ASegnOJ4bERBXuW7k8E8.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1628484",
+    "tmdbId": 1628484,
+    "type": "movie",
+    "title": "Katt Williams: The Last Report",
+    "overview": "Back for his fourth Netflix stand-up special, comedy icon Katt Williams delivers his famously bold takes on conspiracies, celebrities and the world at large in this electrifying set.",
+    "year": "2026",
+    "rating": 5.727,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ioLTv6BTRT7ShLHcDx8Q5TOXwgk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yEUeoQYyA6znricwgHk1rTfjfFR.png",
+    "certificate": "NC-17",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1738070",
+    "tmdbId": 1738070,
+    "type": "movie",
+    "title": "Kelsey Cook: Happy Hour",
+    "overview": "In this candid and clever stand-up special, Kelsey Cook explores \"hangxiety,\" relives a plane bathroom nightmare and breaks down dating a literal Chad.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5SHPMjcCliITQFEVxhCeaJXGmLZ.png",
+    "certificate": null,
+    "runTimeMinutes": 53,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1581099",
+    "tmdbId": 1581099,
+    "type": "movie",
+    "title": "Kevin Hart: Acting My Age",
+    "overview": "Older, wiser — and still hilarious. Kevin Hart opens up about his midlife mishaps, from intimacy pills to the perils of unexpected injuries.",
+    "year": "2025",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/24UcTCeD1zjZgk5uLF72i5p1kl7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zyK0TM7tvSsFpPoZWeO90TnuDbu.png",
+    "certificate": "R",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1453677",
+    "tmdbId": 1453677,
+    "type": "movie",
+    "title": "Kill Tony: Kill or Be Killed",
+    "overview": "A bucket, a mic and one minute to win over Tony Hinchcliffe and a panel of famous guests. This is stand-up at its most unforgiving — and unpredictable.",
+    "year": "2025",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lGXtr3CirFSPzbcqQxUP2CPeTj4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zLjy898UczJdKCpjiffT0UJS8JC.png",
+    "certificate": "R",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1662958",
+    "tmdbId": 1662958,
+    "type": "movie",
+    "title": "Louis C.K.: Ridiculous",
+    "overview": "From a bee getting shot in New York City to paying strangers to take his aging father, Louis C.K. unleashes the ridiculous thoughts in his mind.",
+    "year": "2026",
+    "rating": 6.278,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nPoFKTxADOWuE5hn0iLXcM5XNxi.png",
+    "certificate": null,
+    "runTimeMinutes": 61,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1599078",
+    "tmdbId": 1599078,
+    "type": "movie",
+    "title": "Marcello Hernández: American Boy",
+    "overview": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
+    "year": "2026",
+    "rating": 7.295,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b2qSURjTrHTJRKYEJ0gIKOACZdC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7fsdqL7DTZFivV0qydtDZlbgMcw.png",
+    "certificate": null,
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1641817",
+    "tmdbId": 1641817,
+    "type": "movie",
+    "title": "Mark Normand: None Too Pleased",
+    "overview": "Mark Normand turns married life, fatherhood and hot-button topics into rapid-fire punchlines in this witty free-for-all where nothing is off limits.",
+    "year": "2026",
+    "rating": 6.286,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oxaBaiy3sEgfwFoZcA4d8UlwJk3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uvIiBsyUVmWUDrVnID5beF4CVXZ.png",
+    "certificate": null,
+    "runTimeMinutes": 54,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "639263",
+    "tmdbId": 639263,
+    "type": "movie",
+    "title": "Martin Matte : La vie, la mort... eh la la..!",
+    "overview": "Quebecois comedy star Martin Matte serves up embarrassing personal stories, a solution for social media trolls and more in this unpredictable special.",
+    "year": "2019",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tawLbQneJH0wf5USH1KLsR3eFce.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w55TAvNhnxXFIoSsOzlTFwFz7RK.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 62,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1723570",
+    "tmdbId": 1723570,
+    "type": "movie",
+    "title": "Mary Beth Barone: Galaxy Brain",
+    "overview": "Is an ex-best friend the worst ex? Can dating apps save democracy? What's with NYPD merch? Mary Beth Barone has all the answers in this witty special.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4X3GQW8zt29dVja3z34F2E54Row.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vOAivznaI1M6lat9Kv6L2oWTP1s.png",
+    "certificate": null,
+    "runTimeMinutes": 56,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1318411",
+    "tmdbId": 1318411,
+    "type": "movie",
+    "title": "Matt Rife: Lucid - A Crowd Work Special",
+    "overview": "In Netflix's first-ever crowd work special, Matt Rife gets up close and personal with an unpredictable Charlotte audience to riff on all things dreams.",
+    "year": "2024",
+    "rating": 6.766,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5ObrP6RumYHRRoIiiyY5IaWs9dV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6XlrmT47yB39Kle4024b2a6P9cJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sxSdh7rULPUO5LPJ1NcuVCOlEh9.png",
+    "certificate": "R",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1195988",
+    "tmdbId": 1195988,
+    "type": "movie",
+    "title": "Matt Rife: Natural Selection",
+    "overview": "From his problem with protection crystals to his beef with social media trolls, comedian Matt Rife holds nothing back in this rollicking stand-up special.",
+    "year": "2023",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hnSCLaB4phSI2B4I3ErUlQ1IGLN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1lKwXYaZ9hxro6cIuuaOkqdaAdS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1jocXWSKYm14ldmbRnZME8iNmGI.png",
+    "certificate": "R",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1208476",
+    "tmdbId": 1208476,
+    "type": "movie",
+    "title": "Ricky Gervais: Armageddon",
+    "overview": "Ricky Gervais dishes out controversial takes on political correctness and oversensitivity in a taboo-busting comedy special about the end of humanity.",
+    "year": "2023",
+    "rating": 7.08,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rnT1Aq92RdhlYMIikuwnwNMaOGu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tEFYrXJXMBSNQNuHKJcobHQ3IRM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qQIFgAsAwSOQ33BBdNvWZNnLlvG.png",
+    "certificate": "R",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1312150",
+    "tmdbId": 1312150,
+    "type": "movie",
+    "title": "Ricky Gervais: Mortality",
+    "overview": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
+    "year": "2025",
+    "rating": 6.981,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ggzUa7gPXs7mnLhJEcwP9r10Z9e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AuK28thJMzovekB24ahIFgYVD4r.png",
+    "certificate": "R",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "973164",
+    "tmdbId": 973164,
+    "type": "movie",
+    "title": "Ricky Gervais: SuperNature",
+    "overview": "With his signature pitch-black sense of humor, Ricky Gervais takes the stage at the London Palladium in this provocative stand-up comedy special.",
+    "year": "2022",
+    "rating": 7.413,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ry2HDP5KyEV3R7htXlFAeQbbXgf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nkq7W9EHb4Moj7lSzDiW6uBMedq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqph7kE6GILP9OX6U5D20MBpqF3.png",
+    "certificate": "R",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1736415",
+    "tmdbId": 1736415,
+    "type": "movie",
+    "title": "Rory Scovel: Show Must Go On",
+    "overview": "With a hypothetical home invasion, a biblical reenactment, and his late dad's final wish, Rory Scovel delivers unrelenting laughs in this raucous stand-up special filmed at The Neptune in Seattle, Washington.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
+    "backdropUrl": null,
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tc7sAwKtLnwAFk83qmjq9HsJGwX.png",
+    "certificate": null,
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1169007",
+    "tmdbId": 1169007,
+    "type": "movie",
+    "title": "Shane Gillis: Beautiful Dogs",
+    "overview": "In a rowdy stand-up set, Shane Gillis riffs on his girlfriend's Navy SEAL ex, touring George Washington's house and being bullied by an Australian Goth.",
+    "year": "2023",
+    "rating": 7.009,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8SYsQOur3wAfh1LJf6rvTFpIPHy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3CWyyENjl5DqcAWTHGdJNeYBEsZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uEseoywR9xkdlhrNDQCPh976WDL.png",
+    "certificate": null,
+    "runTimeMinutes": 53,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1740313",
+    "tmdbId": 1740313,
+    "type": "movie",
+    "title": "Stamptown",
+    "overview": "Blending the wild worlds of circus and comedy, anarchic acts collide for this raunchy and explicit variety show - clothing not guaranteed.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dGQUiIOa93d6U6tQAaXKoITUoEY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/13A0rWXcWuTR3cTY9dKT6tICxzM.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1200108",
+    "tmdbId": 1200108,
+    "type": "movie",
+    "title": "Stavros Halkias: Fat Rascal",
+    "overview": "A snapshot of a man whose many vices are actively getting the best of him and a collection of observations, interesting experiences, and sexual embarrassments from two years of non-stop touring",
+    "year": "2023",
+    "rating": 6.278,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e0nc4i2G4LaAUJEEfQJyn5OPdql.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gDmRuRqLKOZjrjfAfu9GlxsiTPL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mfuGMKdfmmxwIOuTQ8Qt4GE1yIB.png",
+    "certificate": null,
+    "runTimeMinutes": 55,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1617908",
+    "tmdbId": 1617908,
+    "type": "movie",
+    "title": "Taylor Tomlinson: Prodigal Daughter",
+    "overview": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
+    "year": "2026",
+    "rating": 7.091,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8imHEnB6kTNgK1TYPC3Rsnv7xke.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7GLhz4Nv0hxivrGMWL6RWviJz5B.png",
+    "certificate": null,
+    "runTimeMinutes": 69,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1658982",
+    "tmdbId": 1658982,
+    "type": "movie",
+    "title": "The Roast of Kevin Hart",
+    "overview": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
+    "year": "2026",
+    "rating": 6.016,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bDwOkqwRFDoGxUzyIe6KUSmye5e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7bmWcnqY0be0qGNf1TkZCjTwn91.png",
+    "certificate": null,
+    "runTimeMinutes": 172,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1278360",
+    "tmdbId": 1278360,
+    "type": "movie",
+    "title": "The Roast of Tom Brady",
+    "overview": "Offensive lines. Full-contact comedy. Kevin Hart hosts this all-star roast of NFL legend Tom Brady.",
+    "year": "2024",
+    "rating": 6.76,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/guph6RgrrQSDQpDckGaIHLS5wzg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AsQkevO5gIQXimaSZV93LuSN9nq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2G80xGucXd8HmShrYx6qJMnGKzC.png",
+    "certificate": "R",
+    "runTimeMinutes": 179,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1139984",
+    "tmdbId": 1139984,
+    "type": "movie",
+    "title": "Tom Segura: Sledgehammer",
+    "overview": "From his dad's unusual deathbed confession to watching his mom get high, Tom Segura tells blisteringly candid stories about marriage, mortality and more.",
+    "year": "2023",
+    "rating": 6.875,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3wR5LdJZecmyjXO0OZ4pvhRn5kd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kU0lRAe1WbFMQuFZYAZa5KxlA0V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rirChBhEc9CArHWFNFFaH357tn4.png",
+    "certificate": "R",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1588965",
+    "tmdbId": 1588965,
+    "type": "movie",
+    "title": "Tom Segura: Teacher",
+    "overview": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
+    "year": "2025",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rf77DGsOpm0Xi5h3nTAtwjmZYjp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2rIwzD7qnQGKVtEsZKE1mI7GWvH.png",
+    "certificate": null,
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1666433",
+    "tmdbId": 1666433,
+    "type": "movie",
+    "title": "Trevor Noah: Joy in the Trenches",
+    "overview": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
+    "year": "2026",
+    "rating": 6.875,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vSTlbow1yx2L85EEUhFiJOMo4LY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2r7sSfpmnFbZk79lsWT38ilyucC.png",
+    "certificate": "R",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1376359",
+    "tmdbId": 1376359,
+    "type": "movie",
+    "title": "Your Friend, Nate Bargatze",
+    "overview": "In his third Netflix special, Nate Bargatze tackles pizza-ordering strategies for guys' night, wanting a second dog and relying on his responsible wife.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/p0NK3bXt5AC6cL3R57DdWLFMGYH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/betlIOPGesaCPpFrjeezEHtAh6e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rI6GllNSXKHw4JUSl9yic7oEAJE.png",
+    "certificate": "PG",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

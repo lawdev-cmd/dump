@@ -1,0 +1,783 @@
+[
+  {
+    "id": "6557",
+    "tmdbId": 6557,
+    "type": "movie",
+    "title": "27 Dresses",
+    "overview": "Altruistic Jane finds herself facing her worst nightmare as her younger sister announces her engagement to the man Jane secretly adores.",
+    "year": "2008",
+    "rating": 6.452,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/esArWR9sImBpEgq3sHCPyP5mcfd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b8Vr3VznytpZ06wvb4TQBeaGPwj.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "332562",
+    "tmdbId": 332562,
+    "type": "movie",
+    "title": "A Star Is Born",
+    "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+    "year": "2018",
+    "rating": 7.489,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/px1y5QKnt2VReQsOk4sfh71tINy.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Music",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1072790",
+    "tmdbId": 1072790,
+    "type": "movie",
+    "title": "Anyone but You",
+    "overview": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+    "year": "2023",
+    "rating": 6.755,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lQijgtGf04ftXEvyuj647BB5TTE.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "205022",
+    "tmdbId": 205022,
+    "type": "movie",
+    "title": "Chennai Express",
+    "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
+    "year": "2013",
+    "rating": 6.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9j7XfhBJKNfidMCa8JsNbqU1waV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8u7dfVGGBcGrk1nCu55X5RqImwv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Ch5mF02b7uu9OX38NjpQhQIjfQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1392469",
+    "tmdbId": 1392469,
+    "type": "movie",
+    "title": "Cocktail 2",
+    "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
+    "year": "2026",
+    "rating": 5.776,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gSW7GIQcAa7Pbhp8N8mSGAWP5ln.png",
+    "certificate": null,
+    "runTimeMinutes": 150,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "455207",
+    "tmdbId": 455207,
+    "type": "movie",
+    "title": "Crazy Rich Asians",
+    "overview": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+    "year": "2018",
+    "rating": 7.041,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1KwpsnPmKHG26EzKR9BA0y8Iapo.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1685805",
+    "tmdbId": 1685805,
+    "type": "movie",
+    "title": "Behind the Scenes of Dilan ITB 1997",
+    "overview": "Behind the Scenes of Dilan (Di Balik Layar Dilan) is an approximately 75-minute observational documentary that captures Ariel NOAH’s journey as he is entrusted with the role of the adult Dilan—a decision that immediately sparked public debate. Amidst the commentary, expectations, and the weight of nostalgia attached to the figure of Dilan, the film goes beyond simply observing the acting process; it dissects how a fictional character transforms into a collective memory contested by many. From Bandung as the birthplace of the myth, through intimate reading rooms, to the final day of shooting, the documentary follows Ariel's transformation as a human being, a public figure, and a new vessel for an icon. Ultimately, the film poses one profound question: when a myth changes bodies, who is truly being tested—the actor, the character, or the audience's own memory?",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fRT612EWJih7iVAxIBoqDzEbUVm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/19AhiaRa9k6d4hPOLzloWSyeW64.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 54,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "19404",
+    "tmdbId": 19404,
+    "type": "movie",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+    "year": "1995",
+    "rating": 8.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2y2BbO3udAS9Zfzya3ifqUn7JUh.png",
+    "certificate": "PG",
+    "runTimeMinutes": 190,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1321108",
+    "tmdbId": 1321108,
+    "type": "movie",
+    "title": "Dude",
+    "overview": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
+    "year": "2025",
+    "rating": 5.51,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oLUbL4RtynlTtKd1byseeOCkIZO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kDRkOFPkjYjubhiIcvurBKuLSRI.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "417261",
+    "tmdbId": 417261,
+    "type": "movie",
+    "title": "Forever My Girl",
+    "overview": "Years after leaving his fiancée at the altar to pursue fame and fortune, country music star Liam Page returns home hoping to win her back.",
+    "year": "2018",
+    "rating": 7.631,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gEsBPNcGAuNBU5MGaOAlnm6uDe7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AqGle1tpAYb1ngOMv3BfmRelhZz.png",
+    "certificate": "PG",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13",
+    "tmdbId": 13,
+    "type": "movie",
+    "title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "year": "1994",
+    "rating": 8.463,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/as10mpHSWebQVXwMbwQfWYfR27F.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 142,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1468683",
+    "tmdbId": 1468683,
+    "type": "movie",
+    "title": "Heartstopper Forever",
+    "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+    "year": "2026",
+    "rating": 7.204,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oWOyUOqH3FwePHhFTx6KDS59b9u.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1418582",
+    "tmdbId": 1418582,
+    "type": "movie",
+    "title": "Here the Whole Time",
+    "overview": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his house. The days that promised peace, tranquility and epic series marathons end up bringing a whirlwind of feelings and unresolved issues.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3dDM4ljvtidqt6JPYaI17NkOinr.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "974635",
+    "tmdbId": 974635,
+    "type": "movie",
+    "title": "Hit Man",
+    "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+    "year": "2024",
+    "rating": 6.783,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AfgFS0ULYK5wAKZKX8zatxlNB5X.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1432631",
+    "tmdbId": 1432631,
+    "type": "movie",
+    "title": "Idhayam Murali",
+    "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+    "year": "2026",
+    "rating": 6.889,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aeI0gsEH4DReeQtBnBhAIyiFCJQ.png",
+    "certificate": null,
+    "runTimeMinutes": 164,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "50546",
+    "tmdbId": 50546,
+    "type": "movie",
+    "title": "Just Go with It",
+    "overview": "While romancing Palmer, a much younger schoolteacher, plastic surgeon Danny Maccabee enlists his loyal assistant Katherine to pretend to be his soon to be ex-wife, in order to cover up a careless lie. When more lies backfire, Katherine's kids become involved, and everyone heads off for a weekend in Hawaii that will change all their lives.",
+    "year": "2011",
+    "rating": 6.706,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3rz7bfGsPGcI6cfY002n9VrUgao.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xoYEe7RvAHWC59Jbo1tdktB4v2a.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5eztn9QInFvcaHHBsiWi9WIYQD7.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "814338",
+    "tmdbId": 814338,
+    "type": "movie",
+    "title": "Lady Chatterley's Lover",
+    "overview": "After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her husband's consent, she seeks out other means of fulfilling her needs.",
+    "year": "2022",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aSgl2DxPG3DuQXoaHr500KeULmT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tPKmDydEzqJPj5yol2zFCrraUcM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nQVrT3yRaTLbEnE9sdLagDRUmot.png",
+    "certificate": "R",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14134",
+    "tmdbId": 14134,
+    "type": "movie",
+    "title": "Main Hoon Na",
+    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+    "year": "2004",
+    "rating": 6.624,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
+    "certificate": "PG",
+    "runTimeMinutes": 179,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "787",
+    "tmdbId": 787,
+    "type": "movie",
+    "title": "Mr. & Mrs. Smith",
+    "overview": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+    "year": "2005",
+    "rating": 6.694,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tgDSUwWMgypgmcBhRs9u30RLPNC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kIWqFbTwqHNBPkXwmbqhoJfbZLH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "884605",
+    "tmdbId": 884605,
+    "type": "movie",
+    "title": "No Hard Feelings",
+    "overview": "On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.",
+    "year": "2023",
+    "rating": 6.673,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sTluFNbkJJfK4dGsnnMMqkwTmNL.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1358005",
+    "tmdbId": 1358005,
+    "type": "movie",
+    "title": "Office Romance",
+    "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+    "year": "2026",
+    "rating": 6.435,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tyCkFuocklvcHUhJHpCb6b81zI1.png",
+    "certificate": "R",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8079",
+    "tmdbId": 8079,
+    "type": "movie",
+    "title": "Om Shanti Om",
+    "overview": "In the early 70s, aspiring actor Om Prakash Makhija, and a famous starlet Shantipriya, are murdered. Thirty years later, his reincarnation Om Kapoor sets out to discover the mystery of their demise.",
+    "year": "2007",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oArsQTD4bPPMtRjqr03SO9W6phF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mBdT7nvhXmvZKK1mieS261IApcI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTEPafUc9Drd3G11rOPlMYGpNFC.png",
+    "certificate": "NR",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1034716",
+    "tmdbId": 1034716,
+    "type": "movie",
+    "title": "People We Meet on Vacation",
+    "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
+    "year": "2026",
+    "rating": 6.975,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qrcb2caAwS30WNRGSEqvvFZ2eTQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "762975",
+    "tmdbId": 762975,
+    "type": "movie",
+    "title": "Purple Hearts",
+    "overview": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+    "year": "2022",
+    "rating": 8.043,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jdZM1Gs6DtRGvosgqaXRrIkvYX7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hPIpXRnw4Jk1m3hQsQClCcBiCjh.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538273",
+    "tmdbId": 1538273,
+    "type": "movie",
+    "title": "Pyaar Prema Kalyanam",
+    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+    "year": "2026",
+    "rating": 7.318,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1241634",
+    "tmdbId": 1241634,
+    "type": "movie",
+    "title": "Saiyaara",
+    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+    "year": "2025",
+    "rating": 6.367,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qnJ0VhbFAeu7YUPpEB3AZ3d1bAI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9767",
+    "tmdbId": 9767,
+    "type": "movie",
+    "title": "The Break-Up",
+    "overview": "Pushed to the breaking-up point after their latest 'why can't you do this one little thing for me?' argument, Brooke calls it quits with her boyfriend Gary. What follows is a hilarious series of remedies, war tactics, overtures and undermining tricks – all encouraged by the former couple's friends and confidantes …and the occasional total stranger! When neither ex is willing to move out of their shared apartment, the only solution is to continue living as hostile roommates until one of them reaches breaking point.",
+    "year": "2006",
+    "rating": 5.903,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ghCLIPRZNAndBoIZJ8f7lN5Mlly.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tukmcuDcTgFesqveQQWKhKXKEzg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/prRNbpL7deCidGLF3A0o4JWzwVZ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9038",
+    "tmdbId": 9038,
+    "type": "movie",
+    "title": "The Heartbreak Kid",
+    "overview": "Eddie, the 40-year-old confirmed bachelor finally says \"I do\" to the beautiful and sexy Lila. But during their honeymoon in Mexico, the woman of his dreams turns out to be a total nightmare, and the guy who could never pull the trigger realizes he’s jumped the gun.",
+    "year": "2007",
+    "rating": 5.753,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bVWM0L3DqFpNE3Yt49WjAgTQUc0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oC4LniL98rnmvW52FizMqzD5QzX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ApWnhtn3UEmw3MddTUeZdiWlN0A.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "454983",
+    "tmdbId": 454983,
+    "type": "movie",
+    "title": "The Kissing Booth",
+    "overview": "When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.",
+    "year": "2018",
+    "rating": 7.155,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aqrDUkuzksLhOD8pbyBXLO0dz5t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7YuhLQ9PLEgblToDnZSDPToyfFj.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18239",
+    "tmdbId": 18239,
+    "type": "movie",
+    "title": "The Twilight Saga: New Moon",
+    "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.",
+    "year": "2009",
+    "rating": 5.986,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e1btrS0eVqXMfm9AmMSEoWDOwSE.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "582596",
+    "tmdbId": 582596,
+    "type": "movie",
+    "title": "The Wrong Missy",
+    "overview": "A guy meets the woman of his dreams and invites her to his company's corporate retreat, but realizes he sent the invite to the wrong person.",
+    "year": "2020",
+    "rating": 6.122,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A2YlIrzypvhS3vTFMcDkG3xLvac.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1xQtvgay8rDwSaZPwyhcecqV8UD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/86hnKFRDpyUdRYRgm1CvQDyhUFT.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "818647",
+    "tmdbId": 818647,
+    "type": "movie",
+    "title": "Through My Window",
+    "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+    "year": "2022",
+    "rating": 7.348,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jmkpZvMVIRrMFevxzOubSBfG0s0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pjqE6TK1kN3RYOSR83k8blnDjHQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "466282",
+    "tmdbId": 466282,
+    "type": "movie",
+    "title": "To All the Boys I've Loved Before",
+    "overview": "Lara Jean's love life goes from imaginary to out of control when her secret letters to every boy she's ever fallen for are mysteriously mailed out.",
+    "year": "2018",
+    "rating": 7.589,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ejAaq8nDhTJlipsvb8g8zAz8rIk.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "319",
+    "tmdbId": 319,
+    "type": "movie",
+    "title": "True Romance",
+    "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+    "year": "1993",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jiqWvkMaEw8VxDLVKbgHbnRpSK8.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8966",
+    "tmdbId": 8966,
+    "type": "movie",
+    "title": "Twilight",
+    "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+    "year": "2008",
+    "rating": 6.275,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yYHBM5RxdmXoWivayS6CcRWJBnM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9522",
+    "tmdbId": 9522,
+    "type": "movie",
+    "title": "Wedding Crashers",
+    "overview": "John and his buddy Jeremy are emotional criminals who know how to use a woman's hopes and dreams for their own carnal gain. Their modus operandi: crashing weddings. Normally, they meet guests who want to toast the romantic day with a random hook-up. But when John meets Claire, he discovers what true love – and heartache – feels like.",
+    "year": "2005",
+    "rating": 6.502,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uTBNMyN3RjMGR1cmtE9RPTDlkZY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vU2vaM7jnApFuJlhv4db098q0Wu.png",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1508564",
+    "tmdbId": 1508564,
+    "type": "movie",
+    "title": "With Love",
+    "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+    "year": "2026",
+    "rating": 6.78,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mKVSozOhy9to5AFfIX1tsDDFrFK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eL0bMGF3g9Us3u6pGuaRyrY21n4.png",
+    "certificate": null,
+    "runTimeMinutes": 141,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "185008",
+    "tmdbId": 185008,
+    "type": "movie",
+    "title": "Yeh Jawaani Hai Deewani",
+    "overview": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+    "year": "2013",
+    "rating": 7.296,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hvaSiRRM93aCSzTmKlY4sHERL0S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2NeOmDPauwvkt1pEvtD6jxor7eS.png",
+    "certificate": null,
+    "runTimeMinutes": 160,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "866413",
+    "tmdbId": 866413,
+    "type": "movie",
+    "title": "You People",
+    "overview": "A new couple and their families reckon with modern love amid culture clashes, societal expectations and generational differences.",
+    "year": "2023",
+    "rating": 5.598,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/c9yVIqnrD6fyYhNzNcvAoU6CFG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pBPRaFjSWzrbc5WANCIgYOXC9tR.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

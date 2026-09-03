@@ -1,0 +1,806 @@
+[
+  {
+    "id": "452507",
+    "tmdbId": 452507,
+    "type": "movie",
+    "title": "1922",
+    "overview": "A simple yet proud rancher conspires to murder his wife for financial gain, convincing his teenage son to participate.",
+    "year": "2017",
+    "rating": 5.948,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3uwyXMZN93PRkShUxvLrufwVAc2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bhb3J2gXUkdNmfhIeogZCdcRzO8.png",
+    "certificate": null,
+    "runTimeMinutes": 102,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "490004",
+    "tmdbId": 490004,
+    "type": "movie",
+    "title": "Arizona",
+    "overview": "Set in the midst of the 2009 housing crisis, the life of Cassie Fowler, a single mother and struggling realtor, goes off the rails when she witnesses a murder.",
+    "year": "2018",
+    "rating": 5.452,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AcqXQms8AzkrTL22FbT9VKcjt7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xZJWIX09rE0YHohBekt8WwENdow.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "796499",
+    "tmdbId": 796499,
+    "type": "movie",
+    "title": "Army of Thieves",
+    "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
+    "year": "2021",
+    "rating": 6.803,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bo4evsmoKb16AD1OhHgVOlgJtBw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qCL20IVd6jt6kQ97e8O6Ey2NvUj.png",
+    "certificate": "R",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1272166",
+    "tmdbId": 1272166,
+    "type": "movie",
+    "title": "Ballad of a Small Player",
+    "overview": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
+    "year": "2025",
+    "rating": 5.785,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8pw2qZpPRUhQwkKzE44fvFXPRWo.png",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "405774",
+    "tmdbId": 405774,
+    "type": "movie",
+    "title": "Bird Box",
+    "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+    "year": "2018",
+    "rating": 6.822,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5geEjUx1MaGpJHDCskeoOHdqFYR.png",
+    "certificate": "R",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1330421",
+    "tmdbId": 1330421,
+    "type": "movie",
+    "title": "Bone Lake",
+    "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+    "year": "2025",
+    "rating": 5.879,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/45TiCxSKhKZVgMydXwC5APN1oKv.png",
+    "certificate": "R",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1425045",
+    "tmdbId": 1425045,
+    "type": "movie",
+    "title": "Brick",
+    "overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+    "year": "2025",
+    "rating": 5.804,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r7CczOJL0AL1hwHzWnga2roZcNM.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "474051",
+    "tmdbId": 474051,
+    "type": "movie",
+    "title": "Calibre",
+    "overview": "Two lifelong friends head up to an isolated Scottish Highlands village for a weekend hunting trip that descends into a never-ending nightmare as they attempt to cover up a horrific hunting accident.",
+    "year": "2018",
+    "rating": 6.473,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yVfhwgLBFDdI1LuaiFfA7y2FbVi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kUf6AwHJ8InlPyi6jd04KabShOn.png",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1361292",
+    "tmdbId": 1361292,
+    "type": "movie",
+    "title": "Cellar Door",
+    "overview": "Looking for a fresh start after a miscarriage, a couple find themselves being gifted the house of their dreams with one caveat – they can never open the cellar door. Whether they can live without knowing triggers shocking consequences.",
+    "year": "2024",
+    "rating": 5.723,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9vasnPh69RoUg9oUpzXoErMVDB7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3CXCdAhvHefOUztcUMboPQJskWP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2qRiAxGkdkZfwSNDP9ttMwS0ADm.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13252",
+    "tmdbId": 13252,
+    "type": "movie",
+    "title": "Cleaner",
+    "overview": "Single father and former cop Tom Cutler has an unusual occupation: he cleans up death scenes. But when he's called in to sterilize a wealthy suburban residence after a brutal shooting, Cutler is shocked to learn he may have unknowingly erased crucial evidence, entangling himself in a dirty criminal cover-up.",
+    "year": "2007",
+    "rating": 6.099,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8KhDbFg9STRlvrOLvaQ7PjOo7XT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z6ueaizIb3vH3l1l4xSr2bET2Am.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1bq9xjJyp3TabmctZmSp4V5Ppiu.png",
+    "certificate": "R",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "250574",
+    "tmdbId": 250574,
+    "type": "movie",
+    "title": "Creep",
+    "overview": "Looking for work, Aaron comes across a cryptic online ad: “$1,000 for the day. Filming service. Discretion is appreciated.” Low on cash and full of naiveté, he decides to go for it. He drives to a cabin in a remote mountain town where he meets Josef, his cinematic subject for the day. Josef is sincere and the project seems heartfelt, so Aaron begins to film. But as the day goes on, it becomes clear that Josef is not who he says, and his intentions are not at all pure.",
+    "year": "2014",
+    "rating": 6.403,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qn53D574tT0YRyLgirEFHQwGUXw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AvrGwToWkP6fp13lzpxsyzoq9JH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/epuG7h01hAdJjiDaufXZCeODb1H.png",
+    "certificate": "R",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1668364",
+    "tmdbId": 1668364,
+    "type": "movie",
+    "title": "Desire",
+    "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+    "year": "2026",
+    "rating": 6.762,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1G8vzunHvNWnxwc91u51dgZ6z6q.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "MX",
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11456",
+    "tmdbId": 11456,
+    "type": "movie",
+    "title": "Domestic Disturbance",
+    "overview": "Frank Morrison is a divorced father with a 12-year-old son, Danny. His ex-wife Susan and son Danny now live with Rick Barnes, Susan's new husband. Danny, who has a reputation for telling lies, accuses his stepfather of committing a murder. Initially, no one believes his accusations, but then Frank becomes convinced and is the only one who believes him. Now, the father Danny trusts must protect him from the stepfather he fears.",
+    "year": "2001",
+    "rating": 5.764,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/quRhjnXAuIn04VmgM84nmKzt79J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uKwQGbxSQ3VWfVRJWeZ7sNQlBJ5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5p0xU1XU9GoLWzTWt5HBrRMxt7D.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1063877",
+    "tmdbId": 1063877,
+    "type": "movie",
+    "title": "Don't Move",
+    "overview": "A grieving woman in a secluded forest encounters a killer who injects her with a paralytic drug. As her body shuts down, her fight for survival begins.",
+    "year": "2024",
+    "rating": 6.318,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6Rjsm5khNaYa4Gnw4iHnGX2E34T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zGThcftDRakgOMUulBWGIYDDMuy.png",
+    "certificate": "R",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1487861",
+    "tmdbId": 1487861,
+    "type": "movie",
+    "title": "Elize: Shadows of a Woman",
+    "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+    "year": "2026",
+    "rating": 7.464,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7XcxMZaBESAdQuZAdDp2b3UCSo1.png",
+    "certificate": "R",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "568091",
+    "tmdbId": 568091,
+    "type": "movie",
+    "title": "Fractured",
+    "overview": "Driving cross-country, Ray and his wife and daughter stop at a highway rest area where his daughter falls and breaks her arm. After a frantic rush to the hospital and a clash with the check-in nurse, Ray is finally able to get her to a doctor. While the wife and daughter go downstairs for an MRI, Ray, exhausted, passes out in a chair in the lobby. Upon waking up, they have no record or knowledge of Ray's family ever being checked in.",
+    "year": "2019",
+    "rating": 6.767,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6y4748yU4dnrI7jF2loGscmiVXQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3KhcFZBUVlOw9GelzHghqPWQPmh.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "890980",
+    "tmdbId": 890980,
+    "type": "movie",
+    "title": "God's Crooked Lines",
+    "overview": "Alice Gould, a private investigator, pretends to be mentally ill in order to enter a psychiatric hospital and gather evidence for the case she is working on: the death of a patient in unclear circumstances.",
+    "year": "2022",
+    "rating": 7.296,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n3X9tWYFYfE96BoNgtVffuwzQo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dtXcuwF1uUi9m0VVfEGEa7GpDzX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/trWTCnu0u7t7AMyyIHMgpKSGfW0.png",
+    "certificate": null,
+    "runTimeMinutes": 155,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4970",
+    "tmdbId": 4970,
+    "type": "movie",
+    "title": "Gothika",
+    "overview": "After a car crash, criminal psychologist Dr. Miranda Grey regains consciousness only to find that she's a patient in the same mental institution that currently employs her. She's been accused of murdering her husband Dr. Douglas Grey — but she has no memory of committing the crime. As she tries to regain her memory and convince her co-worker, Dr. Pete Graham, of her innocence, a vengeful spirit uses her as an earthly pawn, which further convinces everyone of her guilt.",
+    "year": "2003",
+    "rating": 6.155,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/frSGNQcWx1ek8dCduFYCux1ho7n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eLBHPVQkJZyaSEUAGAFWNJJwmeo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eSUNKq7peMRD2muAwu6XWnXLqIZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1484913",
+    "tmdbId": 1484913,
+    "type": "movie",
+    "title": "Ikka",
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+    "year": "2026",
+    "rating": 5.738,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1052280",
+    "tmdbId": 1052280,
+    "type": "movie",
+    "title": "It's What's Inside",
+    "overview": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+    "year": "2024",
+    "rating": 6.473,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xU2C64VWhYJMBDrjEsFPbVTWAjN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eYDZgoOnEHrpR49oaJEdedNbUG3.png",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "596161",
+    "tmdbId": 596161,
+    "type": "movie",
+    "title": "Let Him Go",
+    "overview": "Following the loss of their son, a retired sheriff and his wife leave their Montana ranch to rescue their young grandson from the clutches of a dangerous family living off the grid in the Dakotas.",
+    "year": "2020",
+    "rating": 6.825,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ZLD4pjmMLt9I3t1a7SFJBekIh1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xxnfN5YX4I9JmBxLjZw4g7mQuz6.png",
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77",
+    "tmdbId": 77,
+    "type": "movie",
+    "title": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "year": "2000",
+    "rating": 8.174,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1151534",
+    "tmdbId": 1151534,
+    "type": "movie",
+    "title": "Nowhere",
+    "overview": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
+    "year": "2023",
+    "rating": 7.311,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lncg31XDBdfYxrOnhrzVAUw8geT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lUIAlOzNVKunMHo7lFDqH8eGsWK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2SZsT2CSGvvTQa9l4lXl6zmP2f5.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "493551",
+    "tmdbId": 493551,
+    "type": "movie",
+    "title": "Operation Finale",
+    "overview": "In 1960, a team of Israeli secret agents is deployed to find Adolf Eichmann, the infamous Nazi architect of the Holocaust, supposedly hidden in Argentina, and get him to Israel to be judged.",
+    "year": "2018",
+    "rating": 6.668,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oj60k0DMZrCN6Taad4XOjFivyrW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9WRt9quV6ZGJ05tfRQeGWyjK3Bm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7h25hati52ZYfn5RNfsJ3kCZClT.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "949423",
+    "tmdbId": 949423,
+    "type": "movie",
+    "title": "Pearl",
+    "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.",
+    "year": "2022",
+    "rating": 7.234,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fdzpbJ0xdyjMUY4DqN6cOpESA1X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wNp1gb3OkXN5VyngQU06uzBsvt0.png",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9963",
+    "tmdbId": 9963,
+    "type": "movie",
+    "title": "Premonition",
+    "overview": "A depressed housewife who learns her husband was killed in a car accident the day previously awakens the next morning to find him alive and well at home, and then awakens the day after to a world in which he is still dead.",
+    "year": "2007",
+    "rating": 6.28,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vKW1XIYrIqVrbCaYj9FQDHKXR8R.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/esXYvlivZ8j0HGqob949CIjqnGi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vBPaNGUrIwjxZfOuVWqmfYwCJwW.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "500",
+    "tmdbId": 500,
+    "type": "movie",
+    "title": "Reservoir Dogs",
+    "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+    "year": "1992",
+    "rating": 8.111,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gBtwDC7oE4R4TbkUJpEWlBsxwOm.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9040",
+    "tmdbId": 9040,
+    "type": "movie",
+    "title": "Serpico",
+    "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+    "year": "1973",
+    "rating": 7.529,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dXlO2Ri2RvVYWRtBsr6GsIVkleX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3po2GzgKV86GIxcZ4xqDXCarclQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1114513",
+    "tmdbId": 1114513,
+    "type": "movie",
+    "title": "Speak No Evil",
+    "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+    "year": "2024",
+    "rating": 7.093,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zr3qHlfh6NwhaV1ZabPPlc2OShu.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1426776",
+    "tmdbId": 1426776,
+    "type": "movie",
+    "title": "STRAW",
+    "overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point — and into a shocking act of desperation.",
+    "year": "2025",
+    "rating": 7.684,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ky8YMrHxRKlCmNku38fw7Wo9k3w.png",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1443762",
+    "tmdbId": 1443762,
+    "type": "movie",
+    "title": "The Big Fake",
+    "overview": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere — from art galleries to state secrets. Between art, crime, and power, his signature ends up everywhere — even in the history of Italy.",
+    "year": "2025",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ebUoDUC0UWcxQriN6dhB1OhpHbk.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4477",
+    "tmdbId": 4477,
+    "type": "movie",
+    "title": "The Devil's Own",
+    "overview": "Frankie McGuire, one of the IRA's deadliest assassins, draws an American family into the crossfire of terrorism. But when he is sent to the U.S. to buy weapons, Frankie is housed with the family of Tom O'Meara, a New York cop who knows nothing about Frankie's real identity. Their surprising friendship, and Tom's growing suspicions, forces Frankie to choose between the promise of peace or a lifetime of murder.",
+    "year": "1997",
+    "rating": 6.196,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3KIPu7H3tST0j4tpqdKpQZUBCQz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/Bfsoyo6mai2KKhdL5tk85RIB8F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7KIA6toCznuZt56y7Od3Mqc8adl.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "541134",
+    "tmdbId": 541134,
+    "type": "movie",
+    "title": "The Good Nurse",
+    "overview": "Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth.",
+    "year": "2022",
+    "rating": 6.869,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x2U0R60Z7hmJxZixzsGZfjFJbve.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xhOwjqYxsONnXHOrk7ZK638OxsX.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "800815",
+    "tmdbId": 800815,
+    "type": "movie",
+    "title": "The Pale Blue Eye",
+    "overview": "West Point, New York, 1830. When a cadet at the burgeoning military academy is found hanged with his heart cut out, the top brass summons former New York City constable Augustus Landor to investigate. While attempting to solve this grisly mystery, the reluctant detective engages the help of one of the cadets: a strange but brilliant young fellow by the name of Edgar Allan Poe.",
+    "year": "2022",
+    "rating": 6.789,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b08BDQPq42AoLMfhi7DtTOoYqVu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2wDG7HbADocLQjPi9YUWnrGkio6.png",
+    "certificate": "R",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "619264",
+    "tmdbId": 619264,
+    "type": "movie",
+    "title": "The Platform",
+    "overview": "A slab of food descends down a vertical facility. The residents above eat heartily, leaving those below starving and desperate. A rebellion is imminent.",
+    "year": "2019",
+    "rating": 6.965,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s0eF5zmI7B9Cq1eakqJi4URKFuG.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "744653",
+    "tmdbId": 744653,
+    "type": "movie",
+    "title": "The Thursday Murder Club",
+    "overview": "A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
+    "year": "2025",
+    "rating": 6.589,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rCsYKFaeRqkRLL8bBS3wC1Vi9xI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1290879",
+    "tmdbId": 1290879,
+    "type": "movie",
+    "title": "The Woman in Cabin 10",
+    "overview": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.",
+    "year": "2025",
+    "rating": 6.164,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9IHZeCusOd7RUaQpUrQJlKqjsUZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rUxMZHixNFwWZiF61PsaWE3YW3K.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "319",
+    "tmdbId": 319,
+    "type": "movie",
+    "title": "True Romance",
+    "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+    "year": "1993",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jiqWvkMaEw8VxDLVKbgHbnRpSK8.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "625568",
+    "tmdbId": 625568,
+    "type": "movie",
+    "title": "Unhinged",
+    "overview": "Rachel is a divorced single mother whose bad day gets even worse. She's running late to drop her son off at school when she honks her horn impatiently at a fellow driver during rush-hour traffic. After an exchange of words, she soon realizes that the mysterious man is following her and her young son in his truck. A case of road rage quickly escalates, at horrifyingly psychotic proportions, into full-blown terror as Rachel discovers the psychopath's sinister plan for revenge. He is single-mindedly determined to teach her a deadly lesson.",
+    "year": "2020",
+    "rating": 6.426,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xfIcONZO4AiWpzm3jEpbR4llzVX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/scbVM8Jq8FCmf6J0cVBdktmFxbC.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "835113",
+    "tmdbId": 835113,
+    "type": "movie",
+    "title": "Woman of the Hour",
+    "overview": "An aspiring actress crosses paths with a prolific serial killer in '70s LA when they're cast on an episode of \"The Dating Game.\"",
+    "year": "2024",
+    "rating": 6.389,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n6KXCV9jqUDDL5HCIoKHQ8kD9Fq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hdzERGxwo1CQzANmc5zFcTJlnSm.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

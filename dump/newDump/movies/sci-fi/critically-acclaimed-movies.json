@@ -1,0 +1,603 @@
+[
+  {
+    "id": "644",
+    "tmdbId": 644,
+    "type": "movie",
+    "title": "A.I. Artificial Intelligence",
+    "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+    "year": "2001",
+    "rating": 7.069,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329865",
+    "tmdbId": 329865,
+    "type": "movie",
+    "title": "Arrival",
+    "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "year": "2016",
+    "rating": 7.633,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "59678",
+    "tmdbId": 59678,
+    "type": "movie",
+    "title": "Attack the Block",
+    "overview": "A South London teen gang must team up with the other residents of their housing estate to protect the neighbourhood from a terrifying alien invasion.",
+    "year": "2011",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sRqMT16pw1VpHay6a0dmYaupFYL.png",
+    "certificate": "R",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105",
+    "tmdbId": 105,
+    "type": "movie",
+    "title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "year": "1985",
+    "rating": 8.329,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "certificate": "PG",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "165",
+    "tmdbId": 165,
+    "type": "movie",
+    "title": "Back to the Future Part II",
+    "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+    "year": "1989",
+    "rating": 7.785,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcMAuJFNVfEKjdBsWg5XIOSdTZa.png",
+    "certificate": "PG",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196",
+    "tmdbId": 196,
+    "type": "movie",
+    "title": "Back to the Future Part III",
+    "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "year": "1990",
+    "rating": 7.496,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "541340",
+    "tmdbId": 541340,
+    "type": "movie",
+    "title": "Cities of Last Things",
+    "overview": "Three key events during three different time periods, in three seasons, and on three nights culminate to change the life of Zhang Dong Ling.",
+    "year": "2018",
+    "rating": 6.392,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e0OQZl8lIITSVCB9eSR8QK9RrJU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sbu5cZj81YMexlU4CFuCXZPU2jy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lSfNCfdMHbL7kdtSvkrSgKzLIoG.png",
+    "certificate": null,
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "TW"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1084199",
+    "tmdbId": 1084199,
+    "type": "movie",
+    "title": "Companion",
+    "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "year": "2025",
+    "rating": 7.006,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cZnJ3ABPvsWGqwPcu06Eda493F9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vGpzm4eeKLZzIn70CmmfLragiUa.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1575337",
+    "tmdbId": 1575337,
+    "type": "movie",
+    "title": "Cosmic Princess Kaguya!",
+    "overview": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyUPzU1WLhgHfZxHQl9e9vSGYDh.png",
+    "certificate": "PG",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "646380",
+    "tmdbId": 646380,
+    "type": "movie",
+    "title": "Don't Look Up",
+    "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+    "year": "2021",
+    "rating": 7.057,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eYgCFNcx04Hji4VrZDDtcOh6LNE.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1062722",
+    "tmdbId": 1062722,
+    "type": "movie",
+    "title": "Frankenstein",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "year": "2025",
+    "rating": 7.618,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AjgdfuPzZdqCEH6qxPqRXtmYFDZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "940721",
+    "tmdbId": 940721,
+    "type": "movie",
+    "title": "Godzilla Minus One",
+    "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+    "year": "2023",
+    "rating": 7.595,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/glnJMBoFXWAaD7j7pFmNW8d7RpI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "505948",
+    "tmdbId": 505948,
+    "type": "movie",
+    "title": "I Am Mother",
+    "overview": "A teenage girl is raised underground by a robot \"Mother\", designed to repopulate the earth following an extinction event. But their unique bond is threatened when an inexplicable stranger arrives with alarming news.",
+    "year": "2019",
+    "rating": 6.714,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ayPSqlpYIbeq1RiDekx6W9WUqrL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iJjdemZDyHGa2BJgfoyv5m1sCiw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d0sp3ceUKf2GHCaBXsmKRz1nuCZ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US",
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "667216",
+    "tmdbId": 667216,
+    "type": "movie",
+    "title": "Infinity Pool",
+    "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+    "year": "2023",
+    "rating": 6.043,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b02cNj2tvEHKbnLdqtojir7oQwV.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329",
+    "tmdbId": 329,
+    "type": "movie",
+    "title": "Jurassic Park",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "year": "1993",
+    "rating": 7.976,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ec4wy0iZFkHTxw04HyX4r06DwrH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "59967",
+    "tmdbId": 59967,
+    "type": "movie",
+    "title": "Looper",
+    "overview": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
+    "year": "2012",
+    "rating": 6.915,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f0OXLXGguk82Klko7m81JvVzahI.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1165642",
+    "tmdbId": 1165642,
+    "type": "movie",
+    "title": "Lost in Starlight",
+    "overview": "When an astronaut leaves Earth for Mars, the vast infinite space divides star-crossed lovers in this animated romance that crosses the cosmos.",
+    "year": "2025",
+    "rating": 7.366,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nUxBCfw8BGjZZcn6byAgRNcnHbl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/drSJ0HVuSNFMPq5VzAEHk37BiEC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4r7hIHu8YV4X50PC0iKN2Ed30uc.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "656103",
+    "tmdbId": 656103,
+    "type": "movie",
+    "title": "Love and Monsters",
+    "overview": "A warm sea, hot sun, a burning beauty in a police uniform and a bottle of wine are all that Yura Skvortsov needs to be happy, who has come to the resort to heal his mental wounds. Of course, there is a low season at any resort. But only here, in Bulgaria, it comes literally. First, the English dog disappears, then the lion, and then the already few tourists disappear altogether. Yura will have to defend his right to live and love in a fierce battle with unknown monsters that threaten all living things. Fortunately, the invincible monsters have one weak point: alcohol is poison for them. Now, in order to survive and defeat the unknown evil, the heroes will have to drink without getting dry.",
+    "year": "2021",
+    "rating": 2.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xoIk7ikX2XnhSkfQTidDOKPxZP4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nEEU0AlxTgfBRdyzLQb3AFlK3yU.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "471498",
+    "tmdbId": 471498,
+    "type": "movie",
+    "title": "Oxygen",
+    "overview": "A woman wakes in a cryogenic chamber with no recollection of how she got there, and must find a way out before running out of air.",
+    "year": "2021",
+    "rating": 6.613,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/u74DFoZGTcZ8cuHO8nvQkCqXEVP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jedggylU3FyIN7XRAl9WY8mrT6H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5zVsycj23525YOrdyMZmE2PQltg.png",
+    "certificate": null,
+    "runTimeMinutes": 100,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "206487",
+    "tmdbId": 206487,
+    "type": "movie",
+    "title": "Predestination",
+    "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+    "year": "2014",
+    "rating": 7.415,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ywYmVAIm01aM4UT5770WSC3iWGD.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "452015",
+    "tmdbId": 452015,
+    "type": "movie",
+    "title": "Psychokinesis",
+    "overview": "An ordinary guy suddenly finds he has superpowers he can use to help his spirited daughter and the people around them, but he also runs into trouble in the process.",
+    "year": "2018",
+    "rating": 6.271,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tyTAYYWHyfDcAXYmNa0ifm1JrD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/53rHETjQOfCSajPki5HGfd3FQtG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bNTeAS31dWix8HwPIWqP7J0y8tB.png",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "582607",
+    "tmdbId": 582607,
+    "type": "movie",
+    "title": "See You Yesterday",
+    "overview": "As two teen prodigies try to master the art of time travel, a tragic police shooting sends them on a series of dangerous trips to the past.",
+    "year": "2019",
+    "rating": 5.543,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4VNpU3Hjjslfd5CY0Ywr7zSgObM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1BJVctMKbtMfkbV4uJV7WFUd1LN.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "569094",
+    "tmdbId": 569094,
+    "type": "movie",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "year": "2023",
+    "rating": 8.347,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
+    "certificate": "PG",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9663",
+    "tmdbId": 9663,
+    "type": "movie",
+    "title": "Starman",
+    "overview": "When an alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona, the government tries to stop them.",
+    "year": "1984",
+    "rating": 6.928,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/a34NyULWqPXALmAF6rE3kne9ZfX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eQxluGSaYcy4JRmoM1KISes1gPl.png",
+    "certificate": "PG",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18491",
+    "tmdbId": 18491,
+    "type": "movie",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+    "year": "1997",
+    "rating": 8.268,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AbCwf7YnBPielNGBvTXNPTMTgFA.png",
+    "certificate": "NR",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "956262",
+    "tmdbId": 956262,
+    "type": "movie",
+    "title": "The Kitchen",
+    "overview": "Izi's close to escaping The Kitchen, one of London's last remaining housing estates. But when young Benji enters his life, he faces some hard decisions.",
+    "year": "2023",
+    "rating": 4.812,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eF7MPvR0mlXTDJkNTGwcjCjwDKl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/58UqnEukdI0ALZ3sIQ9PU59zmIJ.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1146277",
+    "tmdbId": 1146277,
+    "type": "movie",
+    "title": "The Missing",
+    "overview": "When an alien comes back to take him, a mouthless young man's life twists and turns as his memories untangle.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/25imGxPgIzLixlQ4XViDdzdcwGI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1GUKcU0U1Mxejn2uyJLgnERRcJA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tM1wIrxtbHeRiVZvqRr9ss2ptfP.png",
+    "certificate": "R",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "773569",
+    "tmdbId": 773569,
+    "type": "movie",
+    "title": "The Soul",
+    "overview": "Wang Shicong, chairman of the famous group, died tragically at home. The prosecutor Liang Wenchao and his wife, Abang, learned during the investigation that the deceased’s long-term partner, Dr. Wan, and his ex-wife’s Son Wang Tianyou, young newlywed wife Li Yan, and even the dead ex-wife, each suspect has an intricate connection. As more clues gradually surfaced, they gradually discovered the rich. The amazing secret hidden behind the murder...",
+    "year": "2021",
+    "rating": 6.908,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hrLX0HY408IFiVdSFytOtqcfLAs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/upesCDlcWdcctY4LGanfpzHiOur.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zYnmM2AJ3GlNQ2ioREKUUbJzNOg.png",
+    "certificate": "NR",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "TW"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "218",
+    "tmdbId": 218,
+    "type": "movie",
+    "title": "The Terminator",
+    "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "year": "1984",
+    "rating": 7.69,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hdVL9WCFXxCFrsWH0R8UnhptHso.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "736769",
+    "tmdbId": 736769,
+    "type": "movie",
+    "title": "They Cloned Tyrone",
+    "overview": "A series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy lurking directly beneath their neighborhood.",
+    "year": "2023",
+    "rating": 6.552,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9mXBHMSDLi0Ty0HXcnLtQnqNBmI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rfSQOqBmhjzx5jYRG8hTYv9XxQC.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

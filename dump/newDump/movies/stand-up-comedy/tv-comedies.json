@@ -1,0 +1,658 @@
+[
+  {
+    "id": "1390076",
+    "tmdbId": 1390076,
+    "type": "movie",
+    "title": "Adam Ray Is Dr. Phil UNLEASHED",
+    "overview": "Comedian Adam Ray transforms into Dr. Phil for this one-of-a-kind comedy show featuring celebrity guests, crowdwork and outrageous hijinks.",
+    "year": "2024",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/87ZcSrr76CFCrKIIK72luVJ3Jud.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xNmMph2pGyB0fxu0wvjjdJp6nLn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tbOP6KcMIfKDS3e7ozIj2yMZ66d.png",
+    "certificate": "R",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "TV Movie",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1698418",
+    "tmdbId": 1698418,
+    "type": "movie",
+    "title": "Adili Idola Celebrity Roast: Fedi Nuril",
+    "overview": "Actor Fedi Nuril takes the hot seat as he faces hilarious jokes from a panel of six comedians and celebrities through the “Trilogy of Laughter”.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9R87Ru2OiwoijZQlTnSSgPgCpQL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qLfmNFEdRXWf3TzkguNY05SWk2M.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1gSUJoNk5lRMC0QPXcdpbI5zZPI.png",
+    "certificate": null,
+    "runTimeMinutes": 173,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "84451",
+    "tmdbId": 84451,
+    "type": "show",
+    "title": "Bumping Mics with Jeff Ross & Dave Attell",
+    "overview": "When Jeff Ross and Dave Attell take the stage, no one is safe. With the help of special guests, they're packing a lot of laughs into one epic weekend.",
+    "year": "2018",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4btWAS92oyUS5QPgczbz9vA4umq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3E667UGdletRU0ZxpY4NaJUWjHQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uyDWkvlwrXPDo47DfpJTH1VVuw.png",
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Talk",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "529546",
+    "tmdbId": 529546,
+    "type": "movie",
+    "title": "Cheuk Wan-Chi: You Look So Single",
+    "overview": "See Cheuk's humorous take on the social phenomena of being single, parenting, middle-aged and single women, and lessons from her 86 year-old grandma.",
+    "year": "2015",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bzbu15ZjJIiNab66xxuPE2AXeja.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 100,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "85418",
+    "tmdbId": 85418,
+    "type": "show",
+    "title": "COMEDIANS of the world",
+    "overview": "Global stand-up comedy series features a diverse set of comics from 13 regions bringing their perspectives on what's funny around the world.",
+    "year": "2019",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/stqF0UyUVhN4g6mqKGoPxMJP6c4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pfeOdl8QKS85lOi3xAdZqSWcTKR.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [],
+    "originalLanguage": ""
+  },
+  {
+    "id": "70830",
+    "tmdbId": 70830,
+    "type": "show",
+    "title": "Dave Chappelle",
+    "overview": "Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials.",
+    "year": "2017",
+    "rating": 7.284,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pdvfW9xWAqLFd0wdzdAogjmM9Pc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6pRp8eKAQAccFEB4pcPrjrkPns2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v0MZObhOUwiY92OhUAjrICt9M1B.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77124",
+    "tmdbId": 77124,
+    "type": "show",
+    "title": "Dave Chappelle: Equanimity & The Bird Revelation",
+    "overview": "Comedy titan Dave Chappelle caps a wild year with two stand-up specials packed with scorching new material, self-reflection and tough love.",
+    "year": "2017",
+    "rating": 6.857,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eWPqGcEx6dbzRXN6orolhzSIV7s.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cSp4QZIwRXm0XQIaKlHRQyjk215.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [],
+    "originalLanguage": ""
+  },
+  {
+    "id": "121973",
+    "tmdbId": 121973,
+    "type": "show",
+    "title": "Ellen DeGeneres: Relatable",
+    "overview": "In her first special since 2003, Ellen revisits her road to stardom and details the heartfelt -- and hilarious -- lessons she's learned along the way.",
+    "year": "2018",
+    "rating": 5.667,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/baKCkINHWGoyFoTGSBFrVXCYm1X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ySvjjiWKQFIFwLQ4dpqLNkongZZ.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 10,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "89755",
+    "tmdbId": 89755,
+    "type": "show",
+    "title": "Historical Roasts",
+    "overview": "\"Roastmaster General\" Jeff Ross and a slew of guest stars poke fun at major historical figures while also honoring their enduring impact on the world.",
+    "year": "2019",
+    "rating": 4.765,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A7nGml5sEjtG03Q9EwaApJtRc1f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kZrsnWTBeqYWSgEluQ3HAUQCLMi.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78319",
+    "tmdbId": 78319,
+    "type": "show",
+    "title": "James Acaster: Repertoire",
+    "overview": "Offbeat comic James Acaster covers the strange, the mundane and everything in between in this collection of four wide-ranging stand-up specials.",
+    "year": "2018",
+    "rating": 8.061,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oYmfMa9yaMZID0q4gPIsmJw9cEF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pqmXTD2xyXCx15UmgN52Qmdwcke.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mDaKrKpK2sYOssrrKFvlhg4Y1S6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Talk",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "894155",
+    "tmdbId": 894155,
+    "type": "movie",
+    "title": "Jonas Brothers Family Roast",
+    "overview": "Kevin, Joe and Nick face down quick wits and deep cuts in this comedy special featuring Pete Davidson, John Legend and more. Hosted by Kenan Thompson.",
+    "year": "2021",
+    "rating": 6.456,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eEEj1mC2N2oTrluubqA5dYRwvOb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7uTw2IqQHgi2fqiArDvlGWD8f1U.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ArAZaM9RuXQHzM33Rktan3uhPj8.png",
+    "certificate": null,
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1532795",
+    "tmdbId": 1532795,
+    "type": "movie",
+    "title": "Kill Tony: Mayhem at Madison Square Garden",
+    "overview": "With one minute to impress Tony Hinchcliffe and his star-studded panel, newbie stand-ups risk it all on the hallowed ground of Madison Square Garden.",
+    "year": "2025",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oWhxaLdqPTYoMLXobtOccEBmA9K.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1611487",
+    "tmdbId": 1611487,
+    "type": "movie",
+    "title": "Kill Tony: Once Upon a Time in Texas",
+    "overview": "One minute. One mic. No mercy. Tony Hinchcliffe and a panel of famous guests put up-and-coming comedians to the test at a relentless Austin showcase.",
+    "year": "2026",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kepiMVDrjSvNM9afWewWxlWXXK6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iKFZFt8Z3RIwQHrIkmzULdKlYIi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/X1V5XDl4nWmkO8pbHiNBP2tbn.png",
+    "certificate": "R",
+    "runTimeMinutes": null,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1677550",
+    "tmdbId": 1677550,
+    "type": "movie",
+    "title": "KillTonyMania",
+    "overview": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fO1pM3aCB0oAP7Hvlrrtwp54Xe4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nkxOo0Ws6UvW2EB8geeaKkphG1Y.png",
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "101090",
+    "tmdbId": 101090,
+    "type": "show",
+    "title": "Ladies Up",
+    "overview": "Rising India-based comics Prashasti Singh, Kaneez Surka, Supriya Joshi, and Niveditha Prakasam bring no-holds-barred humor to this stand up series",
+    "year": "2020",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/amH94ax5bR073WoKVOnnfu0NmTh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x9d5CcoiRTW8q2RmS4yu5XrQmKh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vbqZqtNX9yTscoFaIuN7rLwOi2w.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 17,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "125969",
+    "tmdbId": 125969,
+    "type": "show",
+    "title": "Mad Crazy Colombian Comedians",
+    "overview": "Four of Colombia's funniest and bawdiest comedians perform before a post-quarantine audience hungry for their stories.",
+    "year": "2021",
+    "rating": 1.333,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/86HKEUscjhtlUyXLbne7paUjuXO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2Hd4AbzApASRb1gXXgCryfTvygK.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "95927",
+    "tmdbId": 95927,
+    "type": "show",
+    "title": "Lugar de Mulher",
+    "overview": "Four comedians from Brazil joke about sexuality, politics, religion and motherhood - and show that the woman's place is wherever she wants to be.",
+    "year": "2019",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9VUh1tbBubznBdjV5OomzupyCgL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z047lUdDWg0q0gH03sn4iBcOQwq.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 15,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "156076",
+    "tmdbId": 156076,
+    "type": "show",
+    "title": "Only Jokes Allowed",
+    "overview": "Six of South Africa's top comedians take center stage and showcase their talent in this collection of short stand-up sets.",
+    "year": "2022",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mQUnQxdhAz1TZzlsVoSzFm0kTDc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/64OBmcpLCzfrOfADgSUKrHAUWRC.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 16,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ZA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "696575",
+    "tmdbId": 696575,
+    "type": "movie",
+    "title": "Patton Oswalt: I Love Everything",
+    "overview": "Turning 50. Finding love again. Buying a house. Experiencing existential dread at Denny's. Life comes at Patton Oswalt fast in this stand-up special.",
+    "year": "2020",
+    "rating": 6.069,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r4yZffgUlNm1wQl5esd7iWWsfmj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3hHPbweChuLcPbaNUX3fSc10UQH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zJPyiwepqGAh3RSzCJsiqSALfmk.png",
+    "certificate": null,
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "215662",
+    "tmdbId": 215662,
+    "type": "show",
+    "title": "Romesh Ranganathan: The Cynic",
+    "overview": "Going back to his hometown of Crawley, England, Romesh Ranganathan will talk about vegan-ism, his kids - and offers a peek into the making of his comedy special.",
+    "year": "2022",
+    "rating": 5.167,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nvYiQrX2uPUtgvrpdGscJK7SozL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d7NUc02yXiqLx26JYug9lpGlC2a.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 45,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "139177",
+    "tmdbId": 139177,
+    "type": "show",
+    "title": "Russell Howard: Lubricant",
+    "overview": "This two-part special features comic Russell Howard's delayed-yet-delighted return to the stage and a look at his life during an unexpected lockdown.",
+    "year": "2021",
+    "rating": 5.727,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xu4AaDy0q8RUU2Yyr419dAAl5iD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xiiiIqQnIab0k4oqn33HU66jsi7.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 66,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "114604",
+    "tmdbId": 114604,
+    "type": "show",
+    "title": "Schulz Saves America",
+    "overview": "Comedian Andrew Schulz takes on the year's most divisive topics in this fearlessly unfiltered and irreverent four-part special.",
+    "year": "2020",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ggbN2lhQxtUXWAQo3tG9xJiNEEO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lPl18jyqC8dz7updQIJssKsaMiB.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 17,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "110167",
+    "tmdbId": 110167,
+    "type": "show",
+    "title": "Standup and Away! with Brian Regan",
+    "overview": "Comic Brian Regan has become a well-known name on the comedy circuit since releasing his first stand-up album in 1997. In this hybrid series, he blends his trademark observational stand-up with short sketches and audience interaction. Topics range from everyday things that people can relate to -- such as sitting too close to others at restaurants and lost luggage -- to more out-there subjects like being the guy who flew to the moon but didn't get to walk on it.",
+    "year": "2018",
+    "rating": 5.625,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fP1rtxUTr91vpvmVmOrRnV3AGWp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ptF9ZJpfivjjr9LOapXWvaTUQjo.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "203280",
+    "tmdbId": 203280,
+    "type": "show",
+    "title": "That’s My Time with David Letterman",
+    "overview": "David Letterman invites some of the hottest up-and-coming stand-up stars to perform a set and sit down for a chat.",
+    "year": "2022",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4I755GHZSfqbe8hcygrTYLjBCl0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b7hkDkQnnlEw2HYORXIA6V9aENg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mg51VeM66qhbSXJhdJ1WEWEZQN6.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 18,
+    "primaryGenre": "Talk",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80366",
+    "tmdbId": 80366,
+    "type": "show",
+    "title": "The Comedy Lineup",
+    "overview": "A diverse group of up-and-coming comedians perform 15-minute sets in this stand-up comedy showcase series.",
+    "year": "2018",
+    "rating": 5.278,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uEzTdhK3sy2QYUGMvC4gyWqgX7Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xaKq6YbCNWC32alQJvvX6gxuGN6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sLbXPfGUdMLefLQK0MN1o6f77xm.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "83591",
+    "tmdbId": 83591,
+    "type": "show",
+    "title": "The Degenerates",
+    "overview": "Six stand-ups explore the coarse and salacious side of comedy in this series of half-hour specials. For mature audiences.",
+    "year": "2018",
+    "rating": 4.895,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5HZYXXaylpVLnFAc5fzHciM5b2c.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/akxBNc1210ju44qt0PKk3xKqYjS.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Talk",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1680882",
+    "tmdbId": 1680882,
+    "type": "movie",
+    "title": "The Founder5 II: Unfinished Business",
+    "overview": "Grander, bolder and sharper, the Founder5 returns to the stage with other talented comedians for more standup, improv and sketch comedy.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f6mE4eVz8LC2jUstLjb7quq72Tb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3RNtHIeAud9mZqO58v8wfcUCML9.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 184,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78827",
+    "tmdbId": 78827,
+    "type": "show",
+    "title": "The Honeymoon Stand Up Special",
+    "overview": "Impending parenthood does funny things to Natasha Leggero and Moshe Kasher, who dissect family, relationships and more in a trio of stand-up specials.",
+    "year": "2018",
+    "rating": 6.143,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kVAL0qXrZTsjnch1OsyqBz2gHwA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/r6bijpJnvmGSmpWLt7qEdJpShm5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2cvryYdudJjUUuXPhHpea924qJQ.png",
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1708379",
+    "tmdbId": 1708379,
+    "type": "movie",
+    "title": "The Hot Seat",
+    "overview": "World Cup winners from France 1998 and France 2018, plus a crew of comedians, face off in a no-holds-barred comedy roast hosted by Paul de Saint Sernin.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k7ypYl975OV9HyBNkHoShLGzn07.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/exvkKp4kMGthUXexCue4vI2HTTB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yYlMUmY48KJFFwhPABGkEtt0NNf.png",
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "92379",
+    "tmdbId": 92379,
+    "type": "show",
+    "title": "Tiffany Haddish Presents: They Ready",
+    "overview": "Tiffany Haddish introduces her favorite comedians in a series of stand-up performances.",
+    "year": "2019",
+    "rating": 5.818,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l5qyP6lDsHDGdLsSCHbCg8FvgxV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xn1dmvIkK0WbLoTbLSUPE0hdxiZ.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1359155",
+    "tmdbId": 1359155,
+    "type": "movie",
+    "title": "Tim Dillon: This Is Your Country",
+    "overview": "Comedian Tim Dillon chats with everyday Americans about cryptocurrency, OnlyFans and other outrageous issues they face in this comedy unscripted special.",
+    "year": "2024",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fTeXgkLhYwcxrMnQ0jP4SnqMsc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tEFjj4YlkhuwyGXgRyBR0kfgOwj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mrZVx03hAb20DLUByLoGAdNr1Nf.png",
+    "certificate": "R",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "240402",
+    "tmdbId": 240402,
+    "type": "show",
+    "title": "Verified Stand-Up",
+    "overview": "Ten comics. Ten dynamic sets. Two episodes. Discover your new favorite stand-up act as top performers take the stage at Webster Hall in New York City.",
+    "year": "2023",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wt8GvKMN3sNRuRVWgsuvqsPTVI7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/29VyRFYlVFUYViMiB0JmKJn1jlp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/siWmPy5SQsZBX0SOvyi9l58ZtnC.png",
+    "certificate": null,
+    "runTimeMinutes": 56,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "96642",
+    "tmdbId": 96642,
+    "type": "show",
+    "title": "Zona Rosa",
+    "overview": "An assortment of talent takes the stage for a night of honest stand-up featuring four of Mexico's funniest LGBTQ comedians.",
+    "year": "2019",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3MkGv6y5Ny7F1RuBMsFL1rQuskC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8MqMmgDjAZAMGSsWbAuUlGuv6wS.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 13,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  }
+]
