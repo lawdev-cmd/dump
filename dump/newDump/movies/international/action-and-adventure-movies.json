@@ -1,0 +1,766 @@
+[
+  {
+    "id": "1589891",
+    "tmdbId": 1589891,
+    "type": "movie",
+    "title": "A Time for Bravery",
+    "overview": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances.",
+    "year": "2025",
+    "rating": 7.527,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iTMZjiYGERKlgS6TqLNFHQ8Bqdn.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "781732",
+    "tmdbId": 781732,
+    "type": "movie",
+    "title": "Animal",
+    "overview": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "year": "2023",
+    "rating": 6.156,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lprsAHkwMxk2iC6VZxNmV0H7g1t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aM0QC0EmfPD84AtjGIv2UJ9yu6J.png",
+    "certificate": "R",
+    "runTimeMinutes": 201,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "643215",
+    "tmdbId": 643215,
+    "type": "movie",
+    "title": "Asterix & Obelix: The Middle Kingdom",
+    "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+    "year": "2023",
+    "rating": 4.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vsRhZCmZFYYgrfqK54temfuDlBJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "933131",
+    "tmdbId": 933131,
+    "type": "movie",
+    "title": "Badland Hunters",
+    "overview": "After a deadly earthquake turns Seoul into a lawless badland, a fearless huntsman springs into action to rescue a teenager abducted by a mad doctor.",
+    "year": "2024",
+    "rating": 6.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qLQiQXe8tHk8mokDH0LoKudPDH3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6etwkgsUNwfuI3CVteFQGB5lSsD.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "760868",
+    "tmdbId": 760868,
+    "type": "movie",
+    "title": "Black Crab",
+    "overview": "To end an apocalyptic war and save her daughter, a reluctant soldier embarks on a desperate mission to cross a frozen sea carrying a top-secret cargo.",
+    "year": "2022",
+    "rating": 6.187,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dls6cXimFZwM5Ts3Ft7Ox5C7jfY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jdjP3OjdwxK9RijaKrnbULHhiEz.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1515729",
+    "tmdbId": 1515729,
+    "type": "movie",
+    "title": "Blast",
+    "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+    "year": "2026",
+    "rating": 7.754,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bLTZQ0a6lEdLht1n0dplIZpV4eW.png",
+    "certificate": null,
+    "runTimeMinutes": 143,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1098110",
+    "tmdbId": 1098110,
+    "type": "movie",
+    "title": "Blood & Gold",
+    "overview": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+    "year": "2023",
+    "rating": 6.64,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1213898",
+    "tmdbId": 1213898,
+    "type": "movie",
+    "title": "Border 2",
+    "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jbCnrty7OWdXjIdVFKmuSp7EBzn.png",
+    "certificate": "R",
+    "runTimeMinutes": 201,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "205022",
+    "tmdbId": 205022,
+    "type": "movie",
+    "title": "Chennai Express",
+    "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
+    "year": "2013",
+    "rating": 6.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9j7XfhBJKNfidMCa8JsNbqU1waV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8u7dfVGGBcGrk1nCu55X5RqImwv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Ch5mF02b7uu9OX38NjpQhQIjfQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "146",
+    "tmdbId": 146,
+    "type": "movie",
+    "title": "Crouching Tiger, Hidden Dragon",
+    "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+    "year": "2000",
+    "rating": 7.438,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ddFXUM2KfVdlApvbDIaqNvfmC83.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "HK",
+      "TW"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1582770",
+    "tmdbId": 1582770,
+    "type": "movie",
+    "title": "Dhurandhar: The Revenge",
+    "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+    "year": "2026",
+    "rating": 7.296,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 229,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10253",
+    "tmdbId": 10253,
+    "type": "movie",
+    "title": "Dragon Wars: D-War",
+    "overview": "Ethan learns he carries the spirit of a warrior who battled dragons in 16th-century Korea -- and one day he'll find a tattooed girl carrying the spirit of that warrior's beloved. Years later, he meets Sarah and dragons soon descend on Los Angeles seeking out the two souls of the ancient lovers.",
+    "year": "2007",
+    "rating": 4.581,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rEpvqWGu08coDLUpcpiz4sMoDYo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5WWqrUIGrCb1QvZtYVaSfZgUG8n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cLdBBnltxZgoj7IBoQuElXHOCs6.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "784651",
+    "tmdbId": 784651,
+    "type": "movie",
+    "title": "Fighter",
+    "overview": "As India faces a militant attack in Kashmir, the country’s best combat aviators join forces under a reckless yet brilliant squadron leader to form 'Air Dragons', faces mortal dangers and their inner demons.",
+    "year": "2024",
+    "rating": 6.152,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zqFuriKJ6pYDvf72kXNLONnuE8k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vcc6NDwsMwNrwHgVuI9lGdWJLB8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mK3jB3LqUeutMnYB2ZQ5dZ0H2cl.png",
+    "certificate": "NR",
+    "runTimeMinutes": 166,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "866678",
+    "tmdbId": 866678,
+    "type": "movie",
+    "title": "Furioza",
+    "overview": "A policewoman makes her ex-boyfriend an offer he can't refuse: either he infiltrates and informs on a gang of hooligans, or his brother goes to jail.",
+    "year": "2021",
+    "rating": 6.34,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sSIo1vG0IILxzHkLKmtFEoTbVE9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4G7216ezKodauyP7cvNswiEf33k.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 139,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "PL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1268127",
+    "tmdbId": 1268127,
+    "type": "movie",
+    "title": "Humint",
+    "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
+    "year": "2026",
+    "rating": 7.447,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vmtsvhQhxPrXN4LZ6MCtBy981Aj.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1306845",
+    "tmdbId": 1306845,
+    "type": "movie",
+    "title": "Jaat",
+    "overview": "A mysterious stranger journeys to a remote town controlled by a callous crime lord, with one violent mission — restoring justice to its people.",
+    "year": "2025",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 153,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "872906",
+    "tmdbId": 872906,
+    "type": "movie",
+    "title": "Jawan",
+    "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "year": "2023",
+    "rating": 7.04,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7VQCCoFTVUt4rpsrgF9TE69L5lw.png",
+    "certificate": "NR",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1450599",
+    "tmdbId": 1450599,
+    "type": "movie",
+    "title": "K.O.",
+    "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rU9kRB3rBU5O7AMReZCiuIy7zmE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qXIHcpVXLNmGZhf0k5SLBMiezl7.png",
+    "certificate": "R",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "801688",
+    "tmdbId": 801688,
+    "type": "movie",
+    "title": "Kalki 2898-AD",
+    "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+    "year": "2024",
+    "rating": 6.423,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/o8XSR1SONnjcsv84NRu6Mwsl5io.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/phv0D4lpztKSUqNByCJkP1HB1IS.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 176,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "498448",
+    "tmdbId": 498448,
+    "type": "movie",
+    "title": "Kesari",
+    "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
+    "year": "2019",
+    "rating": 7.114,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/notcxmT6RN93g43BnRI8GvRktZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jBsn42vKDkyfFVkVXEZLJ5qUhQU.png",
+    "certificate": null,
+    "runTimeMinutes": 151,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "455476",
+    "tmdbId": 455476,
+    "type": "movie",
+    "title": "Knights of the Zodiac",
+    "overview": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
+    "year": "2023",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fLEsa5SKTFgrdUGMHbsWomniak6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5gBBwuPH45EaU4a1Obydrz3rqW9.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1383072",
+    "tmdbId": 1383072,
+    "type": "movie",
+    "title": "Mahavatar Narsimha",
+    "overview": "Tyrannical demon Hiranyakashyap challenges Vishnu, proclaiming himself a god. However, his son Prahlad remains devoted to Vishnu, who appears as Narsimha to defeat the demon.",
+    "year": "2025",
+    "rating": 7.407,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/15UrawRUcfDKo93CD1oSMpuWKKP.png",
+    "certificate": null,
+    "runTimeMinutes": 131,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14134",
+    "tmdbId": 14134,
+    "type": "movie",
+    "title": "Main Hoon Na",
+    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+    "year": "2004",
+    "rating": 6.624,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
+    "certificate": "PG",
+    "runTimeMinutes": 179,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1339876",
+    "tmdbId": 1339876,
+    "type": "movie",
+    "title": "Mardaani 3",
+    "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
+    "year": "2026",
+    "rating": 7.614,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 131,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "873126",
+    "tmdbId": 873126,
+    "type": "movie",
+    "title": "My Name Is Vendetta",
+    "overview": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+    "year": "2022",
+    "rating": 6.613,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7l3war94J4tRyWUiLAGokr3ViF2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3WwqXEdDtA81iMJcEVYmxqVD3bD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o3r3YuEm5KAXzCszjKextvdCB2j.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1174725",
+    "tmdbId": 1174725,
+    "type": "movie",
+    "title": "Race to the Summit",
+    "overview": "Fearless alpine climbers Ueli Steck and Dani Arnold enter into a death-defying rivalry to set speed records on the Swiss Alps' great north faces.",
+    "year": "2023",
+    "rating": 6.875,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tI9ybrWLiVLljLsNoqEjQF36oG4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3H8u03qr9se2pCv3QTHR1gxSa9k.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gKPF0qhWdDraV1hR5vumPadCJBZ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1247165",
+    "tmdbId": 1247165,
+    "type": "movie",
+    "title": "Raja Shivaji",
+    "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7rmSMnH5HDHWWil6tYmxPlH8vqz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/irmGhzPBbzyswyEa8021gg4LvZY.png",
+    "certificate": null,
+    "runTimeMinutes": 195,
+    "primaryGenre": "Action",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127533",
+    "tmdbId": 127533,
+    "type": "movie",
+    "title": "Rurouni Kenshin Part I: Origins",
+    "overview": "In 1868, after the Bakumatsu war ends, the ex-assassin Kenshin Himura traverses Japan with an inverted sword, to defend the needy without killing.",
+    "year": "2012",
+    "rating": 7.533,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vo3Zs07PZfKNsTrU0pcPZONJcN5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2bHoj05gR7I5gp4oeoDCY6bU42d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pQbXIkfOqogzMNHawYoMyWNQrc1.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "672322",
+    "tmdbId": 672322,
+    "type": "movie",
+    "title": "Rurouni Kenshin: The Beginning",
+    "overview": "Before he was a protector, Kenshin was a fearsome assassin known as Battosai. But when he meets gentle Tomoe Yukishiro, a beautiful young woman who carries a huge burden in her heart, his life will change forever.",
+    "year": "2021",
+    "rating": 7.667,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rODS466qSdrwMlGdbUwPENhDN2c.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iGmfHHa3CSqKrH3yeS9CQVLAVUl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vEBHJhE131Pn75s1Rq39ZBQhiQO.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "770906",
+    "tmdbId": 770906,
+    "type": "movie",
+    "title": "Salaar: Part 1 - Ceasefire",
+    "overview": "Set in the fictional dystopian city-state of Khansaar, the film follows the friendship between Deva, a tribesman, and Varadha, the prince of Khansaar. When a coup d'état is planned by his father's ministers and his relatives, Varadha enlists Deva's help to become Khansaar's undisputed ruler.",
+    "year": "2023",
+    "rating": 6.82,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nlu9WbcetNFRGXXPWITr30ob7W6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xtOCTmGemASooRkAxRorYODig1p.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8zhtkx3B8f9KlAupV8dlbedb8Rz.png",
+    "certificate": "NR",
+    "runTimeMinutes": 175,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "942058",
+    "tmdbId": 942058,
+    "type": "movie",
+    "title": "Tehran",
+    "overview": "On 13th February 2012, a magnetic bomb exploded, destroying an Israeli embassy vehicle in Delhi. ACP Rajeev Kumar, leading the investigation, suspects more than what meets the eye. Amid political pressure and suspicions of an Iranian connection, he embarks on a perilous journey to uncover the truth, facing formidable adversaries.",
+    "year": "2025",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gbz9Y1NwnlE2GxXmgWTKZC1fste.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nrDyzITJljfb6As9qnLnH8rf4Is.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sPjUiJGxCELI2AfbbPDCif2lFXL.png",
+    "certificate": null,
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "449992",
+    "tmdbId": 449992,
+    "type": "movie",
+    "title": "The Night Comes For Us",
+    "overview": "After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.",
+    "year": "2018",
+    "rating": 6.931,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/FckDEBv26qhk14kSdtxcYyz6Zg.png",
+    "certificate": "NC-17",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ID",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1151949",
+    "tmdbId": 1151949,
+    "type": "movie",
+    "title": "The Shadow Strays",
+    "overview": "Skilled in the art of killing, a young assassin defies her mentor to save a boy from a ruthless crime syndicate — and she'll destroy anyone in her path.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7UYeDUzFIscGVr0mo7isvnrVYvO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lkzBusEFoXTQnxFMEsYAZ1QwRqu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7Wx8ZczIVfTqWcSqOiW58oidTU8.png",
+    "certificate": "NC-17",
+    "runTimeMinutes": 145,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US",
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "712454",
+    "tmdbId": 712454,
+    "type": "movie",
+    "title": "The Summit of the Gods",
+    "overview": "A photojournalist's obsessive quest for the truth about the first expedition to Mt. Everest leads him to search for an esteemed climber who went missing.",
+    "year": "2021",
+    "rating": 7.73,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uzvwwdsTXIUweKYhp8Eo7uidzr5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8Yqx44MZbBSQCW1OWFeuHwqQtWv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dOZPbMWJDDRuE3jZtOHscPZZgX7.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "FR",
+      "LU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1588838",
+    "tmdbId": 1588838,
+    "type": "movie",
+    "title": "To the Max",
+    "overview": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.",
+    "year": "2026",
+    "rating": 6.24,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2vYgm6NdVCK8EXEQpjgM8tUi335.png",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1075676",
+    "tmdbId": 1075676,
+    "type": "movie",
+    "title": "Uprising",
+    "overview": "In the Joseon Dynasty, two friends who grew up together — one the master and one the servant — reunite post-war as enemies on opposing sides.",
+    "year": "2024",
+    "rating": 6.993,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qcHOh5PoygMtPbhpeBC0VUNNtAp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ipOiTCqAe97vlYQ8L6D0wSdpV7n.png",
+    "certificate": "R",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "585268",
+    "tmdbId": 585268,
+    "type": "movie",
+    "title": "War",
+    "overview": "Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything.",
+    "year": "2019",
+    "rating": 6.759,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yUtaHkL2SDIAZhRApZAyQrAXygn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aOSDKvqglKVa3SYy4CPXYUAfDlf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b9a4Jeh82ZpMy7WPy0PksIaiq27.png",
+    "certificate": null,
+    "runTimeMinutes": 152,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1109086",
+    "tmdbId": 1109086,
+    "type": "movie",
+    "title": "War 2",
+    "overview": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+    "year": "2025",
+    "rating": 5.986,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fxxVbjhIOl8ZPS69dH8xeeuxvmh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pKIRUTnwY3YYU9urSdsuobdcliP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uMmMYDrrI5DTa9kZ2dJ6hx3eFtH.png",
+    "certificate": "NR",
+    "runTimeMinutes": 173,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  }
+]

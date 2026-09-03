@@ -1,0 +1,743 @@
+[
+  {
+    "id": "475132",
+    "tmdbId": 475132,
+    "type": "movie",
+    "title": "A Private War",
+    "overview": "One of the most celebrated war correspondents of our time, Marie Colvin is an utterly fearless and rebellious spirit, driven to the frontlines of conflicts across the globe to give voice to the voiceless.",
+    "year": "2018",
+    "rating": 6.759,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pAh6uDR9bBznybiJCVYZNJmjg63.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xNgFmX4odJG6tJZY3tTLvq8tmQN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/R1DZjCvicPGUSaHpqg4RtyvBAe.png",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "802403",
+    "tmdbId": 802403,
+    "type": "movie",
+    "title": "Ajeeb Daastaans",
+    "overview": "An anthology of four stories that explore the surprising ways in which unexpected catalysts inflame the uncomfortable emotions simmering under fractured relationships.",
+    "year": "2021",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lrE4Oed7CEDfYL61twc4Pe7kPsB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hI0V934GKQnlwBuh4vF4Cv1j2e2.png",
+    "certificate": "NR",
+    "runTimeMinutes": 142,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "850028",
+    "tmdbId": 850028,
+    "type": "movie",
+    "title": "Alice, Darling",
+    "overview": "Pushed to the breaking point by Simon, her psychologically abusive boyfriend, Alice becomes an unwitting participant in an intervention staged by her two closest friends while on vacation. As she rediscovers the essence of herself and gains some much-needed perspective, she slowly starts to fray the cords of codependency that bind her. However, Simon's vengeance is as inevitable as it is shattering, and once unleashed, it tests her strength, her courage, and the bonds of deep-rooted friendships.",
+    "year": "2022",
+    "rating": 5.625,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3QpO7dxLXBdPgWpNLKvRNojz7bv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cSjccCESfkHq2AltVkY3WRYXqdg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/draoNa0bveekUDQ1rf5BzLMMinG.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "489982",
+    "tmdbId": 489982,
+    "type": "movie",
+    "title": "And Breathe Normally",
+    "overview": "At the edge of Iceland’s Reykjanes peninsula, two women’s lives will intersect – for a brief moment – while trapped in circumstances unforeseen. Between a struggling Icelandic mother and an asylum seeker from Guinea-Bissau, a delicate bond will form as both strategize to get their lives back on track.",
+    "year": "2018",
+    "rating": 6.675,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wYoOX37zNCHWZMg6s0dRpVrkyU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xpvjxEJbB1IsaKFaJhB5fXvmJqB.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 95,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IS"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1337997",
+    "tmdbId": 1337997,
+    "type": "movie",
+    "title": "Anuja",
+    "overview": "When a brilliant nine-year-old working in a sweatshop gets a chance to attend school, she must make a difficult choice for her and her sister's future.",
+    "year": "2024",
+    "rating": 6.537,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pJVGVQgetKas8wpgHBYqfbJRoEP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vn69GVdaQ00SGs0i18xhMkI5oo1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ciOBaEvesbrCBmBvs8klRzdoPRf.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "864245",
+    "tmdbId": 864245,
+    "type": "movie",
+    "title": "Ariyippu",
+    "overview": "A sensitive and manipulated video clip is circulated amongst the co-workers of the factory where the couple work, which unleashes unexpected emotional, social and marital imbalances in their relationship.",
+    "year": "2022",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1N1qt9iOKfoCyi0bAWhD1bLC00m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/88g2Yk5bl0i8OsNZR6iouzgJyt8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ibyYJXG1bjXdhopSadJJ4TmkfUI.png",
+    "certificate": null,
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "569578",
+    "tmdbId": 569578,
+    "type": "movie",
+    "title": "Ascharya Fuck It",
+    "overview": "Desire and greed intertwines the lives of a Bollywood star, his chauffeur, a prostitute and her pimp in an unlikely love story.",
+    "year": "2018",
+    "rating": 4.455,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jNThnK5uJS4g63CANGi7FukLgLt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uT0JMtEaVhPQwEUzovi44jJZdM4.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "496967",
+    "tmdbId": 496967,
+    "type": "movie",
+    "title": "Atlantics",
+    "overview": "Arranged to marry a rich man, young Ada is crushed when her true love goes missing at sea during a migration attempt — until a miracle reunites them.",
+    "year": "2019",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zRnZM6HqglFK31MYyrTSQVlj1dQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kWkAWQQrlI5Rq2CtC5aYac9dx9V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1M8iqA60hs8D2K65HGSGYocjaUP.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "798488",
+    "tmdbId": 798488,
+    "type": "movie",
+    "title": "Attention Please",
+    "overview": "An unapologetic and daring writer tells his stories to his roommates and it takes interesting turns.",
+    "year": "2021",
+    "rating": 6.833,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/s92ie7lxRCQdhvY38qLVhzmP7ME.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xdShnvUbxOY0xNEVjsMbe3na4WQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oVMkpJzv3lW99LFUmeGJFY60i0R.png",
+    "certificate": null,
+    "runTimeMinutes": 114,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "429107",
+    "tmdbId": 429107,
+    "type": "movie",
+    "title": "Beatriz at Dinner",
+    "overview": "Beatriz, an immigrant from a poor town in Mexico, has drawn on her innate kindness to build a career as a health practitioner. Doug Strutt is a cutthroat, self-satisfied billionaire. When these two opposites meet at a dinner party, their worlds collide, and neither will ever be the same.",
+    "year": "2017",
+    "rating": 5.764,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ypvlGBvm6p0EIvKCzJw0OqsuzK5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5iT6eAI64JJM8p0dL6EExaUvydg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u71bqlOye6doYBSfWdce7waZm5h.png",
+    "certificate": "R",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1081726",
+    "tmdbId": 1081726,
+    "type": "movie",
+    "title": "Bheed",
+    "overview": "8 hours, complete lockdown in the whole of India, movement shut and state borders sealed. Thousands of migrants without food, water and mode of transport were forced to return to their homes. A crisis that shook the whole nation, a time when borders of disparity divided the people and one man stood for humanity.",
+    "year": "2023",
+    "rating": 6.026,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sJ3uHEY9LLP0BpdPy0KlJzYnmkv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hxqc4x1Ifxf3DSzqtuEUDMIkSqN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n3VO0ivxD3V9prEostK3o49qO2B.png",
+    "certificate": null,
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1276013",
+    "tmdbId": 1276013,
+    "type": "movie",
+    "title": "Color Book",
+    "overview": "Following the passing of his wife, a devoted father is learning to raise his son with Down Syndrome as a single parent. While adjusting to their new reality, the two embark on a journey through Metro Atlanta to attend their first baseball game.",
+    "year": "2024",
+    "rating": 9.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wQEVvXJpJL5ixw63Ir4ESbx9RYW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zBXfCaN0YQMyQppccsEn3q04Ka4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6cJntQ1IdN54XCJPTN6jS1uizpR.png",
+    "certificate": null,
+    "runTimeMinutes": 98,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "655187",
+    "tmdbId": 655187,
+    "type": "movie",
+    "title": "Coven",
+    "overview": "French Basque Country, year 1609. The men of a small fishing village have gone to sea. Judge Rostegui, who has been charged by the king with ridding the country of the devil's wiles, arrests Ana and her friends and accuses them of witchcraft.",
+    "year": "2020",
+    "rating": 6.693,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lyB3yoQbGO3LiCVuSOD2g17Hr6p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rJfOjuaCbYFEoxYGqfr9xko0SdQ.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1074087",
+    "tmdbId": 1074087,
+    "type": "movie",
+    "title": "Daydreamers",
+    "overview": "Saigon, present day. Vampires, once predators of the night, are all but extinct. The few who remain cling to a desperate truce to not kill. But in the shadows, a brother's thirst awakens, igniting a dark desire that will pit him against his own kind, shattering the fragile peace and plunging the city into a bloody new era.",
+    "year": "2023",
+    "rating": 1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zDHqp9Fw4qmuxzikdLrUT8jYcq7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sgbVObPSN1K6oYODttYA8sre2eX.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 113,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "VN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "634304",
+    "tmdbId": 634304,
+    "type": "movie",
+    "title": "Do Paise Ki Dhoop, Chaar Aane Ki Baarish",
+    "overview": "When a sex worker hires a gay songwriter to care for her disabled son, the ensuing bonds that form offer a complex portrayal of love and family.",
+    "year": "2009",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kxQv7T28AXzDcZsGUOCLkuZAGbn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dn2rBUr4eYldhB3X6CO8lbXZLKp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mnt1STYVqwwRfnxtRfD6tX4rHH1.png",
+    "certificate": null,
+    "runTimeMinutes": 121,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "807023",
+    "tmdbId": 807023,
+    "type": "movie",
+    "title": "Door Mouse",
+    "overview": "A burlesque dancer with dreams of becoming a comic book artist investigates the disappearance of a close friend.",
+    "year": "2023",
+    "rating": 5.821,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7TwoFqLYjEXMqGbmlEzI8VEFSJj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ueLcWitnNtypa1fpyriDdG1EwSO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xs1zwyFA7IhhOocbkePYxs1BFLk.png",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "658777",
+    "tmdbId": 658777,
+    "type": "movie",
+    "title": "Freaks - You're One of Us",
+    "overview": "After having a chance encounter with a mysterious character, Wendy, a young working class mother, discovers that she has super powers.",
+    "year": "2020",
+    "rating": 5.669,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6xzEwXNllYKxhRFCtWzRaYdA6gD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q9lf5lt1QWAPVdPXckFOzCeFB07.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AjGY6bXiG8tL04JIdWwFMhbjKjj.png",
+    "certificate": "NC-17",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1376870",
+    "tmdbId": 1376870,
+    "type": "movie",
+    "title": "Humans in the Loop",
+    "overview": "An indigenous woman works as an AI data-labeler after returning to her village with her children, but soon questions the human bias in machine learning.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1RzvbwKwkNy5yzA48MGEbh21007.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jZhq6hMQDmP2GJaKFC90WoGG0jN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3WJ4SEXXpF0uN13cWPqGeG4RtDe.png",
+    "certificate": "NR",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1175343",
+    "tmdbId": 1175343,
+    "type": "movie",
+    "title": "Hurricane Season",
+    "overview": "When a group of teens finds a corpse floating in a canal, the brutal reality behind the perverse crime unravels a town's hidden secrets.",
+    "year": "2023",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1ASNdqwmwvBS8TnOouOENBZT53I.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/496gevKlhrx4RzjuW0HYJIIRPnq.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "582927",
+    "tmdbId": 582927,
+    "type": "movie",
+    "title": "I'm No Longer Here",
+    "overview": "In Monterrey, Mexico, a young street gang spends their days dancing to slowed-down cumbia and attending parties. After a mix-up with a local cartel, their leader is forced to migrate to the U.S. but quickly longs to return home.",
+    "year": "2019",
+    "rating": 7.858,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AtfK71xkVaaHTZwU5mgfDgBqg9Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wFSXN4CaDfmUURbEbghhK6m7WPI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/59N3H11CK6j0QbL6FQuWiSdb1wE.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "985687",
+    "tmdbId": 985687,
+    "type": "movie",
+    "title": "Inheritance",
+    "overview": "At dawn, Kelsey Akioka hikes out onto the Kalapana lava fields with a camera in hand and 80 lbs of gear on his back. We observe his methodical photography process amid one of nature’s most beautiful and chaotic events. Under the shade of a pop-up tent, he sells these photos at a small makeshift marketplace to apathetic tourists. By the end of the day, Kelsey returns home, exhausted and worn, to his son and elderly father. When he learns his friend is sacrificing his passion and moving away from home to pursue a better life for his family, Kelsey begins to question his own choices. As his frustrations spill into his home life, Kelsey must confront the turmoil stirring within him.",
+    "year": "2022",
+    "rating": 7.375,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hKuH6HbjokE2JbfQicq7XFtOLQm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8DpZt1LoH5YIHFoaiAfyBVnY9Gs.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 19,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "529481",
+    "tmdbId": 529481,
+    "type": "movie",
+    "title": "Invisible",
+    "overview": "When a student in a classroom provokes a young teacher, who has only started her career at a village school, it ashames and confuses her in front of the whole class. Coming back home, she cannot stop thinking of what has happened and for the first time in her life pushes herself to more and more new wild states. In order to cure her trauma, get rid of parent control, and to settle the situation with the student, she calls to her subconscious and it answers.",
+    "year": "2017",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/T0EOEzHHmeFKJa2pQb817SOq3O.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 17,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "UA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "606536",
+    "tmdbId": 606536,
+    "type": "movie",
+    "title": "Joy",
+    "overview": "A young girl named Joy is more than meets the eye...",
+    "year": "2019",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hN6UowcFc3c9VKwggbyGsAzpwch.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 8,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "713854",
+    "tmdbId": 713854,
+    "type": "movie",
+    "title": "Kappela",
+    "overview": "Falling into an over-the-phone romance with a rickshaw driver, a young woman visits his city when an encounter with a stranger derails their meeting.",
+    "year": "2020",
+    "rating": 6.283,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5e6yMw6ipz7DvLbtKAvHjbQAjHr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nH41REzItDOt5WlB6fD7sOeslYl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xiOVZKrhjqJzRwxeNWpYhzr4fwn.png",
+    "certificate": null,
+    "runTimeMinutes": 110,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78480",
+    "tmdbId": 78480,
+    "type": "movie",
+    "title": "Monsieur Lazhar",
+    "overview": "During a harsh Montréal winter, an elementary-school class is left reeling after its teacher commits suicide. Bachir Lazhar, a charismatic Algerian immigrant, steps in as the substitute teacher for the classroom of traumatized children. All the while, he must keep his personal life tucked away: the fact that he is seeking political refuge in Québec – and that he, like the children, has suffered an appalling loss.",
+    "year": "2011",
+    "rating": 7.192,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qcSXbOP1iv859kgQgqZ4Ib9yqKG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bMdKv4K2QgAStm0PLQIHNsgMpND.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "848298",
+    "tmdbId": 848298,
+    "type": "movie",
+    "title": "Noise",
+    "overview": "Shishikari is a remote island, which is behind the times. The island suffers from a decreasing population and declining industries. Keita Izumi (Tatsuya Fujiwara) begins to produce black fig on Shishikari Island. Because of his well received product, the island is close to receiving a 5 billion yen grant from the government, which is part of the goverment's policy to reinvigorate rural economy. The residents of the island are excited, but their peaceful days changes by the appearance of Mutsuo Komisaka.  Keita Izumi and his friends Jun Tanabe (Kenichi Matsuyama) and Rookie Police Officer Shinichiro Moriya are suspicious about him. One night, Keita Izumi's daughter goes missing. Due to that, Keita Izumi, Jun Tanabe and Shinichiro Moriya happen to kill Mutsuo Komisaka. They decide to hide Mutsuo Komisaka’s murder to protect the future of the island and their families. It turns out Mutsuo Komisaka was a psycho killer. Police officers come to Shishikari Island to catch Mutsuo Komisaka.",
+    "year": "2022",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/CwJUOPZwJAB5fpKplEjR2SAU8l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ykVxPUfcxqWePn1T46FBeanvc98.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/svQpXdCMTda31MPv2XXyC1q3voJ.png",
+    "certificate": null,
+    "runTimeMinutes": 128,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "114893",
+    "tmdbId": 114893,
+    "type": "show",
+    "title": "Paava Kadhaigal",
+    "overview": "At times dark, at times disturbing, four short films explore stories of those who dare to dream and desire — and those determined to stand in their way.",
+    "year": "2020",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4hnyOBnC3lJsU8h9hg2XtL29PFt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6vezQr3qUlTb2Jv11y351fHl4ND.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hmGwgiD0m9N53R3Z2pSEntbAtsM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "119237",
+    "tmdbId": 119237,
+    "type": "show",
+    "title": "Pitta Kathalu",
+    "overview": "Four different women, four journeys of love and betrayal. The common thread? They all want to dismantle the patriarchy.",
+    "year": "2021",
+    "rating": 4.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3yltvu4xxdLaYujjc3A0Omj8R6I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/apYa4WGxj5FQUvKwDfaJ0MR0IGy.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 38,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "530217",
+    "tmdbId": 530217,
+    "type": "movie",
+    "title": "R. K. Nagar",
+    "overview": "Things look up for a Chennai man struggling to make ends meet when he falls for a politician's daughter until he gets entangled in a murder case.",
+    "year": "2019",
+    "rating": 3.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tFZ4MgXyeEtyaxQmiB7E2DCT7pY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3f62rC72vmSk5rT9v4vtPzL0Ouq.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 133,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "934878",
+    "tmdbId": 934878,
+    "type": "movie",
+    "title": "Sherdil: The Pilibhit Saga",
+    "overview": "Inspired by the real events that took place in the Pilibhit Tiger Reserve where people used to leave their elderly family members for tigers to prey on, and then claim compensation from the administration, it is a story of Gangaram, a patriarch of a farmer family entrenched in poverty because of three consecutive failed monsoons. He enters the forests to adopt the infamous Tiger practice to give up his life so that his family can have two square meals, however, what follows next is a series of unprecedented events.",
+    "year": "2022",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aV7kHlayv6kfrhHyi31GCWjj0hz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y5bDHhXPp5aFRw6cWaTpzauVKPW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e0z6vrOOJfqel9j5DyAId8z4JsX.png",
+    "certificate": null,
+    "runTimeMinutes": 121,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "539036",
+    "tmdbId": 539036,
+    "type": "movie",
+    "title": "Soni",
+    "overview": "Soni, a young policewoman in Delhi, and her superintendent, Kalpana, have collectively taken on a growing crisis of violent crimes against women. However, their alliance suffers a major setback when Soni is transferred out for alleged misconduct on duty.",
+    "year": "2019",
+    "rating": 6.811,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gUczyiHIfi9kxme98T7yyIdyHFT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kxm79ZnWt44LTJrD5IxGqkzR2QN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/KOlCp0p69s5O38uCY1AaRgLtMc.png",
+    "certificate": null,
+    "runTimeMinutes": 97,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "553794",
+    "tmdbId": 553794,
+    "type": "movie",
+    "title": "Sonora: The Devil’s Highway",
+    "overview": "1931, a year of nationalisms and excesses: The Chinese are expelled from Sonora; the US deports Mexicans and closes its borders. Twelve desperate people cross the Sonoran desert in a 1929 Chrysler, hoping to find peace in Baja California. As their sojourn exposes both the best and the worst of human nature, racism, greed, and paranoia prove as deadly as the merciless landscape around them.",
+    "year": "2019",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4BJ1sxznBXp3K5BSUMEbrmQ0j1o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kIOFuwZveIScGp9nJHG9yMUBBEs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iuuEKLjGWZ2gAQxxO6OsJqH7wXd.png",
+    "certificate": null,
+    "runTimeMinutes": 95,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1058615",
+    "tmdbId": 1058615,
+    "type": "movie",
+    "title": "The Accidental Getaway Driver",
+    "overview": "During a routine pickup, an elderly Vietnamese cab driver is taken hostage by three recently escaped Orange County convicts. Based on a true story.",
+    "year": "2025",
+    "rating": 6.462,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1JpJK5nOQWBl6aaft1Tt1ymD3kK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/12IP1jQLj3r2rUvO8WJ7KGEFlCR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2obTpOlrjCUr4EJtLjPVDSqBUn6.png",
+    "certificate": null,
+    "runTimeMinutes": 102,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1208758",
+    "tmdbId": 1208758,
+    "type": "movie",
+    "title": "The Best Mother in the World",
+    "overview": "To escape her abusive husband, garbage collector Gal packs her two young children, Rihanna and Benin, onto the top of her cart and heads across São Paulo to her cousin’s house. As she struggles to avoid the dangers of the streets along the way, she convinces the children that they are on a big and exciting adventure. When they arrive at her cousin’s house, they are warmly welcomed and fed. However, what initially seems like a safe haven soon turns out to be a trap. Gal realises that not only her own safety is at risk, but also the future of her children.",
+    "year": "2025",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/p3NGx2xilIUtbgrvFpKdTq85Zjw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/boB2QNLb8dA8bpN7WiMR8bnXdwa.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 105,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "848112",
+    "tmdbId": 848112,
+    "type": "movie",
+    "title": "The Kings of the World",
+    "overview": "Rá, Culebro, Sere, Winny and Nano. Five boys who live on the streets of Medellín. Five kings with no kingdom, no law, no family, set out on a journey in search of the promised land. A subversive tale told through a wild and endearing clan, somewhere between reality and delirium. A journey to nowhere, where everything happens.",
+    "year": "2022",
+    "rating": 7.567,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iK46b6jYIKvaakp7qKt0BKexN53.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rkUAAoBXsqlegp8bLTLZSIsRZbg.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 111,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "209320",
+    "tmdbId": 209320,
+    "type": "movie",
+    "title": "The Land of Cards",
+    "overview": "A royal prince arrives on an island of fascist rule and inspires a rebellion among its women in this hallucinogenic adaptation of a classic play.",
+    "year": "2013",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2N8WtaHf8wwrUxa8TM3WgnqIzAf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f7cplOrOKDpV8wBov1yVevIzBTp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lWDSrg8N8BuGXJ4ZzjDPjPnVICg.png",
+    "certificate": null,
+    "runTimeMinutes": 110,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BD"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "637805",
+    "tmdbId": 637805,
+    "type": "movie",
+    "title": "Vikruthi",
+    "overview": "Mistaking the sleeping passenger on his train for a drunk, a young man posts a picture of him online, unaware of his impulsive act's ugly repercussions.",
+    "year": "2019",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lhyf1hRUXib411aUWtEARVvZb3z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/k2TBrH1rDY96NyxLds4vWBtfuOq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xod9bwYBCPPZsIy5143N4CGpSyR.png",
+    "certificate": null,
+    "runTimeMinutes": 123,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  }
+]

@@ -1,0 +1,808 @@
+[
+  {
+    "id": "530915",
+    "tmdbId": 530915,
+    "type": "movie",
+    "title": "1917",
+    "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+    "year": "2019",
+    "rating": 7.983,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wwSU87KF5cqBLI4ani5vOnYIErh.png",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49046",
+    "tmdbId": 49046,
+    "type": "movie",
+    "title": "All Quiet on the Western Front",
+    "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+    "year": "2022",
+    "rating": 7.743,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xBwtP27cx8WfjHJVFkpuV6F1RES.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cydjZX9RKXj7Xi6pBGw7MmclZGU.png",
+    "certificate": "R",
+    "runTimeMinutes": 147,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329865",
+    "tmdbId": 329865,
+    "type": "movie",
+    "title": "Arrival",
+    "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "year": "2016",
+    "rating": 7.633,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "573435",
+    "tmdbId": 573435,
+    "type": "movie",
+    "title": "Bad Boys: Ride or Die",
+    "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+    "year": "2024",
+    "rating": 7.312,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A38YMEsKLrPftHlNABasQR1uj1R.svg",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "197",
+    "tmdbId": 197,
+    "type": "movie",
+    "title": "Braveheart",
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "year": "1995",
+    "rating": 7.945,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qkh7u6JaZaj5ZI3pZBsQaBSoIjy.png",
+    "certificate": "R",
+    "runTimeMinutes": 178,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "524",
+    "tmdbId": 524,
+    "type": "movie",
+    "title": "Casino",
+    "overview": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+    "year": "1995",
+    "rating": 7.999,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uMZHu14lCEx5bjV2Sak87yO0OhB.png",
+    "certificate": "R",
+    "runTimeMinutes": 179,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538",
+    "tmdbId": 1538,
+    "type": "movie",
+    "title": "Collateral",
+    "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+    "year": "2004",
+    "rating": 7.249,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9w4gPo5pgmXfdJjEOBD55p1O35i.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68718",
+    "tmdbId": 68718,
+    "type": "movie",
+    "title": "Django Unchained",
+    "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "year": "2012",
+    "rating": 8.193,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
+    "certificate": "R",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "646380",
+    "tmdbId": 646380,
+    "type": "movie",
+    "title": "Don't Look Up",
+    "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+    "year": "2021",
+    "rating": 7.057,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eYgCFNcx04Hji4VrZDDtcOh6LNE.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13",
+    "tmdbId": 13,
+    "type": "movie",
+    "title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "year": "1994",
+    "rating": 8.463,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/as10mpHSWebQVXwMbwQfWYfR27F.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 142,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1062722",
+    "tmdbId": 1062722,
+    "type": "movie",
+    "title": "Frankenstein",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "year": "2025",
+    "rating": 7.618,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AjgdfuPzZdqCEH6qxPqRXtmYFDZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "3131",
+    "tmdbId": 3131,
+    "type": "movie",
+    "title": "Gangs of New York",
+    "overview": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+    "year": "2002",
+    "rating": 7.319,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p8yXQse3IDZiwEjWRHda3EzDQjA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/auC8r39WsZBOFXlGBzxKQWrjDs4.png",
+    "certificate": "R",
+    "runTimeMinutes": 168,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "803796",
+    "tmdbId": 803796,
+    "type": "movie",
+    "title": "KPop Demon Hunters",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "year": "2025",
+    "rating": 8.002,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mzHotrzOHHvGN4B8fyVQ55h7Z25.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "76341",
+    "tmdbId": 76341,
+    "type": "movie",
+    "title": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "year": "2015",
+    "rating": 7.637,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cBAO0i9fZCux5SqJnizRECS8qfU.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "AU",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77",
+    "tmdbId": 77,
+    "type": "movie",
+    "title": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "year": "2000",
+    "rating": 8.174,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "792",
+    "tmdbId": 792,
+    "type": "movie",
+    "title": "Platoon",
+    "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "year": "1986",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q4A2A7h9HsKKBfTxESAdc2N4hVg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/104cnXJEg5405iAVQj3m5Id1LZZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4348",
+    "tmdbId": 4348,
+    "type": "movie",
+    "title": "Pride & Prejudice",
+    "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+    "year": "2005",
+    "rating": 8.054,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vuyRQbu5GHZcZ1Ky6SXLjO0QHnb.png",
+    "certificate": "PG",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1592",
+    "tmdbId": 1592,
+    "type": "movie",
+    "title": "Primal Fear",
+    "overview": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+    "year": "1996",
+    "rating": 7.66,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dZM71rHXh3Oo3WZlw8YpMMsoVB5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6SRkTyAD0bXdWA1JepAi3KAJlp0.png",
+    "certificate": "R",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "646097",
+    "tmdbId": 646097,
+    "type": "movie",
+    "title": "Rebel Ridge",
+    "overview": "A former Marine confronts corruption in a small town when local law enforcement unjustly seizes the bag of cash he needs to post his cousin's bail.",
+    "year": "2024",
+    "rating": 6.967,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hkaOa76w0S5zsgjPiomUWzwjyYC.png",
+    "certificate": "R",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10528",
+    "tmdbId": 10528,
+    "type": "movie",
+    "title": "Sherlock Holmes",
+    "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+    "year": "2009",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fuVkbIGbx8AMPnMxCPfSDMwXH8i.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "808",
+    "tmdbId": 808,
+    "type": "movie",
+    "title": "Shrek",
+    "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "year": "2001",
+    "rating": 7.778,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aHdDXMXOAgejOVoupZBULvcfcQG.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "906126",
+    "tmdbId": 906126,
+    "type": "movie",
+    "title": "Society of the Snow",
+    "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+    "year": "2023",
+    "rating": 7.968,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2e853FDVSIso600RqAMunPxiZjq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3PVk5gmcRmJ3Jq1CxR1YeX07W4m.png",
+    "certificate": "R",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "569094",
+    "tmdbId": 569094,
+    "type": "movie",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "year": "2023",
+    "rating": 8.347,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
+    "certificate": "PG",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "324857",
+    "tmdbId": 324857,
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "year": "2018",
+    "rating": 8.399,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
+    "certificate": "PG",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10860",
+    "tmdbId": 10860,
+    "type": "movie",
+    "title": "Steel Magnolias",
+    "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
+    "year": "1989",
+    "rating": 7.17,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mDu7YhtsSOcrtWyGzveERmmRDTn.png",
+    "certificate": "PG",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "537996",
+    "tmdbId": 537996,
+    "type": "movie",
+    "title": "The Ballad of Buster Scruggs",
+    "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+    "year": "2018",
+    "rating": 7.134,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i3YtcfDTEh7tINVHCl1JSesW4TL.png",
+    "certificate": "R",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "155",
+    "tmdbId": 155,
+    "type": "movie",
+    "title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "year": "2008",
+    "rating": 8.534,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 152,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49026",
+    "tmdbId": 49026,
+    "type": "movie",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "year": "2012",
+    "rating": 7.797,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18",
+    "tmdbId": 18,
+    "type": "movie",
+    "title": "The Fifth Element",
+    "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+    "year": "1997",
+    "rating": 7.59,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/msVBaxnGvE57AOLDvFDVpaIZqaV.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "633515",
+    "tmdbId": 633515,
+    "type": "movie",
+    "title": "The Forgotten Battle",
+    "overview": "During WWII's crucial Battle of the Scheldt, the lives of a glider pilot, a Nazi soldier and a reluctant Resistance recruit tragically intersect.",
+    "year": "2021",
+    "rating": 7.096,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qmCCXB6fn1Sjztm4t56Xviw0uDI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hJUljtL7HQ794yk6XAJthhyc5He.png",
+    "certificate": "R",
+    "runTimeMinutes": 126,
+    "primaryGenre": "War",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "NL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "64682",
+    "tmdbId": 64682,
+    "type": "movie",
+    "title": "The Great Gatsby",
+    "overview": "Nick Carraway arrives in New York in 1922, an era of loose morals, glittering jazz and bootleg kings. Chasing his own American Dream, Nick encounters the mysterious millionaire Gatsby and his bewitching cousin Daisy. Soon, Nick is drawn into the captivating world of the super-rich, their illusions, loves and deceits. Bearing witness to this new world, Nick pens a tale of impossible love, incorruptible dreams and unforgettable tragedy -- mirroring our own times and struggles.​",
+    "year": "2013",
+    "rating": 7.347,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j9NGh8z7v2mLpGKkvUAHox81bqi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyuA1KnohLENvWSReLb7gu88DNy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "273248",
+    "tmdbId": 273248,
+    "type": "movie",
+    "title": "The Hateful Eight",
+    "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+    "year": "2015",
+    "rating": 7.757,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dhkWUiFU6wvwkVhwKae5FO57AP6.png",
+    "certificate": "R",
+    "runTimeMinutes": 188,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "504949",
+    "tmdbId": 504949,
+    "type": "movie",
+    "title": "The King",
+    "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
+    "year": "2019",
+    "rating": 7.157,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nOqsmE2tdTDhq4bYawNrtwnpB9a.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rhXrloIPTfR9c0M4TUjGXD49MWV.png",
+    "certificate": "R",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "HU",
+      "AU",
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "619264",
+    "tmdbId": 619264,
+    "type": "movie",
+    "title": "The Platform",
+    "overview": "A slab of food descends down a vertical facility. The residents above eat heartily, leaving those below starving and desperate. A rebellion is imminent.",
+    "year": "2019",
+    "rating": 6.965,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s0eF5zmI7B9Cq1eakqJi4URKFuG.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1402",
+    "tmdbId": 1402,
+    "type": "movie",
+    "title": "The Pursuit of Happyness",
+    "overview": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "year": "2006",
+    "rating": 7.884,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zHNlrkRUUeDoKPWekjQikb3gMPC.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37799",
+    "tmdbId": 37799,
+    "type": "movie",
+    "title": "The Social Network",
+    "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+    "year": "2010",
+    "rating": 7.376,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "23168",
+    "tmdbId": 23168,
+    "type": "movie",
+    "title": "The Town",
+    "overview": "A proficient group of thieves rob a bank and hold the manager hostage. Things begin to get complicated when one of the crew members falls in love with her.",
+    "year": "2010",
+    "rating": 7.226,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6hgAWJdjRO9AVbE3NhubDQLCz1I.png",
+    "certificate": "R",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "597",
+    "tmdbId": 597,
+    "type": "movie",
+    "title": "Titanic",
+    "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "year": "1997",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 194,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1241983",
+    "tmdbId": 1241983,
+    "type": "movie",
+    "title": "Train Dreams",
+    "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+    "year": "2025",
+    "rating": 7.318,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jnaOmD9PmAkNjgVtCn17o7clOYe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fGMX5T1D4FWagJIRXFP31Mc0ThR.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "473033",
+    "tmdbId": 473033,
+    "type": "movie",
+    "title": "Uncut Gems",
+    "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+    "year": "2019",
+    "rating": 7.17,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hiF1jRHALkH8WzynYVURoNXQX6T.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

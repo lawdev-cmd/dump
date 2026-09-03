@@ -1,0 +1,806 @@
+[
+  {
+    "id": "614696",
+    "tmdbId": 614696,
+    "type": "movie",
+    "title": "#Alive",
+    "overview": "As a grisly virus rampages a city, a lone man stays locked inside his apartment, digitally cut off from seeking help and desperate to find a way out.",
+    "year": "2020",
+    "rating": 7.201,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lZPvLUMYEPLTE2df1VW5FHTYC8N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/k2SY15W9QXH9qL8f4a4BbytV1BE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nAJhLVWWEe6iHY5hDTq0P8F2S7V.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1616131",
+    "tmdbId": 1616131,
+    "type": "movie",
+    "title": "A Child of My Own",
+    "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
+    "year": "2026",
+    "rating": 8.422,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "836009",
+    "tmdbId": 836009,
+    "type": "movie",
+    "title": "Against the Ice",
+    "overview": "In 1909, two explorers fight to survive after they're left behind while on a Danish expedition in ice-covered Greenland.",
+    "year": "2022",
+    "rating": 6.765,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bnMKMhGJuvELSjRp8KpkuDsBDw2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ns8gyZUN9hhRORUk12ALOKiU62u.png",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "DK",
+      "IS"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1098110",
+    "tmdbId": 1098110,
+    "type": "movie",
+    "title": "Blood & Gold",
+    "overview": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+    "year": "2023",
+    "rating": 6.64,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "760883",
+    "tmdbId": 760883,
+    "type": "movie",
+    "title": "Blood Red Sky",
+    "overview": "A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.",
+    "year": "2021",
+    "rating": 6.771,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s15olg5LwRqTjgDd5KIfVXhcoqs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gQSekp1daplahrhDEsQCpOdZg93.png",
+    "certificate": null,
+    "runTimeMinutes": 123,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "DE",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1425045",
+    "tmdbId": 1425045,
+    "type": "movie",
+    "title": "Brick",
+    "overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+    "year": "2025",
+    "rating": 5.804,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r7CczOJL0AL1hwHzWnga2roZcNM.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1356039",
+    "tmdbId": 1356039,
+    "type": "movie",
+    "title": "Counterattack",
+    "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
+    "year": "2025",
+    "rating": 8.267,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/38I76hGcFY6xB47pjm7pZwkfuAF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x4XNYmknLosDwfwuCbEzuuXYXFj.png",
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1668364",
+    "tmdbId": 1668364,
+    "type": "movie",
+    "title": "Desire",
+    "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+    "year": "2026",
+    "rating": 6.762,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1G8vzunHvNWnxwc91u51dgZ6z6q.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "MX",
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1487861",
+    "tmdbId": 1487861,
+    "type": "movie",
+    "title": "Elize: Shadows of a Woman",
+    "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+    "year": "2026",
+    "rating": 7.464,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7XcxMZaBESAdQuZAdDp2b3UCSo1.png",
+    "certificate": "R",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1233069",
+    "tmdbId": 1233069,
+    "type": "movie",
+    "title": "Exterritorial",
+    "overview": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him — and uncovers a dark conspiracy.",
+    "year": "2025",
+    "rating": 6.599,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/micQGmD3K7Ni0wzyaSgBKGxrFWn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/14UFWFJsGeInCbhTiehRLTff4Yx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/10cDOKNwMe5HnItZwebth15Dg6U.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "AT",
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1300116",
+    "tmdbId": 1300116,
+    "type": "movie",
+    "title": "Fall for Me",
+    "overview": "Lilli is suspicious of her sister's new fiance, but when an attractive stranger enters her life, she's suddenly distracted by the thralls of desire.",
+    "year": "2025",
+    "rating": 6.14,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mduZ3YRKele4rHhrse7b7B3d44b.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xd7YqovQSLBY7dbptsz2bPgL0ym.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ixEFa4CZdQAY0TmEUtOD2bj284C.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "890980",
+    "tmdbId": 890980,
+    "type": "movie",
+    "title": "God's Crooked Lines",
+    "overview": "Alice Gould, a private investigator, pretends to be mentally ill in order to enter a psychiatric hospital and gather evidence for the case she is working on: the death of a patient in unclear circumstances.",
+    "year": "2022",
+    "rating": 7.296,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n3X9tWYFYfE96BoNgtVffuwzQo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dtXcuwF1uUi9m0VVfEGEa7GpDzX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/trWTCnu0u7t7AMyyIHMgpKSGfW0.png",
+    "certificate": null,
+    "runTimeMinutes": 155,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1484913",
+    "tmdbId": 1484913,
+    "type": "movie",
+    "title": "Ikka",
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+    "year": "2026",
+    "rating": 5.738,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "864370",
+    "tmdbId": 864370,
+    "type": "movie",
+    "title": "Incantation",
+    "overview": "Inspired by the true story of a family who believed they were possessed by spirits. This film follows a woman who must protect her child from a curse.",
+    "year": "2022",
+    "rating": 6.835,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cWz28oGV3cSajWdziVQbqrYCmnX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vqEX1uF3Spl12rOACQ3gJ6j4MSR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kn9heloY8dQ8isTDgcFvBK3ZxbE.png",
+    "certificate": null,
+    "runTimeMinutes": 111,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TW"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1450599",
+    "tmdbId": 1450599,
+    "type": "movie",
+    "title": "K.O.",
+    "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rU9kRB3rBU5O7AMReZCiuIy7zmE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qXIHcpVXLNmGZhf0k5SLBMiezl7.png",
+    "certificate": "R",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1628367",
+    "tmdbId": 1628367,
+    "type": "movie",
+    "title": "Kartavya",
+    "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3uDyPIGNZ6OxGPaFgGs47JhNUuK.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 109,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "618219",
+    "tmdbId": 618219,
+    "type": "movie",
+    "title": "Mosul",
+    "overview": "When ISIS took their homes, families and city, one group of men fought to take it all back. Based on true events, this is the story of the Nineveh SWAT team, a renegade police unit who waged a guerrilla operation against ISIS in a desperate struggle to save their home city of Mosul.",
+    "year": "2019",
+    "rating": 6.688,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dW1UNgDkVNreqYJk1YKo4ACa705.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hBPV18ocvkYbiD9kOJRgorPo5O8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wREgNBIytrJAx1fNOJjWsqIxpjM.png",
+    "certificate": null,
+    "runTimeMinutes": 102,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "873126",
+    "tmdbId": 873126,
+    "type": "movie",
+    "title": "My Name Is Vendetta",
+    "overview": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+    "year": "2022",
+    "rating": 6.613,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7l3war94J4tRyWUiLAGokr3ViF2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3WwqXEdDtA81iMJcEVYmxqVD3bD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o3r3YuEm5KAXzCszjKextvdCB2j.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "682110",
+    "tmdbId": 682110,
+    "type": "movie",
+    "title": "My Octopus Teacher",
+    "overview": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+    "year": "2020",
+    "rating": 7.893,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sW7VOrkHKYIeV9PaYc5IqGU2XK8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6m7VG0TMuxI9t7rGCXrVsZK6V32.png",
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ZA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1487864",
+    "tmdbId": 1487864,
+    "type": "movie",
+    "title": "Nando Between Two Worlds - A Sintonia Film",
+    "overview": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
+    "year": "2026",
+    "rating": 6.159,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/opHyOusJmAXbuQqn0RCSJxmMbkM.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "619930",
+    "tmdbId": 619930,
+    "type": "movie",
+    "title": "Narvik",
+    "overview": "April, 1940. The eyes of the world are on Narvik, a small town in northern Norway, a source of the iron ore needed for Hitler's war machine. Through two months of fierce winter warfare, the German leader is dealt with his first defeat.",
+    "year": "2022",
+    "rating": 6.769,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iTqTgxTNs1AIaSmxh0zD3RMaFNn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ogFIG0fNXEYRQKrpnoRJcXQNX9n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AoYpYDynhlGfrjedrIH1tWA7mTY.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1151534",
+    "tmdbId": 1151534,
+    "type": "movie",
+    "title": "Nowhere",
+    "overview": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
+    "year": "2023",
+    "rating": 7.311,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lncg31XDBdfYxrOnhrzVAUw8geT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lUIAlOzNVKunMHo7lFDqH8eGsWK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2SZsT2CSGvvTQa9l4lXl6zmP2f5.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1222248",
+    "tmdbId": 1222248,
+    "type": "movie",
+    "title": "Number 24",
+    "overview": "On the brink of the Second World War, a young Norwegian man's drive to resist the Nazis sets a new course for his future – and the future of his country.",
+    "year": "2024",
+    "rating": 7.147,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8r4Fk4GZMPZGRBjxFJsZjJICj0O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6ZPoWuoRhrZrSNSyh4bBBk4grmM.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "War",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538273",
+    "tmdbId": 1538273,
+    "type": "movie",
+    "title": "Pyaar Prema Kalyanam",
+    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+    "year": "2026",
+    "rating": 7.318,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "906126",
+    "tmdbId": 906126,
+    "type": "movie",
+    "title": "Society of the Snow",
+    "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+    "year": "2023",
+    "rating": 7.968,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2e853FDVSIso600RqAMunPxiZjq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3PVk5gmcRmJ3Jq1CxR1YeX07W4m.png",
+    "certificate": "R",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1443762",
+    "tmdbId": 1443762,
+    "type": "movie",
+    "title": "The Big Fake",
+    "overview": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere — from art galleries to state secrets. Between art, crime, and power, his signature ends up everywhere — even in the history of Italy.",
+    "year": "2025",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ebUoDUC0UWcxQriN6dhB1OhpHbk.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1678844",
+    "tmdbId": 1678844,
+    "type": "movie",
+    "title": "The Bus: A French Football Mutiny",
+    "overview": "This documentary revisits the French football team's controversial 2010 World Cup and the bus strike that sparked global headlines and national outrage.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dTEbfFiaYupyhgFg9ZC4NpH5p8G.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1630409",
+    "tmdbId": 1630409,
+    "type": "movie",
+    "title": "The Debt Collector",
+    "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
+    "year": "2026",
+    "rating": 7.956,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Aer1wKtqg0xo92g8UiVY6NcKBNV.png",
+    "certificate": "R",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1306525",
+    "tmdbId": 1306525,
+    "type": "movie",
+    "title": "The Elixir",
+    "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+    "year": "2025",
+    "rating": 5.955,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A6aJLPhtmin9ZTWC2h7dnrMHU4z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7TlUXPp8mMyPfc8tDyhvHCq7RxB.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "982843",
+    "tmdbId": 982843,
+    "type": "movie",
+    "title": "The Great Flood",
+    "overview": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape — and the future of humanity — on the line.",
+    "year": "2025",
+    "rating": 5.983,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/218MafWtM9XpPRuNdh0uhrNezi5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAd2x7N82EDUoOM52hl0K4TPgxH.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1756450",
+    "tmdbId": 1756450,
+    "type": "movie",
+    "title": "The Last Salute",
+    "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vcwG27XxJ7adAOfYiON8IjPUfSX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nBi3xDc9psoSVt5aN87fEKDHrgh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wTOyKsHYnRVGYXacbwCf6v1fbJ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1372665",
+    "tmdbId": 1372665,
+    "type": "movie",
+    "title": "The Lost Children",
+    "overview": "After a plane crash, four indigenous children fight to survive in the Colombian Amazon using ancestral wisdom as an unprecedented rescue mission unfolds.",
+    "year": "2024",
+    "rating": 7.442,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5Te2bKuSyVkqt0m2GdSueU4dfCZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z0v2QdZq4I61xt8mBlxKRyoOGqm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d9qGjXc3qILIuc9oBZwpvQVzhFG.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1274706",
+    "tmdbId": 1274706,
+    "type": "movie",
+    "title": "The Marked Woman",
+    "overview": "When a woman is found in a shipping container with no memory of who she is, two detectives race to figure out her identity — and who wants her dead.",
+    "year": "2026",
+    "rating": 5.601,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jgWVRZpjSRpkYcbPVTs95EYKxka.png",
+    "certificate": null,
+    "runTimeMinutes": 109,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1125510",
+    "tmdbId": 1125510,
+    "type": "movie",
+    "title": "The Platform 2",
+    "overview": "After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
+    "year": "2024",
+    "rating": 5.566,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nt9EMzwS58rRxJFZQTiqadga8rn.png",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1632473",
+    "tmdbId": 1632473,
+    "type": "movie",
+    "title": "This, That, and Everything in Between",
+    "overview": "A TV writer returns home to her estranged mother, igniting chaos as they navigate painful secrets and the  complexities of their dysfunctional family.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mgBckZyFrAvtAxyjTAuR4WO4gQn.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1588838",
+    "tmdbId": 1588838,
+    "type": "movie",
+    "title": "To the Max",
+    "overview": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.",
+    "year": "2026",
+    "rating": 6.24,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2vYgm6NdVCK8EXEQpjgM8tUi335.png",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "736526",
+    "tmdbId": 736526,
+    "type": "movie",
+    "title": "Troll",
+    "overview": "When an explosion in the Norwegian mountains awakens an ancient troll, officials appoint a fearless paleontologist to stop it from wreaking deadly havoc.",
+    "year": "2022",
+    "rating": 6.556,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ulgKdif3ubMACDltr8VZy6fyVjW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ml2Nl1JzWV0WlniVuF5YLrYt1ot.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1180831",
+    "tmdbId": 1180831,
+    "type": "movie",
+    "title": "Troll 2",
+    "overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
+    "year": "2025",
+    "rating": 6.337,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4KqM8LVdcstHEekNS48deb4mTPu.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1001311",
+    "tmdbId": 1001311,
+    "type": "movie",
+    "title": "Under Paris",
+    "overview": "In order to save Paris from an international bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.",
+    "year": "2024",
+    "rating": 5.925,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6U3kqBTVffeLLOUlofZkMExnK3b.png",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1075676",
+    "tmdbId": 1075676,
+    "type": "movie",
+    "title": "Uprising",
+    "overview": "In the Joseon Dynasty, two friends who grew up together — one the master and one the servant — reunite post-war as enemies on opposing sides.",
+    "year": "2024",
+    "rating": 6.993,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qcHOh5PoygMtPbhpeBC0VUNNtAp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ipOiTCqAe97vlYQ8L6D0wSdpV7n.png",
+    "certificate": "R",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  }
+]

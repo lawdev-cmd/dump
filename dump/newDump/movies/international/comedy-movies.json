@@ -1,0 +1,803 @@
+[
+  {
+    "id": "1589891",
+    "tmdbId": 1589891,
+    "type": "movie",
+    "title": "A Time for Bravery",
+    "overview": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances.",
+    "year": "2025",
+    "rating": 7.527,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iTMZjiYGERKlgS6TqLNFHQ8Bqdn.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "194",
+    "tmdbId": 194,
+    "type": "movie",
+    "title": "Amélie",
+    "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+    "year": "2001",
+    "rating": 7.92,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pIjwwbSgqq6sMbL0Umr7zKmEEUF.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "643215",
+    "tmdbId": 643215,
+    "type": "movie",
+    "title": "Asterix & Obelix: The Middle Kingdom",
+    "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+    "year": "2023",
+    "rating": 4.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vsRhZCmZFYYgrfqK54temfuDlBJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "348892",
+    "tmdbId": 348892,
+    "type": "movie",
+    "title": "Bajrangi Bhaijaan",
+    "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+    "year": "2015",
+    "rating": 7.816,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 159,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1576369",
+    "tmdbId": 1576369,
+    "type": "movie",
+    "title": "Bharathanatyam 2 Mohiniyattam",
+    "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lRwpPTooKLDqT8Lgh3VYc9vv6fM.png",
+    "certificate": null,
+    "runTimeMinutes": 145,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1239134",
+    "tmdbId": 1239134,
+    "type": "movie",
+    "title": "Bhooth Bangla",
+    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+    "year": "2026",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v6gE3UvQhM2SiNlltJYpc38cikD.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 163,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1510688",
+    "tmdbId": 1510688,
+    "type": "movie",
+    "title": "Call Me Mother",
+    "overview": "Twinkle is a single queer mother whose dream of officially adopting her son gets shaken when the boy's biological mother, Mara, unexpectedly reappears.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kMc1VvhyRdK9w43jaurzfxmnH4x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1u9fonjCh0pjoJGSVV9g7Nc0PBD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gw6cdhfXjUOn1llwzbiVm5tpho8.png",
+    "certificate": null,
+    "runTimeMinutes": 120,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1277988",
+    "tmdbId": 1277988,
+    "type": "movie",
+    "title": "Caramelo",
+    "overview": "After a life-changing diagnosis, a promising chef finds hope and humor with the help of a fur-midable dog friend.",
+    "year": "2025",
+    "rating": 7.74,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/c4ZEAah5a01cu27w7vT2IAoFogk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wBV11KLQcp5pyxl8JW1lBaDshqr.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "205022",
+    "tmdbId": 205022,
+    "type": "movie",
+    "title": "Chennai Express",
+    "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
+    "year": "2013",
+    "rating": 6.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9j7XfhBJKNfidMCa8JsNbqU1waV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8u7dfVGGBcGrk1nCu55X5RqImwv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Ch5mF02b7uu9OX38NjpQhQIjfQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1392469",
+    "tmdbId": 1392469,
+    "type": "movie",
+    "title": "Cocktail 2",
+    "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
+    "year": "2026",
+    "rating": 5.776,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gSW7GIQcAa7Pbhp8N8mSGAWP5ln.png",
+    "certificate": null,
+    "runTimeMinutes": 150,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1596008",
+    "tmdbId": 1596008,
+    "type": "movie",
+    "title": "Con City",
+    "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+    "year": "2026",
+    "rating": 5.333,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yzOKIWsCCb7yKQSJOaMMnuVfzzA.png",
+    "certificate": null,
+    "runTimeMinutes": 150,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1045931",
+    "tmdbId": 1045931,
+    "type": "movie",
+    "title": "Crew",
+    "overview": "Three ordinary air hostesses from Mumbai embark on a journey to pursue their dreams but find themselves caught up in unexpected misfortunes.",
+    "year": "2024",
+    "rating": 6.774,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8mnCtQngfhYt0W0BmkrCePutmvy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fAMUZbFs9tDqOCzqaa7tTEoqQwG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bkCbZSMjBbGgvwKlI8MDAt4XO5q.png",
+    "certificate": null,
+    "runTimeMinutes": 124,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1464795",
+    "tmdbId": 1464795,
+    "type": "movie",
+    "title": "Daadi Ki Shaadi",
+    "overview": "A grandmother’s mishap with a social media post causes consternation amongst her children and threatens the prospect of her granddaughter’s wedding.",
+    "year": "2026",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4QTWMWtrBkN5PdsL4XX5Pp27VIO.jpg",
+    "logoUrl": null,
+    "certificate": "PG",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "801526",
+    "tmdbId": 801526,
+    "type": "movie",
+    "title": "Darlings",
+    "overview": "Badru hopes her volatile husband will reform if he stops drinking. But when his rage goes too far, she and her mom boldly, albeit clumsily, seek revenge.",
+    "year": "2022",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uBDbyoufp7TGaDDVTHOCxl3dz8p.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ySQOoPSUvFI7cMmLvN1WEbUON0b.png",
+    "certificate": null,
+    "runTimeMinutes": 134,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1214835",
+    "tmdbId": 1214835,
+    "type": "movie",
+    "title": "De De Pyaar De 2",
+    "overview": "When Ashish meets his girlfriend's parents for the first time, their age difference sparks outrage and a madcap plot to drive him out of her life.",
+    "year": "2025",
+    "rating": 6.667,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oH6Pan7upyAPY8sGSJ1WmYmTcuL.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "19404",
+    "tmdbId": 19404,
+    "type": "movie",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+    "year": "1995",
+    "rating": 8.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2y2BbO3udAS9Zfzya3ifqUn7JUh.png",
+    "certificate": "PG",
+    "runTimeMinutes": 190,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1241693",
+    "tmdbId": 1241693,
+    "type": "movie",
+    "title": "Do Deewane Seher Mein",
+    "overview": "Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
+    "year": "2026",
+    "rating": 6.353,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/p8yPjT9NAH87oD9TedclRaAW7RY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tAh0dkZiOSICkRlv9wXOsvcNl4s.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ArWRoZlNYZycspcxmW991YtxtOQ.png",
+    "certificate": null,
+    "runTimeMinutes": 137,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1321108",
+    "tmdbId": 1321108,
+    "type": "movie",
+    "title": "Dude",
+    "overview": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
+    "year": "2025",
+    "rating": 5.51,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oLUbL4RtynlTtKd1byseeOCkIZO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kDRkOFPkjYjubhiIcvurBKuLSRI.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1289888",
+    "tmdbId": 1289888,
+    "type": "movie",
+    "title": "French Lover",
+    "overview": "When a jaded actor meets a down-on-her-luck waitress in Paris, their unexpected love story begins — but will it survive the glare of the spotlight?",
+    "year": "2025",
+    "rating": 6.036,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bLqPpqNoKbNbXysIeft1tLIl6KB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dAugDqF8YgbEUTaUt87GXFMcQ1J.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1509599",
+    "tmdbId": 1509599,
+    "type": "movie",
+    "title": "Gatta Kusthi 2",
+    "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+    "year": "2026",
+    "rating": 4.929,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jOM46KdTUsBDQ93USngmQrgm56z.png",
+    "certificate": null,
+    "runTimeMinutes": 153,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1418582",
+    "tmdbId": 1418582,
+    "type": "movie",
+    "title": "Here the Whole Time",
+    "overview": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his house. The days that promised peace, tranquility and epic series marathons end up bringing a whirlwind of feelings and unresolved issues.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3dDM4ljvtidqt6JPYaI17NkOinr.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1432631",
+    "tmdbId": 1432631,
+    "type": "movie",
+    "title": "Idhayam Murali",
+    "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+    "year": "2026",
+    "rating": 6.889,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aeI0gsEH4DReeQtBnBhAIyiFCJQ.png",
+    "certificate": null,
+    "runTimeMinutes": 164,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1015981",
+    "tmdbId": 1015981,
+    "type": "movie",
+    "title": "Jolly LLB 3",
+    "overview": "The third part of the Jolly LLB trilogy brings back Jagdish Tyagi and Jagdishwar Mishra for the biggest face-off as penurious widow Janki Devi Solanki awaits justice against business tycoon Haribhai Khaitan in a satire on the judiciary, justice and the gulf between the privileged and the people on the other side of the spectrum.",
+    "year": "2025",
+    "rating": 6.531,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bwRoU9p5GvjxgPfmIgsfcJ4ydng.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gC1kJpDPtaogbq7N543si20jC0w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kGLKPbpsPpHPDuy8jnwCnTlbUES.png",
+    "certificate": null,
+    "runTimeMinutes": 156,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4254",
+    "tmdbId": 4254,
+    "type": "movie",
+    "title": "Kal Ho Naa Ho",
+    "overview": "An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away.",
+    "year": "2003",
+    "rating": 7.467,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rTELwIG56mizXNT9Q27fVA2e7uh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7DnwtbWhjwI643PGQGVIVOhDsDR.png",
+    "certificate": "PG",
+    "runTimeMinutes": 187,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11854",
+    "tmdbId": 11854,
+    "type": "movie",
+    "title": "Kuch Kuch Hota Hai",
+    "overview": "Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him.",
+    "year": "1998",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iQJZMLr5cdn7Al2Av4V1VEzPDoQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bh7Ie29qrvs0xnNYpj4m5cmg8yZ.png",
+    "certificate": null,
+    "runTimeMinutes": 185,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1163194",
+    "tmdbId": 1163194,
+    "type": "movie",
+    "title": "Lost Ladies",
+    "overview": "In 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they both encounter a host of colourful characters, resulting in hilarious and unexpected consequences.",
+    "year": "2024",
+    "rating": 7.805,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uUVXEEyMsyWxrcbmAppUCYg6egV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a7XPdZ9za4kjj5lwwWu5Ks86rso.png",
+    "certificate": null,
+    "runTimeMinutes": 123,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1628448",
+    "tmdbId": 1628448,
+    "type": "movie",
+    "title": "Maa Behen",
+    "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+    "year": "2026",
+    "rating": 6.864,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/At7vP9xASadWdVkFPeASawtGAMt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aV5YOTVTnO2wYcN2AlNbdgnBYpb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2pcbHCaZWqTrZrwvr7lGDBiC8i1.png",
+    "certificate": null,
+    "runTimeMinutes": 127,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14134",
+    "tmdbId": 14134,
+    "type": "movie",
+    "title": "Main Hoon Na",
+    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+    "year": "2004",
+    "rating": 6.624,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
+    "certificate": "PG",
+    "runTimeMinutes": 179,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1530510",
+    "tmdbId": 1530510,
+    "type": "movie",
+    "title": "Mexico 86",
+    "overview": "When a last-minute chance to host the 1986 World Cup appears, a cunning Mexican bureaucrat, armed with nothing but guts and audacity, cons his way through FIFA to beat the United States, but in a country of power games, every victory has a price.",
+    "year": "2026",
+    "rating": 7.848,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5Dkv39CuytJDnJeZjkepFtOWqBr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/z9hpvH8fSfpTLxB4zEralCP0g2M.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1589248",
+    "tmdbId": 1589248,
+    "type": "movie",
+    "title": "My Best Friend, His Girlfriend and Me",
+    "overview": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
+    "year": "2026",
+    "rating": 6.114,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kGVMih26bAjJ4voU1pQR3hEkN19.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8079",
+    "tmdbId": 8079,
+    "type": "movie",
+    "title": "Om Shanti Om",
+    "overview": "In the early 70s, aspiring actor Om Prakash Makhija, and a famous starlet Shantipriya, are murdered. Thirty years later, his reincarnation Om Kapoor sets out to discover the mystery of their demise.",
+    "year": "2007",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oArsQTD4bPPMtRjqr03SO9W6phF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mBdT7nvhXmvZKK1mieS261IApcI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTEPafUc9Drd3G11rOPlMYGpNFC.png",
+    "certificate": "NR",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1320660",
+    "tmdbId": 1320660,
+    "type": "movie",
+    "title": "Pati Patni Aur Woh Do",
+    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "year": "2026",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pA4Cg2DW1a2s9HQzqueKgYVaVua.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "297222",
+    "tmdbId": 297222,
+    "type": "movie",
+    "title": "PK",
+    "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+    "year": "2014",
+    "rating": 7.703,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/BnDydsaEeMhywD5Snv6jN77ifh.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 153,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538273",
+    "tmdbId": 1538273,
+    "type": "movie",
+    "title": "Pyaar Prema Kalyanam",
+    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+    "year": "2026",
+    "rating": 7.318,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14072",
+    "tmdbId": 14072,
+    "type": "movie",
+    "title": "Rab Ne Bana Di Jodi",
+    "overview": "A boring, reserved husband secretly becomes a lively, confident stranger to woo his own unaware wife only to make her fall head over heels for his dashing alter ego.",
+    "year": "2008",
+    "rating": 7.095,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qugyZNhZah8IaXfPQIxlsDHsOpK.png",
+    "certificate": "PG",
+    "runTimeMinutes": 167,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "26815",
+    "tmdbId": 26815,
+    "type": "movie",
+    "title": "Rocket Singh: Salesman of the Year",
+    "overview": "Rocket Singh: Salesman of the Year is the sometimes thoughtless, sometimes thoughtful story of a fresh graduate trying to find a balance between the maddening demands of the 'professional' way, and the way of his heart - and stumbling upon a crazy way which turned his world upside down, and his career right side up. Welcome to the world of sales boss!",
+    "year": "2009",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3Z8lLFzPOBfOO4w3CykRaCeh9h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bQk9Z0cj9OXB56sESStXVQgGKHC.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 156,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1311649",
+    "tmdbId": 1311649,
+    "type": "movie",
+    "title": "Son of Sardaar 2",
+    "overview": "Years after settling an epic family feud and surviving house arrest in Punjab, Jassi Singh Randhawa returns this time chasing love, not trouble. But when he lands in Scotland to win back his estranged wife, he stumbles into a hostage crisis, a mafia war and the most bizarre Sardaar wedding of the century.",
+    "year": "2025",
+    "rating": 4.367,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/16ZYIQkjJMaZXpRdF6icVXl9Fcd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yU0Mx95513FmoXG4jWX4UssspQp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aEsWo1Uafme9PdJ80jAoXqUs1R1.png",
+    "certificate": null,
+    "runTimeMinutes": 145,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1248454",
+    "tmdbId": 1248454,
+    "type": "movie",
+    "title": "Sunny Sanskari Ki Tulsi Kumari",
+    "overview": "Two former lovers in Delhi try to rekindle old flames, leading to amusing mix-ups and deceptions. As chaos unfolds, a new unexpected romance blooms. Who will find their happy ending amid the confusion?",
+    "year": "2025",
+    "rating": 5.87,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/h3lncTnK86R8XylpXgpe0JfU1wm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jas9AaeGWZjT1qcbvuPjccnS56e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fM7UdaegfoJnJ5nBA3UP8BYVBIA.png",
+    "certificate": null,
+    "runTimeMinutes": 136,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1416391",
+    "tmdbId": 1416391,
+    "type": "movie",
+    "title": "Toaster",
+    "overview": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift.",
+    "year": "2026",
+    "rating": 5.986,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8bsa86WKaQ9plaYN7rd9oGwmyVV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1zOxbAirwu9Jgd8LlFgwbsGXir1.png",
+    "certificate": null,
+    "runTimeMinutes": 126,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "185008",
+    "tmdbId": 185008,
+    "type": "movie",
+    "title": "Yeh Jawaani Hai Deewani",
+    "overview": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+    "year": "2013",
+    "rating": 7.296,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hvaSiRRM93aCSzTmKlY4sHERL0S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2NeOmDPauwvkt1pEvtD6jxor7eS.png",
+    "certificate": null,
+    "runTimeMinutes": 160,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  }
+]

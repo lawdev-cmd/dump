@@ -1,0 +1,803 @@
+[
+  {
+    "id": "530915",
+    "tmdbId": 530915,
+    "type": "movie",
+    "title": "1917",
+    "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+    "year": "2019",
+    "rating": 7.983,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wwSU87KF5cqBLI4ani5vOnYIErh.png",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "453",
+    "tmdbId": 453,
+    "type": "movie",
+    "title": "A Beautiful Mind",
+    "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+    "year": "2001",
+    "rating": 7.852,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/egRFWszdVWBcKWnlm7D0s0Aq5wq.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "644",
+    "tmdbId": 644,
+    "type": "movie",
+    "title": "A.I. Artificial Intelligence",
+    "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+    "year": "2001",
+    "rating": 7.069,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "194",
+    "tmdbId": 194,
+    "type": "movie",
+    "title": "Amélie",
+    "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+    "year": "2001",
+    "rating": 7.92,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pIjwwbSgqq6sMbL0Umr7zKmEEUF.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105",
+    "tmdbId": 105,
+    "type": "movie",
+    "title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "year": "1985",
+    "rating": 8.329,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "certificate": "PG",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196",
+    "tmdbId": 196,
+    "type": "movie",
+    "title": "Back to the Future Part III",
+    "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "year": "1990",
+    "rating": 7.496,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "283587",
+    "tmdbId": 283587,
+    "type": "movie",
+    "title": "Beasts of No Nation",
+    "overview": "Based on the experiences of Agu, a child fighting in the civil war of a West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
+    "year": "2015",
+    "rating": 7.582,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Edm0assnCckcdCFrUdufR9daaI.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "197",
+    "tmdbId": 197,
+    "type": "movie",
+    "title": "Braveheart",
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "year": "1995",
+    "rating": 7.945,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qkh7u6JaZaj5ZI3pZBsQaBSoIjy.png",
+    "certificate": "R",
+    "runTimeMinutes": 178,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "142",
+    "tmdbId": 142,
+    "type": "movie",
+    "title": "Brokeback Mountain",
+    "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+    "year": "2005",
+    "rating": 7.784,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yS4ATObRBWI3JIH2Te0S4iZNfq.png",
+    "certificate": "R",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538",
+    "tmdbId": 1538,
+    "type": "movie",
+    "title": "Collateral",
+    "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+    "year": "2004",
+    "rating": 7.249,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9w4gPo5pgmXfdJjEOBD55p1O35i.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9571",
+    "tmdbId": 9571,
+    "type": "movie",
+    "title": "Dazed and Confused",
+    "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+    "year": "1993",
+    "rating": 7.311,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iNNm00fWqHnlEI1O0KCTivzcPEw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/H58ahv8KgxfqKlF2yopv3VnGPb.png",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13",
+    "tmdbId": 13,
+    "type": "movie",
+    "title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "year": "1994",
+    "rating": 8.463,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/as10mpHSWebQVXwMbwQfWYfR27F.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 142,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "3131",
+    "tmdbId": 3131,
+    "type": "movie",
+    "title": "Gangs of New York",
+    "overview": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+    "year": "2002",
+    "rating": 7.319,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p8yXQse3IDZiwEjWRHda3EzDQjA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/auC8r39WsZBOFXlGBzxKQWrjDs4.png",
+    "certificate": "R",
+    "runTimeMinutes": 168,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1487",
+    "tmdbId": 1487,
+    "type": "movie",
+    "title": "Hellboy",
+    "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+    "year": "2004",
+    "rating": 6.677,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lbaTEneOofwvAyg77R8HbFML2zT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Et15vXHzqeYj24w3XMxkE4qkZc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "974635",
+    "tmdbId": 974635,
+    "type": "movie",
+    "title": "Hit Man",
+    "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+    "year": "2024",
+    "rating": 6.783,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AfgFS0ULYK5wAKZKX8zatxlNB5X.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46738",
+    "tmdbId": 46738,
+    "type": "movie",
+    "title": "Incendies",
+    "overview": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+    "year": "2010",
+    "rating": 8.102,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jDADVUZdWCTArACWXIdiedbfi1i.png",
+    "certificate": "R",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329",
+    "tmdbId": 329,
+    "type": "movie",
+    "title": "Jurassic Park",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "year": "1993",
+    "rating": 7.976,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ec4wy0iZFkHTxw04HyX4r06DwrH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24",
+    "tmdbId": 24,
+    "type": "movie",
+    "title": "Kill Bill: Vol. 1",
+    "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "year": "2003",
+    "rating": 7.97,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mIiJMgtGAIbQVrIElG0s7lCBs50.png",
+    "certificate": "R",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "393",
+    "tmdbId": 393,
+    "type": "movie",
+    "title": "Kill Bill: Vol. 2",
+    "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+    "year": "2004",
+    "rating": 7.874,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oWnoYWltTGSfTcUZrXYHwJ3Fl9j.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "313369",
+    "tmdbId": 313369,
+    "type": "movie",
+    "title": "La La Land",
+    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+    "year": "2016",
+    "rating": 7.897,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/97DYpdDmiOpfn9l9I2dGxDH01t1.svg",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "492188",
+    "tmdbId": 492188,
+    "type": "movie",
+    "title": "Marriage Story",
+    "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+    "year": "2019",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9jqMHHph7PCca30w0SQtR3yReJZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1620034",
+    "tmdbId": 1620034,
+    "type": "movie",
+    "title": "Marty, Life Is Short",
+    "overview": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
+    "year": "2026",
+    "rating": 7.887,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lhO7q62o6Bz672hGDBhl00g6ZT9.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77",
+    "tmdbId": 77,
+    "type": "movie",
+    "title": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "year": "2000",
+    "rating": 8.174,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "792",
+    "tmdbId": 792,
+    "type": "movie",
+    "title": "Platoon",
+    "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "year": "1986",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q4A2A7h9HsKKBfTxESAdc2N4hVg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/104cnXJEg5405iAVQj3m5Id1LZZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "128",
+    "tmdbId": 128,
+    "type": "movie",
+    "title": "Princess Mononoke",
+    "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "year": "1997",
+    "rating": 8.319,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zmLS3kmBxLlVS1yxRY4x9WiLMrw.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "500",
+    "tmdbId": 500,
+    "type": "movie",
+    "title": "Reservoir Dogs",
+    "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+    "year": "1992",
+    "rating": 8.111,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gBtwDC7oE4R4TbkUJpEWlBsxwOm.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4148",
+    "tmdbId": 4148,
+    "type": "movie",
+    "title": "Revolutionary Road",
+    "overview": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children. Based on a novel by Richard Yates.",
+    "year": "2008",
+    "rating": 6.987,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ra9aXj8PpUbUHwwTRSl5zsL6WHM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i6nHGHjWIryKo1jwWkZxrTJ5V4V.png",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9040",
+    "tmdbId": 9040,
+    "type": "movie",
+    "title": "Serpico",
+    "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+    "year": "1973",
+    "rating": 7.529,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dXlO2Ri2RvVYWRtBsr6GsIVkleX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3po2GzgKV86GIxcZ4xqDXCarclQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11509",
+    "tmdbId": 11509,
+    "type": "movie",
+    "title": "Silverado",
+    "overview": "Four unwitting heroes cross paths on their journey to the sleepy town of Silverado. Little do they know the town where their family and friends reside has been taken over by a corrupt sheriff and a murderous posse. It's up to the sharp-shooting foursome to save the day, but first they have to break each other out of jail, and learn who their real friends are.",
+    "year": "1985",
+    "rating": 6.949,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rPDcuFniW2yZrSRbLjeNdQy7P45.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/izMjLF8mdnFWMXEHkdrfUzFNy47.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 133,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "906126",
+    "tmdbId": 906126,
+    "type": "movie",
+    "title": "Society of the Snow",
+    "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+    "year": "2023",
+    "rating": 7.968,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2e853FDVSIso600RqAMunPxiZjq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3PVk5gmcRmJ3Jq1CxR1YeX07W4m.png",
+    "certificate": "R",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "363676",
+    "tmdbId": 363676,
+    "type": "movie",
+    "title": "Sully",
+    "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+    "year": "2016",
+    "rating": 7.205,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sdr6rygIuRNJeRqeDZidOHhmQaK.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "537996",
+    "tmdbId": 537996,
+    "type": "movie",
+    "title": "The Ballad of Buster Scruggs",
+    "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+    "year": "2018",
+    "rating": 7.134,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i3YtcfDTEh7tINVHCl1JSesW4TL.png",
+    "certificate": "R",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1008409",
+    "tmdbId": 1008409,
+    "type": "movie",
+    "title": "The Bikeriders",
+    "overview": "After a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.",
+    "year": "2024",
+    "rating": 6.686,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kwGvFyRtGSSm8AFfnRNXoZTQmJj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eD8U1BqvaNnQMDNMDjwd0Ke1yye.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2108",
+    "tmdbId": 2108,
+    "type": "movie",
+    "title": "The Breakfast Club",
+    "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+    "year": "1985",
+    "rating": 7.717,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s5HDOmFZaPVQFjk9BxxDrLu1T0g.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2CZwo7UM88DGWWIkdDsIyegRhBW.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "826",
+    "tmdbId": 826,
+    "type": "movie",
+    "title": "The Bridge on the River Kwai",
+    "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+    "year": "1957",
+    "rating": 7.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/94SBMz11SiEwrLaWUOVx5om7NHu.png",
+    "certificate": "PG",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49026",
+    "tmdbId": 49026,
+    "type": "movie",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "year": "2012",
+    "rating": 7.797,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37799",
+    "tmdbId": 37799,
+    "type": "movie",
+    "title": "The Social Network",
+    "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+    "year": "2010",
+    "rating": 7.376,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c4chOkNTnwNMFhxkzi6tCJ2UzsM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "597",
+    "tmdbId": 597,
+    "type": "movie",
+    "title": "Titanic",
+    "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "year": "1997",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 194,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1621",
+    "tmdbId": 1621,
+    "type": "movie",
+    "title": "Trading Places",
+    "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
+    "year": "1983",
+    "rating": 7.23,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3FO1kbQmRlU1H6Kmn7sTfmd7mw9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uRSegJogk5MHxirUaU2q096lAtz.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74",
+    "tmdbId": 74,
+    "type": "movie",
+    "title": "War of the Worlds",
+    "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+    "year": "2005",
+    "rating": 6.568,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Ahz089ftZAvdUAtD5KqREd6Qnsd.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

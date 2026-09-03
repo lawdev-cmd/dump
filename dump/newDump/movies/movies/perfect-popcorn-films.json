@@ -1,0 +1,805 @@
+[
+  {
+    "id": "187017",
+    "tmdbId": 187017,
+    "type": "movie",
+    "title": "22 Jump Street",
+    "overview": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+    "year": "2014",
+    "rating": 6.826,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/irTIgzUyh47euiCWy9oeN4jtERV.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "949838",
+    "tmdbId": 949838,
+    "type": "movie",
+    "title": "72 HOURS",
+    "overview": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
+    "year": "2026",
+    "rating": 6.796,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hGO1AhI9bySVlRIBNFeVUh4uDgl.png",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14161",
+    "tmdbId": 14161,
+    "type": "movie",
+    "title": "2012",
+    "overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+    "year": "2009",
+    "rating": 5.893,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zaqam2RNscH5ooYFWInV6hjx6y5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x9GeCXTGiPcmQcCsd1yzbNnx3up.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lZVeggx2J2yj2V8yHHR2eOSBRi9.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 158,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "272",
+    "tmdbId": 272,
+    "type": "movie",
+    "title": "Batman Begins",
+    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "year": "2005",
+    "rating": 7.73,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1005331",
+    "tmdbId": 1005331,
+    "type": "movie",
+    "title": "Carry-On",
+    "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+    "year": "2024",
+    "rating": 6.877,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rhc8Mtuo3Kh8CndnlmTNMF8o9pU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g4knIKemhYtoIhOQNkC2JEvJV0j.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538",
+    "tmdbId": 1538,
+    "type": "movie",
+    "title": "Collateral",
+    "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+    "year": "2004",
+    "rating": 7.249,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9w4gPo5pgmXfdJjEOBD55p1O35i.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "296524",
+    "tmdbId": 296524,
+    "type": "movie",
+    "title": "Deepwater Horizon",
+    "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+    "year": "2016",
+    "rating": 6.902,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqEAHLh2bkxZCEMAkoksxy38lZJ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "519182",
+    "tmdbId": 519182,
+    "type": "movie",
+    "title": "Despicable Me 4",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/89h1vVNsvFejMxhbrxPO9raMnbl.png",
+    "certificate": "PG",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68718",
+    "tmdbId": 68718,
+    "type": "movie",
+    "title": "Django Unchained",
+    "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "year": "2012",
+    "rating": 8.193,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
+    "certificate": "R",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68724",
+    "tmdbId": 68724,
+    "type": "movie",
+    "title": "Elysium",
+    "overview": "In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes, a hard line government official, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.",
+    "year": "2013",
+    "rating": 6.527,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oo9GyiNKvR4CU1etuYl081UJ1LE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rDlAW6L5Jxth9xZaKBvxhMm5rjY.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "545609",
+    "tmdbId": 545609,
+    "type": "movie",
+    "title": "Extraction",
+    "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+    "year": "2020",
+    "rating": 7.285,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8kmF0Eig8czqXY8CHdM5H2rggNR.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "697843",
+    "tmdbId": 697843,
+    "type": "movie",
+    "title": "Extraction 2",
+    "overview": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
+    "year": "2023",
+    "rating": 7.386,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jWC7V4ILCoGNviwfqsjOeo0eEgq.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13",
+    "tmdbId": 13,
+    "type": "movie",
+    "title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "year": "1994",
+    "rating": 8.463,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/as10mpHSWebQVXwMbwQfWYfR27F.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 142,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1062722",
+    "tmdbId": 1062722,
+    "type": "movie",
+    "title": "Frankenstein",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "year": "2025",
+    "rating": 7.618,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AjgdfuPzZdqCEH6qxPqRXtmYFDZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1263256",
+    "tmdbId": 1263256,
+    "type": "movie",
+    "title": "Happy Gilmore 2",
+    "overview": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
+    "year": "2025",
+    "rating": 6.507,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dRgfr6i95s4qEZkdtWdJP495E75.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hdmcbySpSJckkxtJqJ9mP4Ocq1d.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "16869",
+    "tmdbId": 16869,
+    "type": "movie",
+    "title": "Inglourious Basterds",
+    "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+    "year": "2009",
+    "rating": 8.218,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4hvZyon2TzS511LVG3xAiNU2d4P.png",
+    "certificate": "R",
+    "runTimeMinutes": 153,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "539972",
+    "tmdbId": 539972,
+    "type": "movie",
+    "title": "Kraven the Hunter",
+    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "year": "2024",
+    "rating": 6.414,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wEuiG5gakvzTthDVz0X5gfEz7T1.png",
+    "certificate": "R",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "726209",
+    "tmdbId": 726209,
+    "type": "movie",
+    "title": "Leave the World Behind",
+    "overview": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices—and two strangers appear at their door.",
+    "year": "2023",
+    "rating": 6.376,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5cRw2QHQz5bp7W2KLdSpZoFoTTw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/23cjn1nhHsVKyuTgVBc8LEBVJl9.png",
+    "certificate": "R",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "240832",
+    "tmdbId": 240832,
+    "type": "movie",
+    "title": "Lucy",
+    "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "year": "2014",
+    "rating": 6.476,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ax3ZZ1zY19ChEkZ45Ie7OxjTabt.png",
+    "certificate": "R",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "76341",
+    "tmdbId": 76341,
+    "type": "movie",
+    "title": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "year": "2015",
+    "rating": 7.637,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cBAO0i9fZCux5SqJnizRECS8qfU.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "AU",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "696506",
+    "tmdbId": 696506,
+    "type": "movie",
+    "title": "Mickey 17",
+    "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+    "year": "2025",
+    "rating": 6.83,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9PRKAdrDvAdCfg3EcApLTfzGsEt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ffJVoywEy5F838YkqBljNm0yyit.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "792",
+    "tmdbId": 792,
+    "type": "movie",
+    "title": "Platoon",
+    "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "year": "1986",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q4A2A7h9HsKKBfTxESAdc2N4hVg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/104cnXJEg5405iAVQj3m5Id1LZZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "512195",
+    "tmdbId": 512195,
+    "type": "movie",
+    "title": "Red Notice",
+    "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+    "year": "2021",
+    "rating": 6.72,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oMoWfoIYfFDr1RGQflEydfbDX7G.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "429617",
+    "tmdbId": 429617,
+    "type": "movie",
+    "title": "Spider-Man: Far From Home",
+    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "year": "2019",
+    "rating": 7.394,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lAEaCmWwqkZSp8lAw6F7CfPkA9N.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "324857",
+    "tmdbId": 324857,
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "year": "2018",
+    "rating": 8.399,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
+    "certificate": "PG",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "563",
+    "tmdbId": 563,
+    "type": "movie",
+    "title": "Starship Troopers",
+    "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+    "year": "1997",
+    "rating": 7.119,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6s76YNDStAWQIlfv3Y5RmVcy8EY.png",
+    "certificate": "R",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "155",
+    "tmdbId": 155,
+    "type": "movie",
+    "title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "year": "2008",
+    "rating": 8.534,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 152,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49026",
+    "tmdbId": 49026,
+    "type": "movie",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "year": "2012",
+    "rating": 7.797,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1422",
+    "tmdbId": 1422,
+    "type": "movie",
+    "title": "The Departed",
+    "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+    "year": "2006",
+    "rating": 8.159,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hgwPIc6SntSABkOcVby7inDKRSw.png",
+    "certificate": "R",
+    "runTimeMinutes": 151,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "746036",
+    "tmdbId": 746036,
+    "type": "movie",
+    "title": "The Fall Guy",
+    "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+    "year": "2024",
+    "rating": 6.953,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2rjI2uXmjitMAaXVO21r9ao7v2j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xsmBMxBjQLgYLJZGWxAyE28YWU5.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9799",
+    "tmdbId": 9799,
+    "type": "movie",
+    "title": "The Fast and the Furious",
+    "overview": "Dominic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.",
+    "year": "2001",
+    "rating": 7.015,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kf17mvLnyFitDBoCm6ymISDfkxF.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18",
+    "tmdbId": 18,
+    "type": "movie",
+    "title": "The Fifth Element",
+    "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+    "year": "1997",
+    "rating": 7.59,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/msVBaxnGvE57AOLDvFDVpaIZqaV.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "725201",
+    "tmdbId": 725201,
+    "type": "movie",
+    "title": "The Gray Man",
+    "overview": "When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
+    "year": "2022",
+    "rating": 6.904,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xoVawJ6i0qDQ8xQ21AjGVYsnSbC.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "136795",
+    "tmdbId": 136795,
+    "type": "movie",
+    "title": "The Heat",
+    "overview": "Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s \"finest,\" is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: buddies.",
+    "year": "2013",
+    "rating": 6.593,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/c0V8KAiuoWLXf7TfvwHK4yhIfb9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1gZ9XvGANJcUO7enToc8JctITvN.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "398978",
+    "tmdbId": 398978,
+    "type": "movie",
+    "title": "The Irishman",
+    "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+    "year": "2019",
+    "rating": 7.571,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dwGgp4AsCWtpc1f13ZVdVnxJ4pv.png",
+    "certificate": "R",
+    "runTimeMinutes": 209,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "800158",
+    "tmdbId": 800158,
+    "type": "movie",
+    "title": "The Killer",
+    "overview": "After a fateful miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal.",
+    "year": "2023",
+    "rating": 6.58,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f9Atch0jlzcOT9RbF8UccqfNOpd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4xaqtScTG7EWKkKjgELqOJjf6uS.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "218",
+    "tmdbId": 218,
+    "type": "movie",
+    "title": "The Terminator",
+    "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "year": "1984",
+    "rating": 7.69,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hdVL9WCFXxCFrsWH0R8UnhptHso.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "912649",
+    "tmdbId": 912649,
+    "type": "movie",
+    "title": "Venom: The Last Dance",
+    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+    "year": "2024",
+    "rating": 6.674,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s4wOlLMQRvjK2sWqkTogDryYEWA.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1265609",
+    "tmdbId": 1265609,
+    "type": "movie",
+    "title": "War Machine",
+    "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+    "year": "2026",
+    "rating": 7.459,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/blz9cHsWGjt4abdqKDdZLQEczN8.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74",
+    "tmdbId": 74,
+    "type": "movie",
+    "title": "War of the Worlds",
+    "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+    "year": "2005",
+    "rating": 6.568,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Ahz089ftZAvdUAtD5KqREd6Qnsd.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]
