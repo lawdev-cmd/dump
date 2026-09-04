@@ -1,0 +1,104 @@
+[
+  {
+    "id": "622855",
+    "tmdbId": 622855,
+    "type": "movie",
+    "title": "Jingle Jangle: A Christmas Journey",
+    "overview": "An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.",
+    "year": "2020",
+    "rating": 6.543,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5RbyHIVydD3Krmec1LlUV7rRjet.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6C7ZGYeR8QpT3X6C2RFEu6yiSKK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rkhmke7FOHBunCrnvpkfxaEBbWc.png",
+    "certificate": "PG",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1001865",
+    "tmdbId": 1001865,
+    "type": "movie",
+    "title": "Scrooge: A Christmas Carol",
+    "overview": "On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past — and change the future — before time runs out.",
+    "year": "2022",
+    "rating": 6.784,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eL8BMyArgteEX4EGFJLXjsWKhyy.png",
+    "certificate": "G",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "767896",
+    "tmdbId": 767896,
+    "type": "movie",
+    "title": "The Claus Family",
+    "overview": "When his grandfather suddenly falls ill, holiday-hating Jules learns of his family's magical legacy and realizes he's the only hope to save Christmas.",
+    "year": "2020",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nSYgOCTC8lIys1exhKE9Ivo0ZAE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n1YgWb7ablpAl5RwRSEAlfnbCqD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ziQ62wd89cgrdSAcMei08oh4UyR.png",
+    "certificate": null,
+    "runTimeMinutes": 96,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "BE",
+      "NL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "881180",
+    "tmdbId": 881180,
+    "type": "movie",
+    "title": "The Claus Family 2",
+    "overview": "Jules Claus has embraced Christmas again and is getting ready for the busiest time of the year together with grandpa Noël. Everything seems to go according to plan, until Jules receives a very special letter with an intriguing question...",
+    "year": "2021",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k1m0SgH91AtSVcAY9p7dtqh0Pgr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3ZiZxmhQqxzPir29zf3JvKYlWDS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uRQQknG3RFk6ta6ztbeQhE1zUco.png",
+    "certificate": null,
+    "runTimeMinutes": 98,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "BE",
+      "NL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1196207",
+    "tmdbId": 1196207,
+    "type": "movie",
+    "title": "The Night My Dad Saved Christmas 2",
+    "overview": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to save Christmas.",
+    "year": "2025",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  }
+]

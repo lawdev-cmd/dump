@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1586820",
+    "tmdbId": 1586820,
+    "type": "movie",
+    "title": "Elmo and Mark Rober's Merry Giftmas",
+    "overview": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
+    "year": "2025",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/l9Zw7G2xOIi8BVqAdqQPrl8Ms1X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2wqM3C7iTopj4ZCw8ZzegeuCvCn.png",
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "TV Movie",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "851907",
+    "tmdbId": 851907,
+    "type": "movie",
+    "title": "Furry Friends Forever: Elmo Gets a Puppy",
+    "overview": "An upcoming animated Sesame Street special premiering on HBO Max on August 5, 2021. The special serves as an introduction to Tango, Elmo's new pet puppy.",
+    "year": "2021",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eP8A6bJxbaP5wsYgCXPafMZKFwB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/g3qg4cUjlBxLxdAob6C2of04t8B.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/32196Ka7wvixT88Hx7ZyiOifV7F.png",
+    "certificate": null,
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127305",
+    "tmdbId": 127305,
+    "type": "tv",
+    "title": "My Sesame Street Friends",
+    "overview": "Join your favorite Sesame Street friends as they discover the magic of learning and explore an exciting range of topics, from animals and superheroes, to theater, music, transportation, and much, much more!",
+    "year": "2020",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/56z1F06XckFU6r73KogSY1EVlZh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rfse1k7E0S5rxJT943dH1IFyViu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xtfKnfTaSZs190kxHHANcWKEXvC.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "502",
+    "tmdbId": 502,
+    "type": "tv",
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "year": "1969",
+    "rating": 7.122,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b4ZhunEpCI8NsPP4UeUs3spN6U.svg",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1055676",
+    "tmdbId": 1055676,
+    "type": "movie",
+    "title": "Sesame Street: The Nutcracker",
+    "overview": "Featuring new music inspired by holiday classic The Nutcracker, this animated special follows Elmo’s fantastical adventure through magical lands to retrieve a nutcracker toy, along with his puppy Tango – who can speak for the first time!",
+    "year": "2022",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7rkmsjvngw6JojMq85oCSpjtiFl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mRilTtbDxgMp8rjgMm8e0I2S6Qj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6NFYeVa8UUeVxiBnD9Doh7pUB4F.png",
+    "certificate": "G",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "312953",
+    "tmdbId": 312953,
+    "type": "tv",
+    "title": "the letter of the day",
+    "overview": "",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8GX2Kj9CBvqMYPyZBiyZvkXdHx0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1vRkMmpsb02mqhsFFgDk3vvz9e1.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  }
+]

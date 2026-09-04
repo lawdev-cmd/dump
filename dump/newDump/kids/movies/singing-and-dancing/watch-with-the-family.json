@@ -1,0 +1,484 @@
+[
+  {
+    "id": "673271",
+    "tmdbId": 673271,
+    "type": "movie",
+    "title": "13: The Musical",
+    "overview": "After moving from New York City to Indiana, a 12 year old navigates his parents' divorce, his impending bar mitzvah and his new school's social circles.",
+    "year": "2022",
+    "rating": 5.957,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rqShG2kTbsVbgrgjfoEwawjR88N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bE1AJOGtcvjegirI5Np6sTUO0gz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wMASCaBbsJYYh8E0LUc3qTJD9IL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "654580",
+    "tmdbId": 654580,
+    "type": "movie",
+    "title": "A Family Reunion Christmas",
+    "overview": "M'Dear and her sisters struggle to keep their singing act together before a church Christmas pageant while Grandpa teaches the kids a valuable lesson.",
+    "year": "2019",
+    "rating": 5.862,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dQBdhl5ogydQVjoWIqagC6jJPzi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2XmXiRq1GRC0thJN0YUzzYiGLBY.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 29,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "3126",
+    "tmdbId": 3126,
+    "type": "movie",
+    "title": "Alvin and the Chipmunks Meet Frankenstein",
+    "overview": "The Chipmunks work in an amusement park attraction. After Alvin drives a crazy tour group, they miss their next performance and are locked in the park after closing time. Little do they know that the real Dr. Frankenstein has been hired in a new attraction called, \"Frankenstein's Castle\"; figuring that the castle isn't scary enough, the mad scientist recreates the real Monster.",
+    "year": "1999",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hiXOFmWtxQ3LdrGgP2uOuR1DHBp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vsLwmFVWKg1qydVJDX5sA5psiCa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o6VlLd7USJ28AOLpX8BjxPfprhE.png",
+    "certificate": "G",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79579",
+    "tmdbId": 79579,
+    "type": "movie",
+    "title": "An Elf's Story",
+    "overview": "The inspirational tale of Chippey, the young scout elf who is assigned by Santa to restore Taylor McTuttle's belief in Christmas magic. When the boy breaks the number one Elf on the Shelf rule, Chippey loses his Christmas magic; the entire McTuttle family loses is scout elf, and both Taylor and Chippey lose their self-respect. Through the power of love and forgiveness, both of them learn the most important lesson of all: that true belief cannot be taught.",
+    "year": "2011",
+    "rating": 2.971,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mSoJW2O6WFlLl7YWxEYBsgkiAAF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9ShvupbiYO99qR20M0l3cfzhmGm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u2s3wKbKZuPq3x3Uxm0n1msQvGM.png",
+    "certificate": "G",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196867",
+    "tmdbId": 196867,
+    "type": "movie",
+    "title": "Annie",
+    "overview": "Annie is a young, happy foster kid who's also tough enough to make her way on the streets of New York in 2014. Originally left by her parents as a baby with the promise that they'd be back for her someday, it's been a hard knock life ever since with her mean foster mom Miss Hannigan. But everything's about to change when the hard-nosed tycoon and New York mayoral candidate Will Stacks—advised by his brilliant VP and his shrewd and scheming campaign advisor—makes a thinly-veiled campaign move and takes her in. Stacks believes he's her guardian angel, but Annie's self-assured nature and bright, sun-will-come-out-tomorrow outlook on life just might mean it's the other way around.",
+    "year": "2014",
+    "rating": 6.242,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j3snmrxqxT60FrH1Z8i54fGnHZJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lxGwCQ3FWmGr37Pi9e3EsyQ7SpI.png",
+    "certificate": "PG",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "15739",
+    "tmdbId": 15739,
+    "type": "movie",
+    "title": "Annie",
+    "overview": "An orphan in a facility run by the mean Miss Hannigan, Annie believes that her parents left her there by mistake. When a rich man named Oliver \"Daddy\" Warbucks decides to let an orphan live at his home to promote his image, Annie is selected. While Annie gets accustomed to living in Warbucks' mansion, she still longs to meet her parents. So Warbucks announces a search for them and a reward, which brings out many frauds.",
+    "year": "1982",
+    "rating": 6.543,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vF6qPAk8kcrbRgD3B2WXNrbnPPY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/HIn4CfKyfSZpHTq6zxFQLJ4b3B.png",
+    "certificate": "PG",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "763568",
+    "tmdbId": 763568,
+    "type": "movie",
+    "title": "Arlo the Alligator Boy",
+    "overview": "Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.",
+    "year": "2021",
+    "rating": 6.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oOQMJM7G2W8v2AEK722k8welIJY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hNCGEGCg65c1qI0kWs1eVsvP0Y0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jLJlDUl1yHisrCdwWW7RkYqlLQC.png",
+    "certificate": "NR",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "755328",
+    "tmdbId": 755328,
+    "type": "movie",
+    "title": "Dance Dreams: Hot Chocolate Nutcracker",
+    "overview": "This documentary spotlights Debbie Allen's career and follows her group of dance students as they prepare for Allen's annual \"Hot Chocolate Nutcracker,\" a reimagining of the classic ballet.",
+    "year": "2020",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jkIwWUwoXF0sFDKoIN45wJp8945.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8zcDV7vCBoGzz3YFfQWmDyQQjtS.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 80,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "634541",
+    "tmdbId": 634541,
+    "type": "movie",
+    "title": "Dancing with the Birds",
+    "overview": "Some of the world's most majestic birds display delightfully captivating mating rituals, from flashy dancing to flaunting their colorful feathers.",
+    "year": "2019",
+    "rating": 7.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uzc72pDxEZ6ziC4n7IUX9YQorDO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dqm09gnToqrjuQ3x5nwHzobS2Y9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4OSrBWhNsGk0uhJ1oH6TrXrycMC.png",
+    "certificate": null,
+    "runTimeMinutes": 51,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1497036",
+    "tmdbId": 1497036,
+    "type": "movie",
+    "title": "Dr. Seuss's The Sneetches",
+    "overview": "An unexpected friendship forms between two young Sneetches on an island surrounded by beaches in this sweet musical special set in the world of Seuss.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iv2Z44Q52E8KSPiY1ZAPdFVyFal.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/83itBNmt0nhASEZMNpfo3wuFoqq.png",
+    "certificate": "G",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1014530",
+    "tmdbId": 1014530,
+    "type": "movie",
+    "title": "Ivy + Bean: Doomed to Dance",
+    "overview": "Ivy and Bean sign up for ballet, only to learn they'll be dancing in a recital in front of hundreds of people. Time to get out of it — tout suite!",
+    "year": "2022",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zdWGcEpvfgsx07HlGUmmEzf51gt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bdcyhbtKCEKHze4jwZ6owzZurj0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/VvsXUKdlvZnrx8zvp1UwJ52u6m.png",
+    "certificate": "G",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "32471",
+    "tmdbId": 32471,
+    "type": "movie",
+    "title": "Mixtape",
+    "overview": "On the eve of Y2K, orphaned 12-year-old Beverly discovers a broken mixtape crafted by her teen parents. Raised by her grandmother – who struggles talking about her late daughter – Beverly sees the mixtape as a chance to finally learn more about her parents.",
+    "year": "2021",
+    "rating": 6.935,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2fpG1PiHPHdLt8X2e7WAct7EVB7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kl5LXP7St8ct25BaBUehDGXT3gd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tC5vphFdRmTk2k1MVEFzhKElfJM.png",
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1001997",
+    "tmdbId": 1001997,
+    "type": "movie",
+    "title": "My Little Pony: A New Generation: Sing-Along",
+    "overview": "A young pony makes a herd of new friends on a quest to bring magic back to her world in this sing-along version of \"My Little Pony: A New Generation.\"",
+    "year": "",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "679063",
+    "tmdbId": 679063,
+    "type": "movie",
+    "title": "One Take",
+    "overview": "Members of Thai girl group BNK48 share the ups and downs of preparing for the 6th Single Senbatsu General Election.",
+    "year": "2020",
+    "rating": 4.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2GzF2nOAofv4cJWUqhkIaoqTyX1.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1236419",
+    "tmdbId": 1236419,
+    "type": "movie",
+    "title": "Piece by Piece",
+    "overview": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xLGWvGTuVyr58XvCn3oy6kmqGxN.png",
+    "certificate": "PG",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "756403",
+    "tmdbId": 756403,
+    "type": "movie",
+    "title": "Riverdance: The Animated Adventure",
+    "overview": "A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan’s multi-platinum Grammy Award-winning music.",
+    "year": "2021",
+    "rating": 5.971,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i6TRDlVuuEXMyLSlIkDd8YhBN0r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qqthj8EUL4QKlDBoMcPqeWvi6Ya.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m0M3pvkK6DtKVcsGN33obeSjx5d.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "810",
+    "tmdbId": 810,
+    "type": "movie",
+    "title": "Shrek the Third",
+    "overview": "After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom.",
+    "year": "2007",
+    "rating": 6.314,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lRgOOb2EpGYTA9DvANfUPeQO5VA.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "772272",
+    "tmdbId": 772272,
+    "type": "movie",
+    "title": "Tall Girl 2",
+    "overview": "After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to \"stand tall\".",
+    "year": "2022",
+    "rating": 5.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yI9AVavZ4WixDEnqBsNBPAW1kf1.png",
+    "certificate": "G",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "410113",
+    "tmdbId": 410113,
+    "type": "movie",
+    "title": "The Loud House Movie",
+    "overview": "The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.",
+    "year": "2021",
+    "rating": 7.232,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7dM5DILTl9ddpjvnJhs2nA1U9Ru.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9p3bwHTpX5Axpyp4gxqmDxWaau0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xvolEXnLzLgpWOEVVBsW8Y3oTyQ.png",
+    "certificate": "G",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "927254",
+    "tmdbId": 927254,
+    "type": "movie",
+    "title": "The Twits",
+    "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+    "year": "2025",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1Fy8YhOXtQzzGJYqaaT1T7yT1O.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "739547",
+    "tmdbId": 739547,
+    "type": "movie",
+    "title": "Thelma the Unicorn",
+    "overview": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
+    "year": "2024",
+    "rating": 6.893,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTLui31dSW2VGWHZAnb01wpHGFV.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "901362",
+    "tmdbId": 901362,
+    "type": "movie",
+    "title": "Trolls Band Together",
+    "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mDW6z7I6de6JbUgPOkAEZwKbg7G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8aShJDCnsAB2fTsJR92yuaLvPeu.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "449406",
+    "tmdbId": 449406,
+    "type": "movie",
+    "title": "Vivo",
+    "overview": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
+    "year": "2021",
+    "rating": 7.22,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/e6DlxuwzeZozu6D3h636gyDAHLo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AsoF5slprur9YMifq9vUci0xnSg.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "749618",
+    "tmdbId": 749618,
+    "type": "movie",
+    "title": "Xico's Journey",
+    "overview": "The peace of a small town is endangered when a corporation wants to destroy the mountain that protects them. A girl named Copi and her best friend Xico, a Xoloitzcuintle dog, will go into the mountains to try to save the town.",
+    "year": "2020",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fZHvSNUBKSgRAduB5k0fFST1xYn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h97rBPKnjGsiG2FcbQ39g9g3e7a.png",
+    "certificate": "NR",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  }
+]

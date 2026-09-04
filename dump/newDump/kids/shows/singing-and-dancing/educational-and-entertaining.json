@@ -1,0 +1,102 @@
+[
+  {
+    "id": "139118",
+    "tmdbId": 139118,
+    "type": "tv",
+    "title": "Storybots Laugh, Learn, Sing",
+    "overview": "Learn along with Beep, Boop, Bing, Bang, and Bo as they make their way through a musical alphabet, from awesome A's to mighty M's and all the way to Z.",
+    "year": "2021",
+    "rating": 2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wHpWLhMpb5ESOWOBMuL5k4T0mFW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u6gxercubKweQLwl1UosMuy4CjZ.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "82623",
+    "tmdbId": 82623,
+    "type": "tv",
+    "title": "Super Monsters Monster Party",
+    "overview": "Sing along and move to this groovy collection of music videos featuring monster friends Katya, Lobo, Zoe, Drac, Cleo and Frankie!",
+    "year": "2018",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k2oGxTXmzcN2sgktaQS1MKtVN6o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qO4TIWFK3Yrcg841OfVJY2erV8e.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "312953",
+    "tmdbId": 312953,
+    "type": "tv",
+    "title": "the letter of the day",
+    "overview": "",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8GX2Kj9CBvqMYPyZBiyZvkXdHx0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1vRkMmpsb02mqhsFFgDk3vvz9e1.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80246",
+    "tmdbId": 80246,
+    "type": "tv",
+    "title": "True: Magical Friends",
+    "overview": "The power of friendship can solve any problem -- and the Rainbow Kingdom's got plenty to go around. Cue Bartleby and True for the rescue!",
+    "year": "2018",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iW6vkAvQSItTm20BQYETqFMSAiD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vITiJgEKWsk3AmfqpQBSpMr9n4O.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80247",
+    "tmdbId": 80247,
+    "type": "tv",
+    "title": "True: Wonderful Wishes",
+    "overview": "Do-gooding True and Bartleby will go anywhere to make wishes come true -- from the bottom of the Living Sea to the tip of Mount Tippy Tippy Top!",
+    "year": "2018",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/koFd1o4Ftga92bfiA38YtupD6GY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qGog55J3I9BYuQZnYkLgacrCcgH.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

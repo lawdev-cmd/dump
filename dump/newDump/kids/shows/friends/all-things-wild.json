@@ -1,0 +1,165 @@
+[
+  {
+    "id": "494092",
+    "tmdbId": 494092,
+    "type": "movie",
+    "title": "Beat Bugs: All Together Now",
+    "overview": "After winning a local talent show, the Beat Bugs journey to compete on \"The Bug Factor,\" a televised singing contest held in faraway Rocket Ship Park.",
+    "year": "2017",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AeFFvbzD4gSwrwS0Wk1CY3mQLZb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i8Avugwcldk0dg1pPTZ6w2Gtx1w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/slvjnVVZdjeLmKQkPsZUyVqueww.png",
+    "certificate": null,
+    "runTimeMinutes": 50,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "214091",
+    "tmdbId": 214091,
+    "type": "tv",
+    "title": "Karate Sheep",
+    "overview": "Trico is an enthusiastic sheep who loves to share new objects and ideas with the rest of the flock. This causes ruckus in the mountain pastures, which all inevitably end up at Wanda’s expense, a tough ewe whose job is to keep the sheep safe. Not a small feat, especially when Wolf is always lurking, waiting to make the most of this newfound chaos.",
+    "year": "2022",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oHNb5bEHkgKrPpSVEbMpneiV8uy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qI1vDGKZ0LJ9F6PB9a4Ze3L2d4Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xhFQo0fmXhTJ1S1PmA3fCpcKCqX.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "232684",
+    "tmdbId": 232684,
+    "type": "tv",
+    "title": "Koati",
+    "overview": "Four adorable rainforest animals and their fearless friends go on adventures, learn about nature and discover the power of friendship together.",
+    "year": "2025",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8u71Ttb9lZSpC5nvWlCXYMlc4Eh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/br5cqGusYpChz0sJXd97MdrpLHH.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "224047",
+    "tmdbId": 224047,
+    "type": "tv",
+    "title": "Larva Family",
+    "overview": "The Larva family is growing! When Red and Yellow welcome a baby caterpillar into their lives, they get a crash course in parenting and all things putrid.",
+    "year": "2023",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5WYKClgu17xq0IcHkvYYfa25TTW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sLiTiKXysid6o0yt7kjfz96Jewc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aIawPg1j2skE7rHhTUkpfHSmOUV.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 21,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "253635",
+    "tmdbId": 253635,
+    "type": "tv",
+    "title": "Larva in Mars",
+    "overview": "Landing on Mars after a silly mishap, goofy larva friends Red and Yellow encounter curious Martians — and a sinister secret.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jMNgWZ1aS0uGZLPu3iSuUJC0PMy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m5QF2wVOe12rX0muJKbMvUakkX7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zmMM8pRQgZ977UjxY2FvuEOK4ZG.png",
+    "certificate": null,
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "83248",
+    "tmdbId": 83248,
+    "type": "tv",
+    "title": "Larva Island",
+    "overview": "Stranded on a tropical island, two silly larva buddies find slapstick fun in everything from discovering food to meeting new animal friends.",
+    "year": "2018",
+    "rating": 7.118,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vlNvnatIn9js6yhwW8DLDSoLEY3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gV4RNc16gn4QOAa45hrcrfZ1CQm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1e4fjXeB2roEnrF9pp7JxIw6T5w.png",
+    "certificate": null,
+    "runTimeMinutes": 8,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US",
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80942",
+    "tmdbId": 80942,
+    "type": "tv",
+    "title": "Treehouse Detectives",
+    "overview": "When their animal friends need help, brother-and-sister team Toby and Teri use the clues and follow the facts to solve mysteries in their own backyard.",
+    "year": "2018",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cEL8yxzBQF2NGduJLEpcAbO1SOV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5PXG006gOnx9PnYEYgujjJO3Fjs.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "87848",
+    "tmdbId": 87848,
+    "type": "tv",
+    "title": "YooHoo to the Rescue",
+    "overview": "In a series of magical missions, quick-witted YooHoo and his can-do crew travel the globe to help animals in need.",
+    "year": "2019",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r2Z0VEw0FIkgx8JitDjseEiScEV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kIYGlAmeWma8j1eEJZfcVGhaEEl.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 14,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "IT",
+      "KR"
+    ],
+    "originalLanguage": ""
+  }
+]

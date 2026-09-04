@@ -1,0 +1,102 @@
+[
+  {
+    "id": "124873",
+    "tmdbId": 124873,
+    "type": "tv",
+    "title": "Lava Ka Dhaava",
+    "overview": "Actor Jaaved Jaafferi brings his signature humor to this Hindi dubbing of the show where teams creatively navigate rooms flooded with make-believe lava.",
+    "year": "2021",
+    "rating": 2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ycOv8rcqXypyV6pvVEnS031cc2M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4EhxtVm2T3KqaruLeStOQFuuDCv.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 34,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "86636",
+    "tmdbId": 86636,
+    "type": "tv",
+    "title": "Nailed It! Mexico",
+    "overview": "The fun, fondant and hilarious cake fails head to Mexico, where very amateur bakers compete to re-create elaborate sweet treats for a cash prize.",
+    "year": "2019",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e0cEPLAJdYkRBhrw4xsumnKv2HQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/89ZQH6TZmCDj7XWCnZOjL5LQopD.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 34,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "94884",
+    "tmdbId": 94884,
+    "type": "tv",
+    "title": "Nailed It! Spain",
+    "overview": "On this competition show, novice bakers try to avoid a fiasco while duplicating stunning sweets. At stake are a trophy and 5,000 euros.",
+    "year": "2019",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xU4wmOwIjDPrKmyGX0KM7Nbwz9L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sCsP4yxgmKLTDbHBet4yt77YLX7.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "106526",
+    "tmdbId": 106526,
+    "type": "tv",
+    "title": "Sing On! Germany",
+    "overview": "In this karaoke competition hosted by Palina Rojinski, contestants must hit the right note for a chance to win up to 30,000 euros.",
+    "year": "2020",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sWY50XUMFEQiEIqyQnTzrFREyrH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fybAmSvyqVWoA7pmK5U3SAKM82D.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 36,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105844",
+    "tmdbId": 105844,
+    "type": "tv",
+    "title": "Sing On! Spain",
+    "overview": "In this fast-paced, high-energy karaoke competition, singers from all walks of life battle it out for up to 30,000 euros!",
+    "year": "2020",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q45YSkw6mRtHAg0tJFKmYxlyVxe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AhbU9LGfvry6ZvCiAIx9Tjs9dAG.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  }
+]

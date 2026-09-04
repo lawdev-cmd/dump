@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1593",
+    "tmdbId": 1593,
+    "type": "movie",
+    "title": "Night at the Museum",
+    "overview": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+    "year": "2006",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/todcvBgNXRjqDwStr4IesruVFlF.png",
+    "certificate": "PG",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18360",
+    "tmdbId": 18360,
+    "type": "movie",
+    "title": "Night at the Museum: Battle of the Smithsonian",
+    "overview": "Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.",
+    "year": "2009",
+    "rating": 6.157,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zdhICEDUlBTQ43fQMa2KJt8fDFX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yBt6zaEjNtn5P6S9UZWiZlhbuIO.png",
+    "certificate": "PG",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1236419",
+    "tmdbId": 1236419,
+    "type": "movie",
+    "title": "Piece by Piece",
+    "overview": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xLGWvGTuVyr58XvCn3oy6kmqGxN.png",
+    "certificate": "PG",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

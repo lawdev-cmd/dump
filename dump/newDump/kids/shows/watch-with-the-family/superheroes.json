@@ -1,0 +1,103 @@
+[
+  {
+    "id": "65334",
+    "tmdbId": 65334,
+    "type": "tv",
+    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+    "year": "2015",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/drjzvXJirGntkYGRefs2pOapFCM.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "236994",
+    "tmdbId": 236994,
+    "type": "tv",
+    "title": "Dragon Ball DAIMA",
+    "overview": "Mysteriously transformed into mini versions of themselves, Goku and his friends travel to the Demon Realm to uncover the truth and find a cure.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lMULbSFZNXUC87MqOZQ4SSV9DXI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/HFAyXFb8VpdJCXZPylKo3jtNT8.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "116249",
+    "tmdbId": 116249,
+    "type": "tv",
+    "title": "Kid Cosmic",
+    "overview": "A boy's superhero dreams come true when he finds five powerful cosmic stones. But saving the day is harder than he imagined — and he can't do it alone.",
+    "year": "2021",
+    "rating": 7.847,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/88HdcCMumGqGAt2kR3vVOr8NYiA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3twr9PEWUxb6FHVZ8hzOaBpSh8u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kMuCfnXfQ7AMRzmjBGT2UBwbC9z.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231394",
+    "tmdbId": 231394,
+    "type": "tv",
+    "title": "Tales of the Teenage Mutant Ninja Turtles",
+    "overview": "The Turtles — Leo, Raph, Donnie and Mikey — each will go it alone for the first time. Faced with new threats and teaming up with old allies, the Turtles will discover who they really are when they don’t have their brothers at their sides.",
+    "year": "2024",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bTiPmPW4ZVmyFJNsxVK1UK3R96H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Z9CNuvglQwSuKmrhl3udpLSsd1.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71577",
+    "tmdbId": 71577,
+    "type": "tv",
+    "title": "The New Legends of Monkey",
+    "overview": "Follow a teenage girl and a trio of fallen gods on a perilous journey as they attempt to bring an end to a demonic reign of chaos and restore balance to their world. Inspired by the 16th Century Chinese fable “Journey to the West.”",
+    "year": "2018",
+    "rating": 7.13,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jwu04xIT0kNV9ZpVZ6wNBGPr0eG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ek8QmNFDU6mxGREanfwXH0Ol344.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wEWUEO2AiHZejv3PEIwwUVJcKCh.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "NZ",
+      "AU"
+    ],
+    "originalLanguage": ""
+  }
+]

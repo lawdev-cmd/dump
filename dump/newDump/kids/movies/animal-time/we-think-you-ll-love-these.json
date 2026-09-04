@@ -1,0 +1,795 @@
+[
+  {
+    "id": "522518",
+    "tmdbId": 522518,
+    "type": "movie",
+    "title": "A Dog's Journey",
+    "overview": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+    "year": "2019",
+    "rating": 8.046,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8mmprIGRvj4Bfqvrn3kXjKy8cql.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "381289",
+    "tmdbId": 381289,
+    "type": "movie",
+    "title": "A Dog's Purpose",
+    "overview": "A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.",
+    "year": "2017",
+    "rating": 7.638,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/njiJ5IbX4M7h7k5q1VxhiK8jMfT.png",
+    "certificate": "PG",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "508763",
+    "tmdbId": 508763,
+    "type": "movie",
+    "title": "A Dog's Way Home",
+    "overview": "The adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
+    "year": "2019",
+    "rating": 7.389,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w7MsyOpP003FYhsiTgVHa3rNsrz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/paEDq9mSUIve1inHpFalKjYECcL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CN",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "774810",
+    "tmdbId": 774810,
+    "type": "movie",
+    "title": "A Trash Truck Christmas",
+    "overview": "When Santa crash-lands in the junkyard on Christmas Eve, Hank, Trash Truck and their animal friends all have a hand in rescuing the holiday for everyone.",
+    "year": "2020",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2ZFZavJ8EMy6m0vtaHla4iamwqk.jpg",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "667520",
+    "tmdbId": 667520,
+    "type": "movie",
+    "title": "A Whisker Away",
+    "overview": "A peculiar girl transforms into a cat to catch her crush's attention. But before she realizes it, the line between human and animal starts to blur.",
+    "year": "2020",
+    "rating": 7.87,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6inkRM1XGBG5vRhclCPWfMenp7N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eHTZoXmB4vnDqANZXPZcdAiYQo5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/98l1Rgd2wOnm6q1FOQHSPEMzc5M.png",
+    "certificate": "PG",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "3126",
+    "tmdbId": 3126,
+    "type": "movie",
+    "title": "Alvin and the Chipmunks Meet Frankenstein",
+    "overview": "The Chipmunks work in an amusement park attraction. After Alvin drives a crazy tour group, they miss their next performance and are locked in the park after closing time. Little do they know that the real Dr. Frankenstein has been hired in a new attraction called, \"Frankenstein's Castle\"; figuring that the castle isn't scary enough, the mad scientist recreates the real Monster.",
+    "year": "1999",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hiXOFmWtxQ3LdrGgP2uOuR1DHBp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vsLwmFVWKg1qydVJDX5sA5psiCa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o6VlLd7USJ28AOLpX8BjxPfprhE.png",
+    "certificate": "G",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "786357",
+    "tmdbId": 786357,
+    "type": "movie",
+    "title": "Animals on the Loose: A You vs. Wild Movie",
+    "overview": "When there’s a power outage at a safari reserve, Bear Grylls is called and he needs your help. The situation is dire: an escaped lion is headed for a nearby village; a baboon has broken free and is going towards the sea cliffs, and the power must be restored before more animals escape.",
+    "year": "2021",
+    "rating": 5.798,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6ZkhIiJRYLzghOkHrA9X6dbcK3K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nVrI4mBlAl1qcxhiORM9m9tfOUZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rY2foXhuUTnKJLRBIXKjmcQWjC3.png",
+    "certificate": null,
+    "runTimeMinutes": 45,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "812456",
+    "tmdbId": 812456,
+    "type": "movie",
+    "title": "Barbie & Chelsea: The Lost Birthday",
+    "overview": "Barbie, Chelsea and their family go on a cruise ship for Chelsea's birthday. But when they cross the international date line skipping her birthday, Chelsea escapes to the jungle island to find a fabled wish and get her birthday back.",
+    "year": "2021",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dAmBnfCRBwy5S6n3Qb6aQKJYYRO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8wKvuN7BXLUlTw4karUlWmK2XcW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qsLV3cRMtLyWGcDclsGH1ohN1cn.png",
+    "certificate": "NR",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "495193",
+    "tmdbId": 495193,
+    "type": "movie",
+    "title": "Benji",
+    "overview": "Two school kids strike up a friendship with an orphaned puppy named Benji. When danger befalls them and they end up kidnapped by robbers who are in over their heads, Benji and his scruffy sidekick come to the rescue.",
+    "year": "2018",
+    "rating": 6.916,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/79pacM3h5FoETnfuRC6O2qPfzn4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eOkbeZ658RHVt7ULoFBqmesxEYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pcY0y3jZG2RFf6Trau43lcJ406y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "7443",
+    "tmdbId": 7443,
+    "type": "movie",
+    "title": "Chicken Run",
+    "overview": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop–even if they can’t fly! It’s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly…but, with teamwork, determination and a little bit o’ cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
+    "year": "2000",
+    "rating": 6.852,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2QGUE6u4M7sddXKpttgS4AP2GBC.png",
+    "certificate": "G",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "520758",
+    "tmdbId": 520758,
+    "type": "movie",
+    "title": "Chicken Run: Dawn of the Nugget",
+    "overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
+    "year": "2023",
+    "rating": 6.933,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eImY0cjbH0bll8EXSqxqEZIZcmY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1r22iNfynoE2Bkf6eLWC5CN7AMA.png",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "778855",
+    "tmdbId": 778855,
+    "type": "movie",
+    "title": "Chickenhare and the Hamster of Darkness",
+    "overview": "A brave young animal explorer teams up with two trusty friends to find a powerful artifact before his greedy uncle can get his paws on it.",
+    "year": "2022",
+    "rating": 7.222,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7neeXze9HB3MTxDYyh3wwysydMN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1IacMQHad0lluWDskDlt99YpTek.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "BE",
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "858408",
+    "tmdbId": 858408,
+    "type": "movie",
+    "title": "Dog Gone",
+    "overview": "When his beloved dog goes missing, a young man embarks on an incredible search with his parents to find him and give him life-saving medication.",
+    "year": "2023",
+    "rating": 6.226,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fMvLn5NetWkYqUSsWqx66qPPOG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qDzRz0hIK2nNFSvLz2rEyGL7KhQ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "723895",
+    "tmdbId": 723895,
+    "type": "movie",
+    "title": "Dragons: Rescue Riders: Secrets of the Songwing",
+    "overview": "When a musical dragon with a beautiful voice hypnotizes the dragons and people of Huttsgalor, the Rescue Riders have to find a way to break the spell.",
+    "year": "2020",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ECPZaRczTQiUgPtZzyOiHxlfbe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yKaKpY82MhGfwaiWquTfgaBWpns.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ceHuIxmycGpxGW4UaNfSlK471Oy.png",
+    "certificate": null,
+    "runTimeMinutes": 46,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "664236",
+    "tmdbId": 664236,
+    "type": "movie",
+    "title": "Extinct",
+    "overview": "Op and Ed, two adorable donut-shaped animals - flummels - accidentally time-travel from 1835 to modern-day Shanghai.  There they discover traffic, trans fats, and worst of all, that flummels are now extinct. It's up to this bumbling pair to save themselves and their species...and, just maybe, change the course of history.",
+    "year": "2021",
+    "rating": 6.195,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9cnHvJPXNNxhnxHdDWHIEmxoilF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iNS4ubDEgxD7j9iEJmwXNmu3TVh.png",
+    "certificate": null,
+    "runTimeMinutes": 84,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CN",
+      "CA",
+      "UA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "28178",
+    "tmdbId": 28178,
+    "type": "movie",
+    "title": "Hachi: A Dog's Tale",
+    "overview": "Professor Wilson discovers a lost Akita puppy on his way home. Despite objections from his wife, Hachi endears himself to the family and grows to be Parker's loyal companion. As their bond grows deeper, a beautiful relationship unfolds.",
+    "year": "2009",
+    "rating": 8.004,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/a5pOEjOLvr04Hr8qktIDM75OZi0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/449lMzfcZoS85ckCVWOpkrzvEnV.png",
+    "certificate": "G",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1003180",
+    "tmdbId": 1003180,
+    "type": "movie",
+    "title": "Inside the Mind of a Cat",
+    "overview": "Cat experts dive into the mind of the feline to reveal the true capabilities of the pouncing pet in this captivating and cuddly documentary.",
+    "year": "2022",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lqngTIvF2UdcK9uTZ8nLX3AfbHp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vVxkzboAYykG7hMwga50KN5gNfo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dRyHPwQhEiki2OvhK7Fevl1lKD8.png",
+    "certificate": null,
+    "runTimeMinutes": 67,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "663459",
+    "tmdbId": 663459,
+    "type": "movie",
+    "title": "Jungle Beat: The Movie",
+    "overview": "The Jungle Beat animals think it’s the best thing ever when an alien arrives in the jungle bringing with him the power of speech. They also surprisingly think it’s the best thing ever when they find out that he’s been sent to conquer them.",
+    "year": "2020",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eyPqSGbSldk0Sruujqe6xrQyctC.jpg",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "ZA",
+      "MU",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49444",
+    "tmdbId": 49444,
+    "type": "movie",
+    "title": "Kung Fu Panda 2",
+    "overview": "Po is finally living the dream as the Dragon Warrior—until a shadow from his past comes roaring back. When the ruthless peacock Lord Shen unleashes a devastating new weapon used to wipe out kung fu masters across the land, Po and the Furious Five race across China to put an end to his plans. But if Po is to have any hope of stopping him, he must first confront the truth of his origins—and find inner peace before his past tears him apart.",
+    "year": "2011",
+    "rating": 7.084,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/reHkSQwiYKK4SabnGDY1FWKie82.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n52KkzjoXr0WriwE2XTkD36gLLI.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "586954",
+    "tmdbId": 586954,
+    "type": "movie",
+    "title": "Latte and the Magic Waterstone",
+    "overview": "When a greedy bear steals a magic stone to keep the forest’s water for himself, a brave hedgehog and a timid squirrel must work together to retrieve it.",
+    "year": "2019",
+    "rating": 6.58,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/saxPKOrN6rNScTicLpBDZw58Cw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/poKtpiQ0akacXzXohWmtb0Z7nFD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t15OdJ8QXrkIx1KUBtWCqlmfk4O.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "678287",
+    "tmdbId": 678287,
+    "type": "movie",
+    "title": "Marmaduke",
+    "overview": "Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak and a penchant for mischief that is tempered with a deep sense of love and responsibility for his human family, the Winslows. The new animation is set in the world of elite dog shows, rife divas, rivalries and slapstick comedy.",
+    "year": "2022",
+    "rating": 5.01,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bMUhBeMp0vLQzaPBX0izFdnFvh0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9reeTZvfiRq2uUHyc6HGNBHhQPz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7HWxXVDsqB93c2x5GlMKthaWiFn.png",
+    "certificate": null,
+    "runTimeMinutes": 87,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1001997",
+    "tmdbId": 1001997,
+    "type": "movie",
+    "title": "My Little Pony: A New Generation: Sing-Along",
+    "overview": "A young pony makes a herd of new friends on a quest to bring magic back to her world in this sing-along version of \"My Little Pony: A New Generation.\"",
+    "year": "",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "726940",
+    "tmdbId": 726940,
+    "type": "movie",
+    "title": "Octonauts and the Caves of Sac Actun",
+    "overview": "The Octonauts embark on an underwater adventure, navigating a set of challenging caves to help a small octopus friend return to the Caribbean Sea.",
+    "year": "2020",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wlizMbZByBYPOC4i2AN64e4W1iM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zG4dbBx3oO37yBkmLCiG81FxAzW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uxw07vDXqO3qSxYTySucIWbE962.png",
+    "certificate": null,
+    "runTimeMinutes": 72,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "765684",
+    "tmdbId": 765684,
+    "type": "movie",
+    "title": "Octonauts & the Ring of Fire",
+    "overview": "In this film's adventure, a volcano erupts suddenly, suddenly awakening the Pacific Ocean floor of hundreds of volcanoes composed of the \"ring of fire\", this sudden event quickly turned into a global catastrophe.  The volcanic clusters that are about to erupt en masse threaten the horned whales washed ashore by the tsunami, the cap penguins living in the volcanic islands, the equipment of the small column maintenance station, the food planted by plant fish in the marine farms... Not to mention the plants and animals that live in the crater all year after year!",
+    "year": "2021",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w9JjP426mvDGo1YlpJjIbHFTyMR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gXNXD1eou71RWNUQx37bUbjbPmA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oYdKTHt30olvMz1kmo7nA52l1Ix.png",
+    "certificate": "G",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "382517",
+    "tmdbId": 382517,
+    "type": "movie",
+    "title": "Open Season: Scared Silly",
+    "overview": "The humans and animals believe a werewolf is on the loose, and former hunter Shaw uses the opportunity to re-open the season. Boog, Elliot, and Mr. Weenie have to face their fears and find the werewolf to get the season closed permanently.",
+    "year": "2015",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lvxznRSXxzmGGh4kicfmYvZhedK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ejEBQsgTQIWudUXLRIgcAVkFl3l.png",
+    "certificate": "PG",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1543542",
+    "tmdbId": 1543542,
+    "type": "movie",
+    "title": "Valiente: A Tracker Story",
+    "overview": "Tracker and Carlos come across a series of nocturnal animals fleeing the Shadow Jungle. Tracker, with the help from Ryder and the PAW Patrol, must brave his fear of the dark and stop a new villain, Lucita Mala.",
+    "year": "2025",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9BYv5epSgxgl293IlB8PsRVhd5a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6n9TvXnU9dbooBf0CIynTWyDPgV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iktNYOUEtzMPI28A6arXG1BEggX.png",
+    "certificate": null,
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1215165",
+    "tmdbId": 1215165,
+    "type": "movie",
+    "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
+    "overview": "Pinkfong and his friends enjoy the magic show put on by three cars in Wonder Village. But when danger appears, Hogi must be brave to save the day!",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zj2lUYtTyVVdJ9l7No6wERdNeso.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kAkZQxLbVaT8HLikMZ5rm58B4G5.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 42,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "921655",
+    "tmdbId": 921655,
+    "type": "movie",
+    "title": "Rescued by Ruby",
+    "overview": "Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.",
+    "year": "2022",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tPlJEodEn0SSV4avo8KSawtlTlN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zQG1FYDqoWo2hYhE5GVZ1yrWSfh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/peC67TPghLHPreE48sxEKRXfZI5.png",
+    "certificate": "G",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "765172",
+    "tmdbId": 765172,
+    "type": "movie",
+    "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+    "overview": "When a mysterious stranger arrives from the future with a dire warning, Leo is forced to rise and lead his brothers, Raph, Donnie, and Mikey in a fight to save the world from a terrifying alien species.",
+    "year": "2022",
+    "rating": 7.301,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rSmTqtb7gICeRwvsEmq0uJxR4XU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7Bp3zLFUNTvEapUMyshBpd5fnxm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9fjBU0xORugNyShtPokN0sTVhf1.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "878962",
+    "tmdbId": 878962,
+    "type": "movie",
+    "title": "Sharkdog’s Fintastic Halloween",
+    "overview": "The Sharkpack gets ready for Halloween with the spooky legend of the \"Fearsome Fog\" — and Sharkdog must save trick-or-treating from a slimy sea monster!",
+    "year": "2021",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/llKx3r1iKqkojnAhQpED0GZwqKL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9ikn33MeCpYyHN7apLj7QgQv0V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k43PuPPMQ8wvGmOQxFo66HXjUCE.png",
+    "certificate": null,
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1046032",
+    "tmdbId": 1046032,
+    "type": "movie",
+    "title": "The Bad Guys: A Very Bad Holiday",
+    "overview": "To keep their annual Holiday Heist-tacular afloat, Mr. Wolf and his crew of animal outlaws will have to restore the whole city's Christmas spirit — fast!",
+    "year": "2023",
+    "rating": 6.511,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/er0Gth3Tr279hFq1xeKdYxhcleO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pJ39ZYZQetpNXn4lSmjBoib4NZL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/owc6WzNvulSYoSAbSwqveY9gg8U.png",
+    "certificate": "G",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1329336",
+    "tmdbId": 1329336,
+    "type": "movie",
+    "title": "The Bad Guys: Haunted Heist",
+    "overview": "The crafty Bad Guys crew embarks on a high-stakes Halloween heist to swipe a priceless amulet from a spooky mansion. What could go wrong?",
+    "year": "2024",
+    "rating": 6.864,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oEJC05CqPugMxC4rFu9r6r6vg6m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rI9Mh0Q0XAtqTiSgKI0M2fflO1X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qxyng0c7B6Wsr5C4XOQKeJEMy4y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "15370",
+    "tmdbId": 15370,
+    "type": "movie",
+    "title": "The Cat Returns",
+    "overview": "Young Haru rescues a cat from being run over, but soon learns it's no ordinary feline; it happens to be the Prince of the Cats.",
+    "year": "2002",
+    "rating": 7.137,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hqeHcbtUWtv7CHInu5RNVNxpXCr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zOQuyXBmadCFFsBdIiQzEmgpkue.png",
+    "certificate": "G",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "832502",
+    "tmdbId": 832502,
+    "type": "movie",
+    "title": "The Monkey King",
+    "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
+    "year": "2023",
+    "rating": 6.489,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yhit94ENEliV14h63Zmr6QPUGpP.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "355547",
+    "tmdbId": 355547,
+    "type": "movie",
+    "title": "The Star",
+    "overview": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told: the first Christmas.",
+    "year": "2017",
+    "rating": 6.475,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gpVg9EA5tieNCxmPtx9KTbUKXrU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fAogmnHHvWBJgWM8PhYYcPy1fmV.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "927254",
+    "tmdbId": 927254,
+    "type": "movie",
+    "title": "The Twits",
+    "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+    "year": "2025",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1Fy8YhOXtQzzGJYqaaT1T7yT1O.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "54318",
+    "tmdbId": 54318,
+    "type": "movie",
+    "title": "The Water Horse",
+    "overview": "A lonely boy discovers a mysterious egg that hatches a sea creature of Scottish legend.",
+    "year": "2007",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/h9DV6KItNutJmrPzT1xrAO6fIzy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pz38t7dTtW6iNTGtiyL53M7cCw0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lL6J1GcF0gs6RhY8Z8s0rS9O9SR.png",
+    "certificate": "PG",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "NZ",
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "739547",
+    "tmdbId": 739547,
+    "type": "movie",
+    "title": "Thelma the Unicorn",
+    "overview": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
+    "year": "2024",
+    "rating": 6.893,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTLui31dSW2VGWHZAnb01wpHGFV.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "929204",
+    "tmdbId": 929204,
+    "type": "movie",
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
+    "year": "2024",
+    "rating": 7.457,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/XNVdWNgiAHu8y4BsJv5ndUHXxN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/z0UHH5rpIQZbl5jxUyG7sYYU9LN.png",
+    "certificate": "PG",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  }
+]

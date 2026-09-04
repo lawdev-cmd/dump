@@ -1,0 +1,102 @@
+[
+  {
+    "id": "654580",
+    "tmdbId": 654580,
+    "type": "movie",
+    "title": "A Family Reunion Christmas",
+    "overview": "M'Dear and her sisters struggle to keep their singing act together before a church Christmas pageant while Grandpa teaches the kids a valuable lesson.",
+    "year": "2019",
+    "rating": 5.862,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dQBdhl5ogydQVjoWIqagC6jJPzi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2XmXiRq1GRC0thJN0YUzzYiGLBY.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 29,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "874104",
+    "tmdbId": 874104,
+    "type": "movie",
+    "title": "A StoryBots Space Adventure",
+    "overview": "Join the StoryBots and the space travelers of the historic Inspiration4 mission as they search for answers to kids' questions about space.",
+    "year": "2021",
+    "rating": 2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/49Tbnvhw3wFdXPwh4K6t6UOHkpi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/r3G7xVbzCSi6tmtqVYul7AvD34E.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dmf4WKFMxDCmwJvf84msJfrvLjO.png",
+    "certificate": null,
+    "runTimeMinutes": 12,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "494092",
+    "tmdbId": 494092,
+    "type": "movie",
+    "title": "Beat Bugs: All Together Now",
+    "overview": "After winning a local talent show, the Beat Bugs journey to compete on \"The Bug Factor,\" a televised singing contest held in faraway Rocket Ship Park.",
+    "year": "2017",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AeFFvbzD4gSwrwS0Wk1CY3mQLZb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i8Avugwcldk0dg1pPTZ6w2Gtx1w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/slvjnVVZdjeLmKQkPsZUyVqueww.png",
+    "certificate": null,
+    "runTimeMinutes": 50,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "552752",
+    "tmdbId": 552752,
+    "type": "movie",
+    "title": "Super Monsters Save Halloween",
+    "overview": "It's Halloween in Pitchfork Pines, but the neighbors don't seem to be in the mood. Can the Super Monsters save their favorite holiday?",
+    "year": "2018",
+    "rating": 6.05,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yJqwIglIQpFeDjT9RQ6VFHTjO5d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y4ZyK00aVmq7hmKxZQcTNz7IVRg.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "835739",
+    "tmdbId": 835739,
+    "type": "movie",
+    "title": "Super Monsters: Once Upon a Rhyme",
+    "overview": "From Goldilocks to Hansel and Gretel, the Super Monsters reimagine classic fairy tales and favorite nursery rhymes with a musical, magical spin!",
+    "year": "2021",
+    "rating": 6.07,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/unIkHTdCEIdHdtmWjEwfv7Ifllk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eK6eBzp7m7WZYaJ3iAnjdPDngiP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ojrTTgnmJFMzoo9ILxunUjzMXyS.png",
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

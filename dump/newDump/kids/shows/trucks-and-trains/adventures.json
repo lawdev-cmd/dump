@@ -1,0 +1,103 @@
+[
+  {
+    "id": "110317",
+    "tmdbId": 110317,
+    "type": "tv",
+    "title": "Mighty Express",
+    "overview": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!",
+    "year": "2020",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3gTMeeuiiAhiUmnyxwKeMSz5vcl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f9MkS25FLS3Fty39HQVpWpfEYip.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/I6ZlQnKiGHYH79pMDVvUrflT3n.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "772732",
+    "tmdbId": 772732,
+    "type": "movie",
+    "title": "Mighty Express: A Mighty Christmas",
+    "overview": "The Mighty Express welcomes a new train and speeds into a snowstorm to deliver Santa’s presents and save Christmas for all the kids in Tracksville.",
+    "year": "2020",
+    "rating": 4.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qhBKAkLCGfQxaLC1BgV5N4nVQa0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z3Y1u80O9WIZ6cwYUOICxJQdCth.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTSxEOa1pYbAeWGrqrBCyUFFhHo.png",
+    "certificate": null,
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "928296",
+    "tmdbId": 928296,
+    "type": "movie",
+    "title": "Mighty Express: Train Trouble",
+    "overview": "A sneaky duo has tricked the trains and taken over Mission Station! Can Flicker flex his skills on the tracks to rescue his friends and save the day?",
+    "year": "2022",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8afntC3tL5wrysrjAZBwMhdnhPS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aoWejTg8QHD91k30FG1r1CLNmdC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v9v3pQua39H08abwsrYtgbY7Yoi.png",
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "286920",
+    "tmdbId": 286920,
+    "type": "tv",
+    "title": "魔法校车再次启程",
+    "overview": "",
+    "year": "2018",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/54pQmZUrVGkmdmhZV6rWY1utUqd.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "754310",
+    "tmdbId": 754310,
+    "type": "movie",
+    "title": "The Magic School Bus Rides Again: The Frizz Connection",
+    "overview": "Lightning splits the Magic School Bus into three pieces, scattering the class across the globe with different versions of Ms. Frizzle aboard each bus!",
+    "year": "2020",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qEjX59uTeK13PnHFDJ1qMSyTJt7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wQSlBiEb100sxBbzPdbXnCLJxGe.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 44,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

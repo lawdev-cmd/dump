@@ -1,0 +1,801 @@
+[
+  {
+    "id": "84154",
+    "tmdbId": 84154,
+    "type": "tv",
+    "title": "3Below: Tales of Arcadia",
+    "overview": "After crash-landing on Earth, two royal teen aliens on the run struggle to blend in with humans as they evade intergalactic bounty hunters.",
+    "year": "2018",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eWoplw8QJhSGDnhyYCrs9OugdTj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/smryg5G3vkCImoQsPYrBSByOkOt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qiMuu8J1G3w9wp6vPz1lWlGi1hs.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "65334",
+    "tmdbId": 65334,
+    "type": "tv",
+    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+    "year": "2015",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/drjzvXJirGntkYGRefs2pOapFCM.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "654580",
+    "tmdbId": 654580,
+    "type": "movie",
+    "title": "A Family Reunion Christmas",
+    "overview": "M'Dear and her sisters struggle to keep their singing act together before a church Christmas pageant while Grandpa teaches the kids a valuable lesson.",
+    "year": "2019",
+    "rating": 5.862,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dQBdhl5ogydQVjoWIqagC6jJPzi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2XmXiRq1GRC0thJN0YUzzYiGLBY.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 29,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "101836",
+    "tmdbId": 101836,
+    "type": "tv",
+    "title": "Absurd Planet",
+    "overview": "A cast of quirky critters and Mother Nature herself narrate this funny science series, which peeks into the lives of Earth's most incredible animals.",
+    "year": "2020",
+    "rating": 5.033,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zhOeImIxEoNERkokViRBK5jKItO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eV8nNWzA5vWbIHlbYyw27v4YfkE.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "236447",
+    "tmdbId": 236447,
+    "type": "tv",
+    "title": "Baby Animal Cam",
+    "overview": "Keep an eye on the daily routines, quirky habits and cozy habitats of several baby animals at Cleveland Metroparks.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mQctaVyOwTQuBuz78ZRpvqSq3si.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ZN6q3vwjLXwJwiDalA9CTouRzL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/apdydN9TNN4QZwSC0bTvPTGbGvv.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": null,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "131830",
+    "tmdbId": 131830,
+    "type": "tv",
+    "title": "Dive Club",
+    "overview": "On the shores of Cape Mercy, a skillful group of teen divers investigate a series of secrets and signs after one of their own mysteriously goes missing.",
+    "year": "2021",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n0pmXgbBepjIcE93g5OeqdCfZ60.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wwxRZk3wsnC3HsO0nfDxXM5shDV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 27,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "211084",
+    "tmdbId": 211084,
+    "type": "tv",
+    "title": "Easy-Bake Battle: The Home Cooking Competition",
+    "overview": "Talented home cooks put their skills and creativity to the test making fast and easy dishes that are wildly delicious — and worthy of a big cash prize.",
+    "year": "2022",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5gL3f66XCah2tjHN9P6KNLtPYOb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jvzSVkQjC0I8TxRs5yMgSFjw2xJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wQW7xs5XSQjxdTiZeJidNVnlNoj.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "252605",
+    "tmdbId": 252605,
+    "type": "tv",
+    "title": "Geek Girl",
+    "overview": "Awkward teen Harriet has always wanted to fit in. Until she gets scouted by a top London model agent and learns that some people are meant to stand out.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g9v0yiDRpx6KQ3EGKDSAdFoNN0y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/os8wDJd1mux77dwDEZ4ZNgFHg2X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mkvrcOvhwFbuVrXXzdBc43GhlY6.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 37,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "96659",
+    "tmdbId": 96659,
+    "type": "tv",
+    "title": "He-Man and the Masters of the Universe",
+    "overview": "Mighty teen Adam and his heroic squad of misfits discover the legendary power of Grayskull — and their destiny to defend Eternia from sinister Skeletor.",
+    "year": "2021",
+    "rating": 7.092,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/khU0nt0PAbX0t6IpBBvTxm1uzoZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A4KK6HthXvDMYRJekrM1GF6sH7y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wjiruTNw0zUD9Bx0iBO97e3BvMK.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "89221",
+    "tmdbId": 89221,
+    "type": "tv",
+    "title": "Holly Hobbie",
+    "overview": "Holly's a 13-year-old singer-songwriter who's got her best friends and close-knit family by her side, but she's dreaming of ways to save the world - even if it's starting in her own backyard.",
+    "year": "2018",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xqN1haLzynIyZHs0GmgRGQELA5m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cLdFj4nRfihLxpGsqGwWwuefNji.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/seDRHyIIElHku5IMwzA0HlpOADR.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "275144",
+    "tmdbId": 275144,
+    "type": "tv",
+    "title": "Is It Cake? Holiday",
+    "overview": "Cake artists from past seasons return to craft tasty replicas of ice skates, nutcrackers and more in this holiday spin on the mind-bending baking contest.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5y6anTg9PUjsSVDfNmIHWntb2Z6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/961OPA1TxyLY3KA5i846K19F0wF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8DEvcsKpyWoYjI5GOmSap7yeKsK.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "211694",
+    "tmdbId": 211694,
+    "type": "tv",
+    "title": "Island of the Sea Wolves",
+    "overview": "Explore wild, wondrous Vancouver Island, where the ocean nurtures all life, from bald eagles who go fishing to sea wolves who swim in frigid waters.",
+    "year": "2022",
+    "rating": 8.424,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/czorJe5tld7NUBwZubwxDZksxrL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vXfTNHU5oBYjatT5oP7v5nV9M2Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yIHkpmzJI3WD8D3mjCQMCyJ3kGw.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "223447",
+    "tmdbId": 223447,
+    "type": "tv",
+    "title": "Jentry Chau vs the Underworld",
+    "overview": "As her 16th birthday approaches, a not-so-average teen rediscovers the fiery powers she's long suppressed and is forced to face her demons — literally.",
+    "year": "2024",
+    "rating": 8.125,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gCVwVPOajqfILlAUwKGmNwVZofb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dF5O0dEvxf95FgNMGqYnieExyrw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7yQDDDmWgjwWPTnzQRBbRQLbgiG.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "116249",
+    "tmdbId": 116249,
+    "type": "tv",
+    "title": "Kid Cosmic",
+    "overview": "A boy's superhero dreams come true when he finds five powerful cosmic stones. But saving the day is harder than he imagined — and he can't do it alone.",
+    "year": "2021",
+    "rating": 7.847,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/88HdcCMumGqGAt2kR3vVOr8NYiA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3twr9PEWUxb6FHVZ8hzOaBpSh8u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kMuCfnXfQ7AMRzmjBGT2UBwbC9z.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "226548",
+    "tmdbId": 226548,
+    "type": "tv",
+    "title": "Luz: The Light of the Heart",
+    "overview": "Raised by a kind Kaingang family, adventurous young schoolgirl Luz launches a quest with her firefly companion to learn the truth about her roots.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fRkKzozAyGqypquAQfSDwFF4UtJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/687pxRnMeAnVGO5FUdTCtRizOju.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jmhFrPx5d03HKd8OpNJ8aF2FpiR.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "157429",
+    "tmdbId": 157429,
+    "type": "tv",
+    "title": "Making Fun",
+    "overview": "Grumpy expert maker Jimmy DiResta fields kids' ideas for delightfully pointless inventions. Then — if he's in the mood — he and his pals build 'em.",
+    "year": "2022",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pY8p4kFwnTyBq71MsvvV2ZFfrDA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2UrzxbP8o5EqigwrVTVMVWYsuGp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lRd5dJmQxfN98xThm9I1ka9DZpJ.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "85958",
+    "tmdbId": 85958,
+    "type": "tv",
+    "title": "Malibu Rescue: The Series",
+    "overview": "On the heels of Junior Rescue training, Team Flounder returns to brave the beach in a series of thrilling saves and lighthearted laughs.",
+    "year": "2019",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w9eJhVAEe5HjWLmd5OlaAEdY2q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tr9aXuF5IdVZOMTwTOynwTSk8qs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/baHR8Nq94yt2mlhOzEdA0iM0AOh.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "97861",
+    "tmdbId": 97861,
+    "type": "tv",
+    "title": "Night on Earth",
+    "overview": "This nature series’ new technology lifts night’s veil to reveal the hidden lives of the world’s creatures, from lions on the hunt to bats on the wing.",
+    "year": "2020",
+    "rating": 7.364,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dKrX0hF1CqLWlCXnksd7jvrb7tw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bIerlT4nsDmjzOAe8k1zfIIWouW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/keKk8v2zugmMwPVRI4rB42YBknC.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "82578",
+    "tmdbId": 82578,
+    "type": "tv",
+    "title": "No Good Nick",
+    "overview": "A family finds their lives turned upside down when a young, street-smart grifter shows up on their doorstep, claiming to be a distant relative.",
+    "year": "2019",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eBXPszS99LKPni5SKDykuWJJrYF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aEsT1ZQD6rX0fessdZIj69sS3yC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vQQkEUz8IjU5jv0iHZwIkla0NCq.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "213612",
+    "tmdbId": 213612,
+    "type": "tv",
+    "title": "Our Living World",
+    "overview": "This stunning nature series narrated by Cate Blanchett explores the intelligence, resourcefulness and interconnectedness of life on our planet.",
+    "year": "2024",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1xUhIpdJOna0vGmUohTC9hnWaRj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9PIHPiRpbzypAogGzS3iAfIEVOr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7X8SaMLJ2yCktgLGAhgBnxqIVF8.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "125970",
+    "tmdbId": 125970,
+    "type": "tv",
+    "title": "Penguin Town",
+    "overview": "In a picturesque South African town, an eclectic group of endangered penguins flock together to find mates, raise families and mix with the locals.",
+    "year": "2021",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/36C5wgMbDJcGhVfRuzNxqbyFxHG.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ZA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "121629",
+    "tmdbId": 121629,
+    "type": "tv",
+    "title": "Pet Stars",
+    "overview": "Follow talent management company Pets on Q as they work with the biggest animal influencers on social media in this reality series.",
+    "year": "2021",
+    "rating": 5.857,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8tKNS1XV0DlhT1FIOLqTYOtrF0p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m592cjYFNIDlKEcRzF7vT5hGcCD.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 29,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79892",
+    "tmdbId": 79892,
+    "type": "tv",
+    "title": "Ponysitters Club",
+    "overview": "A young horse enthusiast teams up with her best friends to rescue and rehabilitate animals on her family's beloved ranch.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wmxiMKMMBUa6HD27p1IqGrpNLYV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6K4cuIAhm8lb49CzTwpJsPnhW4P.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 23,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196511",
+    "tmdbId": 196511,
+    "type": "tv",
+    "title": "Rebel Cheer Squad: A Get Even Series",
+    "overview": "The old DGM might have left Bannerman School, but their spirit remains, and there is still a need to get even, wrongs must be righted and injustice has to be fought.",
+    "year": "2022",
+    "rating": 6.817,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7a0milHiNVtENcf4XEPLXQcumA1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xqrKi3mcKLKbvF7z9qmh0Yfp5ua.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/czdr4B8IHeIQrEfgw8Y0NHXFgci.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "299483",
+    "tmdbId": 299483,
+    "type": "tv",
+    "title": "RIV4LRIES",
+    "overview": "At a middle school in Pisa, no one has ever challenged the cool kids — until new girl Terry arrives with bold ideas and the rivalries begin.",
+    "year": "2025",
+    "rating": 7.385,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AgZPHkdb4WpXB3fWNfLaMKbG9ML.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/o3JEK4huTYM3OFv18RlhmO9bwd.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "245782",
+    "tmdbId": 245782,
+    "type": "tv",
+    "title": "Secret World of Sound",
+    "overview": "Anthony Morgan explores the extraordinary ways that animals hear and produce sound, and the crucial role sound plays in the lives of animals around the globe - from birth to surviving adulthood and finding a mate.",
+    "year": "2024",
+    "rating": 8.182,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xNvSfPXty29S7SuBpvp8Thg0EJ7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/71o0D7vgNGxQgkuDBKuCmjwRK8x.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/csP0P5aP9E7ZuiAzgdoRXHfOiMm.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "785545",
+    "tmdbId": 785545,
+    "type": "movie",
+    "title": "Shaun the Sheep: The Flight Before Christmas",
+    "overview": "Shaun's seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?",
+    "year": "2021",
+    "rating": 6.973,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1eh6Yv6bAU2ghHxP1zgUlMfaOR3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/inxcSsT0zEmeRtAFvSLFo1kDGHR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8pyzUYe3yeWZeywgegO3cY39ZR3.png",
+    "certificate": "G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "109293",
+    "tmdbId": 109293,
+    "type": "tv",
+    "title": "Sing On!",
+    "overview": "In this fun, fast-paced music contest hosted by Tituss Burgess, players sing their hearts out and try to hit the right notes to win up to $60,000.",
+    "year": "2020",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5w4JELVuDiDA3dfijqriBI0qHCk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z0jOGGfO3t00XYD3b4vfJgoHlDi.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "213254",
+    "tmdbId": 213254,
+    "type": "tv",
+    "title": "Snack vs Chef",
+    "overview": "Twelve chefs channel their inner food scientists to re-create classic snacks and invent their own original treats for a $50,000 prize.",
+    "year": "2022",
+    "rating": 5.455,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5wSrfDKiQfjKmXg6qkVkpNWCXTJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rS6wzKi1AiQZ21niWpn42oBH6fE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wZuPUhbakBkJe3qESuSh4eUw60B.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80341",
+    "tmdbId": 80341,
+    "type": "tv",
+    "title": "Sugar Rush",
+    "overview": "A relentlessly fast-paced baking competition that challenges brilliant bakers to create sweet treats that look and taste amazing – all against the clock. Who will race to the finish and win $10,000?",
+    "year": "2018",
+    "rating": 6.825,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e6acuhLK1eGaJy46uqJJE8q6MhP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6Vr2dQ5liZ10pPgJ1C3oJ5Kx0N7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lxyISGSJ5tcLrx6Y1P4HjWfIu4s.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "131061",
+    "tmdbId": 131061,
+    "type": "tv",
+    "title": "The List",
+    "overview": "Patricia died mysteriously at a party, suddenly all of her friends are connected within \"The_List\" where they need to make tasks to accomplish what Patricia dreamt.",
+    "year": "2021",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ylTSrpR1WtxWegF5Sp0H4LJVxBW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tTIqWJ8ve6ki3tzLmtrAlilzog9.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 35,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "PT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "230815",
+    "tmdbId": 230815,
+    "type": "tv",
+    "title": "The Big Nailed It Baking Challenge",
+    "overview": "In this high-stakes \"Nailed It!\" spinoff competition, 10 novice bakers pick up tips from professional coaches while vying for a sweet cash prize.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qxtNHmprUZPpBoseCKtXkBRqYMA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k5RxBfa46MAZSoGAhLbLncS1Xc1.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "97441",
+    "tmdbId": 97441,
+    "type": "tv",
+    "title": "The Healing Powers of Dude",
+    "overview": "Noah, an 11-year-old boy with social anxiety disorder, has to start middle school, he turns to a mutt named Dude, a sarcastic emotional support dog who might need Noah as much as Noah needs him.",
+    "year": "2020",
+    "rating": 7.112,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oM3TaNKBnq8O8cDcuhrDUtY6pDk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9Ux4JGdnrLXoB01tp2npiJLgb42.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "155973",
+    "tmdbId": 155973,
+    "type": "tv",
+    "title": "The Secret Life of Our Pets",
+    "overview": "With the help of the latest science and new camera technology, this exciting show reveals that our pets are hiding incredible superpowers and quirks of evolution.",
+    "year": "2022",
+    "rating": 7.481,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9mjy3XxZwcQVBtCrh7whVUb4kiU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AuFTBI51u1hTgTnfgG0MeJVysav.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xlPuHCnNkfSd3jrNWo22JyH1S45.png",
+    "certificate": null,
+    "runTimeMinutes": 32,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79431",
+    "tmdbId": 79431,
+    "type": "tv",
+    "title": "The Who Was? Show",
+    "overview": "Fresh voices bring some of the most famous names in history to life. A live-action sketch comedy show based on the series of best-selling books.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pX1xOMRtlsg6YguO12AJDVl4T8K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/r5RHXL2VZmIZ78Ar1fCfBiDIpFY.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [],
+    "originalLanguage": ""
+  },
+  {
+    "id": "106514",
+    "tmdbId": 106514,
+    "type": "tv",
+    "title": "Tiny Creatures",
+    "overview": "Little animals embark on big adventures across the U.S. in a dramatic nature series that explores their hidden worlds and epic survival stories.",
+    "year": "2020",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1sZPEDnltNC1v0Nacv4qHpQ3sXN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gWaC0d9BoA5rNQ9cV55cPi4BCg8.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "117682",
+    "tmdbId": 117682,
+    "type": "tv",
+    "title": "Transformers: War for Cybertron: Earthrise",
+    "overview": "While Megatron takes drastic measures to save the Decepticons, the Autobots fight to save all of Cybertron from both on the planet and aboard the Ark.",
+    "year": "2020",
+    "rating": 7.79,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/63E619RuPL9EUjPzVTWCs2jUChl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6USilErg8aOh2en3ozjjquOrAL0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hBgLePeVC4hZRhbWzXa9vXCreNO.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "128255",
+    "tmdbId": 128255,
+    "type": "tv",
+    "title": "Transformers: War for Cybertron: Kingdom",
+    "overview": "The frantic race to locate the Allspark first culminates on a strange planet as the future comes crashing through to the present day.",
+    "year": "2021",
+    "rating": 7.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r2IouRpN9IXMyY8RX0YnJhkCirE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n0FYv29sC8R2vX4ZkzTzosMGTW8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rjTnqEGhi0PYgy9DqhWBWcpXiVT.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "100617",
+    "tmdbId": 100617,
+    "type": "tv",
+    "title": "Transformers: War for Cybertron: Siege",
+    "overview": "On their dying planet, the Autobots and Decepticons battle fiercely for control of the AllSpark in the Transformers universe's origin story.",
+    "year": "2020",
+    "rating": 7.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lBUPQLk9gEg8Mg6noHcew8Aag0M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r8JeG77GjYVoLBBVm80WK1uqTBB.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69886",
+    "tmdbId": 69886,
+    "type": "tv",
+    "title": "Ultimate Beastmaster",
+    "overview": "In this intense obstacle course series, elite athletes from the U.S. and other countries compete for cash prizes, individual glory and national pride.",
+    "year": "2017",
+    "rating": 5.965,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fTyEg49HD4ekxdgYtcIL9pw2gfB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8vtsgp1BT5L4paj1aHMLOILIRmH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lHXNSnJnbjY3FjdUvMFCXMfArDT.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

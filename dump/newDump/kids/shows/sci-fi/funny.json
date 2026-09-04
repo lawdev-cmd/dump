@@ -1,0 +1,242 @@
+[
+  {
+    "id": "874104",
+    "tmdbId": 874104,
+    "type": "movie",
+    "title": "A StoryBots Space Adventure",
+    "overview": "Join the StoryBots and the space travelers of the historic Inspiration4 mission as they search for answers to kids' questions about space.",
+    "year": "2021",
+    "rating": 2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/49Tbnvhw3wFdXPwh4K6t6UOHkpi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/r3G7xVbzCSi6tmtqVYul7AvD34E.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dmf4WKFMxDCmwJvf84msJfrvLjO.png",
+    "certificate": null,
+    "runTimeMinutes": 12,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "107422",
+    "tmdbId": 107422,
+    "type": "tv",
+    "title": "Alien TV",
+    "overview": "Alien reporters Ixbee, Pixbee and Squee travel to a lovely but odd planet called Earth, where they attempt to make sense of humans and their hobbies.",
+    "year": "2020",
+    "rating": 6.57,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qqSDgXn18t1j3OUPem92vfUd7CU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/30bSx8hWIn9u1Ch9UbB5riA1MBf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q9rI6rggGsO7tua4hsthFy1mL7R.png",
+    "certificate": null,
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "136752",
+    "tmdbId": 136752,
+    "type": "tv",
+    "title": "Dogs in Space",
+    "overview": "In the not-so-distant future, genetically enhanced dogs are sent across the universe in search of a new home for the human race. It’s a giant cosmic game of fetch, as the canines seek a planet that will save humanity and - more importantly - let them return to their beloved owners.",
+    "year": "2021",
+    "rating": 7.591,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wyrX626w311nbLfmG2JXewUjmFi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dAZhSv2WNauhQyEo9KaxH3dEdr8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hBbgFearQ1YmqcUeYVpOXNY3bAL.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "82199",
+    "tmdbId": 82199,
+    "type": "tv",
+    "title": "Find Me in Paris",
+    "overview": "When Lena Grisky, a Russian Princess and student at the Paris Opera Ballet School accidentally time travels to present day, she must quickly adapt if she hopes to keep her secret and hide from the dangerous Time Collectors.",
+    "year": "2018",
+    "rating": 7.981,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uOTYMzTlXFbWDZCxxc0vX9CvBsl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4II1SxAXSCrFqJfyuiOhRozTZqc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3KgOx9fvN6Gn8QT5fvPM2x432B3.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "116249",
+    "tmdbId": 116249,
+    "type": "tv",
+    "title": "Kid Cosmic",
+    "overview": "A boy's superhero dreams come true when he finds five powerful cosmic stones. But saving the day is harder than he imagined — and he can't do it alone.",
+    "year": "2021",
+    "rating": 7.847,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/88HdcCMumGqGAt2kR3vVOr8NYiA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3twr9PEWUxb6FHVZ8hzOaBpSh8u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kMuCfnXfQ7AMRzmjBGT2UBwbC9z.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "253635",
+    "tmdbId": 253635,
+    "type": "tv",
+    "title": "Larva in Mars",
+    "overview": "Landing on Mars after a silly mishap, goofy larva friends Red and Yellow encounter curious Martians — and a sinister secret.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jMNgWZ1aS0uGZLPu3iSuUJC0PMy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m5QF2wVOe12rX0muJKbMvUakkX7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zmMM8pRQgZ977UjxY2FvuEOK4ZG.png",
+    "certificate": null,
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "157221",
+    "tmdbId": 157221,
+    "type": "tv",
+    "title": "My Dad the Bounty Hunter",
+    "overview": "An intergalactic bounty hunter takes dad duty to new extremes when his two kids accidentally hitch a ride with him to outer space and crash his mission.",
+    "year": "2023",
+    "rating": 8.197,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b9DLPEpoeXH4CGgOAXVIXW9cd8p.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rFBl78BPhW9T6slRbzA7izgwQ7U.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10926",
+    "tmdbId": 10926,
+    "type": "tv",
+    "title": "Sonic X",
+    "overview": "After getting stranded on Earth, Sonic and his friends team up with 12-year-old Chris Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.",
+    "year": "2003",
+    "rating": 7.593,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1EFqCQv0td8LMogXCpNEAW3uxgL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8Ep5ppQvqFvaMQrX3ENmM4jpNPI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcQf1UyyLqxZMpjE6FtegrM2TbN.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158138",
+    "tmdbId": 158138,
+    "type": "tv",
+    "title": "Super Giant Robot Brothers",
+    "overview": "Once the squabbling stops, the battling begins! Robot siblings Shiny and Thunder and their whiz inventor must defend Earth when space monsters attack.",
+    "year": "2022",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1ysuYGkRtZgaP4mL9nbRmCU3vMd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/umEbsUumuh1r0iSPA9X3LQ0PjHQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/imSHOpDFlUcFKUTpndd0tpSqDo1.svg",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "194682",
+    "tmdbId": 194682,
+    "type": "tv",
+    "title": "Super PupZ",
+    "overview": "Four pups with superpowers team up to help their new friends and a furry alien comrade in this cuddly, cosmic adventure.",
+    "year": "2022",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/c8BGHRMBA7zBGI6LnbfG9DX3BG7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/t4qNuB3DWDSJ3RtwfLAutZM58RI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cBKpAMWV9q72Hvj0CDj2rAwtHib.png",
+    "certificate": null,
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231394",
+    "tmdbId": 231394,
+    "type": "tv",
+    "title": "Tales of the Teenage Mutant Ninja Turtles",
+    "overview": "The Turtles — Leo, Raph, Donnie and Mikey — each will go it alone for the first time. Faced with new threats and teaming up with old allies, the Turtles will discover who they really are when they don’t have their brothers at their sides.",
+    "year": "2024",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bTiPmPW4ZVmyFJNsxVK1UK3R96H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Z9CNuvglQwSuKmrhl3udpLSsd1.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "125574",
+    "tmdbId": 125574,
+    "type": "tv",
+    "title": "Transformers: BotBots",
+    "overview": "When the lights go out at the mall, the BotBots come out to play! Meet a fun-loving crew of everyday objects that morph into robots at closing time.",
+    "year": "2022",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hKtDA3GG3puz5DGnieFCNRGPpjK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kAPCuMSCAI65XmUX2WeMtem2b3V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Aqkm69oh0r477AnrxppknfbT3qi.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

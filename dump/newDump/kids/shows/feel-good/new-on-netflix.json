@@ -1,0 +1,102 @@
+[
+  {
+    "id": "328629",
+    "tmdbId": 328629,
+    "type": "tv",
+    "title": "Camp CrunchLabs",
+    "overview": "Have a blast this summer at Camp CrunchLabs, where Mark Rober's serving up space-themed science experiments with special guests and at-home challenges!",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wTuHNL0WIfwmceKgLHuffmErRDh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nj8ZmQvZRrIWQVBm6XtOKS2Hdtq.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 13,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "258124",
+    "tmdbId": 258124,
+    "type": "tv",
+    "title": "Danny Go!",
+    "overview": "Danny Go! is a live-action educational children’s show filled with music, learning and silliness. Created in 2019 by 3 childhood friends in Charlotte, North Carolina, the purpose of the show is to inspire creativity, confidence and kindness in kids from ages 2-7.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kdf8S6J2z4FfXKhlM5x8UUeJCjD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zchJPiSX8b7N1af3GtZ3ER5E3kB.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 9,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46080",
+    "tmdbId": 46080,
+    "type": "tv",
+    "title": "Masha and the Bear",
+    "overview": "Masha is an energetic three-year-old who can’t seem to keep herself out of trouble. Bear is a warm, fatherly figure that does his best to guide his friend and keep her from harm, often ending up the unintended victim of her misadventures.",
+    "year": "2009",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wPkeRunw71Mm10xQYKAwGG0NLgt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p40HTF1FdcZrdZvY4to8MrC6Stv.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "318906",
+    "tmdbId": 318906,
+    "type": "tv",
+    "title": "Salish & Jordan Matter",
+    "overview": "Follow father and daughter Jordan and Salish through wild situations and extreme challenges in this compilation of classic family moments.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7OAira31G4FLCG64cIdUe9R7UIj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d8tVPtlvJ4219WknD3GvPmxg3Xh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/evnU5Gg0dX7hCivD8D6TSO2StiI.png",
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "502",
+    "tmdbId": 502,
+    "type": "tv",
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "year": "1969",
+    "rating": 7.122,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b4ZhunEpCI8NsPP4UeUs3spN6U.svg",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

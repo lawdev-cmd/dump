@@ -1,0 +1,805 @@
+[
+  {
+    "id": "231728",
+    "tmdbId": 231728,
+    "type": "tv",
+    "title": "7 Bears",
+    "overview": "Forget the Seven Dwarfs — here come the 7 Bears! This lovable pack of furballs is putting a fuzzy twist on the classic fairy tales you thought you knew.",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/voK3P84shtv4Nqaz4qzozcndgDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8aIy81OdhFWCBgu6DBU2T4ReiQE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aqDjVqmpoUp4al4OlUnD9U4ANtA.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "133355",
+    "tmdbId": 133355,
+    "type": "tv",
+    "title": "A Tale Dark & Grimm",
+    "overview": "Follow Hansel and Gretel as they walk out of their own story into a winding and wickedly witty tale full of strange — and scary — surprises.",
+    "year": "2021",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uhnOfK4DOIrB7pGMTvsIOdFE8g7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/luzRIdzL9RzfQoaIVyZW6CvMxY6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/29CCxYTj43K55kkxbpkXxb0HuhO.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "122781",
+    "tmdbId": 122781,
+    "type": "tv",
+    "title": "Asterix & Obelix: The Big Fight",
+    "overview": "When their druid forgets how to prepare the magic potion, Asterix and Obelix must defend the village as Caesar plots to use a Gallic law against them.",
+    "year": "2025",
+    "rating": 7.781,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yiBvCHwN3zFBTENZrkhMqy3BClO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rLUC7hOsXtYCg1DfUIVpnes4VJX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n9QM6x9a7S1ovFFSDYOVV0Kpe4V.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "233064",
+    "tmdbId": 233064,
+    "type": "tv",
+    "title": "Barbie: A Touch of Magic",
+    "overview": "Enchanting adventures await when Malibu Barbie and Brooklyn Barbie meet a horse with magical powers — and she needs their help with a mysterious mission!",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zc90L8m9JUg04mDz5aagcOALZb8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rUiZEZjxbV0m6qIWUdyqIJ0iAy9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1fgWu3NZ4GzGum2P6lPDT2JEKL.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2098",
+    "tmdbId": 2098,
+    "type": "tv",
+    "title": "Batman: The Animated Series",
+    "overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+    "year": "1992",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vKXgCje2NVqnxixqoU9JQXREvLr.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "97959",
+    "tmdbId": 97959,
+    "type": "tv",
+    "title": "Care Bears: Unlock the Magic",
+    "overview": "A group of lovable, huggable BFFs go on adventures and live that sweet Care Bear life. When a new adventure takes them to a strange new world, the bears have to lean on each other more than ever. Through friendship, courage and a little belly badge magic, the Care Bears continue their mission to spread caring and sharing to the world.",
+    "year": "2019",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kRW940X9egNY5RLzSYTfd3OOPSt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/akVybI2C9ZS1OC9tqEBuUA4CiCM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s3YBdL0mUWOI0g79h7Cw7fg92cw.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93233",
+    "tmdbId": 93233,
+    "type": "tv",
+    "title": "Centaurworld",
+    "overview": "Centaurworld follows a war horse who is transported from her embattled world to a strange land inhabited by silly, singing centaurs of all species, shapes, and sizes. Desperate to return home, she befriends a group of these magical creatures and embarks on a journey that will test her more than any battle she's ever faced before.",
+    "year": "2021",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2klp8BwNDbmV5pfBSWhNjr1MktC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oDOGL42BM7bbUcroJcYp9xsw07v.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c5tEMI3mfPDWXc3qgkqJtv0w0ub.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "156934",
+    "tmdbId": 156934,
+    "type": "tv",
+    "title": "Daniel Spellbound",
+    "overview": "In New York City, a teenage tracker makes his living selling hard-to-find mystical items to sorcerers — but dealing in magic can be risky business.",
+    "year": "2022",
+    "rating": 7.762,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/83jBawRjY6YF8RjoopVZ92UvFYM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fqzn69QKLnil571CWxoWlNaf89N.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9KbSaH4FSyzcEdg0Uvt93BO8liq.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "235997",
+    "tmdbId": 235997,
+    "type": "tv",
+    "title": "Dee & Friends in Oz",
+    "overview": "When a mysterious key transports her to the land of Oz, a regular kid named Dee goes on a musical journey to save magic — and be the hero of the story.",
+    "year": "2024",
+    "rating": 3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kgqmtBUy8IUVwoMrqwoj6oy8zGO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q53nYvorj8kJAGYywWRT5EaKoTM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bSniFbXq9dhmXxtUzsXO2Rf5kC.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "218577",
+    "tmdbId": 218577,
+    "type": "tv",
+    "title": "Dew Drop Diaries",
+    "overview": "From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/89W3MTFTaQCMUXmAvDopxCkRPjq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eEu5PBkIg7uCMsaeCwtktDzmZat.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nLNkl6YsVPSzwW6ZHlv2Zq8TJ2p.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "94045",
+    "tmdbId": 94045,
+    "type": "tv",
+    "title": "Dragons: Rescue Riders",
+    "overview": "Twins Dak and Leyla and their dragon friends devote their lives to rescuing others, defending their home of Huttsgalor and having fun along the way.",
+    "year": "2019",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gk588hozezLty9l2CLGO2JE9b8w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/laV8ZR4g1bx9X2yo4lUtx0532S7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9k6dzsg7WrL7V45GttZKmWVZ95f.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "686941",
+    "tmdbId": 686941,
+    "type": "movie",
+    "title": "Dragons: Rescue Riders: Hunt for the Golden Dragon",
+    "overview": "It's the treasure hunt of a lifetime for the Rescue Riders, who must race to find a precious golden dragon egg and protect it from evil pirates.",
+    "year": "2020",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fD68JTgLp9Sa5tgdYIdvxWgj9I0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wCwbvPbg5J3bU9HPCRzjGFtqwfQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7KzbY88yicKsfx7vmjvoIGhUs7a.png",
+    "certificate": null,
+    "runTimeMinutes": 46,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "723895",
+    "tmdbId": 723895,
+    "type": "movie",
+    "title": "Dragons: Rescue Riders: Secrets of the Songwing",
+    "overview": "When a musical dragon with a beautiful voice hypnotizes the dragons and people of Huttsgalor, the Rescue Riders have to find a way to break the spell.",
+    "year": "2020",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ECPZaRczTQiUgPtZzyOiHxlfbe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yKaKpY82MhGfwaiWquTfgaBWpns.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ceHuIxmycGpxGW4UaNfSlK471Oy.png",
+    "certificate": null,
+    "runTimeMinutes": 46,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "96659",
+    "tmdbId": 96659,
+    "type": "tv",
+    "title": "He-Man and the Masters of the Universe",
+    "overview": "Mighty teen Adam and his heroic squad of misfits discover the legendary power of Grayskull — and their destiny to defend Eternia from sinister Skeletor.",
+    "year": "2021",
+    "rating": 7.092,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/khU0nt0PAbX0t6IpBBvTxm1uzoZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A4KK6HthXvDMYRJekrM1GF6sH7y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wjiruTNw0zUD9Bx0iBO97e3BvMK.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "223447",
+    "tmdbId": 223447,
+    "type": "tv",
+    "title": "Jentry Chau vs the Underworld",
+    "overview": "As her 16th birthday approaches, a not-so-average teen rediscovers the fiery powers she's long suppressed and is forced to face her demons — literally.",
+    "year": "2024",
+    "rating": 8.125,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gCVwVPOajqfILlAUwKGmNwVZofb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dF5O0dEvxf95FgNMGqYnieExyrw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7yQDDDmWgjwWPTnzQRBbRQLbgiG.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "224981",
+    "tmdbId": 224981,
+    "type": "tv",
+    "title": "Kitti Katz",
+    "overview": "Three teenage girls transform into fierce feline superheroes to save the world from an evil Egyptian goddess — and still have time for soccer practice.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xQE0OunJ4oOGJZ3pQRzZ43i9S9W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/97a4yp4rCAcIRwcMrDw6zJKm4rl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3nEzLkaSk5RL7Vj6fkiCcy1yKTe.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74153",
+    "tmdbId": 74153,
+    "type": "tv",
+    "title": "LEGO Bionicle: The Journey to One",
+    "overview": "Six legendary heroes find themselves on an epic quest as they harness the power of nature's elements to defeat the forces of evil.",
+    "year": "2016",
+    "rating": 7.34,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7lzwz3hJ0BnMWStUKh83NzfH0uw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A6u4YxUyvLEtpZNUE4HO7Xv4sWG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cGT8sucG8C80nguJwtCCqRAl7ZT.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "225320",
+    "tmdbId": 225320,
+    "type": "tv",
+    "title": "LEGO DREAMZzz",
+    "overview": "A group of kids join a secret agency where they learn to use the power of imagination to journey into the Dream World and create fantastic creations in order to help sleeping children being terrorized by the evil Nightmare King who is bent on conquering the Dream World and invading the Waking World.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bksnhr6slfT2mIcCTglGYD3pI9A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1oed3aqcBVcvLJskYdYL0xnIYQu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wZnEtsFQb15fg7d4KZMVe1D08kf.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69293",
+    "tmdbId": 69293,
+    "type": "tv",
+    "title": "Little Witch Academia",
+    "overview": "When she was a little girl, Atsuko \"Akko\" Kagari saw a magic show performed by a witch named Shiny Chariot.  From that day on she wanted to be just like her.  Enrolling at Luna Nova Magical Academy and having no magical background, can she become a witch like her idol Shiny Chariot?",
+    "year": "2017",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/93Lz0LwbScZ5bmuqoIngLv1LKNb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u9wiLQNyI3FBjyNnXJka56ndG2F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aRFsPTh6bK2t0hJYQoTBcdhylMs.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "132141",
+    "tmdbId": 132141,
+    "type": "tv",
+    "title": "Maya and the Three",
+    "overview": "A spirited princess with the heart of a warrior embarks on a mission to fulfill an ancient prophecy and save humanity from the wrath of vengeful gods.",
+    "year": "2021",
+    "rating": 7.873,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zUBixNeHU0cbSUH7JMktl9OMEMV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vmLt0tC5KeLd4K5ASLG5s0Ho7op.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hKyj6nlQAL7R2ZaPiPkH3Tbinz8.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231725",
+    "tmdbId": 231725,
+    "type": "tv",
+    "title": "Mermaid Magic",
+    "overview": "To save her kingdom, a determined young mermaid princess and her friends must join forces with the creatures that scare them the most — humans.",
+    "year": "2024",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gsegitK9AnY1Lrgc7xsQuZvktIc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eqtvrMoYasWUn6O04z0SRZGfX4r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/24vseXCSLP9aNpsfcl4hHXHZwzs.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "IT",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "83689",
+    "tmdbId": 83689,
+    "type": "tv",
+    "title": "Motown Magic",
+    "overview": "Imaginative boy Ben transforms his city by bringing colorful street art to life, armed with a magic paintbrush -- and the classic sounds of Motown.",
+    "year": "2018",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uSr3kraYtuyTGRZ4tVcVCmGHQ5t.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oIAKLnuNfXRAezeplPH2U96AAvE.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "33765",
+    "tmdbId": 33765,
+    "type": "tv",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
+    "year": "2010",
+    "rating": 8.185,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gOyIKp7adMCzFrYjc5rxmt2PNhi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fO2ZtnCpvHTXltkaZriniPFiDQy.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158691",
+    "tmdbId": 158691,
+    "type": "tv",
+    "title": "My Little Pony: Make Your Mark",
+    "overview": "Welcome back to Equestria, where pony magic is everywhere. With friends Zipp, Sunny, Izzy, Pipp and Hitch leading the way, adventure is sure to follow!",
+    "year": "2022",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gMfq9hY6xaZO3N7tATL4maCiYh4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wQ3TZrCykgavdavDg23JGGCA2YN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/GRIblFBeH0Mcpv8jqpXqgvU9Y4.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "202905",
+    "tmdbId": 202905,
+    "type": "tv",
+    "title": "My Little Pony: Tell Your Tale",
+    "overview": "The Mane 5 are back! Sunny teams up with her pony pals for more adventures as they live, learn and laugh together in Maretime Bay.",
+    "year": "2022",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e5RbECKKop0CnavnI5BAWfUZQhu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eoViCcih6KxBdufAtxLMzylrdhc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2UZqlRZLvTS99McF2t1we8P5rck.png",
+    "certificate": null,
+    "runTimeMinutes": 5,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "281512",
+    "tmdbId": 281512,
+    "type": "tv",
+    "title": "My Melody & Kuromi",
+    "overview": "When My Melody's visit to the Cloud Kingdom leads to a whirlwind of trouble, can she, Kuromi and their friends save their home before it's too late?",
+    "year": "2025",
+    "rating": 8.45,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yKFFgGD9JCX7cXZerg2jXh1dMI7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ttx0PmqmgbSwWbI1th4MvP6G8YX.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 18,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "218576",
+    "tmdbId": 218576,
+    "type": "tv",
+    "title": "Not Quite Narwhal",
+    "overview": "Curious little Kelp's been living his whole life as a narwhal... until he finds out he's actually a unicorn. Now he's got two worlds to explore!",
+    "year": "2023",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ldlcEzhWtVIrX1YGmkQsWHC8FmY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hq0t8s5tY7TgtZBUBg0J6WdnNAV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lqrFuiQ4xYE6jw1fxn5Qw3ZNdrS.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127289",
+    "tmdbId": 127289,
+    "type": "tv",
+    "title": "Ridley Jones",
+    "overview": "Curious kid Ridley and her friends protect the Museum of Natural History’s treasures and keep its magical secret safe: Everything comes alive at night!",
+    "year": "2021",
+    "rating": 6.621,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6BzkRAldoqpolMuAmNa9XnbMw83.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x62LLGKPoba5E399rhn6FY5iBlP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5UYYtJH0F2goyZl2V4wE0Pumisp.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "119847",
+    "tmdbId": 119847,
+    "type": "tv",
+    "title": "Spirit Rangers",
+    "overview": "Native American siblings Kodi, Summer and Eddy have a secret: They’re \"Spirit Rangers\" who help protect the national park they call home!",
+    "year": "2022",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o7NV5naNFB1kv0NZTJMKPQ4H0gl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m4U8TXHBK1G5lmDJS02xiEPUYkU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1sIjxLEeVcbRNsgvuhOebWL7jpY.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 16,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "90137",
+    "tmdbId": 90137,
+    "type": "tv",
+    "title": "Super Monsters Monster Pets",
+    "overview": "The adorably magical Monster Pets star in a series of short adventures that are big on fun -- and full of surprises!",
+    "year": "2019",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aTqHXRJN55qrKY4Je8Hqu4O3S14.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yPohAjMize9ETcj6lfCnqK6LvTY.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 10,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "232853",
+    "tmdbId": 232853,
+    "type": "tv",
+    "title": "The Dragon Prince",
+    "overview": "A young man with his brush plunges into a chaotic world and lights up the heavens. In a world where cultivators are paramount, will the vermilion bird swallow the dragon, or will the dragon transcend beyond all else?",
+    "year": "2024",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iVSzXsW7hpi0S4zjxLyZjIpUoT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aeJB1x6stklTzJ4PyrygXFv7S2Q.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "247246",
+    "tmdbId": 247246,
+    "type": "tv",
+    "title": "The Fairly OddParents: A New Wish",
+    "overview": "Ten-year-old Hazel Wells has just moved to the big city of Dimmadelphia because of her dad’s new job. On top of being in an unfamiliar environment, it’s the first time she’s been without her brother, Antony, who’s just left for college, leaving her lonely and unsure of herself. All that changes when the pink-and-green-haired neighbors next door reveal that they are no ordinary neighbors…they’re Cosmo and Wanda, fairy godparents! And they’re coming out of retirement to make all of Hazel’s wishes come true.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ePgVXUAo1z8Bs2iLewcZ5ZH2wBR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/voeuYrKelMCQBqR2xWxyHgB0fS5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aJOj9HB4MumTMlwOTva0d4Zvl8d.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79948",
+    "tmdbId": 79948,
+    "type": "tv",
+    "title": "The Hollow",
+    "overview": "Three teens join forces to find a way home after waking up in a strange realm filled with magic portals, perplexing puzzles and vicious beasts.",
+    "year": "2018",
+    "rating": 6.907,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9sDgeNu67umBkX209Yh78d4tyv9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yhhVjgPlCI18nGX5pJqFPTbcB9G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hWLRjBnC3WepZUWXmMdXpkApNHV.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68267",
+    "tmdbId": 68267,
+    "type": "tv",
+    "title": "Trollhunters: Tales of Arcadia",
+    "overview": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds.",
+    "year": "2016",
+    "rating": 8.454,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oJFwZEgWooKtzj0MXDECqkTA40c.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "484510",
+    "tmdbId": 484510,
+    "type": "movie",
+    "title": "Trolls Holiday",
+    "overview": "When the eternally optimistic Poppy, queen of the Trolls, learns that the Bergens no longer have any holidays on their calendar, she enlists the help of Branch and the rest of the gang on a delightfully quirky mission to fix something that the Bergens don't think is broken.",
+    "year": "2017",
+    "rating": 6.669,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lJV03Etqdv9mJSixgIVn7dstoNc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wACAzDetLg6HRaL98SJQ1sk4HTf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2wzRY00R18LBet4Lx0DQMPzgKBv.png",
+    "certificate": "PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "91656",
+    "tmdbId": 91656,
+    "type": "tv",
+    "title": "Twelve Forever",
+    "overview": "Reggie's dream is to be a kid forever. Her dream is so powerful that it creates its own fantasy world of perpetual youth.",
+    "year": "2019",
+    "rating": 6.72,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xJocMECVkXeBw0gRyjE5FEeiAmT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/q11VPQ7tkWYel77Q2ZvWwkUDEmW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yeffF6LtlWKEbMY48M9Cex9eT8K.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "221504",
+    "tmdbId": 221504,
+    "type": "tv",
+    "title": "Unicorn Academy",
+    "overview": "When a dark force threatens to destroy Unicorn Island, a brave teen and her five schoolmates must rise up to protect their beloved magical academy.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5aex9xH2Tq9G9m9WyhPJiyVOJol.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w1OI696IzYW37hZwdLfiGUYzAvX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d2kJPhDDcYSHMocYnjqUpjZTwzt.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "316945",
+    "tmdbId": 316945,
+    "type": "tv",
+    "title": "Unicorn Academy: Secrets Revealed",
+    "overview": "A new mystery unfolds at Unicorn Academy as long-buried secrets begin to surface, threatening the very balance of Unicorn Island. As Sophia and her friends return for another year, they are drawn into a dangerous quest filled with hidden powers, unexpected betrayals, and dark forces growing stronger in the shadows. With every step, the stakes rise, pushing the riders to their limits. Packed with magic, suspense, and emotional twists, this chapter promises a thrilling adventure where not everything is as it seems, and every secret could change their destiny forever.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ISVs3g7rjCnhFqnWLdwqxw9Wus.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wySgT9mfmQzJgttiSDuONykUVh5.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "64414",
+    "tmdbId": 64414,
+    "type": "tv",
+    "title": "Wakfu",
+    "overview": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from destruction.",
+    "year": "2008",
+    "rating": 8.327,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/794lCiKgncQg4tE2FDY8GVcEubZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/45ZCNg2qJau4aWBl7j3FMSjhJmR.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231727",
+    "tmdbId": 231727,
+    "type": "tv",
+    "title": "Wolf King",
+    "overview": "A young commoner comes of age and learns he's the last of a long line of Werewolves — and heir to the throne.",
+    "year": "2025",
+    "rating": 6.806,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/crfpyT8XZo8kKihagGP6jVx6n8G.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  }
+]

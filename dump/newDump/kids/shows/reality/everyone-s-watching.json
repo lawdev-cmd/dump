@@ -1,0 +1,680 @@
+[
+  {
+    "id": "294011",
+    "tmdbId": 294011,
+    "type": "tv",
+    "title": "All the Sharks",
+    "overview": "Four teams of shark experts and enthusiasts travel the globe trying to find the most elusive shark species in this fin-tastic reality competition.",
+    "year": "2025",
+    "rating": 7.808,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cUdDyEnpS27HhxkUeAsDWEJnRH4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cwPutYXhFLpbHvvozcZMAnAdDDp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4chrdXIP4jegaPcMWjin4YWat0y.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "129674",
+    "tmdbId": 129674,
+    "type": "tv",
+    "title": "Bake Squad",
+    "overview": "Expert bakers elevate desserts with next-level ideas and epic execution. Now the battle is on to win over clients in need of very special sweets.",
+    "year": "2021",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5RE1VcCBSr4MWTgC9L0Rk5SbDIF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oX9RSH4fREUNDv8ojlNGFtwrTjS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iSlla1izxOGkH1TJGSH6Eptjwwo.png",
+    "certificate": null,
+    "runTimeMinutes": 45,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "133090",
+    "tmdbId": 133090,
+    "type": "tv",
+    "title": "Baking Impossible",
+    "overview": "Top bakers and engineers team up to build edible creations that must taste delicious and survive intense engineering stress tests to win $100,000.",
+    "year": "2021",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hqvELiloDxYwAv1SF0Nkg7vmbfv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zZzgs1OFs2uzs2DGi9trdEGrVho.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8hgiFp6BXjW0uOh3Da6gBNYGmpQ.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "328629",
+    "tmdbId": 328629,
+    "type": "tv",
+    "title": "Camp CrunchLabs",
+    "overview": "Have a blast this summer at Camp CrunchLabs, where Mark Rober's serving up space-themed science experiments with special guests and at-home challenges!",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wTuHNL0WIfwmceKgLHuffmErRDh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nj8ZmQvZRrIWQVBm6XtOKS2Hdtq.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 13,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105125",
+    "tmdbId": 105125,
+    "type": "tv",
+    "title": "Crazy Delicious",
+    "overview": "Everyday meals are turned into extraordinary culinary creations in a magical food competition on an edible set. The UK's most talented food lovers are challenged to produce meals that must impress with originality, visuals and extraordinary flavours.",
+    "year": "2020",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/altQjpJCcwGpiW453jWoAPZMj15.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zcje7Y0QwDSCE5p88x6IQj37bWV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 47,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "214668",
+    "tmdbId": 214668,
+    "type": "tv",
+    "title": "Dance Monsters",
+    "overview": "In this feel-good competition, amateur dancers disguised as CGI avatars bring their best moves, hoping to win $250,000 — and a second shot at their dreams.",
+    "year": "2022",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kpJHtIFlg1QgDIuXdi3l3OS81dF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cQdrTdh7gSIpqwwKLpgiEAan6k8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xsUqQqG5QCEWKwhzd9OtZ99tclL.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105288",
+    "tmdbId": 105288,
+    "type": "tv",
+    "title": "Down to Earth with Zac Efron",
+    "overview": "Actor Zac Efron journeys around the world with wellness expert Darin Olien in a travel show that explores healthy, sustainable ways to live.",
+    "year": "2020",
+    "rating": 7.65,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eGGHsfDkZXek0qGJ1wsuoVzHEOh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/prs7zCDXmcoN0iDxac91LGO1QKZ.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "211084",
+    "tmdbId": 211084,
+    "type": "tv",
+    "title": "Easy-Bake Battle: The Home Cooking Competition",
+    "overview": "Talented home cooks put their skills and creativity to the test making fast and easy dishes that are wildly delicious — and worthy of a big cash prize.",
+    "year": "2022",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5gL3f66XCah2tjHN9P6KNLtPYOb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jvzSVkQjC0I8TxRs5yMgSFjw2xJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wQW7xs5XSQjxdTiZeJidNVnlNoj.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "104999",
+    "tmdbId": 104999,
+    "type": "tv",
+    "title": "Floor Is Lava",
+    "overview": "Teams compete to navigate rooms flooded with lava by leaping from chairs, hanging from curtains and swinging from chandeliers.",
+    "year": "2020",
+    "rating": 6.559,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wvEISymvZ9qc2cgQuhQAifYPilU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2UFWTP5fa6TJehyLViCsX1e9Kob.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gD8YNFHuFDnUuUyms3RBjhnoXd0.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "275144",
+    "tmdbId": 275144,
+    "type": "tv",
+    "title": "Is It Cake? Holiday",
+    "overview": "Cake artists from past seasons return to craft tasty replicas of ice skates, nutcrackers and more in this holiday spin on the mind-bending baking contest.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5y6anTg9PUjsSVDfNmIHWntb2Z6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/961OPA1TxyLY3KA5i846K19F0wF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8DEvcsKpyWoYjI5GOmSap7yeKsK.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "300594",
+    "tmdbId": 300594,
+    "type": "tv",
+    "title": "Is It Cake? Halloween",
+    "overview": "Cake or fake? Trick or treat? Skilled bakers whip up hyperrealistic Halloween cakes in this seasonal special edition of the hit competition series.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7CJCFVmWfza0ix3VZO9N37mEeGm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h9NNQwVio2OoxtmhE1RgZMrnR0E.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xXzM8tP2gY9Oy58y470X2qnjbEH.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1610866",
+    "tmdbId": 1610866,
+    "type": "movie",
+    "title": "Is It Cake? Valentines",
+    "overview": "Cupid's arrow has struck the Is It Cake kitchen for the first-ever Valentines special! Three baking couples of master cake artists compete. Together, they tackle ALL NEW games, craft swoonworthy cakes, and attempt to fool the judges and each other! AND for the first time in Is It Cake history, there are games just for the viewer! With hearts pounding and money on the line, these couples are in for the sweetest date night of their lives!",
+    "year": "2026",
+    "rating": 5.375,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/p0FvNm1dZnGTnUiYOGMTLl3eD9N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yf5m4DLsp9GKMkcUyChvCP8uhyF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9PF4rTsrQjPNmSOBUMfRXReOEU5.png",
+    "certificate": "PG",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "124414",
+    "tmdbId": 124414,
+    "type": "tv",
+    "title": "Junior Chef Showdown",
+    "overview": "Small cooks display extra-large talent on Junior Chef Showdown, a new culinary competition series that showcases the abilities of extraordinary young chefs between the ages of 9 and 13. Each week they face a Skills Test and a Cooking Challenge that determine who leaves the kitchen and who survives to cook another day. Tackling everything from fresh pasta to hand-whipped meringue to perfect medium rare steak, the junior chefs wow with their technique and creativity, as well as their boundless enthusiasm and support for one another. Celebrity chefs Lynn Crawford, Anna Olson and Jordan Andino judge and mentor the participants, taking on the difficult task of honing the original 14 down to just three. The finalists go head to head for the Junior Chef Showdown title which comes with a cash prize of $25,000 and a family vacation courtesy of Air Transat.",
+    "year": "2020",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rHrihXQ1P7F4LBH0Ohmf4gzBMBR.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [],
+    "originalLanguage": ""
+  },
+  {
+    "id": "124873",
+    "tmdbId": 124873,
+    "type": "tv",
+    "title": "Lava Ka Dhaava",
+    "overview": "Actor Jaaved Jaafferi brings his signature humor to this Hindi dubbing of the show where teams creatively navigate rooms flooded with make-believe lava.",
+    "year": "2021",
+    "rating": 2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ycOv8rcqXypyV6pvVEnS031cc2M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4EhxtVm2T3KqaruLeStOQFuuDCv.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 34,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "157429",
+    "tmdbId": 157429,
+    "type": "tv",
+    "title": "Making Fun",
+    "overview": "Grumpy expert maker Jimmy DiResta fields kids' ideas for delightfully pointless inventions. Then — if he's in the mood — he and his pals build 'em.",
+    "year": "2022",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pY8p4kFwnTyBq71MsvvV2ZFfrDA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2UrzxbP8o5EqigwrVTVMVWYsuGp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lRd5dJmQxfN98xThm9I1ka9DZpJ.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77791",
+    "tmdbId": 77791,
+    "type": "tv",
+    "title": "Nailed It!",
+    "overview": "Home bakers with a terrible track record take a crack at re-creating edible masterpieces for a $10,000 prize. It's part reality contest, part hot mess.",
+    "year": "2018",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3wLAkbQu2Ld1rjiEeFvHnqmO5zN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vxa8VrOpHgIBxXIVHmhe6SoEjVn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/52Wmw7zv5dZRp2pxk3hG7lahE7r.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "84761",
+    "tmdbId": 84761,
+    "type": "tv",
+    "title": "Nailed It! Holiday!",
+    "overview": "It's the \"Nailed It!\" holiday special you've been waiting for, with missing ingredients, impossible asks and desserts that look delightfully sad.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/74IzFJpapeF25D523atUT8m3Sz8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xKYYscamTTvK3grYPEuQyoMBzPI.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 35,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "86636",
+    "tmdbId": 86636,
+    "type": "tv",
+    "title": "Nailed It! Mexico",
+    "overview": "The fun, fondant and hilarious cake fails head to Mexico, where very amateur bakers compete to re-create elaborate sweet treats for a cash prize.",
+    "year": "2019",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e0cEPLAJdYkRBhrw4xsumnKv2HQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/89ZQH6TZmCDj7XWCnZOjL5LQopD.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 34,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "94884",
+    "tmdbId": 94884,
+    "type": "tv",
+    "title": "Nailed It! Spain",
+    "overview": "On this competition show, novice bakers try to avoid a fiasco while duplicating stunning sweets. At stake are a trophy and 5,000 euros.",
+    "year": "2019",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xU4wmOwIjDPrKmyGX0KM7Nbwz9L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sCsP4yxgmKLTDbHBet4yt77YLX7.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "298620",
+    "tmdbId": 298620,
+    "type": "tv",
+    "title": "Next Gen Chef",
+    "overview": "Twenty-one rising chefs vie to be crowned a generational talent and win $500,000 in this cutthroat competition set at the Culinary Institute of America.",
+    "year": "2025",
+    "rating": 7.286,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/omQ06GyWE8clsxcfL9q2YrQwzvy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ewH8SnWpJ6Hmsk9bXSEKCboCW4h.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2NhwlZB1FCRP6bwnPOHNSx2Lexi.png",
+    "certificate": null,
+    "runTimeMinutes": 53,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "121629",
+    "tmdbId": 121629,
+    "type": "tv",
+    "title": "Pet Stars",
+    "overview": "Follow talent management company Pets on Q as they work with the biggest animal influencers on social media in this reality series.",
+    "year": "2021",
+    "rating": 5.857,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8tKNS1XV0DlhT1FIOLqTYOtrF0p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m592cjYFNIDlKEcRzF7vT5hGcCD.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 29,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "215091",
+    "tmdbId": 215091,
+    "type": "tv",
+    "title": "Piñata Masters!",
+    "overview": "Which of the seven participating teams will be the Piñata Heroes? Their piñatas have to be colorful, creative and impress the picky jury: a group of kids!",
+    "year": "2022",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mjHl3AbUBvLiKPrrHFc5oaBzMFX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pJK5uA1ynGd4Xm9CAkVk0dq8zq6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bnabAg48M3mV92BAl2CL17vSM9q.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "212630",
+    "tmdbId": 212630,
+    "type": "tv",
+    "title": "Run for the Money",
+    "overview": "In a race with time, celebrity contestants desperately try to outmaneuver black-clad Hunters in pursuit, for a chance to win a growing cash prize.",
+    "year": "2022",
+    "rating": 6.286,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zY4T579aVLjTcrHBHTOMYVgdxEY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jott6Py8eXm8NYxYagQhhCo9TTS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vDZQiw92PczPfNS5fQ9JpWfM4q3.png",
+    "certificate": null,
+    "runTimeMinutes": 56,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "318906",
+    "tmdbId": 318906,
+    "type": "tv",
+    "title": "Salish & Jordan Matter",
+    "overview": "Follow father and daughter Jordan and Salish through wild situations and extreme challenges in this compilation of classic family moments.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7OAira31G4FLCG64cIdUe9R7UIj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d8tVPtlvJ4219WknD3GvPmxg3Xh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/evnU5Gg0dX7hCivD8D6TSO2StiI.png",
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "109293",
+    "tmdbId": 109293,
+    "type": "tv",
+    "title": "Sing On!",
+    "overview": "In this fun, fast-paced music contest hosted by Tituss Burgess, players sing their hearts out and try to hit the right notes to win up to $60,000.",
+    "year": "2020",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5w4JELVuDiDA3dfijqriBI0qHCk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z0jOGGfO3t00XYD3b4vfJgoHlDi.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "106526",
+    "tmdbId": 106526,
+    "type": "tv",
+    "title": "Sing On! Germany",
+    "overview": "In this karaoke competition hosted by Palina Rojinski, contestants must hit the right note for a chance to win up to 30,000 euros.",
+    "year": "2020",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sWY50XUMFEQiEIqyQnTzrFREyrH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fybAmSvyqVWoA7pmK5U3SAKM82D.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 36,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "105844",
+    "tmdbId": 105844,
+    "type": "tv",
+    "title": "Sing On! Spain",
+    "overview": "In this fast-paced, high-energy karaoke competition, singers from all walks of life battle it out for up to 30,000 euros!",
+    "year": "2020",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q45YSkw6mRtHAg0tJFKmYxlyVxe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AhbU9LGfvry6ZvCiAIx9Tjs9dAG.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "213254",
+    "tmdbId": 213254,
+    "type": "tv",
+    "title": "Snack vs Chef",
+    "overview": "Twelve chefs channel their inner food scientists to re-create classic snacks and invent their own original treats for a $50,000 prize.",
+    "year": "2022",
+    "rating": 5.455,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5wSrfDKiQfjKmXg6qkVkpNWCXTJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rS6wzKi1AiQZ21niWpn42oBH6fE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wZuPUhbakBkJe3qESuSh4eUw60B.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80341",
+    "tmdbId": 80341,
+    "type": "tv",
+    "title": "Sugar Rush",
+    "overview": "A relentlessly fast-paced baking competition that challenges brilliant bakers to create sweet treats that look and taste amazing – all against the clock. Who will race to the finish and win $10,000?",
+    "year": "2018",
+    "rating": 6.825,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e6acuhLK1eGaJy46uqJJE8q6MhP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6Vr2dQ5liZ10pPgJ1C3oJ5Kx0N7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lxyISGSJ5tcLrx6Y1P4HjWfIu4s.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "229736",
+    "tmdbId": 229736,
+    "type": "tv",
+    "title": "Sugar Rush: The Baking Point",
+    "overview": "In this race against time, six teams of pastry chefs blend innovation and tradition to create edible marvels. Who will bake their way to the top?",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rzNM1JFQviIc9u0PBDgqGk1TPRg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4wQvaogd00BOvQ5RZbLnKCf1gmn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/z0KLBJb7VSZrONJuhMJYFEeFsMk.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "230815",
+    "tmdbId": 230815,
+    "type": "tv",
+    "title": "The Big Nailed It Baking Challenge",
+    "overview": "In this high-stakes \"Nailed It!\" spinoff competition, 10 novice bakers pick up tips from professional coaches while vying for a sweet cash prize.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kQasMDIk3B8ECA4DK21DNVLxOfQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qxtNHmprUZPpBoseCKtXkBRqYMA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k5RxBfa46MAZSoGAhLbLncS1Xc1.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69886",
+    "tmdbId": 69886,
+    "type": "tv",
+    "title": "Ultimate Beastmaster",
+    "overview": "In this intense obstacle course series, elite athletes from the U.S. and other countries compete for cash prizes, individual glory and national pride.",
+    "year": "2017",
+    "rating": 5.965,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fTyEg49HD4ekxdgYtcIL9pw2gfB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8vtsgp1BT5L4paj1aHMLOILIRmH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lHXNSnJnbjY3FjdUvMFCXMfArDT.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "225830",
+    "tmdbId": 225830,
+    "type": "tv",
+    "title": "Ultimate Beastmaster France",
+    "overview": "",
+    "year": "2017",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mnGcLZNnnidPk3IfZtHcsi6hcUs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xOIvvKqmraRbWg8ZRpfqg80MvH1.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "87712",
+    "tmdbId": 87712,
+    "type": "tv",
+    "title": "You vs. Wild",
+    "overview": "In this interactive series, you'll make key decisions to help Bear Grylls survive, thrive and complete missions in the harshest environments on Earth.",
+    "year": "2019",
+    "rating": 6.179,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ptKbiUDSPtdFAs7XIXSAw4ZjvR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9t1mNUmpDEXt8pZ92UmU1OsJnP9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wZxUVGwZBL3GXdVGgmNhRsk48oL.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "129604",
+    "tmdbId": 129604,
+    "type": "tv",
+    "title": "Ada Twist, Scientist",
+    "overview": "Pint-sized scientist Ada Twist and her two best friends are asking big questions — and working together to discover the truth about everything!",
+    "year": "2021",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vHoHuYdtCkQlj8UtqePjnvUZf80.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5VoPO0cVyPxeNSonjTO3u6mXAXZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pyEiZt60UbydhgVWIcFnYlU1ecz.png",
+    "certificate": null,
+    "runTimeMinutes": 29,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1586820",
+    "tmdbId": 1586820,
+    "type": "movie",
+    "title": "Elmo and Mark Rober's Merry Giftmas",
+    "overview": "Elmo and his Sesame Street friends work with former NASA engineer turned YouTube star Mark Rober to make special presents for a Merry Giftmas exchange.",
+    "year": "2025",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/l9Zw7G2xOIi8BVqAdqQPrl8Ms1X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2wqM3C7iTopj4ZCw8ZzegeuCvCn.png",
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "TV Movie",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "752885",
+    "tmdbId": 752885,
+    "type": "movie",
+    "title": "Octonauts and the Great Barrier Reef",
+    "overview": "In this musical special, the Octonauts must find a way to hold back hungry swarms of coral-eating starfish to save a new friend's fragile reef home.",
+    "year": "2020",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bk4RqSZ8FtCwMzXwiuxxoFZUHmU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7wVJt26bMAxDy0tkPtS8iuEXE85.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vdmcyiLRDolZ7WulObfIFO4E0OJ.png",
+    "certificate": null,
+    "runTimeMinutes": 47,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "213573",
+    "tmdbId": 213573,
+    "type": "tv",
+    "title": "StoryBots: Answer Time",
+    "overview": "Got a question? The StoryBots have an answer! Join curious friends Beep, Boop, Bing, Bang and Bo on fun adventures to find facts for real kids like you.",
+    "year": "2022",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ccMq0WNCvgq1GitFrBRbJ3BTzet.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mnegNlapnoGc0IsDPSKqwVzyi4G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pGrprQOTKFeGSlyMM5cKu1VGUeN.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "779796",
+    "tmdbId": 779796,
+    "type": "movie",
+    "title": "The Magic School Bus Rides Again: In the Zone",
+    "overview": "Ms. Frizzle’s cousin, a pop star, performs worldwide on New Year’s Eve and the class has been invited backstage. When the Bus undergoes a software update during the tour, it starts to glitch and malfunction.",
+    "year": "2020",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sFRTAKLbzgbMejxjBgZ1xVBd22J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8yu8n02owIhlkbEFlcqoCTyh73K.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vfSd1QUVgZx0OFyRVuJ5kSL6iSe.png",
+    "certificate": null,
+    "runTimeMinutes": 46,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "154302",
+    "tmdbId": 154302,
+    "type": "tv",
+    "title": "Word Party Presents: Math!",
+    "overview": "Count numbers, compare shapes, and find patterns with baby animals Franny, Bailey, Kip, Lulu, and Tilly as they use math and songs to solve problems.",
+    "year": "2021",
+    "rating": 3.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qm2wlGnagElEpEmE3FnXW6c7pou.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6h3Y6EErfjL2Hi1AsCpESeizznN.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 27,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

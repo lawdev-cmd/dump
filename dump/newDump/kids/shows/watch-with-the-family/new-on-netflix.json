@@ -1,0 +1,62 @@
+[
+  {
+    "id": "328629",
+    "tmdbId": 328629,
+    "type": "tv",
+    "title": "Camp CrunchLabs",
+    "overview": "Have a blast this summer at Camp CrunchLabs, where Mark Rober's serving up space-themed science experiments with special guests and at-home challenges!",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wTuHNL0WIfwmceKgLHuffmErRDh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nj8ZmQvZRrIWQVBm6XtOKS2Hdtq.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 13,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "318906",
+    "tmdbId": 318906,
+    "type": "tv",
+    "title": "Salish & Jordan Matter",
+    "overview": "Follow father and daughter Jordan and Salish through wild situations and extreme challenges in this compilation of classic family moments.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7OAira31G4FLCG64cIdUe9R7UIj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d8tVPtlvJ4219WknD3GvPmxg3Xh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/evnU5Gg0dX7hCivD8D6TSO2StiI.png",
+    "certificate": null,
+    "runTimeMinutes": 30,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329710",
+    "tmdbId": 329710,
+    "type": "tv",
+    "title": "Sealook",
+    "overview": "Set in a peaceful, icy wildlife sanctuary, Sealook is a slice-of-life, slapstick mockumentary that follows the delightfully bizarre daily routines of a group of \"tagged seals.\" Having been marked with colourful flipper tags by researchers to observe their behavior, these round, squishy, and uniquely pattered creatures reveal a world that is anything but ordinary.",
+    "year": "2023",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6U10hNvdMPGqfhVztJtDN73yiC2.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 12,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  }
+]

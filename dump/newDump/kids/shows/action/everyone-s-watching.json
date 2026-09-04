@@ -1,0 +1,765 @@
+[
+  {
+    "id": "65334",
+    "tmdbId": 65334,
+    "type": "tv",
+    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+    "year": "2015",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/drjzvXJirGntkYGRefs2pOapFCM.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10779",
+    "tmdbId": 10779,
+    "type": "tv",
+    "title": "Action Pack",
+    "overview": "The heroic kids of the Action Academy take on the bad guys with their hearts, their wits and their superpowers, and bring out the best in them.",
+    "year": "2022",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uuDysbuWHcg2Xt5a0JsqAxeGH1X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3eABi0uQGa5C1sFeW7L53kc8U7a.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vDRPvmb5tmlAEZzODJ3ZjR98mNN.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "246",
+    "tmdbId": 246,
+    "type": "tv",
+    "title": "Avatar: The Last Airbender",
+    "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "year": "2005",
+    "rating": 8.779,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l0zXgxqmIgaHNp1xFAJ6XzCcdD3.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "322415",
+    "tmdbId": 322415,
+    "type": "tv",
+    "title": "Beyblade X خلف الكواليس",
+    "overview": "",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "SA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74728",
+    "tmdbId": 74728,
+    "type": "tv",
+    "title": "Carmen Sandiego",
+    "overview": "A master thief who uses her skills for good, Carmen Sandiego travels the world foiling V.I.L.E.'s evil plans — with help from her savvy sidekicks.",
+    "year": "2019",
+    "rating": 7.934,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jpis9X6awQ1X5MBm9eHRUc0N0pu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rpouileCT7DFfMbJoWQfOST1O8U.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xFzkZYrWs1cndNJuyjvilQrUhNX.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "232838",
+    "tmdbId": 232838,
+    "type": "tv",
+    "title": "Chhota Bheem Rangda",
+    "overview": "Sensing danger, the Prithvi Chakra causes the island of Bali to sink. Now Bheem, Chutki and the gang must save its people and defeat the evil Rangda.",
+    "year": "2023",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mzEIAeZ54ROQafLwHp9UYcf1XiP.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77962",
+    "tmdbId": 77962,
+    "type": "tv",
+    "title": "Dinotrux: Supercharged",
+    "overview": "Amped up with powers that make them faster, stronger and more agile than ever, the Dinotrux are back to face new challenges and meet new friends.",
+    "year": "2017",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dVrcJjoaS7WgoBO3Pgle8ZcoXiN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7c7XGLCFQ9TRjqmGQeSyRM8n9xC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/j9UwOiqnZkgrCe4QZwx0npavr3h.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "236994",
+    "tmdbId": 236994,
+    "type": "tv",
+    "title": "Dragon Ball DAIMA",
+    "overview": "Mysteriously transformed into mini versions of themselves, Goku and his friends travel to the Demon Realm to uncover the truth and find a cure.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lMULbSFZNXUC87MqOZQ4SSV9DXI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/HFAyXFb8VpdJCXZPylKo3jtNT8.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "95594",
+    "tmdbId": 95594,
+    "type": "tv",
+    "title": "Fast & Furious Spy Racers",
+    "overview": "A government agency recruits teen driver Tony Toretto and his thrill-seeking friends to infiltrate a criminal street racing circuit as undercover spies.",
+    "year": "2019",
+    "rating": 6.984,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9aWSpBqMrlrr8yaydSEgNJjIruG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4UHuKefp1ANWJzRBW22XyIYR3Lh.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "95071",
+    "tmdbId": 95071,
+    "type": "tv",
+    "title": "Hello Ninja",
+    "overview": "BFFs Wesley and Georgie and their silly cat sidekick Pretzel transform into ninjas and enter a magic world, where they solve problems and save the day.",
+    "year": "2019",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cHJT7OPB71EnMry8FM92iyNwpHE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9UjeXIr8xMkrXY6yfkyciZOgu3K.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 13,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79385",
+    "tmdbId": 79385,
+    "type": "tv",
+    "title": "Kibaoh Klashers",
+    "overview": "Young beetle Dylan and his friends Hailey and Ollie team up to compete against tough opponents in the exciting, high-octane sport of Battle Blading.",
+    "year": "2017",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ri7x8Kpy3BGlhLPxESC9VnGltF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kielAPjlgSrBuytR5ZfcOAEjHzR.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "224981",
+    "tmdbId": 224981,
+    "type": "tv",
+    "title": "Kitti Katz",
+    "overview": "Three teenage girls transform into fierce feline superheroes to save the world from an evil Egyptian goddess — and still have time for soccer practice.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xQE0OunJ4oOGJZ3pQRzZ43i9S9W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/97a4yp4rCAcIRwcMrDw6zJKm4rl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3nEzLkaSk5RL7Vj6fkiCcy1yKTe.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "129959",
+    "tmdbId": 129959,
+    "type": "tv",
+    "title": "Kung Fu Panda: The Dragon Knight",
+    "overview": "Follow the adventures of Po, who partners up with a no-nonsense English knight named Wandering Blade to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.",
+    "year": "2022",
+    "rating": 7.48,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j7FL6KfjEjrGSXt6peQw7U3VL0R.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/47Hkpx5CfveE6A0VGDQekCbSoPA.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "212989",
+    "tmdbId": 212989,
+    "type": "tv",
+    "title": "LEGO Ninjago: Dragons Rising",
+    "overview": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstable. A Spinjitzu Ninja Master must train a new generation of heroes to help find Elemental Dragons who can save the planet before the forces of evil use the same dragon energy to destroy this new world.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7QxANL892uBQ8tdn5NwOipOrsbS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nxM93qk5YP52zUxJCAv3MQ6ie55.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1477283",
+    "tmdbId": 1477283,
+    "type": "movie",
+    "title": "Lego Ninjago: Masters of Spinjitzu",
+    "overview": "Long before time had a name, the First Spinjitzu Master created the realm of Ninjago using the four Golden Weapons of Spinjitzu. Before he passed, his two sons swore to protect the weapons from evil, but the older brother, Garmadon, was consumed by darkness and aimed to wield all four weapons so that he could recreate Ninjago in his own image. In the ensuing battle between brothers, the younger brother Wu cast Garmadon down to the Underworld and hid the weapons across Ninjago. Now, Sensei Wu finds four teenage ninja to recover the Golden Weapons and save Ninjago from Garmadon and his Skulkin army.",
+    "year": "2011",
+    "rating": 9.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uSymF7iIF6PfDjWbMRD5n3SI12v.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tfh4yQQJQ6iPNavnrIp1iIB8Kik.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "85958",
+    "tmdbId": 85958,
+    "type": "tv",
+    "title": "Malibu Rescue: The Series",
+    "overview": "On the heels of Junior Rescue training, Team Flounder returns to brave the beach in a series of thrilling saves and lighthearted laughs.",
+    "year": "2019",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w9eJhVAEe5HjWLmd5OlaAEdY2q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tr9aXuF5IdVZOMTwTOynwTSk8qs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/baHR8Nq94yt2mlhOzEdA0iM0AOh.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "196556",
+    "tmdbId": 196556,
+    "type": "tv",
+    "title": "MaveriX",
+    "overview": "Six young motocross riders come together to form a team, to make the national titles, or crash out trying. But the biggest win of all might be the friends they make for life.",
+    "year": "2022",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kb6NH1HXMBoSprurYr6ftRJjZ3p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qxCmIvcNz69brev2VWGgaENbyAl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aDbnvfCmO4zY13q6UpzJhfwHXEV.png",
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "235998",
+    "tmdbId": 235998,
+    "type": "tv",
+    "title": "Mighty Monsterwheelies",
+    "overview": "Inspired by iconic movie monsters like Dracula and the Mummy, but with a Frankenstein-sized twist: These vehicle heroes are here to help — not scare!",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/16aRqo4WLrCXngc8NJH5ria0UeN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qhtkooHrZw1V7CxU1M97zffvNZ2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5WT2yY001ctbaz4k7n8SilGiTtG.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 13,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "157221",
+    "tmdbId": 157221,
+    "type": "tv",
+    "title": "My Dad the Bounty Hunter",
+    "overview": "An intergalactic bounty hunter takes dad duty to new extremes when his two kids accidentally hitch a ride with him to outer space and crash his mission.",
+    "year": "2023",
+    "rating": 8.197,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b9DLPEpoeXH4CGgOAXVIXW9cd8p.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rFBl78BPhW9T6slRbzA7izgwQ7U.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46260",
+    "tmdbId": 46260,
+    "type": "tv",
+    "title": "Naruto",
+    "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "year": "2002",
+    "rating": 8.362,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "73549",
+    "tmdbId": 73549,
+    "type": "tv",
+    "title": "Odd Squad",
+    "overview": "Odd Squad saves the day whenever something unusual happens.",
+    "year": "2014",
+    "rating": 6.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4PehC4usZ8PoChlUP3Y5TI4KaQF.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1215165",
+    "tmdbId": 1215165,
+    "type": "movie",
+    "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
+    "overview": "Pinkfong and his friends enjoy the magic show put on by three cars in Wonder Village. But when danger appears, Hogi must be brave to save the day!",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zj2lUYtTyVVdJ9l7No6wERdNeso.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kAkZQxLbVaT8HLikMZ5rm58B4G5.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 42,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "65417",
+    "tmdbId": 65417,
+    "type": "tv",
+    "title": "PJ Masks",
+    "overview": "Connor, Greg and Amaya are normal kids by day, but at night they activate their bracelets, which link into their pajamas and give them fantastic super powers, turning them into their alternate identities: the PJ Masks! The team consists of Catboy (Connor), Gekko (Greg) and Owlette (Amaya). Together, they go on adventures, solve mysteries, and learn valuable lessons. Watch the first six seasons of PJ Masks now on Disney+!",
+    "year": "2015",
+    "rating": 6.423,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kwxcf1Rxhd1jusTvIptSYEjl2NA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hpmb40mbAURc4gccgeQbQwknIaf.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 12,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "CA",
+      "FR",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93392",
+    "tmdbId": 93392,
+    "type": "tv",
+    "title": "Raising Dion",
+    "overview": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps.",
+    "year": "2019",
+    "rating": 7.502,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nydKXBiLn4vpL1d5o1utbPKYdii.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nn37nj8LsJLmhxZIZWhVFzuiwVr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cfw7fQehLbaT2kJAWEUTGqBcZCI.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "115577",
+    "tmdbId": 115577,
+    "type": "tv",
+    "title": "Sonic Prime",
+    "overview": "When an explosive battle with Dr. Eggman shatters the universe, Sonic races through parallel dimensions to reconnect with his friends and save the world.",
+    "year": "2022",
+    "rating": 8.271,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mlDVnjgx89bmGvtXnKYDbowpadV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pYiIcenKt7L2cMrhn67xAxCGgzR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xSbbfB8cVzxPFtlJaKdGRPrXkpz.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10926",
+    "tmdbId": 10926,
+    "type": "tv",
+    "title": "Sonic X",
+    "overview": "After getting stranded on Earth, Sonic and his friends team up with 12-year-old Chris Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.",
+    "year": "2003",
+    "rating": 7.593,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1EFqCQv0td8LMogXCpNEAW3uxgL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8Ep5ppQvqFvaMQrX3ENmM4jpNPI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcQf1UyyLqxZMpjE6FtegrM2TbN.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78938",
+    "tmdbId": 78938,
+    "type": "tv",
+    "title": "Spy Kids: Mission Critical",
+    "overview": "In this animated spinoff series, Juni and Carmen Cortez must battle the evil organization S.W.A.M.P. -- without the help of their super-spy parents.",
+    "year": "2018",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/op86yciY6JJiH5PyE2VjNe1OUi8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kJaIisWEIvxkM64Q4NlkIEHBXCt.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "101396",
+    "tmdbId": 101396,
+    "type": "tv",
+    "title": "StarBeam",
+    "overview": "Zoey is excited to tackle second grade, but when danger beckons, she sneaks away and with her signature call out and transforms into StarBeam, the speediest, most powerful and most enthusiastic superhero to ever sip from a juicebox.",
+    "year": "2020",
+    "rating": 6.741,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ijJruqW5r7YtxUfWHbcV49y8NJ8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xQAEXoSlnY7t8BAsLxPqrDhfmmd.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 13,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231394",
+    "tmdbId": 231394,
+    "type": "tv",
+    "title": "Tales of the Teenage Mutant Ninja Turtles",
+    "overview": "The Turtles — Leo, Raph, Donnie and Mikey — each will go it alone for the first time. Faced with new threats and teaming up with old allies, the Turtles will discover who they really are when they don’t have their brothers at their sides.",
+    "year": "2024",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bTiPmPW4ZVmyFJNsxVK1UK3R96H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Z9CNuvglQwSuKmrhl3udpLSsd1.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "92684",
+    "tmdbId": 92684,
+    "type": "tv",
+    "title": "The Last Kids on Earth",
+    "overview": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+    "year": "2019",
+    "rating": 8.14,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8mNQpab95fhyR2JF4nJ6dIORwKJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jlqUjWV6loT0Ss3Ckdi8CTrMZKJ.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "132997",
+    "tmdbId": 132997,
+    "type": "tv",
+    "title": "Tobot Galaxy Detectives",
+    "overview": "Young detective Tyler King tackles all kinds of mysteries with his friends, the Galaxy Detectives.",
+    "year": "2021",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wX6g2XRuTCVWgiQGFzJimphwoWb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n3G7vyzJX49zYa9TaJGAhlgEUlo.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 11,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "157747",
+    "tmdbId": 157747,
+    "type": "tv",
+    "title": "Transformers: EarthSpark",
+    "overview": "The Malto Family’s world turns upside down when the Terrans, the first Earthborn Transformers robots, spark to life. The Terrans will forge an alliance between the human Malto family and the legendary Autobots, uniting them in a shared mission.",
+    "year": "2022",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jLwU37QusZDkkOuFNb1TA6NQZNT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gzVkLZOM0er10OwEUJyhl9G7oE7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m9BYj3SVW0f0m8KgeKUccADmodl.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "117682",
+    "tmdbId": 117682,
+    "type": "tv",
+    "title": "Transformers: War for Cybertron: Earthrise",
+    "overview": "While Megatron takes drastic measures to save the Decepticons, the Autobots fight to save all of Cybertron from both on the planet and aboard the Ark.",
+    "year": "2020",
+    "rating": 7.79,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/63E619RuPL9EUjPzVTWCs2jUChl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6USilErg8aOh2en3ozjjquOrAL0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hBgLePeVC4hZRhbWzXa9vXCreNO.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "128255",
+    "tmdbId": 128255,
+    "type": "tv",
+    "title": "Transformers: War for Cybertron: Kingdom",
+    "overview": "The frantic race to locate the Allspark first culminates on a strange planet as the future comes crashing through to the present day.",
+    "year": "2021",
+    "rating": 7.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r2IouRpN9IXMyY8RX0YnJhkCirE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n0FYv29sC8R2vX4ZkzTzosMGTW8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rjTnqEGhi0PYgy9DqhWBWcpXiVT.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "100617",
+    "tmdbId": 100617,
+    "type": "tv",
+    "title": "Transformers: War for Cybertron: Siege",
+    "overview": "On their dying planet, the Autobots and Decepticons battle fiercely for control of the AllSpark in the Transformers universe's origin story.",
+    "year": "2020",
+    "rating": 7.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lBUPQLk9gEg8Mg6noHcew8Aag0M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r8JeG77GjYVoLBBVm80WK1uqTBB.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68267",
+    "tmdbId": 68267,
+    "type": "tv",
+    "title": "Trollhunters: Tales of Arcadia",
+    "overview": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds.",
+    "year": "2016",
+    "rating": 8.454,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oJFwZEgWooKtzj0MXDECqkTA40c.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "286822",
+    "tmdbId": 286822,
+    "type": "tv",
+    "title": "Winx Club: The Magic Is Back",
+    "overview": "When Bloom discovers she has magic, her life takes a wild turn. At the Alfea school for fairies and witches, she meets five girls who become her best friends — and her greatest strength. Together, they’re the Winx. As dark secrets rise and powerful enemies close in, the Winx will need to unlock their true potential to protect their world — and themselves.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oFO3GdOHzLIp3F6qrDbcC65MYUX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5W4ST8DCqSUQh4itmwUJ6dVMeZs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iA4HBg2MElV7jzSaihGm6EUDx0s.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231727",
+    "tmdbId": 231727,
+    "type": "tv",
+    "title": "Wolf King",
+    "overview": "A young commoner comes of age and learns he's the last of a long line of Werewolves — and heir to the throne.",
+    "year": "2025",
+    "rating": 6.806,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/crfpyT8XZo8kKihagGP6jVx6n8G.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  }
+]

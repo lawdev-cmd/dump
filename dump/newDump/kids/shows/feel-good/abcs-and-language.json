@@ -1,0 +1,42 @@
+[
+  {
+    "id": "127305",
+    "tmdbId": 127305,
+    "type": "tv",
+    "title": "My Sesame Street Friends",
+    "overview": "Join your favorite Sesame Street friends as they discover the magic of learning and explore an exciting range of topics, from animals and superheroes, to theater, music, transportation, and much, much more!",
+    "year": "2020",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/56z1F06XckFU6r73KogSY1EVlZh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rfse1k7E0S5rxJT943dH1IFyViu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xtfKnfTaSZs190kxHHANcWKEXvC.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "312953",
+    "tmdbId": 312953,
+    "type": "tv",
+    "title": "the letter of the day",
+    "overview": "",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8GX2Kj9CBvqMYPyZBiyZvkXdHx0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1vRkMmpsb02mqhsFFgDk3vvz9e1.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  }
+]

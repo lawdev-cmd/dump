@@ -1,0 +1,102 @@
+[
+  {
+    "id": "293703",
+    "tmdbId": 293703,
+    "type": "tv",
+    "title": "Dr. Seuss's Red Fish, Blue Fish",
+    "overview": "One fish, two fish, meet Red Fish and Blue Fish! From there to here — and from here to there — these friends find opposites everywhere!",
+    "year": "2025",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kGgJR0JyxIjmugpGJx0UpujxFA4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bq4z4ATysYUhI5ZBdaSXia13mzw.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46080",
+    "tmdbId": 46080,
+    "type": "tv",
+    "title": "Masha and the Bear",
+    "overview": "Masha is an energetic three-year-old who can’t seem to keep herself out of trouble. Bear is a warm, fatherly figure that does his best to guide his friend and keep her from harm, often ending up the unintended victim of her misadventures.",
+    "year": "2009",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wPkeRunw71Mm10xQYKAwGG0NLgt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p40HTF1FdcZrdZvY4to8MrC6Stv.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329710",
+    "tmdbId": 329710,
+    "type": "tv",
+    "title": "Sealook",
+    "overview": "Set in a peaceful, icy wildlife sanctuary, Sealook is a slice-of-life, slapstick mockumentary that follows the delightfully bizarre daily routines of a group of \"tagged seals.\" Having been marked with colourful flipper tags by researchers to observe their behavior, these round, squishy, and uniquely pattered creatures reveal a world that is anything but ordinary.",
+    "year": "2023",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6U10hNvdMPGqfhVztJtDN73yiC2.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 12,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "219799",
+    "tmdbId": 219799,
+    "type": "tv",
+    "title": "Sheriff Labrador",
+    "overview": "",
+    "year": "2022",
+    "rating": 9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wEmJ0ZBf9MNE3fjRH9xfamcurQV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 6,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "47480",
+    "tmdbId": 47480,
+    "type": "tv",
+    "title": "The Tom and Jerry Show",
+    "overview": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
+    "year": "2014",
+    "rating": 7.328,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/utqCOvMmjjMTlXNZz6PHOzRM5QP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cwog1QvmNjtFoQVioOLVv15un0v.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

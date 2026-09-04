@@ -1,0 +1,103 @@
+[
+  {
+    "id": "738215",
+    "tmdbId": 738215,
+    "type": "movie",
+    "title": "Barbie: Princess Adventure",
+    "overview": "With new friends in a new kingdom, Barbie learns what it means to be herself when she trades places with a royal lookalike in this musical adventure.",
+    "year": "2020",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/c4hSVM1eQEs6OXCcxV1CcsphaOi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cmZVWuXM1hpP2GKFABCUkoscKu4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ivedHcxIW7UDur0IU0MTZUWTi4J.png",
+    "certificate": "G",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "832046",
+    "tmdbId": 832046,
+    "type": "movie",
+    "title": "Charming",
+    "overview": "Living alone with her pet vacuum cleaner in a depressing elderly center, Lisette hopes to find love online, but ends up becoming friends with Jules, a young janitor.",
+    "year": "2021",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zul7SrFKT0NLpDZByVeVh6wVZ5p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bbuwhzkqrqcCOZMT68uqMi2eLyE.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 21,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "679063",
+    "tmdbId": 679063,
+    "type": "movie",
+    "title": "One Take",
+    "overview": "Members of Thai girl group BNK48 share the ups and downs of preparing for the 6th Single Senbatsu General Election.",
+    "year": "2020",
+    "rating": 4.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2GzF2nOAofv4cJWUqhkIaoqTyX1.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "579473",
+    "tmdbId": 579473,
+    "type": "movie",
+    "title": "True: Happy Hearts Day",
+    "overview": "True and Bartleby try to cheer up the Rainbow Kingdom's loneliest citizen, but his gloomy mood is contagious! Can a trio of wishes turn things around?",
+    "year": "2019",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dfVNS9J7RzmiFxnT5NEnWAXRLsL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bXVpj30Cn4TkFzBkSOGjOUB0Fo.jpg",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "749618",
+    "tmdbId": 749618,
+    "type": "movie",
+    "title": "Xico's Journey",
+    "overview": "The peace of a small town is endangered when a corporation wants to destroy the mountain that protects them. A girl named Copi and her best friend Xico, a Xoloitzcuintle dog, will go into the mountains to try to save the town.",
+    "year": "2020",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fZHvSNUBKSgRAduB5k0fFST1xYn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h97rBPKnjGsiG2FcbQ39g9g3e7a.png",
+    "certificate": "NR",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  }
+]

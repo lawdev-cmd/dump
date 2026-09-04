@@ -1,0 +1,792 @@
+[
+  {
+    "id": "1507275",
+    "tmdbId": 1507275,
+    "type": "movie",
+    "title": "A Paw Patrol Christmas",
+    "overview": "Rubble is looking forward to Santa bringing him a new laser drill, but finds that Santa has come down with a cold and can’t deliver any presents. When Mayor Humdinger decides he’s going to the North Pole to take all the gifts for himself, it’s up to the PAW Patrol to stop him.",
+    "year": "2025",
+    "rating": 7.423,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/32mjpsITLwEQcvqKuMBGyajN18h.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m4mEHrZdfJi1Xi5gIZvNpUszb6L.png",
+    "certificate": "G",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "64572",
+    "tmdbId": 64572,
+    "type": "tv",
+    "title": "Alvinnn!!! and The Chipmunks",
+    "overview": "Everyone's favorite chipmunks -- Alvin, Simon and Theodore -- are back in this computer-animated version of the classic animated series. The brothers are famous rock stars who tour around the world with their best friends, the Chipettes.",
+    "year": "2015",
+    "rating": 7.291,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uWBqLLeEY8rxJEw8U4CDUv1OLmC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mnBZnAjVLuOADAZdi2GEr2yJAyY.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "290219",
+    "tmdbId": 290219,
+    "type": "tv",
+    "title": "Baby Shark Hospital Play",
+    "overview": "Welcome to the Baby Shark Hospital, where sick and injured friends are looking for help. Join Dr. Baby Shark and Nurse William as they work together to treat our friends!",
+    "year": "2022",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nDJfN6QNXGC7JxqUKEfQoTavMqr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dqD7BuoSLG4MGMgv7LZ6cTCAp7n.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "249018",
+    "tmdbId": 249018,
+    "type": "tv",
+    "title": "Bad Dinosaurs",
+    "overview": "A lovably mischievous Tyrannosaurus family explores their colorful prehistoric world, having slapstick fun with the silly dinosaurs who live there.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f2WrO4EHOzDOnJOho6bAIGFu8Ls.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xKEhjg4PLWncQihSj8HKnrIoPak.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/geUGIFSHgbqvJiXMjnfjJRhGCx1.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "226126",
+    "tmdbId": 226126,
+    "type": "tv",
+    "title": "Barney's World",
+    "overview": "Set in a local playground, Barney is joined by dinos Billy and Baby Bop and their three kid best friends. Throughout silly and imaginative adventures together, Barney helps kids explore big preschool emotions and shows them how to love themselves and others.",
+    "year": "2024",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z8e2mVUqiwDrOwrI48wBpTPoPOZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aq06nnGPmG2alTf1tS1YF7O5INY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ntu6DIc4KdsXzuaaWNEyObydtty.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "89504",
+    "tmdbId": 89504,
+    "type": "tv",
+    "title": "Chip and Potato",
+    "overview": "Lovable pug Chip starts kindergarten, makes new friends and tries new things -- with a little help from Potato, her secret mouse pal.",
+    "year": "2018",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/df2OtvZdUgiNhxRoB9cvwTBttrm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kAZzMgyhRCzbOVd3LY62KKjkp82.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "293703",
+    "tmdbId": 293703,
+    "type": "tv",
+    "title": "Dr. Seuss's Red Fish, Blue Fish",
+    "overview": "One fish, two fish, meet Red Fish and Blue Fish! From there to here — and from here to there — these friends find opposites everywhere!",
+    "year": "2025",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kGgJR0JyxIjmugpGJx0UpujxFA4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bq4z4ATysYUhI5ZBdaSXia13mzw.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78173",
+    "tmdbId": 78173,
+    "type": "tv",
+    "title": "Dragons: Race to the Edge",
+    "overview": "Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.",
+    "year": "2015",
+    "rating": 8.363,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yVcuoQNo36FlZTavqjjjpsaUJyL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7McwIzuZeGwnrJC7l7CqbPVQ8OC.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "72462",
+    "tmdbId": 72462,
+    "type": "tv",
+    "title": "Free Rein",
+    "overview": "A 15-year-old from LA spends the summer at her mom's childhood home on an island off the coast of England, where she bonds with a mysterious horse.",
+    "year": "2017",
+    "rating": 7.947,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g3DccaRLKOiNPHnH88sxGIL943B.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nxin1UEwN0WqYQOmUwMaLnzmYY0.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "111474",
+    "tmdbId": 111474,
+    "type": "tv",
+    "title": "Gabby's Dollhouse",
+    "overview": "This colorful series leads preschoolers room to room through a fantastical dollhouse of delightful mini-worlds and irresistible kitty characters.",
+    "year": "2021",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qR4tS0urUUaFh6mlRhVUkDZGN5j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aJ5Qw6xGZZY8YXk8iEY3OFOvCaA.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "88910",
+    "tmdbId": 88910,
+    "type": "tv",
+    "title": "Gigantosaurus",
+    "overview": "Four curious young dinosaur friends explore the mystery of Gigantosaurus, the largest, fiercest dinosaur of all, facing their individual fears and working together to solve problems during their many adventures.",
+    "year": "2019",
+    "rating": 6.231,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9QE0FexhD5IZ6IaTyHLYzRMYUot.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4qVacOF8reBvNbPcNDmtOUmuH6b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oMdc2DDYCjERhBymQQwsoHc42hV.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 12,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "FR",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "117162",
+    "tmdbId": 117162,
+    "type": "tv",
+    "title": "Go, Dog. Go!",
+    "overview": "Handy and inventive pup Tag chases adventure with her best pal, Scooch, solving problems and helping the citizens of Pawston along the way.",
+    "year": "2021",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qHwkhQZ8YpHS3Wz7EWUzwp5WEpR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A9ktTOdkwTKOdSaJDCXozLt1YRm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3a5OvNBUPq8r9Lfy1zzGoNbU7s7.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74415",
+    "tmdbId": 74415,
+    "type": "tv",
+    "title": "Grizzy & the Lemmings",
+    "overview": "The forest ranger's house is the only area of human civilization in the middle of untamed wilderness in a vast natural reserve in Canada. When the ranger is away, a bear named Grizzy feels that the ranger's house is his territory, given that bears sit at the top of the food chain. After making his way inside the home, Grizzy takes advantage of all the modern conveniences there, including a comfortable sofa, air conditioning and fully equipped kitchen. He's not alone, though, because a group of small creatures called lemmings also populate the ranger's house when he is away. Because Grizzy and the lemmings are not civilized enough to live together in peace, it becomes an atmosphere of madness when the two sides try to outdo each other with tricks.",
+    "year": "2016",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vpzSerTbEIspXUndYM7MGhhX7dm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b2egfASudQeAoTzObV8XAj5Grw0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tqeQs4M1BoqgDMVuEkA4vWHKv7f.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74280",
+    "tmdbId": 74280,
+    "type": "tv",
+    "title": "Hey Duggee",
+    "overview": "Animated preschool series about a clubhouse that is run by a big dog called Duggee.",
+    "year": "2014",
+    "rating": 8.227,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qh05P3y8t7ALIp1g19kdOv6Con6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pbtj4jTJb6Y6a0SD3jXz739ljCg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lgdfuYRfU33RyGqaEZdSMcgaGp2.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46080",
+    "tmdbId": 46080,
+    "type": "tv",
+    "title": "Masha and the Bear",
+    "overview": "Masha is an energetic three-year-old who can’t seem to keep herself out of trouble. Bear is a warm, fatherly figure that does his best to guide his friend and keep her from harm, often ending up the unintended victim of her misadventures.",
+    "year": "2009",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wPkeRunw71Mm10xQYKAwGG0NLgt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p40HTF1FdcZrdZvY4to8MrC6Stv.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "33765",
+    "tmdbId": 33765,
+    "type": "tv",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
+    "year": "2010",
+    "rating": 8.185,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gOyIKp7adMCzFrYjc5rxmt2PNhi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fO2ZtnCpvHTXltkaZriniPFiDQy.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37472",
+    "tmdbId": 37472,
+    "type": "tv",
+    "title": "Octonauts",
+    "overview": "Follows an underwater exploring crew made up of stylized anthropomorphic animals, a team of eight adventurers who live in an undersea base, the Octopod, from where they go on undersea adventures with the help of a fleet of aquatic vehicles.",
+    "year": "2010",
+    "rating": 7.15,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lbdBBEnto6xPQ8oKHt5P9r3JCfH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t8YOGZrnkKq4bZedv68TkcBgJTD.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "132983",
+    "tmdbId": 132983,
+    "type": "tv",
+    "title": "Octonauts: Above & Beyond",
+    "overview": "The Octonauts expand their exploration beyond the sea -- and onto land! With new rides and new friends, they'll protect any habitats and animals at risk.",
+    "year": "2021",
+    "rating": 8.294,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1V7IYlTVyGmjwiEH9SvPZREzfom.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2TGXOSMJ57s9Ole7nBTMK2CxneP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/QEkc6hEXcBc8NCvj5mR4Qt1oOz.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "324853",
+    "tmdbId": 324853,
+    "type": "tv",
+    "title": "PAW Patrol: To The Rescue",
+    "overview": "PAW Patrol: To The Rescue is a mini spin-off web series based on PAW Patrol. It consists of 2-minute and 30-second shorts that are released by the PAW Patrol Official & Friends YouTube channel on Saturdays.",
+    "year": "2025",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vmtIlOz17CKftBxbTO53g0LxA9v.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uvHIzZPUcZaXoxZasxEyOxEC8LW.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329620",
+    "tmdbId": 329620,
+    "type": "tv",
+    "title": "Peppa Pig Year of The Pig Lunar New Year Special Collection",
+    "overview": "",
+    "year": "2019",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lTZgJLA0yvC7MkR3UxhAhNj42Oe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jwgJx5Rw0XHqj5kj4D9jmY5U4pf.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93265",
+    "tmdbId": 93265,
+    "type": "tv",
+    "title": "Pup Academy",
+    "overview": "Welcome to a secret world where pups learn to be a human's best friend. Follow three unlikely puppies - and their human friends - as they work together to discover the power of friendship and create everlasting bonds between dogs and humans.",
+    "year": "2019",
+    "rating": 7.042,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/idjldYg3bgxyzmfHMCOKdvDG1RM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d2jQm65UCUfAFul65lYvD43z7kC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2XEwXsUQfOOuxMNOy3r6rP1SrsP.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "214875",
+    "tmdbId": 214875,
+    "type": "tv",
+    "title": "Rubble & Crew",
+    "overview": "Follow Rubble and his pup family as they use their awesome construction vehicles to build and repair whatever the town of Builder Cove needs in high-stakes adventures.",
+    "year": "2023",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5MA1tqT0yI57IlPBy0KRN6G2mhN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5SWWe369D4Fjs2RDVhMagNJLlps.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wllmykjJthMBqUSKJ4UEKhmnsZX.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18123",
+    "tmdbId": 18123,
+    "type": "tv",
+    "title": "Scooby-Doo! Mystery Incorporated",
+    "overview": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
+    "year": "2010",
+    "rating": 8.231,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2VvLk11UlmdHFPQkDgm4KPSjLrs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5OSGsg6ilKf7SGsc8cAbhsY1ENF.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "130688",
+    "tmdbId": 130688,
+    "type": "tv",
+    "title": "Sharkdog",
+    "overview": "10 year old Max and his best friend Sharkdog - half shark, half dog, all appetite. Blissfully unaware of his own strength, stealth and general sharkiness, Sharkdog often leaves a trail of chaos in his wake.",
+    "year": "2021",
+    "rating": 8.042,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cdkeBd7XZ6CmSE1a36rGG4bjqbb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z0RaSf4tAvugf832rIaaGkwJRXF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2ZubDNTnZ5BNQHipHbTtd4ywSkQ.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 17,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "SG"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "219799",
+    "tmdbId": 219799,
+    "type": "tv",
+    "title": "Sheriff Labrador",
+    "overview": "",
+    "year": "2022",
+    "rating": 9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cBwolr4zmRplgAKv6lytmxPtQxE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wEmJ0ZBf9MNE3fjRH9xfamcurQV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 6,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79888",
+    "tmdbId": 79888,
+    "type": "tv",
+    "title": "Simon",
+    "overview": "Simon is an adorable little rabbit who exudes all the vitality of childhood. He's at an age when little rabbits (and indeed little children!) are starting to come into their own - challenging relationships with parents, embarking upon school life, learning about the world in general, dealing with authority and of course, language.",
+    "year": "2016",
+    "rating": 8.25,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iuS4DrakZQTtQKLeQ7ZTjUAQKoN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gE8Ov8bI6P0Fdfl6KBW2HzHo2p6.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 5,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "115577",
+    "tmdbId": 115577,
+    "type": "tv",
+    "title": "Sonic Prime",
+    "overview": "When an explosive battle with Dr. Eggman shatters the universe, Sonic races through parallel dimensions to reconnect with his friends and save the world.",
+    "year": "2022",
+    "rating": 8.271,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mlDVnjgx89bmGvtXnKYDbowpadV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pYiIcenKt7L2cMrhn67xAxCGgzR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xSbbfB8cVzxPFtlJaKdGRPrXkpz.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "92204",
+    "tmdbId": 92204,
+    "type": "tv",
+    "title": "Spirit Riding Free: Pony Tales",
+    "overview": "Find the fun and adventure of \"Spirit Riding Free\" in this mix of music videos and short episodes featuring Lucky and all of her friends!",
+    "year": "2019",
+    "rating": 7.457,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lsk3FCjcLW9Jekzprn4W9aCFud9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5mkPoQmzYJycI8yYXAvBa1Sf0hK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tWWDm5u7dq7v1r38wFHiXL749Xp.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "387",
+    "tmdbId": 387,
+    "type": "tv",
+    "title": "SpongeBob SquarePants",
+    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "year": "1999",
+    "rating": 7.712,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3MY7hMWrJ13Xtb1Y4jd7tztyPaZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/imM7dqtVl070IIKyOqzOHmHFXqq.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "195407",
+    "tmdbId": 195407,
+    "type": "tv",
+    "title": "The Creature Cases",
+    "overview": "Special agents Sam and Kit hop the globe with their sleuthing skills, science facts and cool gadgets to solve the animal kingdom's many mysteries.",
+    "year": "2022",
+    "rating": 7.882,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tFi3nx53Dfwa5YOd4J2VnIXpqBk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nVvn89XVd5IRLbcra5BcYcWbH9I.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/heK7QpkDW4L0HCjLoG3428djDQw.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "FR",
+      "CN",
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "313298",
+    "tmdbId": 313298,
+    "type": "tv",
+    "title": "The Dinosaurs",
+    "overview": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the forces that shaped their evolution.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mli1jtpqFFyBg5EeSLHeOawISE9.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18352",
+    "tmdbId": 18352,
+    "type": "tv",
+    "title": "The Garfield Show",
+    "overview": "Your favorite lazy, fat cat is at it again. Garfield, Odie, Jon and the rest of the gang are back for more funny misadventures. Whether he's scarfing down lasagna or tricking Nermal the kitten, Garfield is guaranteed to crack you up. But remember: He hates Mondays!",
+    "year": "2009",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jBAXfUHvVTBCsCwP1xNG6B3bZ0d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fP8cKfxDbCBA8qGVlfGjk9j2S4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Th45yF6T7HUF1OhWNTzRyew3XO.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "47480",
+    "tmdbId": 47480,
+    "type": "tv",
+    "title": "The Tom and Jerry Show",
+    "overview": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
+    "year": "2014",
+    "rating": 7.328,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/utqCOvMmjjMTlXNZz6PHOzRM5QP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cwog1QvmNjtFoQVioOLVv15un0v.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "221504",
+    "tmdbId": 221504,
+    "type": "tv",
+    "title": "Unicorn Academy",
+    "overview": "When a dark force threatens to destroy Unicorn Island, a brave teen and her five schoolmates must rise up to protect their beloved magical academy.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5aex9xH2Tq9G9m9WyhPJiyVOJol.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w1OI696IzYW37hZwdLfiGUYzAvX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d2kJPhDDcYSHMocYnjqUpjZTwzt.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "316945",
+    "tmdbId": 316945,
+    "type": "tv",
+    "title": "Unicorn Academy: Secrets Revealed",
+    "overview": "A new mystery unfolds at Unicorn Academy as long-buried secrets begin to surface, threatening the very balance of Unicorn Island. As Sophia and her friends return for another year, they are drawn into a dangerous quest filled with hidden powers, unexpected betrayals, and dark forces growing stronger in the shadows. With every step, the stakes rise, pushing the riders to their limits. Packed with magic, suspense, and emotional twists, this chapter promises a thrilling adventure where not everything is as it seems, and every secret could change their destiny forever.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ISVs3g7rjCnhFqnWLdwqxw9Wus.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wySgT9mfmQzJgttiSDuONykUVh5.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "201006",
+    "tmdbId": 201006,
+    "type": "tv",
+    "title": "Wild Babies",
+    "overview": "The adventures of lion cubs, elephants, penguins, pangolins and more as they learn to cope with the ups and downs of life in the wild and try their best to reach adulthood in an unforgiving world.",
+    "year": "2022",
+    "rating": 7.611,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ui3SWr6Vgpw5bdev3zdz4xXWn8G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b8YN6nQkCBM1r2KNKeCPeGcaKYG.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "35094",
+    "tmdbId": 35094,
+    "type": "tv",
+    "title": "Wild Kratts",
+    "overview": "The adventures of Chris and Martin Kratt as they encounter incredible wild animals, combining science education with fun and adventure as the duo travels to animal habitats around the globe.",
+    "year": "2011",
+    "rating": 7.523,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/urXyHFiXr7vyU9JhCDlGCeulYDA.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "112439",
+    "tmdbId": 112439,
+    "type": "tv",
+    "title": "Wonderoos",
+    "overview": "Join animal pals Kiki, Dewey, Hazzy, Luly and Teshi as they learn how to make friends, try new foods and face other big firsts in colorful Roo City!",
+    "year": "2024",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jL3ramnaNtWmPPv62atJu7zvN86.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aOop4VFfXKXExir1J1Aupch4d3V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tjBGJCTEQej2kVP2jMVtgQoFwck.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "154302",
+    "tmdbId": 154302,
+    "type": "tv",
+    "title": "Word Party Presents: Math!",
+    "overview": "Count numbers, compare shapes, and find patterns with baby animals Franny, Bailey, Kip, Lulu, and Tilly as they use math and songs to solve problems.",
+    "year": "2021",
+    "rating": 3.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qm2wlGnagElEpEmE3FnXW6c7pou.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6h3Y6EErfjL2Hi1AsCpESeizznN.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 27,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "158694",
+    "tmdbId": 158694,
+    "type": "tv",
+    "title": "Big Tree City",
+    "overview": "A team of animal heroes with special skills and speedy vehicles work together to keep Big Tree City safe and solve the town's trickiest problems.",
+    "year": "2022",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qpUvxH92IDFhxGQJAf63Ucyuc2S.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tulfhG5uHFkvDSe4UsLZjME7p5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xZYgmv3drDJCIqc2GaCrg7v2SY5.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "686941",
+    "tmdbId": 686941,
+    "type": "movie",
+    "title": "Dragons: Rescue Riders: Hunt for the Golden Dragon",
+    "overview": "It's the treasure hunt of a lifetime for the Rescue Riders, who must race to find a precious golden dragon egg and protect it from evil pirates.",
+    "year": "2020",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fD68JTgLp9Sa5tgdYIdvxWgj9I0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wCwbvPbg5J3bU9HPCRzjGFtqwfQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7KzbY88yicKsfx7vmjvoIGhUs7a.png",
+    "certificate": null,
+    "runTimeMinutes": 46,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1215165",
+    "tmdbId": 1215165,
+    "type": "movie",
+    "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
+    "overview": "Pinkfong and his friends enjoy the magic show put on by three cars in Wonder Village. But when danger appears, Hogi must be brave to save the day!",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zj2lUYtTyVVdJ9l7No6wERdNeso.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kAkZQxLbVaT8HLikMZ5rm58B4G5.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 42,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "785545",
+    "tmdbId": 785545,
+    "type": "movie",
+    "title": "Shaun the Sheep: The Flight Before Christmas",
+    "overview": "Shaun's seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else’s present?",
+    "year": "2021",
+    "rating": 6.973,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1eh6Yv6bAU2ghHxP1zgUlMfaOR3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/inxcSsT0zEmeRtAFvSLFo1kDGHR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8pyzUYe3yeWZeywgegO3cY39ZR3.png",
+    "certificate": "G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "653904",
+    "tmdbId": 653904,
+    "type": "movie",
+    "title": "Spirit Riding Free: Spirit of Christmas",
+    "overview": "Lucky and her friends venture into town on Christmas Eve in an attempt to fulfill their holiday plans. But when distractions lead to delays, they must figure out how to get home in time for Christmas in the middle of a serious snowstorm!",
+    "year": "2019",
+    "rating": 6.789,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1DXtxVD75Uv9fL2t8xqcZblmu2m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jjHTYi2KJ3dojfxIMmwcQz1BXnt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2IGOnMwAkkSJjHHRdV6giQWzRUl.png",
+    "certificate": "PG",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

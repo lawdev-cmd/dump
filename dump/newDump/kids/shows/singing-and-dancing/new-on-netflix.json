@@ -1,0 +1,102 @@
+[
+  {
+    "id": "241948",
+    "tmdbId": 241948,
+    "type": "tv",
+    "title": "Bebefinn",
+    "overview": "Join baby Finn and his family on fun-filled adventures while learning something new every time. Get ready to sing and dance!",
+    "year": "2022",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ySckCEYNRJ815DrnmKJmeKcTcTz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5kqGQzEDHiIh9yt2iMBnWR8mloc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u0hkmZlq4lJVZzBacb0NUYAIbP2.png",
+    "certificate": null,
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "258124",
+    "tmdbId": 258124,
+    "type": "tv",
+    "title": "Danny Go!",
+    "overview": "Danny Go! is a live-action educational children’s show filled with music, learning and silliness. Created in 2019 by 3 childhood friends in Charlotte, North Carolina, the purpose of the show is to inspire creativity, confidence and kindness in kids from ages 2-7.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fB0oxr8ewSr7Cb37sRZ3LHCg970.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kdf8S6J2z4FfXKhlM5x8UUeJCjD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zchJPiSX8b7N1af3GtZ3ER5E3kB.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 9,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "292043",
+    "tmdbId": 292043,
+    "type": "tv",
+    "title": "Two Little Angels",
+    "overview": "Framed and forced to break up, a CEO faces the ultimate challenge to win back his love, especially with their adorable child stepping in to help make things right!",
+    "year": "2025",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tSnsJJpiTxanYlWxMcBx5WZAZXs.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 3,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "502",
+    "tmdbId": 502,
+    "type": "tv",
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "year": "1969",
+    "rating": 7.122,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b4ZhunEpCI8NsPP4UeUs3spN6U.svg",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "8019",
+    "tmdbId": 8019,
+    "type": "tv",
+    "title": "Upin & Ipin",
+    "overview": "“Upin & Ipin” is a 3D animated series produced by Les’ Copaque Production Sdn. Bhd. and is currently one of the most popular animated series in Malaysia receiving excellent reviews and steadfastly averaging around 800, 000 viewers per episode. The series is actually a spin-off of the company’s debut feature film “Geng: Pengembaraan Bermula”.\n\nThe series centres on a pair of 5-year-old twin boys, the titular Upin and Ipin, who tell stories of their everyday lives through fun and amusing actions with their friends while also learning new things during their day to day activities. Like every other children, Upin and Ipin are very mischievous and often find themselves getting into trouble, most of the time with their teenage sister Ros.",
+    "year": "2007",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nLN1FeKf57M6dU2fHVVusOmIH3O.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5FAkX1btyAsvEGXZDn6CA6sfCBS.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 5,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "MY"
+    ],
+    "originalLanguage": ""
+  }
+]

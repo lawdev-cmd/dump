@@ -1,0 +1,723 @@
+[
+  {
+    "id": "231728",
+    "tmdbId": 231728,
+    "type": "tv",
+    "title": "7 Bears",
+    "overview": "Forget the Seven Dwarfs — here come the 7 Bears! This lovable pack of furballs is putting a fuzzy twist on the classic fairy tales you thought you knew.",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/voK3P84shtv4Nqaz4qzozcndgDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8aIy81OdhFWCBgu6DBU2T4ReiQE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aqDjVqmpoUp4al4OlUnD9U4ANtA.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "107422",
+    "tmdbId": 107422,
+    "type": "tv",
+    "title": "Alien TV",
+    "overview": "Alien reporters Ixbee, Pixbee and Squee travel to a lovely but odd planet called Earth, where they attempt to make sense of humans and their hobbies.",
+    "year": "2020",
+    "rating": 6.57,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qqSDgXn18t1j3OUPem92vfUd7CU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/30bSx8hWIn9u1Ch9UbB5riA1MBf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q9rI6rggGsO7tua4hsthFy1mL7R.png",
+    "certificate": null,
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "70437",
+    "tmdbId": 70437,
+    "type": "tv",
+    "title": "Ask the Storybots",
+    "overview": "Based on the award-winning educational apps, the StoryBots are curious little creatures who live in the world beneath our screens and go on fun adventures to help answer kids' questions, like how night happens or why we need to brush our teeth.",
+    "year": "2016",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6IY8bmJcUGmgcB9ERnx8hLw7Qz5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/947dkEryFtsyO0pNlVRJV53ZbEb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jDAsEYKpd3ougo91tO4eF0aQ628.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "249018",
+    "tmdbId": 249018,
+    "type": "tv",
+    "title": "Bad Dinosaurs",
+    "overview": "A lovably mischievous Tyrannosaurus family explores their colorful prehistoric world, having slapstick fun with the silly dinosaurs who live there.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f2WrO4EHOzDOnJOho6bAIGFu8Ls.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xKEhjg4PLWncQihSj8HKnrIoPak.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/geUGIFSHgbqvJiXMjnfjJRhGCx1.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "103174",
+    "tmdbId": 103174,
+    "type": "tv",
+    "title": "Chico Bon Bon: Monkey with a Tool Belt",
+    "overview": "Armed with tools and engineering smarts, monkey mechanic Chico Bon Bon and his Fix-It Force help the people of Blunderburg solve all of their problems.",
+    "year": "2020",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rBnJbfgDNWSTvSg2Tkps1KS7wTH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yH72wmzAsjmp4KlbOSf7w8Zk70u.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 14,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "282209",
+    "tmdbId": 282209,
+    "type": "tv",
+    "title": "Dog Days Out",
+    "overview": "When their humans are away, a cute and curious pup and his dog pals love to play with their best friends — their favorite toys!",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wBrx2AUBZLzkW6Mt5IOpYY0h2Z4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6N22kidmy5UV1qCm5FUuwMOlQ2i.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s7Z2D47cU2lA65By4o77WeRKd6d.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 5,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "293703",
+    "tmdbId": 293703,
+    "type": "tv",
+    "title": "Dr. Seuss's Red Fish, Blue Fish",
+    "overview": "One fish, two fish, meet Red Fish and Blue Fish! From there to here — and from here to there — these friends find opposites everywhere!",
+    "year": "2025",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kGgJR0JyxIjmugpGJx0UpujxFA4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bq4z4ATysYUhI5ZBdaSXia13mzw.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "222024",
+    "tmdbId": 222024,
+    "type": "tv",
+    "title": "Erin & Aaron",
+    "overview": "A newly blended family and two polar opposite stepsiblings named Erin and Aaron who come together through music.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aQ73bNBqci7qUJNVjlVFXsglFFx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cPM88Bhgluy9hh7t7R3OuxPo1tm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vC1RUVr8on7cn2cu5cyDASRrxII.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "203949",
+    "tmdbId": 203949,
+    "type": "tv",
+    "title": "Gudetama: An Eggcellent Adventure",
+    "overview": "Gudetama, the lazy egg, reluctantly embarks on an adventure of a lifetime with Shakipiyo, a newly hatched chick, who is determined to find their mother.",
+    "year": "2022",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/irE2cdrnicp8w9Y65hw8Gpx0pWC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/g20g2iWGWbJXVxZ16eYMTIRX8GU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2Ea1CxiN7oRy1dIxcH0Z5Vlq5Ni.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 17,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "235228",
+    "tmdbId": 235228,
+    "type": "tv",
+    "title": "I Woke Up a Vampire",
+    "overview": "On her 13th birthday, Carmie discovers that she's actually half human, half vampire — and that mythical powers make middle school way more complicated.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6P4tca2yL0pgS9xdmtGpZJyUubD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nQQQVpEYudncIuoyD5YUzYbqulK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1W4L2iHsTywbNgKt5B86P3TQHhC.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "300594",
+    "tmdbId": 300594,
+    "type": "tv",
+    "title": "Is It Cake? Halloween",
+    "overview": "Cake or fake? Trick or treat? Skilled bakers whip up hyperrealistic Halloween cakes in this seasonal special edition of the hit competition series.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7CJCFVmWfza0ix3VZO9N37mEeGm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h9NNQwVio2OoxtmhE1RgZMrnR0E.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xXzM8tP2gY9Oy58y470X2qnjbEH.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127753",
+    "tmdbId": 127753,
+    "type": "tv",
+    "title": "Johnny Test",
+    "overview": "How much trouble could one imaginative boy, his faithful dog and two science-loving sisters possibly get into? Hmm, that sounds like a challenge!",
+    "year": "2021",
+    "rating": 6.16,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wSCaL6EF1QU5mVVc4IHAll0ROex.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j8Xhav4n6M9XwhCQ7b2IpblURiR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/j0JcBB4R8rpZzrvJD0CGlIlEEQp.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 14,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "214091",
+    "tmdbId": 214091,
+    "type": "tv",
+    "title": "Karate Sheep",
+    "overview": "Trico is an enthusiastic sheep who loves to share new objects and ideas with the rest of the flock. This causes ruckus in the mountain pastures, which all inevitably end up at Wanda’s expense, a tough ewe whose job is to keep the sheep safe. Not a small feat, especially when Wolf is always lurking, waiting to make the most of this newfound chaos.",
+    "year": "2022",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oHNb5bEHkgKrPpSVEbMpneiV8uy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qI1vDGKZ0LJ9F6PB9a4Ze3L2d4Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xhFQo0fmXhTJ1S1PmA3fCpcKCqX.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "83248",
+    "tmdbId": 83248,
+    "type": "tv",
+    "title": "Larva Island",
+    "overview": "Stranded on a tropical island, two silly larva buddies find slapstick fun in everything from discovering food to meeting new animal friends.",
+    "year": "2018",
+    "rating": 7.118,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vlNvnatIn9js6yhwW8DLDSoLEY3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gV4RNc16gn4QOAa45hrcrfZ1CQm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1e4fjXeB2roEnrF9pp7JxIw6T5w.png",
+    "certificate": null,
+    "runTimeMinutes": 8,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US",
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "94107",
+    "tmdbId": 94107,
+    "type": "tv",
+    "title": "LEGO City Adventures",
+    "overview": "Welcome to LEGO City, a modern metropolis filled with the fiercest firefighters, the cream of the crop cops, and so many Blockheads. Every citizen will assemble together for the most awesomely awesome adventures.",
+    "year": "2019",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6fBhyepVUkIxka9vLGtb3kH6QGf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mZW1kOVgsKvkna2f3rE4LiDit6A.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5LfBKFmCY58EWwOFMXvmorHu9gg.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "279601",
+    "tmdbId": 279601,
+    "type": "tv",
+    "title": "Man vs Baby",
+    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
+    "year": "2025",
+    "rating": 6.793,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cx04JjV6BnsMmpiPyk3T3vx2oSx.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127575",
+    "tmdbId": 127575,
+    "type": "tv",
+    "title": "Mighty Little Bheem: Festival of Colors",
+    "overview": "From surprising stage performances to spraying colors with friends, join baby Bheem for all his Holi hijinks during the special spring festival.",
+    "year": "2020",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sJ8quqxJRpirI09gra5FokHrIhe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vK9IQRVtQkFX1cJ5pTQ40vzNQXN.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158691",
+    "tmdbId": 158691,
+    "type": "tv",
+    "title": "My Little Pony: Make Your Mark",
+    "overview": "Welcome back to Equestria, where pony magic is everywhere. With friends Zipp, Sunny, Izzy, Pipp and Hitch leading the way, adventure is sure to follow!",
+    "year": "2022",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gMfq9hY6xaZO3N7tATL4maCiYh4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wQ3TZrCykgavdavDg23JGGCA2YN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/GRIblFBeH0Mcpv8jqpXqgvU9Y4.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "204684",
+    "tmdbId": 204684,
+    "type": "tv",
+    "title": "Oddballs",
+    "overview": "Bubble-shaped boy James questions anything and everything that annoys him. The result? An awesome life of odd adventure with his two best friends.",
+    "year": "2022",
+    "rating": 7.224,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5N7a8wieLVLo56wXxyTbWlS1zEQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nZIqvQyYccgHwHXL5Aa3zpomtRC.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "220150",
+    "tmdbId": 220150,
+    "type": "tv",
+    "title": "Pokémon Horizons",
+    "overview": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
+    "year": "2023",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mYDlRCy9uvowwwyYWQbMj9HUKay.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329710",
+    "tmdbId": 329710,
+    "type": "tv",
+    "title": "Sealook",
+    "overview": "Set in a peaceful, icy wildlife sanctuary, Sealook is a slice-of-life, slapstick mockumentary that follows the delightfully bizarre daily routines of a group of \"tagged seals.\" Having been marked with colourful flipper tags by researchers to observe their behavior, these round, squishy, and uniquely pattered creatures reveal a world that is anything but ordinary.",
+    "year": "2023",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6U10hNvdMPGqfhVztJtDN73yiC2.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 12,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "130688",
+    "tmdbId": 130688,
+    "type": "tv",
+    "title": "Sharkdog",
+    "overview": "10 year old Max and his best friend Sharkdog - half shark, half dog, all appetite. Blissfully unaware of his own strength, stealth and general sharkiness, Sharkdog often leaves a trail of chaos in his wake.",
+    "year": "2021",
+    "rating": 8.042,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cdkeBd7XZ6CmSE1a36rGG4bjqbb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z0RaSf4tAvugf832rIaaGkwJRXF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2ZubDNTnZ5BNQHipHbTtd4ywSkQ.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 17,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "SG"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "100605",
+    "tmdbId": 100605,
+    "type": "tv",
+    "title": "Shaun the Sheep: Adventures from Mossy Bottom",
+    "overview": "Clever sheep Shaun, loyal dog Bitzer and the rest of the Mossy Bottom gang cook up oodles of fun and mischief on the farm.",
+    "year": "2020",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jaRbqGU3eGdSBycsqpopFHXzbnk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/foIJCDrsF9Q5JAismrBK04kYSzj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pSgVvFZT52oW3xIqGoAJGE71WNu.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 13,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10926",
+    "tmdbId": 10926,
+    "type": "tv",
+    "title": "Sonic X",
+    "overview": "After getting stranded on Earth, Sonic and his friends team up with 12-year-old Chris Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.",
+    "year": "2003",
+    "rating": 7.593,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1EFqCQv0td8LMogXCpNEAW3uxgL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8Ep5ppQvqFvaMQrX3ENmM4jpNPI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcQf1UyyLqxZMpjE6FtegrM2TbN.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81425",
+    "tmdbId": 81425,
+    "type": "tv",
+    "title": "Talking Tom and Friends",
+    "overview": "Armed with technological gear, great ideas and an unfailing sense of humour, Talking Tom and his friends are on a mission to reach stardom at all costs.",
+    "year": "2014",
+    "rating": 6.833,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/u6We7ht3z8bSIaUF8P7DEwopOPi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yLLRJwHlRwADEojNwVhqAxSH8hh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g1kuqPIUu6ITCZkvRjT7UjZhww3.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "135037",
+    "tmdbId": 135037,
+    "type": "tv",
+    "title": "That Girl Lay Lay",
+    "overview": "That Girl Lay Lay follows Lay Lay, the perfect hype girl and best friend that anyone could ever want from their personal affirmation app. Struggling to make her mark at school and needing a best friend to talk to, Sadie wishes upon a star that Lay Lay was real and could help teach her how to stand out. When her wish comes true and Lay Lay is magically brought to life, the two friends learn that when they are together, they can accomplish anything, and navigate life as teenagers and discover who they truly are.",
+    "year": "2021",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zqHF8bo8YjqMKZoHqXCAZRDiwoS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/Gd30FPDPqoasShuFusTJveXbyS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/99V7uaMGcu0bhu5ubG2Iiz42pz7.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "302540",
+    "tmdbId": 302540,
+    "type": "tv",
+    "title": "The Bad Guys: The Series",
+    "overview": "How did the Bad Guys break into the bad guy business in the first place? Find out in this hilarious prequel series set before the hit films.",
+    "year": "2025",
+    "rating": 6.925,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1F19BFivPc2N3sXJ4461cWsrK33.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rjJPCHGLQw8wOUIQBYXbOr6GSOX.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "100963",
+    "tmdbId": 100963,
+    "type": "tv",
+    "title": "The Big Show Show",
+    "overview": "Former WWE wrestler the Big Show is out of the ring and ready for an even tougher challenge: raising three daughters with his wife in Florida.",
+    "year": "2020",
+    "rating": 7.432,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dsuQtGTIol9sUZFw1yJjqONKs5G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/404CfrpXBqLeZzk8iMzBK8dO16R.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "197429",
+    "tmdbId": 197429,
+    "type": "tv",
+    "title": "The Boss Baby: Back in the Crib",
+    "overview": "Framed for a corporate crime, an adult Ted Templeton turns back into the Boss Baby to live undercover with his brother, Tim, posing as one of his kids.",
+    "year": "2022",
+    "rating": 7.398,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/18f8ASmigtrQTm8MARHD8Af47db.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8D0B336mD6QnXnxcA8zSQVpaGg3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uJQ8w2Wob7Yfv2MOiX6YxdXlQzs.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1045944",
+    "tmdbId": 1045944,
+    "type": "movie",
+    "title": "The Boss Baby: Christmas Bonus",
+    "overview": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+    "year": "2022",
+    "rating": 6.678,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nITzFbM1JS7WEvFjjGL0kCb2yPr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w2nXy3ZmzyLWny3o4yPxH08MkSh.png",
+    "certificate": "PG",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "103786",
+    "tmdbId": 103786,
+    "type": "tv",
+    "title": "The Cuphead Show!",
+    "overview": "Follow the misadventures of the impulsive Cuphead and his cautious but persuadable brother Mugman in this animated series based on the hit video game.",
+    "year": "2022",
+    "rating": 7.939,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hdA9Tz16tfwfW1k7x66APoLrkdk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7JVvfW8lvEevwwofdGggXKwoAxI.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 14,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "91348",
+    "tmdbId": 91348,
+    "type": "tv",
+    "title": "The InBESTigators",
+    "overview": "Four clever school kids start their own detective agency and vlog about their adventures, becoming fast friends in the process.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7QBEGiRDzRsVu2VQrc8FsIFqMBa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1KCMCPcZvsZ4QnAL5r6OR6ZAr6h.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fgJj2PBmHNjwf3506zwHKcIKVks.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "92684",
+    "tmdbId": 92684,
+    "type": "tv",
+    "title": "The Last Kids on Earth",
+    "overview": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+    "year": "2019",
+    "rating": 8.14,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8mNQpab95fhyR2JF4nJ6dIORwKJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jlqUjWV6loT0Ss3Ckdi8CTrMZKJ.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69581",
+    "tmdbId": 69581,
+    "type": "tv",
+    "title": "The Worst Witch",
+    "overview": "Mayhem and mishaps follow young witch Mildred Hubble wherever she goes. She just can't help it! But with her friends' help, Mildred always manages to avoid disaster just in time.",
+    "year": "2017",
+    "rating": 7.411,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rboZ8THSUD68ux24f9wuf4ptBln.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qn34A8dkm7zcntQoGacvWbj8781.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "876576",
+    "tmdbId": 876576,
+    "type": "movie",
+    "title": "Go! Go! Cory Carson: Chrissy Takes the Wheel",
+    "overview": "From arcade games to sled days and hiccup cures, Cory Carson’s curious little sister Chrissy speeds off on her own for fun and adventure all over town!",
+    "year": "2021",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eZvpTcUk0L8paEqegXzUcJa9nG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cMQsrmk6FZpsZioJ3niCiFQ2a1C.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 57,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "263026",
+    "tmdbId": 263026,
+    "type": "tv",
+    "title": "Zig & Sharko",
+    "overview": "",
+    "year": "2018",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8cgDHghkvI5LvdXEWn0F1sCPi6n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vBxQATaPYafiqVWgjLbWwliBpbV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  }
+]

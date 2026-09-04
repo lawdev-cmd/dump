@@ -1,0 +1,104 @@
+[
+  {
+    "id": "579450",
+    "tmdbId": 579450,
+    "type": "movie",
+    "title": "Free Rein: Valentine's Day",
+    "overview": "Love is in the air as Zoe and friends go on a quest to find a fabled Maid's Stone. But when rivalry blinds them to danger, it's Raven to the rescue!",
+    "year": "2019",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uRAWwdGqnhoi8eFCiHuipymELJR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vtllxzsZBwWTc91VMiLNSC35AKD.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 50,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "92204",
+    "tmdbId": 92204,
+    "type": "tv",
+    "title": "Spirit Riding Free: Pony Tales",
+    "overview": "Find the fun and adventure of \"Spirit Riding Free\" in this mix of music videos and short episodes featuring Lucky and all of her friends!",
+    "year": "2019",
+    "rating": 7.457,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lsk3FCjcLW9Jekzprn4W9aCFud9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5mkPoQmzYJycI8yYXAvBa1Sf0hK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tWWDm5u7dq7v1r38wFHiXL749Xp.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "653904",
+    "tmdbId": 653904,
+    "type": "movie",
+    "title": "Spirit Riding Free: Spirit of Christmas",
+    "overview": "Lucky and her friends venture into town on Christmas Eve in an attempt to fulfill their holiday plans. But when distractions lead to delays, they must figure out how to get home in time for Christmas in the middle of a serious snowstorm!",
+    "year": "2019",
+    "rating": 6.789,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1DXtxVD75Uv9fL2t8xqcZblmu2m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jjHTYi2KJ3dojfxIMmwcQz1BXnt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2IGOnMwAkkSJjHHRdV6giQWzRUl.png",
+    "certificate": "PG",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "579473",
+    "tmdbId": 579473,
+    "type": "movie",
+    "title": "True: Happy Hearts Day",
+    "overview": "True and Bartleby try to cheer up the Rainbow Kingdom's loneliest citizen, but his gloomy mood is contagious! Can a trio of wishes turn things around?",
+    "year": "2019",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dfVNS9J7RzmiFxnT5NEnWAXRLsL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bXVpj30Cn4TkFzBkSOGjOUB0Fo.jpg",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "686942",
+    "tmdbId": 686942,
+    "type": "movie",
+    "title": "True: Wuzzle Wegg Day",
+    "overview": "Spring has sprung in Rainbow City, and Wuzzle Wegg Day is right around the corner! But Bartleby's convinced that a Wegg-stealing monster is on the loose.",
+    "year": "2020",
+    "rating": 1.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/65oS9kox8d3HtdetETebfpTMvwF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rKSTuDDSXDGB9WMw3m4xNHKixLN.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 23,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

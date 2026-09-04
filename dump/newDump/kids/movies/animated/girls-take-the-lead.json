@@ -1,0 +1,811 @@
+[
+  {
+    "id": "563710",
+    "tmdbId": 563710,
+    "type": "movie",
+    "title": "Angela's Christmas",
+    "overview": "A trip to church with her family on Christmas Eve gives young Angela an extraordinary idea. A heartwarming tale based on a story by Frank McCourt.",
+    "year": "2017",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3sUXtCQsT49bGw1zPtSnYeBpKpF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8uj9vrZtZHJKIyYEKH6DuU0B6Sr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vpyh6MHbr0kFXdjGRrkym2dPVf4.png",
+    "certificate": "G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "IE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "752455",
+    "tmdbId": 752455,
+    "type": "movie",
+    "title": "Angela's Christmas Wish",
+    "overview": "A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.",
+    "year": "2020",
+    "rating": 6.423,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8ftutOnMM5JHl69mvkNbs8f1AUR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eo6pahstCYRUm0Lk4MORmfCs2SH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8kxcIliZUbsUeSzpl7pccb0C9GK.png",
+    "certificate": "G",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "IE",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "51739",
+    "tmdbId": 51739,
+    "type": "movie",
+    "title": "The Secret World of Arrietty",
+    "overview": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items \"borrowed\" from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
+    "year": "2010",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lCIYf28WTRnSkMPBVURJGnBP8yo.png",
+    "certificate": "G",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1012801",
+    "tmdbId": 1012801,
+    "type": "movie",
+    "title": "Barbie: Mermaid Power",
+    "overview": "Barbie 'Brooklyn' Roberts, Barbie 'Malibu' Roberts, and sisters Skipper, Stacie, and Chelsea go on an underwater adventure as they transform into mermaids to help save the world of Pacifica.",
+    "year": "2022",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8qb8cLDBAWdahrtixN2mQdI6e52.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/orsOF8IJByvs5CvYBFclXATTE9B.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eF5nZNbHc1GEvJVvLEfjyTBoqzG.png",
+    "certificate": "PG",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "832046",
+    "tmdbId": 832046,
+    "type": "movie",
+    "title": "Charming",
+    "overview": "Living alone with her pet vacuum cleaner in a depressing elderly center, Lisette hopes to find love online, but ends up becoming friends with Jules, a young janitor.",
+    "year": "2021",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zul7SrFKT0NLpDZByVeVh6wVZ5p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bbuwhzkqrqcCOZMT68uqMi2eLyE.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 21,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "520758",
+    "tmdbId": 520758,
+    "type": "movie",
+    "title": "Chicken Run: Dawn of the Nugget",
+    "overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
+    "year": "2023",
+    "rating": 6.933,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eImY0cjbH0bll8EXSqxqEZIZcmY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1r22iNfynoE2Bkf6eLWC5CN7AMA.png",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "628964",
+    "tmdbId": 628964,
+    "type": "movie",
+    "title": "Child of Kamiari Month",
+    "overview": "A year after losing her mother, a young girl learns that she must journey across Japan to the annual gathering of gods in the sacred land of Izumo.",
+    "year": "2021",
+    "rating": 6.474,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zbajcTeE9NIOS5IzHqGDj0ZmW8b.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lr79OVNnJp1Jwys77zEjnJnQ1pc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6PNDRGsApi1nyCMxiBsdFfHsfc5.png",
+    "certificate": "PG",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1497036",
+    "tmdbId": 1497036,
+    "type": "movie",
+    "title": "Dr. Seuss's The Sneetches",
+    "overview": "An unexpected friendship forms between two young Sneetches on an island surrounded by beaches in this sweet musical special set in the world of Seuss.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iv2Z44Q52E8KSPiY1ZAPdFVyFal.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/83itBNmt0nhASEZMNpfo3wuFoqq.png",
+    "certificate": "G",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "466876",
+    "tmdbId": 466876,
+    "type": "movie",
+    "title": "Gnome Alone",
+    "overview": "When Chloe discovers that her new home's garden gnomes are not what they seem, she must decide between the pursuit of a desired high school life and taking up the fight against the Troggs.",
+    "year": "2017",
+    "rating": 6.122,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uAv8MOm26tAbSZbUiOtrHZx10gQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kIJvyyrWmPOp0oqyTHLQnI7PDYB.png",
+    "certificate": "PG",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "789708",
+    "tmdbId": 789708,
+    "type": "movie",
+    "title": "Hilda and the Mountain King",
+    "overview": "When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again — and save the city of Trolberg.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3vm7LOe7DhkiA7umBhslQy9MdkY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/892rHLop6XobpTmdJ05UfkWMZpf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cx3Mf2QzTWaq00LcdS6hot8Qh6x.svg",
+    "certificate": null,
+    "runTimeMinutes": 83,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CA",
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1119090",
+    "tmdbId": 1119090,
+    "type": "movie",
+    "title": "I Am Frankelda",
+    "overview": "A gifted young writer in 19th-century Mexico journeys into her subconscious and comes face to face with characters from her own spooky stories.",
+    "year": "2025",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hDzllxB1TQ7uUxVvjnGHirJJovt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pme7D46PxaOdNWika46q5VUS2CR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gTXKbvZCpfEI4vXp4gWcLCNX7KF.png",
+    "certificate": "NR",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "586954",
+    "tmdbId": 586954,
+    "type": "movie",
+    "title": "Latte and the Magic Waterstone",
+    "overview": "When a greedy bear steals a magic stone to keep the forest’s water for himself, a brave hedgehog and a timid squirrel must work together to retrieve it.",
+    "year": "2019",
+    "rating": 6.58,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/saxPKOrN6rNScTicLpBDZw58Cw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/poKtpiQ0akacXzXohWmtb0Z7nFD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t15OdJ8QXrkIx1KUBtWCqlmfk4O.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "882206",
+    "tmdbId": 882206,
+    "type": "movie",
+    "title": "LOL Surprise: The Movie",
+    "overview": "Dazzling doll sisters Queen Bee and Royal Bee make their first movie with help from their fashionable friends in this one-of-a-kind magical adventure.",
+    "year": "2021",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vbc8H3SR3BM6TZkJw6UBN4ekdjK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s8h8HGAO3vNQkqNhh8nq7uneoKT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/guP99eKWaSjjqTi95gtb8bXlXGb.png",
+    "certificate": "G",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1039627",
+    "tmdbId": 1039627,
+    "type": "movie",
+    "title": "L.O.L. Surprise! Winter Fashion Show",
+    "overview": "The collection with which Neonlicious was to make her debut mysteriously disappears. Now you have to use all your creativity and improvise new designs for the big parade!",
+    "year": "2022",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ik65OsEXbik1I0Di7SX9Sqv04e9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nJH0bIe9EIPickDbLbEtbh45dFC.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 60,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "755812",
+    "tmdbId": 755812,
+    "type": "movie",
+    "title": "Miraculous World: New York, United HeroeZ",
+    "overview": "Marinette's class is headed to New York, the city of superheroes, for French-American Friendship Week. But the arrival of Hawk Moth will complicate everything.",
+    "year": "2020",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2BZ7PC9aISswNXV2tugmjGiriaB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zgIkSq5VLMCOTp0Mw8NbP64Lgb3.png",
+    "certificate": "PG",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "726684",
+    "tmdbId": 726684,
+    "type": "movie",
+    "title": "Miraculous World: Shanghai - The Legend of Ladydragon",
+    "overview": "On school break, Marinette heads to Shanghai to meet Adrien. But after arriving, Marinette loses all her stuff, including the Miraculous that allows her to turn into Ladybug!",
+    "year": "2021",
+    "rating": 7.909,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ouUf9zIq8PzGROyWunyEhubfFMS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e2F7CQ5NnBThini9M8uwP8wfgEB.png",
+    "certificate": null,
+    "runTimeMinutes": 54,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "597316",
+    "tmdbId": 597316,
+    "type": "movie",
+    "title": "My Little Pony: A New Generation",
+    "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
+    "year": "2021",
+    "rating": 7.619,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uNZnve55MplVSUclf9mz3DO8tpP.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "IE",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1001997",
+    "tmdbId": 1001997,
+    "type": "movie",
+    "title": "My Little Pony: A New Generation: Sing-Along",
+    "overview": "A young pony makes a herd of new friends on a quest to bring magic back to her world in this sing-along version of \"My Little Pony: A New Generation.\"",
+    "year": "",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81",
+    "tmdbId": 81,
+    "type": "movie",
+    "title": "Warriors of the Wind",
+    "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+    "year": "1984",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2xynj0gkTPCNXH1wVJacQVdM63N.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "961323",
+    "tmdbId": 961323,
+    "type": "movie",
+    "title": "Nimona",
+    "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
+    "year": "2023",
+    "rating": 7.853,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yMuiqdlSDyipYQDo6zGoGP6yPta.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "560050",
+    "tmdbId": 560050,
+    "type": "movie",
+    "title": "Over the Moon",
+    "overview": "Fueled by memories of her mother, resourceful Fei Fei builds a rocket to the moon on a mission to prove the existence of a legendary moon goddess.",
+    "year": "2020",
+    "rating": 7.18,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/inHrrDDPmohfhdgPGI65a9ymNHX.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12429",
+    "tmdbId": 12429,
+    "type": "movie",
+    "title": "Ponyo",
+    "overview": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+    "year": "2008",
+    "rating": 7.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yp8vEZflGynlEylxEesbYasc06i.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1QmEcK0w2Ub4Hm094fHbZT8vA7o.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kh4b2CejW3HECRh8bBlMwg2ymaD.png",
+    "certificate": "G",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "370567",
+    "tmdbId": 370567,
+    "type": "movie",
+    "title": "Sherlock Gnomes",
+    "overview": "Garden gnomes Gnomeo & Juliet recruit renown detective Sherlock Gnomes to investigate the mysterious disappearance of other garden ornaments.",
+    "year": "2018",
+    "rating": 5.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jVUR1W6cq8VuT4A6N4fd2yDNhji.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1CLJsuvTWKEOKCmKVYQMUIYgYYu.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "592983",
+    "tmdbId": 592983,
+    "type": "movie",
+    "title": "Spellbound",
+    "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+    "year": "2024",
+    "rating": 6.586,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iqL1ztNeXAXulsZzpJWmyiZdZWc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7FZwDfLdPq48wDvQ2tAcikgJ10G.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "653904",
+    "tmdbId": 653904,
+    "type": "movie",
+    "title": "Spirit Riding Free: Spirit of Christmas",
+    "overview": "Lucky and her friends venture into town on Christmas Eve in an attempt to fulfill their holiday plans. But when distractions lead to delays, they must figure out how to get home in time for Christmas in the middle of a serious snowstorm!",
+    "year": "2019",
+    "rating": 6.789,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1DXtxVD75Uv9fL2t8xqcZblmu2m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jjHTYi2KJ3dojfxIMmwcQz1BXnt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2IGOnMwAkkSJjHHRdV6giQWzRUl.png",
+    "certificate": "PG",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "129",
+    "tmdbId": 129,
+    "type": "movie",
+    "title": "Spirited Away",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "year": "2001",
+    "rating": 8.534,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hkUi1Z15Ymj9GNamWQkzUhehLuy.png",
+    "certificate": "PG",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "915866",
+    "tmdbId": 915866,
+    "type": "movie",
+    "title": "StarBeam: Beaming in the New Year",
+    "overview": "Summersette's biggest baddies join forces on New Year’s Eve to battle Zoey and the Beam Team. But cool cousin Zara powers up to help save the day!",
+    "year": "2021",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mKsXvzNdMJ6MhqNsO45zLdnyncS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eNPdTKx6XBbhkrlue7uNNHp4boz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ukjQtccSqOMSabQ75NZioauFGjF.png",
+    "certificate": null,
+    "runTimeMinutes": 47,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [],
+    "originalLanguage": ""
+  },
+  {
+    "id": "750794",
+    "tmdbId": 750794,
+    "type": "movie",
+    "title": "StarBeam: Halloween Hero",
+    "overview": "Greedy Captain Fishbeard is stealing everybody's Halloween treats for himself, but StarBeam and Boost have some tricks up their sleeves to save the day!",
+    "year": "2020",
+    "rating": 6.571,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1cdbchaIyd5L0glMxeCHJCY85bJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5JKb4Duw3IAHzpWdw5AouXmhg5u.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 33,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "645757",
+    "tmdbId": 645757,
+    "type": "movie",
+    "title": "That Christmas",
+    "overview": "It's an unforgettable Christmas for the townsfolk of Wellington-on-Sea when the worst snowstorm in history alters everyone's plans — including Santa's.",
+    "year": "2024",
+    "rating": 7.142,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1rpyQcniNIJgsE0wKLOqPk2n7b7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ytsDbIahUvcCwLHiJa4QWDFtu6d.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1216512",
+    "tmdbId": 1216512,
+    "type": "movie",
+    "title": "The Casagrandes Movie",
+    "overview": "On a birthday trip to Mexico, 12-year-old Ronnie Anne accidentally frees a demigod trapped in a mountain and needs her family's help to set things right.",
+    "year": "2024",
+    "rating": 7.057,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9L6qUlNYbL6XgYTXPKOlMtphzSu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/y6NjM64d9napTEFN51A6PFRgfof.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "739547",
+    "tmdbId": 739547,
+    "type": "movie",
+    "title": "Thelma the Unicorn",
+    "overview": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
+    "year": "2024",
+    "rating": 6.893,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTLui31dSW2VGWHZAnb01wpHGFV.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "484510",
+    "tmdbId": 484510,
+    "type": "movie",
+    "title": "Trolls Holiday",
+    "overview": "When the eternally optimistic Poppy, queen of the Trolls, learns that the Bergens no longer have any holidays on their calendar, she enlists the help of Branch and the rest of the gang on a delightfully quirky mission to fix something that the Bergens don't think is broken.",
+    "year": "2017",
+    "rating": 6.669,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lJV03Etqdv9mJSixgIVn7dstoNc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wACAzDetLg6HRaL98SJQ1sk4HTf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2wzRY00R18LBet4Lx0DQMPzgKBv.png",
+    "certificate": "PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "736517",
+    "tmdbId": 736517,
+    "type": "movie",
+    "title": "True: Friendship Day",
+    "overview": "When a giant Grippity-Grab snags Grizelda's friendship bracelet and turns her into a mermaid, True heads under the sea with magic wishes to save the day.",
+    "year": "2020",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4NslNr7YGfBOCJa49L9kUfdDVIH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n4pjhLNZ4g1HCgtXZNrqF8cUabl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v1M6g4Oc6sMaBDMgeSNNvgZGAgA.png",
+    "certificate": null,
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "644297",
+    "tmdbId": 644297,
+    "type": "movie",
+    "title": "True: Grabbleapple Harvest",
+    "overview": "It's Grabbleapple harvest season in the Rainbow Kingdom ... but Glummy Glooma doesn't want autumn to come. Can True and her friends save the festival?",
+    "year": "2019",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vnYwt2U6QFeNZy44GkceXtI4hox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/91NpxiHypI5sxbwMQQlqb7YcACt.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "579473",
+    "tmdbId": 579473,
+    "type": "movie",
+    "title": "True: Happy Hearts Day",
+    "overview": "True and Bartleby try to cheer up the Rainbow Kingdom's loneliest citizen, but his gloomy mood is contagious! Can a trio of wishes turn things around?",
+    "year": "2019",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dfVNS9J7RzmiFxnT5NEnWAXRLsL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bXVpj30Cn4TkFzBkSOGjOUB0Fo.jpg",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "711700",
+    "tmdbId": 711700,
+    "type": "movie",
+    "title": "True: Rainbow Rescue",
+    "overview": "",
+    "year": "2020",
+    "rating": 4.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/16i4BDnSDcF0o3SPsh4P8r2UguM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/k9d3ojWOkawLyrFmJPv1co8Thkx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lyPFKesxTZySfatcVFIldXIRMw4.png",
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "631331",
+    "tmdbId": 631331,
+    "type": "movie",
+    "title": "True: Tricky Treat Day",
+    "overview": "It's up to True and her friends to save the day when a hungry Yeti sneaks a forbidden treat and fills the kingdom with Howling Greenies.",
+    "year": "2019",
+    "rating": 3.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w39Bp54aK6oKRkf0ULjs1nuQJem.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tbxYnQ8TqBI7EUiXazXp3GFrHr9.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "651249",
+    "tmdbId": 651249,
+    "type": "movie",
+    "title": "True: Winter Wishes",
+    "overview": "An ice crystal from a frosty realm is freezing everything in the Rainbow Kingdom, its citizens too! Can True save Winter Wishfest -- and her friends?",
+    "year": "2019",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oBUKoeZNhHppEmGlhbNZPDBTgiW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kokIDYJkdKWTSFiJLDuAMi2tZY2.jpg",
+    "logoUrl": null,
+    "certificate": "G",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "686942",
+    "tmdbId": 686942,
+    "type": "movie",
+    "title": "True: Wuzzle Wegg Day",
+    "overview": "Spring has sprung in Rainbow City, and Wuzzle Wegg Day is right around the corner! But Bartleby's convinced that a Wegg-stealing monster is on the loose.",
+    "year": "2020",
+    "rating": 1.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/65oS9kox8d3HtdetETebfpTMvwF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rKSTuDDSXDGB9WMw3m4xNHKixLN.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 23,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37797",
+    "tmdbId": 37797,
+    "type": "movie",
+    "title": "Whisper of the Heart",
+    "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: \"Seiji Amasawa.\"",
+    "year": "1995",
+    "rating": 7.946,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/61ddxAzsiUGEZpty0YvVRM6bU1c.png",
+    "certificate": "G",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  }
+]
