@@ -2,7 +2,7 @@
   {
     "id": "326063",
     "tmdbId": 326063,
-    "type": "show",
+    "type": "tv",
     "title": "25 Years of You",
     "overview": "After 25 years of silent devotion, a man finally approaches the woman he has always loved, triggering a chain of revelations tied to a dark incident from their past.",
     "year": "2026",
@@ -14,15 +14,13 @@
     "runTimeMinutes": null,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "210922",
     "tmdbId": 210922,
-    "type": "show",
+    "type": "tv",
     "title": "28 Days Haunted",
     "overview": "Three teams each spend 28 days in some of America's most haunted locations for a paranormal experiment based on the theories of Ed and Lorraine Warren.",
     "year": "2022",
@@ -34,9 +32,7 @@
     "runTimeMinutes": 39,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 145,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +140,7 @@
     "runTimeMinutes": 158,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +158,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +176,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +194,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Thriller",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +212,7 @@
     "runTimeMinutes": 168,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -254,15 +230,13 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Thriller",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "120587",
     "tmdbId": 120587,
-    "type": "show",
+    "type": "tv",
     "title": "Haunted: Latin America",
     "overview": "Real people's terrifying tales of the chilling, unexplained and paranormal come to life with dramatic reenactments in this reality series.",
     "year": "2021",
@@ -274,9 +248,7 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -294,10 +266,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US",
-      "AU"
-    ],
+    "originCountries": ["US", "AU"],
     "originalLanguage": ""
   },
   {
@@ -315,9 +284,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -335,9 +302,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Romance",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -355,9 +320,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -375,9 +338,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -395,9 +356,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -415,9 +374,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -435,9 +392,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -455,9 +410,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -475,9 +428,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -495,9 +446,7 @@
     "runTimeMinutes": 146,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -515,9 +464,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -535,9 +482,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -555,9 +500,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -575,9 +518,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -595,11 +536,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "LB",
-      "AE",
-      "US"
-    ],
+    "originCountries": ["LB", "AE", "US"],
     "originalLanguage": ""
   },
   {
@@ -617,9 +554,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -637,9 +572,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -657,9 +590,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -677,9 +608,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -697,9 +626,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -717,9 +644,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -737,9 +662,7 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -757,9 +680,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -777,9 +698,7 @@
     "runTimeMinutes": 145,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -797,9 +716,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

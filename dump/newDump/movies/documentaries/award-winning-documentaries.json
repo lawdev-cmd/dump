@@ -14,15 +14,13 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "46861",
     "tmdbId": 46861,
-    "type": "show",
+    "type": "tv",
     "title": "A Lion in the House",
     "overview": "Five families struggle with the ups and downs of cancer treatment over the course of six years.",
     "year": "2006",
@@ -34,9 +32,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 34,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,10 +122,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +158,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +176,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +194,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -235,10 +212,7 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "AR",
-      "UY"
-    ],
+    "originCountries": ["AR", "UY"],
     "originalLanguage": ""
   },
   {
@@ -256,9 +230,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +248,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Documentary",
     "secondaryGenre": "War",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +266,7 @@
     "runTimeMinutes": 39,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +284,7 @@
     "runTimeMinutes": 21,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +302,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +320,7 @@
     "runTimeMinutes": 39,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -376,9 +338,7 @@
     "runTimeMinutes": 137,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -396,10 +356,7 @@
     "runTimeMinutes": 79,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US",
-      "TH"
-    ],
+    "originCountries": ["US", "TH"],
     "originalLanguage": ""
   },
   {
@@ -417,9 +374,7 @@
     "runTimeMinutes": 16,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -437,9 +392,7 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -457,9 +410,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -477,10 +428,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -498,9 +446,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -518,9 +464,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -538,9 +482,7 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "AU"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -558,9 +500,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -578,11 +518,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "IE",
-      "US",
-      "GB"
-    ],
+    "originCountries": ["IE", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -600,9 +536,7 @@
     "runTimeMinutes": 40,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -620,9 +554,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Documentary",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -640,9 +572,7 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -660,9 +590,7 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GE"
-    ],
+    "originCountries": ["GE"],
     "originalLanguage": ""
   },
   {
@@ -680,9 +608,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -700,10 +626,7 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -721,9 +644,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -741,9 +662,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Documentary",
     "secondaryGenre": "War",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -761,9 +680,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Music",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -781,9 +698,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -801,11 +716,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "UA",
-      "GB",
-      "US"
-    ],
+    "originCountries": ["UA", "GB", "US"],
     "originalLanguage": ""
   }
 ]

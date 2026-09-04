@@ -14,9 +14,7 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 173,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 82,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Comedy",
     "secondaryGenre": "TV Movie",
-    "originCountries": [
-      "TR"
-    ],
+    "originCountries": ["TR"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,15 +140,13 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "TR"
-    ],
+    "originCountries": ["TR"],
     "originalLanguage": ""
   },
   {
     "id": "91252",
     "tmdbId": 91252,
-    "type": "show",
+    "type": "tv",
     "title": "Daniel Sloss: Live Shows",
     "overview": "Comedian Daniel Sloss is ready to find the funny in some very dark topics, from the deeply personal to the truly irreverent.",
     "year": "2018",
@@ -174,15 +158,13 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "77124",
     "tmdbId": 77124,
-    "type": "show",
+    "type": "tv",
     "title": "Dave Chappelle: Equanimity & The Bird Revelation",
     "overview": "Comedy titan Dave Chappelle caps a wild year with two stand-up specials packed with scorching new material, self-reflection and tough love.",
     "year": "2017",
@@ -212,9 +194,7 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -232,9 +212,7 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -252,9 +230,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -272,9 +248,7 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -292,9 +266,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -312,9 +284,7 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -332,9 +302,7 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -352,9 +320,7 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -372,9 +338,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -392,9 +356,7 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -412,9 +374,7 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -432,9 +392,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -452,9 +410,7 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -472,9 +428,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -492,9 +446,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -512,9 +464,7 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -532,9 +482,7 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -552,9 +500,7 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -572,9 +518,7 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -592,9 +536,7 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -612,9 +554,7 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -632,9 +572,7 @@
     "runTimeMinutes": 144,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -652,9 +590,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -672,9 +608,7 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -692,9 +626,7 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -712,9 +644,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -732,9 +662,7 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -752,9 +680,7 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -772,9 +698,7 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -792,9 +716,7 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

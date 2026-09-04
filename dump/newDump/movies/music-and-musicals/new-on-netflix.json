@@ -14,15 +14,13 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "330129",
     "tmdbId": 330129,
-    "type": "show",
+    "type": "tv",
     "title": "Forbidden Woman",
     "overview": "A politician's wife falls in love with a famous singer after he saves her life, but she could lose everything if she doesn't end the affair.",
     "year": "2026",
@@ -34,15 +32,13 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Drama",
     "secondaryGenre": "Soap",
-    "originCountries": [
-      "CO"
-    ],
+    "originCountries": ["CO"],
     "originalLanguage": ""
   },
   {
     "id": "305644",
     "tmdbId": 305644,
-    "type": "show",
+    "type": "tv",
     "title": "Four Hands, Two Sonatas",
     "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
     "year": "2026",
@@ -54,15 +50,13 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
     "id": "331170",
     "tmdbId": 331170,
-    "type": "show",
+    "type": "tv",
     "title": "Hustle 5 - Apna Homeground",
     "overview": "A new season brings India's fiercest rappers, iconic Squad Bosses, and Badshah as judge as they battle for the ultimate rap champion title.",
     "year": "2026",
@@ -74,9 +68,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -94,15 +86,13 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
     "id": "254721",
     "tmdbId": 254721,
-    "type": "show",
+    "type": "tv",
     "title": "Kaulitz & Kaulitz",
     "overview": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series.",
     "year": "2024",
@@ -114,9 +104,7 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +140,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Animation",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -174,15 +158,13 @@
     "runTimeMinutes": 160,
     "primaryGenre": "Music",
     "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "133784",
     "tmdbId": 133784,
-    "type": "show",
+    "type": "tv",
     "title": "Rhythm + Flow France",
     "overview": "French rappers freestyle, battle and write their way to a game-changing 100,000 euro prize in a music competition series judged by Niska, Shay and SCH.",
     "year": "2022",
@@ -194,15 +176,13 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
     "id": "243202",
     "tmdbId": 243202,
-    "type": "show",
+    "type": "tv",
     "title": "Rhythm + Flow Italy",
     "overview": "In this music competition show, Fabri Fibra, Geolier and Rose Villain hit the streets of Rome, Naples and Milan to find the next Italian rap superstar.",
     "year": "2024",
@@ -214,15 +194,13 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
     "id": "245159",
     "tmdbId": 245159,
-    "type": "show",
+    "type": "tv",
     "title": "Shine",
     "overview": "In 1969 Bangkok, idealistic economist Trin meets carefree musician Tanwa amid political unrest, sparking a forbidden romance that tests their beliefs.",
     "year": "2025",
@@ -234,9 +212,7 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "TH"
-    ],
+    "originCountries": ["TH"],
     "originalLanguage": ""
   },
   {
@@ -254,9 +230,7 @@
     "runTimeMinutes": 137,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   }
 ]

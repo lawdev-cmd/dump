@@ -14,9 +14,7 @@
     "runTimeMinutes": 173,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -34,15 +32,13 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "84451",
     "tmdbId": 84451,
-    "type": "show",
+    "type": "tv",
     "title": "Bumping Mics with Jeff Ross & Dave Attell",
     "overview": "When Jeff Ross and Dave Attell take the stage, no one is safe. With the help of special guests, they're packing a lot of laughs into one epic weekend.",
     "year": "2018",
@@ -54,9 +50,7 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Talk",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,15 +86,13 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "101090",
     "tmdbId": 101090,
-    "type": "show",
+    "type": "tv",
     "title": "Ladies Up",
     "overview": "Rising India-based comics Prashasti Singh, Kaneez Surka, Supriya Joshi, and Niveditha Prakasam bring no-holds-barred humor to this stand up series",
     "year": "2020",
@@ -114,15 +104,13 @@
     "runTimeMinutes": 17,
     "primaryGenre": "Reality",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "156076",
     "tmdbId": 156076,
-    "type": "show",
+    "type": "tv",
     "title": "Only Jokes Allowed",
     "overview": "Six of South Africa's top comedians take center stage and showcase their talent in this collection of short stand-up sets.",
     "year": "2022",
@@ -134,15 +122,13 @@
     "runTimeMinutes": 16,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ZA"
-    ],
+    "originCountries": ["ZA"],
     "originalLanguage": ""
   },
   {
     "id": "139177",
     "tmdbId": 139177,
-    "type": "show",
+    "type": "tv",
     "title": "Russell Howard: Lubricant",
     "overview": "This two-part special features comic Russell Howard's delayed-yet-delighted return to the stage and a look at his life during an unexpected lockdown.",
     "year": "2021",
@@ -154,15 +140,13 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "110167",
     "tmdbId": 110167,
-    "type": "show",
+    "type": "tv",
     "title": "Standup and Away! with Brian Regan",
     "overview": "Comic Brian Regan has become a well-known name on the comedy circuit since releasing his first stand-up album in 1997. In this hybrid series, he blends his trademark observational stand-up with short sketches and audience interaction. Topics range from everyday things that people can relate to -- such as sitting too close to others at restaurants and lost luggage -- to more out-there subjects like being the guy who flew to the moon but didn't get to walk on it.",
     "year": "2018",
@@ -174,15 +158,13 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "80366",
     "tmdbId": 80366,
-    "type": "show",
+    "type": "tv",
     "title": "The Comedy Lineup",
     "overview": "A diverse group of up-and-coming comedians perform 15-minute sets in this stand-up comedy showcase series.",
     "year": "2018",
@@ -194,9 +176,7 @@
     "runTimeMinutes": 15,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -214,15 +194,13 @@
     "runTimeMinutes": 184,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
     "id": "92379",
     "tmdbId": 92379,
-    "type": "show",
+    "type": "tv",
     "title": "Tiffany Haddish Presents: They Ready",
     "overview": "Tiffany Haddish introduces her favorite comedians in a series of stand-up performances.",
     "year": "2019",
@@ -234,9 +212,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Reality",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

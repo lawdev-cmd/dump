@@ -14,9 +14,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Crime",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -74,10 +68,7 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -95,9 +86,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -115,15 +104,13 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "298234",
     "tmdbId": 298234,
-    "type": "show",
+    "type": "tv",
     "title": "aka Charlie Sheen",
     "overview": "Actor Charlie Sheen tells his story in this candid two-part documentary tracing his dazzling Hollywood rise, tabloid-topping fall and road to recovery.",
     "year": "2025",
@@ -135,9 +122,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Crime",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +158,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +176,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +194,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -235,15 +212,13 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "261649",
     "tmdbId": 261649,
-    "type": "show",
+    "type": "tv",
     "title": "Into the Fire: The Lost Daughter",
     "overview": "A tenacious mother unravels the complex mystery surrounding the 1989 disappearance of the daughter she placed for adoption.",
     "year": "2024",
@@ -255,9 +230,7 @@
     "runTimeMinutes": 79,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -275,9 +248,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -295,9 +266,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -315,9 +284,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Crime",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -335,9 +302,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -355,9 +320,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -375,9 +338,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "ZA"
-    ],
+    "originCountries": ["ZA"],
     "originalLanguage": ""
   },
   {
@@ -395,9 +356,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -415,9 +374,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -435,9 +392,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -455,9 +410,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -475,9 +428,7 @@
     "runTimeMinutes": 79,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -495,9 +446,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Crime",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -515,9 +464,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -535,9 +482,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -555,9 +500,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -575,9 +518,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -595,10 +536,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -616,10 +554,7 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -637,9 +572,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -657,9 +590,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -677,9 +608,7 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -697,9 +626,7 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -717,10 +644,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -738,9 +662,7 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Documentary",
     "secondaryGenre": "History",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -758,9 +680,7 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -778,9 +698,7 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -798,9 +716,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   }
 ]

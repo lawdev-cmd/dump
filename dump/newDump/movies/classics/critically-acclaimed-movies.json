@@ -14,9 +14,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 146,
     "primaryGenre": "Music",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 179,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 163,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -154,15 +140,13 @@
     "runTimeMinutes": 190,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "326441",
     "tmdbId": 326441,
-    "type": "show",
+    "type": "tv",
     "title": "Five Came Back - The Reference Films",
     "overview": "This collection includes 12 World War II-era propaganda films — many of which are graphic and offensive — discussed in the docuseries \"Five Came Back.\"",
     "year": "2021",
@@ -174,9 +158,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +176,7 @@
     "runTimeMinutes": 185,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +194,7 @@
     "runTimeMinutes": 177,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +212,7 @@
     "runTimeMinutes": 137,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -254,9 +230,7 @@
     "runTimeMinutes": 162,
     "primaryGenre": "Action",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -274,9 +248,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -294,9 +266,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -314,9 +284,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -334,9 +302,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Romance",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -354,9 +320,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -374,9 +338,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -394,10 +356,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA",
-      "FR"
-    ],
+    "originCountries": ["CA", "FR"],
     "originalLanguage": ""
   },
   {
@@ -415,9 +374,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Documentary",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -435,9 +392,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

@@ -14,16 +14,13 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US",
-      "CA"
-    ],
+    "originCountries": ["US", "CA"],
     "originalLanguage": ""
   },
   {
     "id": "112314",
     "tmdbId": 112314,
-    "type": "show",
+    "type": "tv",
     "title": "Archive 81",
     "overview": "An archivist takes a job restoring damaged videotapes and gets pulled into the vortex of a mystery involving the missing director and a demonic cult.",
     "year": "2022",
@@ -35,9 +32,7 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -55,9 +50,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +68,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -95,9 +86,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -115,15 +104,13 @@
     "runTimeMinutes": 82,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "113988",
     "tmdbId": 113988,
-    "type": "show",
+    "type": "tv",
     "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
     "overview": "This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade.",
     "year": "2022",
@@ -135,9 +122,7 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +158,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,15 +176,13 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "287540",
     "tmdbId": 287540,
-    "type": "show",
+    "type": "tv",
     "title": "Glitch!",
     "overview": "\"GLITCH!\" follows Chloe Ling, who after the death of her mother, immerses herself in virtual-reality gaming through an advanced device called Deep-Lace. But when her favourite first-person shooter game glitches, it inexplicably unleashes a ruthless game boss that hunts her in the real world. Faced with treachery and danger, Chloe must rally her gaming friends, a coder from her past, and a non-playable character (NPC) to destroy the game before it puts the fate of Singapore at risk.",
     "year": "2018",
@@ -215,9 +194,7 @@
     "runTimeMinutes": 31,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "SG"
-    ],
+    "originCountries": ["SG"],
     "originalLanguage": ""
   },
   {
@@ -235,9 +212,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -255,9 +230,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -275,10 +248,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -296,15 +266,13 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "92916",
     "tmdbId": 92916,
-    "type": "show",
+    "type": "tv",
     "title": "Marianne",
     "overview": "When a novelist realizes her terrifying stories are coming true, she returns to her hometown to face the demons from her past that inspire her writing.",
     "year": "2019",
@@ -316,15 +284,13 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Mystery",
     "secondaryGenre": "",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
     "id": "286801",
     "tmdbId": 286801,
-    "type": "show",
+    "type": "tv",
     "title": "Monster: The Ed Gein Story",
     "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
     "year": "2025",
@@ -336,9 +302,7 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -356,15 +320,13 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "271823",
     "tmdbId": 271823,
-    "type": "show",
+    "type": "tv",
     "title": "Playing Gracie Darling",
     "overview": "When Joni was 14, her best friend Gracie Darling disappeared during a séance. Some 27 years on, the local kids in a small town get their kicks with a game of 'Playing Gracie Darling' – but the seemingly innocent game turns sinister when another girl disappears. Joni, by then a child psychologist, returns to the town and partners with a police sergeant Jay to uncover the truth, while Gracie's sister Ruth faces a mother's worst nightmare when her own daughter vanishes under hauntingly similar circumstances.",
     "year": "2025",
@@ -376,15 +338,13 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "AU"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
     "id": "81354",
     "tmdbId": 81354,
-    "type": "show",
+    "type": "tv",
     "title": "Ratched",
     "overview": "In 1947, Mildred Ratched begins working as a nurse at a leading psychiatric hospital. But beneath her stylish exterior lurks a growing darkness.",
     "year": "2020",
@@ -396,9 +356,7 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -416,9 +374,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -436,9 +392,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -456,9 +410,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,9 +428,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -496,9 +446,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -516,9 +464,7 @@
     "runTimeMinutes": 148,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -536,15 +482,13 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
     "id": "218632",
     "tmdbId": 218632,
-    "type": "show",
+    "type": "tv",
     "title": "Bitter Sweet Hell",
     "overview": "Noh Young-won, a successful psychological counselor and celebrity, and her mother-in-law, Hong Sa-kang, face an incident that threatens their happy family and they try to work together to protect their precious family.",
     "year": "2024",
@@ -556,9 +500,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -576,15 +518,13 @@
     "runTimeMinutes": 21,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "LB"
-    ],
+    "originCountries": ["LB"],
     "originalLanguage": ""
   },
   {
     "id": "274979",
     "tmdbId": 274979,
-    "type": "show",
+    "type": "tv",
     "title": "The Crystal Cuckoo",
     "overview": "Hoping to learn more about her heart donor, a young doctor arrives in a mountain town where decades of mysterious tragedies plague the small community.",
     "year": "2025",
@@ -596,9 +536,7 @@
     "runTimeMinutes": 47,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -616,9 +554,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -636,9 +572,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -656,9 +590,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -676,9 +608,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -696,10 +626,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US",
-      "FR"
-    ],
+    "originCountries": ["US", "FR"],
     "originalLanguage": ""
   },
   {
@@ -717,15 +644,13 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "278196",
     "tmdbId": 278196,
-    "type": "show",
+    "type": "tv",
     "title": "The Summer Hikaru Died",
     "overview": "Six months ago, Hikaru vanished for a week. Now, as his best friend Yoshiki senses something amiss and confronts him, the harrowing truth emerges.",
     "year": "2025",
@@ -737,9 +662,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -757,9 +680,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -777,9 +698,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -797,9 +716,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

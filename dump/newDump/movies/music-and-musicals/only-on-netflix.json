@@ -14,15 +14,13 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "DK"
-    ],
+    "originCountries": ["DK"],
     "originalLanguage": ""
   },
   {
     "id": "103086",
     "tmdbId": 103086,
-    "type": "show",
+    "type": "tv",
     "title": "All For Love",
     "overview": "A penniless country boy goes in search of his runaway sister in Bogotá, where he falls for an aspiring singer, but gets tangled up in organized crime.",
     "year": "2020",
@@ -34,9 +32,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "CO"
-    ],
+    "originCountries": ["CO"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 146,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "SE"
-    ],
+    "originCountries": ["SE"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,10 +104,7 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Music",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "KR",
-      "GB"
-    ],
+    "originCountries": ["KR", "GB"],
     "originalLanguage": ""
   },
   {
@@ -135,16 +122,13 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "KR",
-      "US"
-    ],
+    "originCountries": ["KR", "US"],
     "originalLanguage": ""
   },
   {
     "id": "261887",
     "tmdbId": 261887,
-    "type": "show",
+    "type": "tv",
     "title": "Building the Band",
     "overview": "In the series we will meet a number of talented singers who aim to be part of a band. To form their bond, they'll have one-on-one conversations (and singing sessions) to figure out who they have the best chemistry with. Only when they decide who they want to form a band with do the different members get to see each other. From then on, they will have to work together to achieve the best performance.",
     "year": "2025",
@@ -156,15 +140,13 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "93233",
     "tmdbId": 93233,
-    "type": "show",
+    "type": "tv",
     "title": "Centaurworld",
     "overview": "Centaurworld follows a war horse who is transported from her embattled world to a strange land inhabited by silly, singing centaurs of all species, shapes, and sizes. Desperate to return home, she befriends a group of these magical creatures and embarks on a journey that will test her more than any battle she's ever faced before.",
     "year": "2021",
@@ -176,15 +158,13 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "84469",
     "tmdbId": 84469,
-    "type": "show",
+    "type": "tv",
     "title": "Cowboy Bebop",
     "overview": "Long on style and short on cash, bounty hunters Spike, Jet and Faye trawl the solar system looking for jobs. But can they outrun Spike's past?",
     "year": "2021",
@@ -196,9 +176,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +194,7 @@
     "runTimeMinutes": 155,
     "primaryGenre": "War",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -236,15 +212,13 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "207796",
     "tmdbId": 207796,
-    "type": "show",
+    "type": "tv",
     "title": "El Rey, Vicente Fernández",
     "overview": "In this captivating period series, the life and career of Mexican singer Vicente Fernández is dramatized like never before.",
     "year": "2022",
@@ -256,9 +230,7 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "CO"
-    ],
+    "originCountries": ["CO"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +248,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -296,15 +266,13 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Animation",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "222024",
     "tmdbId": 222024,
-    "type": "show",
+    "type": "tv",
     "title": "Erin & Aaron",
     "overview": "A newly blended family and two polar opposite stepsiblings named Erin and Aaron who come together through music.",
     "year": "2023",
@@ -316,9 +284,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -336,16 +302,13 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CY",
-      "US"
-    ],
+    "originCountries": ["CY", "US"],
     "originalLanguage": ""
   },
   {
     "id": "100350",
     "tmdbId": 100350,
-    "type": "show",
+    "type": "tv",
     "title": "Girls5eva",
     "overview": "When a one-hit-wonder girl group from the '90s gets sampled by a young rapper, its members reunite to give their pop star dreams one more shot. They may be grown women balancing spouses, kids, jobs, debt, aging parents and shoulder pain, but can't they also be Girls5Eva?",
     "year": "2021",
@@ -357,15 +320,13 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "87024",
     "tmdbId": 87024,
-    "type": "show",
+    "type": "tv",
     "title": "Go! Live Your Way",
     "overview": "Mia, a talented and courageous girl who lives with her adoptive godmother, earns a scholarship to attend the prestigious Saint Mary Academy, a school renowned for its acclaimed art department and privileged students. Once at Saint Mary, Mia tries to adapt to her new school but soon finds herself at odds with the owner’s daughter, the academy’s most talented and popular student. With the help of her two new friends, Mia sets out to win over Saint Mary, even capturing the attention of the school’s heartthrob and basketball player—the brother of her rival.",
     "year": "2019",
@@ -377,15 +338,13 @@
     "runTimeMinutes": 40,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "AR"
-    ],
+    "originCountries": ["AR"],
     "originalLanguage": ""
   },
   {
     "id": "67706",
     "tmdbId": 67706,
-    "type": "show",
+    "type": "tv",
     "title": "Hip Hop Evolution",
     "overview": "Hip-Hop today is a global culture that has changed music, dance, fashion, language —and even politics. But where did this worldwide cultural movement begin? We trace hip-hop back to its humble beginnings, when the kids of the Bronx crammed into house parties, rec rooms, and public parks to hear music like they’d never heard it before.",
     "year": "2016",
@@ -397,9 +356,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -417,15 +374,13 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
     "id": "106292",
     "tmdbId": 106292,
-    "type": "show",
+    "type": "tv",
     "title": "Julie and the Phantoms",
     "overview": "Teenage Julie finds her passion for music and life while helping the Phantoms -- a trio of ghostly guys -- become the band they were never able to be.",
     "year": "2020",
@@ -437,15 +392,13 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "254721",
     "tmdbId": 254721,
-    "type": "show",
+    "type": "tv",
     "title": "Kaulitz & Kaulitz",
     "overview": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series.",
     "year": "2024",
@@ -457,15 +410,13 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
     "id": "302696",
     "tmdbId": 302696,
-    "type": "show",
+    "type": "tv",
     "title": "KPop Demon Hunters Lyric Videos",
     "overview": "Some of the smash film's hottest hits come to life as lyric videos in a line-up featuring \"How It's Done,\" \"Golden,\" \"Soda Pop,\" \"Takedown\" and \"Free.\"",
     "year": "2025",
@@ -477,9 +428,7 @@
     "runTimeMinutes": 3,
     "primaryGenre": "Animation",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -497,15 +446,13 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "320472",
     "tmdbId": 320472,
-    "type": "show",
+    "type": "tv",
     "title": "Kylie",
     "overview": "A look at the life of Australian pop star Kylie Minogue, who opens her personal archives and reflects on a career in which she has sold 80 million records and reinvented herself, and by extension pop, several times. Home movies, personal photographs and new interviews reveal the picture, as Kylie addresses how she’s faced public scrutiny, personal loss and illness.",
     "year": "2026",
@@ -517,15 +464,13 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "79008",
     "tmdbId": 79008,
-    "type": "show",
+    "type": "tv",
     "title": "Luis Miguel: The Series",
     "overview": "The series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades.",
     "year": "2018",
@@ -537,9 +482,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -557,9 +500,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -577,15 +518,13 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "243202",
     "tmdbId": 243202,
-    "type": "show",
+    "type": "tv",
     "title": "Rhythm + Flow Italy",
     "overview": "In this music competition show, Fabri Fibra, Geolier and Rose Villain hit the streets of Rome, Naples and Milan to find the next Italian rap superstar.",
     "year": "2024",
@@ -597,9 +536,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
@@ -617,9 +554,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -637,15 +572,13 @@
     "runTimeMinutes": 11,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "78074",
     "tmdbId": 78074,
-    "type": "show",
+    "type": "tv",
     "title": "Sintonia",
     "overview": "Told through three different characters' perspectives, the story of Sintonia explores the interconnection of the music, drug traffic, and religion in São Paulo. In the quest to be somebody, many paths will converge.",
     "year": "2019",
@@ -657,9 +590,7 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "BR"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
@@ -677,9 +608,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -697,15 +626,13 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "74444",
     "tmdbId": 74444,
-    "type": "show",
+    "type": "tv",
     "title": "The Comedy Get Down",
     "overview": "A comedy series about what really happens behind the scenes of a massive stand-up comedy tour.",
     "year": "2017",
@@ -717,9 +644,7 @@
     "runTimeMinutes": 20,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -737,10 +662,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -758,10 +680,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -779,9 +698,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -799,9 +716,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

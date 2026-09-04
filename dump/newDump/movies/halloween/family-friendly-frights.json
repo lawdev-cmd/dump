@@ -14,15 +14,13 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Family",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "65294",
     "tmdbId": 65294,
-    "type": "show",
+    "type": "tv",
     "title": "A Series of Unfortunate Events",
     "overview": "The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents' death.",
     "year": "2017",
@@ -34,15 +32,13 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "133355",
     "tmdbId": 133355,
-    "type": "show",
+    "type": "tv",
     "title": "A Tale Dark & Grimm",
     "overview": "Follow Hansel and Gretel as they walk out of their own story into a winding and wickedly witty tale full of strange — and scary — surprises.",
     "year": "2021",
@@ -54,9 +50,7 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Kids",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,15 +68,13 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "78036",
     "tmdbId": 78036,
-    "type": "show",
+    "type": "tv",
     "title": "Creeped Out",
     "overview": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
     "year": "2017",
@@ -94,16 +86,13 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "CA",
-      "GB"
-    ],
+    "originCountries": ["CA", "GB"],
     "originalLanguage": ""
   },
   {
     "id": "214668",
     "tmdbId": 214668,
-    "type": "show",
+    "type": "tv",
     "title": "Dance Monsters",
     "overview": "In this feel-good competition, amateur dancers disguised as CGI avatars bring their best moves, hoping to win $250,000 — and a second shot at their dreams.",
     "year": "2022",
@@ -115,15 +104,13 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "158139",
     "tmdbId": 158139,
-    "type": "show",
+    "type": "tv",
     "title": "Dead End: Paranormal Park",
     "overview": "Two teens and a talking pug team up to battle demons at a haunted theme park — and maybe even save the world from a supernatural apocalypse.",
     "year": "2022",
@@ -135,9 +122,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 14,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,15 +158,13 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
     "id": "136394",
     "tmdbId": 136394,
-    "type": "show",
+    "type": "tv",
     "title": "Freeridge",
     "overview": "Four teen friends work to reverse a curse after a peculiar old box seems to bring misfortune — and more — into their lives.",
     "year": "2023",
@@ -195,9 +176,7 @@
     "runTimeMinutes": 31,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +194,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -235,11 +212,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "CA",
-      "US",
-      "GB"
-    ],
+    "originCountries": ["CA", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -257,9 +230,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -277,9 +248,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -297,15 +266,13 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
     "id": "235228",
     "tmdbId": 235228,
-    "type": "show",
+    "type": "tv",
     "title": "I Woke Up a Vampire",
     "overview": "On her 13th birthday, Carmie discovers that she's actually half human, half vampire — and that mythical powers make middle school way more complicated.",
     "year": "2023",
@@ -317,15 +284,13 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
     "id": "106292",
     "tmdbId": 106292,
-    "type": "show",
+    "type": "tv",
     "title": "Julie and the Phantoms",
     "overview": "Teenage Julie finds her passion for music and life while helping the Phantoms -- a trio of ghostly guys -- become the band they were never able to be.",
     "year": "2020",
@@ -337,9 +302,7 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -357,15 +320,13 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "213241",
     "tmdbId": 213241,
-    "type": "show",
+    "type": "tv",
     "title": "Lockwood & Co.",
     "overview": "A girl with extraordinary psychic abilities joins two gifted teen boys at a small ghost-hunting agency to fight the many deadly spirits haunting London.",
     "year": "2023",
@@ -377,9 +338,7 @@
     "runTimeMinutes": 43,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -397,9 +356,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "RU"
-    ],
+    "originCountries": ["RU"],
     "originalLanguage": ""
   },
   {
@@ -417,9 +374,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -437,10 +392,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -458,10 +410,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -479,16 +428,13 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
     "id": "133064",
     "tmdbId": 133064,
-    "type": "show",
+    "type": "tv",
     "title": "Scaredy Cats",
     "overview": "On Willa Ward’s twelfth birthday, she inherits a beautiful charm necklace that belonged to her mother, who was a witch.  She soon learns 2 bad witches, Wilma and Wanda are after her locket so they can have ultimate power, and she alongside her best friends Scout and Lily turn into cats to escape.",
     "year": "2021",
@@ -500,15 +446,13 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Family",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "18123",
     "tmdbId": 18123,
-    "type": "show",
+    "type": "tv",
     "title": "Scooby-Doo! Mystery Incorporated",
     "overview": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
     "year": "2010",
@@ -520,9 +464,7 @@
     "runTimeMinutes": 22,
     "primaryGenre": "Animation",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -540,15 +482,13 @@
     "runTimeMinutes": 11,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "117678",
     "tmdbId": 117678,
-    "type": "show",
+    "type": "tv",
     "title": "Skull Island",
     "overview": "Shipwrecked in the South Pacific, a group of explorers encounter a menagerie of fearsome creatures — including the giant ape who rules the island: Kong.",
     "year": "2023",
@@ -560,15 +500,13 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "224263",
     "tmdbId": 224263,
-    "type": "show",
+    "type": "tv",
     "title": "Stranger Things: Tales from '85",
     "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
     "year": "2026",
@@ -580,9 +518,7 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Animation",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -600,9 +536,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -620,15 +554,13 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "79948",
     "tmdbId": 79948,
-    "type": "show",
+    "type": "tv",
     "title": "The Hollow",
     "overview": "Three teens join forces to find a way home after waking up in a strange realm filled with magic portals, perplexing puzzles and vicious beasts.",
     "year": "2018",
@@ -640,9 +572,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -660,15 +590,13 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Romance",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "169590",
     "tmdbId": 169590,
-    "type": "show",
+    "type": "tv",
     "title": "The Last Bus",
     "overview": "After embarking on a life-changing field trip, a group of whip-smart students fight to save humanity from an army of ruthless drones.",
     "year": "2022",
@@ -680,15 +608,13 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "92684",
     "tmdbId": 92684,
-    "type": "show",
+    "type": "tv",
     "title": "The Last Kids on Earth",
     "overview": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
     "year": "2019",
@@ -700,15 +626,13 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "69581",
     "tmdbId": 69581,
-    "type": "show",
+    "type": "tv",
     "title": "The Worst Witch",
     "overview": "Mayhem and mishaps follow young witch Mildred Hubble wherever she goes. She just can't help it! But with her friends' help, Mildred always manages to avoid disaster just in time.",
     "year": "2017",
@@ -720,9 +644,7 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Kids",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -740,15 +662,13 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "286822",
     "tmdbId": 286822,
-    "type": "show",
+    "type": "tv",
     "title": "Winx Club: The Magic Is Back",
     "overview": "When Bloom discovers she has magic, her life takes a wild turn. At the Alfea school for fairies and witches, she meets five girls who become her best friends — and her greatest strength. Together, they’re the Winx. As dark secrets rise and powerful enemies close in, the Winx will need to unlock their true potential to protect their world — and themselves.",
     "year": "2025",
@@ -760,15 +680,13 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
     "id": "231727",
     "tmdbId": 231727,
-    "type": "show",
+    "type": "tv",
     "title": "Wolf King",
     "overview": "A young commoner comes of age and learns he's the last of a long line of Werewolves — and heir to the throne.",
     "year": "2025",
@@ -780,9 +698,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   }
 ]

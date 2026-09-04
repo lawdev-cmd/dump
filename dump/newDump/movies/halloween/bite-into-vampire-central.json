@@ -14,9 +14,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "BR"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
@@ -54,15 +50,13 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "273051",
     "tmdbId": 273051,
-    "type": "show",
+    "type": "tv",
     "title": "Babanba Banban Vampire",
     "overview": "When 15-year-old Rihito falls in love, an ancient vampire who craves 18-year-old virgin blood must protect the teen's virginity at all costs.",
     "year": "2025",
@@ -74,9 +68,7 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -94,16 +86,13 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "DE",
-      "GB"
-    ],
+    "originCountries": ["DE", "GB"],
     "originalLanguage": ""
   },
   {
     "id": "71024",
     "tmdbId": 71024,
-    "type": "show",
+    "type": "tv",
     "title": "Castlevania",
     "overview": "A vampire hunter fights to save a besieged city from an army of otherworldly beasts controlled by Dracula himself.",
     "year": "2017",
@@ -115,15 +104,13 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Animation",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "123548",
     "tmdbId": 123548,
-    "type": "show",
+    "type": "tv",
     "title": "Castlevania: Nocturne",
     "overview": "As revolution sweeps France, Richter Belmont fights to uphold his family's legacy and prevent the rise of a ruthless, power-hungry vampire ruler.",
     "year": "2023",
@@ -135,15 +122,13 @@
     "runTimeMinutes": 34,
     "primaryGenre": "Animation",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "86850",
     "tmdbId": 86850,
-    "type": "show",
+    "type": "tv",
     "title": "Dracula",
     "overview": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
     "year": "2020",
@@ -155,15 +140,13 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "111616",
     "tmdbId": 111616,
-    "type": "show",
+    "type": "tv",
     "title": "First Kill",
     "overview": "Falling in love is tricky for teens Juliette and Calliope: One's a vampire, the other's a vampire hunter — and both are ready to make their first kill.",
     "year": "2022",
@@ -175,9 +158,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +176,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +194,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -235,16 +212,13 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
     "id": "129933",
     "tmdbId": 129933,
-    "type": "show",
+    "type": "tv",
     "title": "Post Mortem: No One Dies in Skarnes",
     "overview": "Live Hallangen is declared dead but hours later she suddenly wakes up with a sudden urge for blood. Meanwhile, her brother Odd tries to keep the family driven funeral home afloat.",
     "year": "2021",
@@ -256,9 +230,7 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +248,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +266,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +284,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +302,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +320,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -376,15 +338,13 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "224333",
     "tmdbId": 224333,
-    "type": "show",
+    "type": "tv",
     "title": "Tooth Pari: When Love Bites",
     "overview": "A rebellious vampire with a broken tooth falls for a shy dentist on the streets of Kolkata but will human and mystical forces keep them apart?",
     "year": "2023",
@@ -396,15 +356,13 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "81559",
     "tmdbId": 81559,
-    "type": "show",
+    "type": "tv",
     "title": "V Wars",
     "overview": "After a mysterious disease begins transforming people into vampires, Dr. Luther Swann is pitted against his best friend, now a powerful vampire leader.",
     "year": "2019",
@@ -416,16 +374,13 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
     "id": "99772",
     "tmdbId": 99772,
-    "type": "show",
+    "type": "tv",
     "title": "Vampire in the Garden",
     "overview": "A vampire queen and a human girl join forces against all odds in search of “paradise” — a place where humans and vampires peacefully coexist.",
     "year": "2022",
@@ -437,15 +392,13 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "17149",
     "tmdbId": 17149,
-    "type": "show",
+    "type": "tv",
     "title": "Vampire Knight",
     "overview": "At Cross Academy, two student disciplinary committee members are tasked with keeping the peace between a human class and a night class of vampires.",
     "year": "2008",
@@ -457,15 +410,13 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "99935",
     "tmdbId": 99935,
-    "type": "show",
+    "type": "tv",
     "title": "Vampires",
     "overview": "A Paris teen who's half human, half vampire grapples with her emerging powers and family turmoil as she's pursued by a secret vampire community.",
     "year": "2020",
@@ -477,9 +428,7 @@
     "runTimeMinutes": 40,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -497,15 +446,13 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "65820",
     "tmdbId": 65820,
-    "type": "show",
+    "type": "tv",
     "title": "Van Helsing",
     "overview": "Vanessa Helsing, the daughter of famous vampire hunter and Dracula nemesis Abraham Van Helsing is resurrected five years in the future to find out that vampires have taken over the world and that she possesses unique power over them. She is humanity’s last hope to lead an offensive to take back what has been lost.",
     "year": "2016",
@@ -517,9 +464,7 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

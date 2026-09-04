@@ -14,9 +14,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "TH"
-    ],
+    "originCountries": ["TH"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 143,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 158,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -114,15 +104,13 @@
     "runTimeMinutes": 163,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "132188",
     "tmdbId": 132188,
-    "type": "show",
+    "type": "tv",
     "title": "Boo, Bitch",
     "overview": "Two senior BFFs make a last-ditch attempt to be seen. But when one of them becomes a ghost, she'll need to really live her best life — while she can.",
     "year": "2022",
@@ -134,9 +122,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,15 +140,13 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
     "id": "271015",
     "tmdbId": 271015,
-    "type": "show",
+    "type": "tv",
     "title": "Love & Crown",
     "overview": "In the Great Qi dynasty, young Emperor Xiao Huan assumes the alias Bai Chifan and draws close to Ling Cangcang, daughter of the Grand Tutor, to reclaim power from him and the Empress Dowager. Cangcang, the brave and righteous leader of the Fenglai Pavilion, joins him in investigating the Lingbi Sect. Their bond deepens into love, but her master's death sparks a fatal misunderstanding. Though they become Emperor and Empress, old wounds keep them apart. Refusing to abandon the truth, Cangcang endures betrayal and peril, only to discover Xiao Huan's silent devotion. Together, they restore peace, and prove that neither love nor the realm must be forsaken.",
     "year": "2025",
@@ -174,9 +158,7 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -194,15 +176,13 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "83478",
     "tmdbId": 83478,
-    "type": "show",
+    "type": "tv",
     "title": "Daybreak",
     "overview": "Living his best life in post-apocalyptic LA, a slacker strives to find the girl of his dreams while outwitting mindless ghouls and cliquish gangs.",
     "year": "2019",
@@ -214,9 +194,7 @@
     "runTimeMinutes": 49,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,10 +212,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -255,9 +230,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -275,9 +248,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CL"
-    ],
+    "originCountries": ["CL"],
     "originalLanguage": ""
   },
   {
@@ -295,9 +266,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -315,15 +284,13 @@
     "runTimeMinutes": 77,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
     "id": "255752",
     "tmdbId": 255752,
-    "type": "show",
+    "type": "tv",
     "title": "Haunted Hotel",
     "overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
     "year": "2025",
@@ -335,9 +302,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -355,9 +320,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -375,9 +338,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -395,9 +356,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -415,9 +374,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -435,9 +392,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -455,15 +410,13 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "TH"
-    ],
+    "originCountries": ["TH"],
     "originalLanguage": ""
   },
   {
     "id": "94515",
     "tmdbId": 94515,
-    "type": "show",
+    "type": "tv",
     "title": "Prank Encounters",
     "overview": "Monstrous frights meet hilarious reveals on this hidden-camera prank show as real people become the stars of their own full-blown horror movie.",
     "year": "2019",
@@ -475,9 +428,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Reality",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -495,9 +446,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -515,15 +464,13 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "69470",
     "tmdbId": 69470,
-    "type": "show",
+    "type": "tv",
     "title": "Santa Clarita Diet",
     "overview": "They're ordinary husband and wife realtors until she undergoes a dramatic change that sends them down a road of death and destruction. In a good way.",
     "year": "2017",
@@ -535,9 +482,7 @@
     "runTimeMinutes": 36,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -555,9 +500,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -575,15 +518,13 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "57646",
     "tmdbId": 57646,
-    "type": "show",
+    "type": "tv",
     "title": "Master's Sun",
     "overview": "Joo Joong-won is the arrogant, greedy CEO of Kingdom, a  conglomerate that includes a supermall and a hotel. \"Ghost whisperer”  Tae Gong-shil, is a misunderstood outcast who can't keep a  boyfriend or a job since a near death experience left her seeing needy  ghosts. She feels compelled to help them resolve their earthly issues so  they can move on to the afterlife... and he feels compelled to think  she's crazy. Soon their lives merge into a complicated web of hijinx,  misunderstandings, and... yes, love.",
     "year": "2013",
@@ -595,9 +536,7 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -615,9 +554,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -635,9 +572,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -655,9 +590,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -675,9 +608,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -695,9 +626,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -715,15 +644,13 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "217766",
     "tmdbId": 217766,
-    "type": "show",
+    "type": "tv",
     "title": "Zom 100: Bucket List of the Dead",
     "overview": "An overworked 24-year-old finally decides to live a little and create a bucket list, when a zombie outbreak hits the country.",
     "year": "2023",
@@ -735,16 +662,13 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "JP",
-      "US"
-    ],
+    "originCountries": ["JP", "US"],
     "originalLanguage": ""
   },
   {
     "id": "217945",
     "tmdbId": 217945,
-    "type": "show",
+    "type": "tv",
     "title": "Zombieverse",
     "overview": "A zombie virus outbreak has run amok in Korea — who will outwit the undead in the face of challenging quests and come out alive?",
     "year": "2023",
@@ -756,9 +680,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   }
 ]

@@ -14,9 +14,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Family",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Animation",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Animation",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,15 +68,13 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
     "id": "222024",
     "tmdbId": 222024,
-    "type": "show",
+    "type": "tv",
     "title": "Erin & Aaron",
     "overview": "A newly blended family and two polar opposite stepsiblings named Erin and Aaron who come together through music.",
     "year": "2023",
@@ -94,15 +86,13 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "106292",
     "tmdbId": 106292,
-    "type": "show",
+    "type": "tv",
     "title": "Julie and the Phantoms",
     "overview": "Teenage Julie finds her passion for music and life while helping the Phantoms -- a trio of ghostly guys -- become the band they were never able to be.",
     "year": "2020",
@@ -114,9 +104,7 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,10 +140,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +158,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +176,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +194,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -235,9 +212,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

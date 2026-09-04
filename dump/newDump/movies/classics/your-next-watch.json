@@ -14,9 +14,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 178,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +140,7 @@
     "runTimeMinutes": 179,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +158,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +176,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -214,10 +194,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "HK",
-      "TW"
-    ],
+    "originCountries": ["HK", "TW"],
     "originalLanguage": ""
   },
   {
@@ -235,9 +212,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -255,15 +230,13 @@
     "runTimeMinutes": 190,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "326441",
     "tmdbId": 326441,
-    "type": "show",
+    "type": "tv",
     "title": "Five Came Back - The Reference Films",
     "overview": "This collection includes 12 World War II-era propaganda films — many of which are graphic and offensive — discussed in the docuseries \"Five Came Back.\"",
     "year": "2021",
@@ -275,9 +248,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -295,9 +266,7 @@
     "runTimeMinutes": 142,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -315,9 +284,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -335,9 +302,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -355,9 +320,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -375,9 +338,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -395,9 +356,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -415,9 +374,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -435,9 +392,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -455,9 +410,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -475,9 +428,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -495,9 +446,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "War",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -515,9 +464,7 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -535,9 +482,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -555,9 +500,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -575,9 +518,7 @@
     "runTimeMinutes": 133,
     "primaryGenre": "Western",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -595,9 +536,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -615,9 +554,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -635,9 +572,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -655,9 +590,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -675,9 +608,7 @@
     "runTimeMinutes": 162,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -695,10 +626,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA",
-      "FR"
-    ],
+    "originCountries": ["CA", "FR"],
     "originalLanguage": ""
   },
   {
@@ -716,10 +644,7 @@
     "runTimeMinutes": 160,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -737,9 +662,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -757,9 +680,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -777,9 +698,7 @@
     "runTimeMinutes": 194,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -797,9 +716,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

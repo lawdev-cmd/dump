@@ -2,7 +2,7 @@
   {
     "id": "102355",
     "tmdbId": 102355,
-    "type": "show",
+    "type": "tv",
     "title": "ARASHI's Diary -Voyage-",
     "overview": "Twenty years after their debut, join the beloved members of ARASHI on a new journey as they showcase their lives, talents and gifts to the world.",
     "year": "2019",
@@ -14,15 +14,13 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "270912",
     "tmdbId": 270912,
-    "type": "show",
+    "type": "tv",
     "title": "BINI Docuseries",
     "overview": "The nation's girl group BINI truly lives up to its name, taking the country by storm. Follow their journey from humble beginnings to massive success in this three-part documentary series.",
     "year": "2024",
@@ -34,9 +32,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -54,10 +50,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "MX",
-      "US"
-    ],
+    "originCountries": ["MX", "US"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +68,7 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "TR"
-    ],
+    "originCountries": ["TR"],
     "originalLanguage": ""
   },
   {
@@ -95,9 +86,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -115,15 +104,13 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
     "id": "327125",
     "tmdbId": 327125,
-    "type": "show",
+    "type": "tv",
     "title": "It's Ok to Ask Questions",
     "overview": "In the GLAAD nominated series, \"It's OK to Ask Questions,\" NBC Chicago's Matthew Rodrigues showcases open and honest conversations with trailblazers in the queer community, offering a dialogue where no topic is off limits.",
     "year": "2023",
@@ -135,9 +122,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Talk",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +158,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "TH"
-    ],
+    "originCountries": ["TH"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +176,7 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +194,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Animation",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -235,15 +212,13 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "109293",
     "tmdbId": 109293,
-    "type": "show",
+    "type": "tv",
     "title": "Sing On!",
     "overview": "In this fun, fast-paced music contest hosted by Tituss Burgess, players sing their hearts out and try to hit the right notes to win up to $60,000.",
     "year": "2020",
@@ -255,15 +230,13 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "106526",
     "tmdbId": 106526,
-    "type": "show",
+    "type": "tv",
     "title": "Sing On! Germany",
     "overview": "In this karaoke competition hosted by Palina Rojinski, contestants must hit the right note for a chance to win up to 30,000 euros.",
     "year": "2020",
@@ -275,15 +248,13 @@
     "runTimeMinutes": 36,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
     "id": "105844",
     "tmdbId": 105844,
-    "type": "show",
+    "type": "tv",
     "title": "Sing On! Spain",
     "overview": "In this fast-paced, high-energy karaoke competition, singers from all walks of life battle it out for up to 30,000 euros!",
     "year": "2020",
@@ -295,9 +266,7 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Reality",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -315,9 +284,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Music",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -335,15 +302,13 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Music",
     "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "210267",
     "tmdbId": 210267,
-    "type": "show",
+    "type": "tv",
     "title": "Take 1",
     "overview": "Renowned musicians pull out all the stops to give a song of their choice the greatest live performance they can muster — and all in a single take.",
     "year": "2022",
@@ -355,9 +320,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -375,15 +338,13 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "271418",
     "tmdbId": 271418,
-    "type": "show",
+    "type": "tv",
     "title": "timelesz project -AUDITION-",
     "overview": "Three former members of the boy band Sexy Zone — Fuma Kikuchi, Shori Sato and So Matsushima — hold auditions for their new group, timelesz.",
     "year": "2024",
@@ -395,15 +356,13 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "312921",
     "tmdbId": 312921,
-    "type": "show",
+    "type": "tv",
     "title": "timelesz project -REAL-",
     "overview": "With all eight members in place, follow the boy band as they set out on their first arena tour and prepare for their biggest stage yet: a stadium concert.",
     "year": "2026",
@@ -415,9 +374,7 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -435,15 +392,13 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Music",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "VN"
-    ],
+    "originCountries": ["VN"],
     "originalLanguage": ""
   },
   {
     "id": "113450",
     "tmdbId": 113450,
-    "type": "show",
+    "type": "tv",
     "title": "Voices of Fire",
     "overview": "Pharrell Williams's hometown community leaders attempt to build one of the world's most inspiring gospel choirs.",
     "year": "2020",
@@ -455,15 +410,13 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "262868",
     "tmdbId": 262868,
-    "type": "show",
+    "type": "tv",
     "title": "WE ARE! Let's get the party STARTO!!",
     "overview": "Jun Matsumoto and Tadayoshi Ohkura produce this arena concert featuring 14 mega boy bands, including NEWS, SUPER EIGHT, KAT-TUN, King & Prince and more.",
     "year": "2024",
@@ -475,9 +428,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   }
 ]

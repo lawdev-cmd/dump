@@ -2,7 +2,7 @@
   {
     "id": "326063",
     "tmdbId": 326063,
-    "type": "show",
+    "type": "tv",
     "title": "25 Years of You",
     "overview": "After 25 years of silent devotion, a man finally approaches the woman he has always loved, triggering a chain of revelations tied to a dark incident from their past.",
     "year": "2026",
@@ -14,9 +14,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -34,10 +32,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US",
-      "RO"
-    ],
+    "originCountries": ["US", "RO"],
     "originalLanguage": ""
   },
   {
@@ -55,9 +50,7 @@
     "runTimeMinutes": 163,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +68,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -95,9 +86,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -115,9 +104,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -135,15 +122,13 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
     "id": "277843",
     "tmdbId": 277843,
-    "type": "show",
+    "type": "tv",
     "title": "Ghosts Off Grid",
     "overview": "Ghosts Off Grid dives deep into the idea that everything around us is made of energy, even our own bodies. When we die, where does that energy go? In this series, the hosts search for electrical impulses away from the built infrastructure.",
     "year": "2024",
@@ -155,9 +140,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +158,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -195,15 +176,13 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "62993",
     "tmdbId": 62993,
-    "type": "show",
+    "type": "tv",
     "title": "Why? With Hannibal Buress",
     "overview": "Why? With Hannibal Buress” will feature the comic “answering the burning questions on his mind through stand-up, filmed segments, man-on-the-street interviews and special in-studio guests.",
     "year": "2015",
@@ -215,15 +194,13 @@
     "runTimeMinutes": null,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "333364",
     "tmdbId": 333364,
-    "type": "show",
+    "type": "tv",
     "title": "Jodoh Wasiat Bapak Reborn",
     "overview": "",
     "year": "2026",
@@ -235,9 +212,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -255,15 +230,13 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "271823",
     "tmdbId": 271823,
-    "type": "show",
+    "type": "tv",
     "title": "Playing Gracie Darling",
     "overview": "When Joni was 14, her best friend Gracie Darling disappeared during a séance. Some 27 years on, the local kids in a small town get their kicks with a game of 'Playing Gracie Darling' – but the seemingly innocent game turns sinister when another girl disappears. Joni, by then a child psychologist, returns to the town and partners with a police sergeant Jay to uncover the truth, while Gracie's sister Ruth faces a mother's worst nightmare when her own daughter vanishes under hauntingly similar circumstances.",
     "year": "2025",
@@ -275,9 +248,7 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "AU"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -295,9 +266,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -315,9 +284,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -335,9 +302,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -355,9 +320,7 @@
     "runTimeMinutes": 148,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -375,11 +338,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US",
-      "FR",
-      "GB"
-    ],
+    "originCountries": ["US", "FR", "GB"],
     "originalLanguage": ""
   },
   {
@@ -397,9 +356,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -417,10 +374,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US",
-      "JP"
-    ],
+    "originCountries": ["US", "JP"],
     "originalLanguage": ""
   },
   {
@@ -438,15 +392,13 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
     "id": "279323",
     "tmdbId": 279323,
-    "type": "show",
+    "type": "tv",
     "title": "The East Palace",
     "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
     "year": "2026",
@@ -458,9 +410,7 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -478,9 +428,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -498,9 +446,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -518,9 +464,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -538,9 +482,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -558,9 +500,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -578,9 +518,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +536,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -618,9 +554,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -638,9 +572,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -658,9 +590,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -678,9 +608,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -698,9 +626,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -718,9 +644,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -738,9 +662,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -758,15 +680,13 @@
     "runTimeMinutes": 157,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "217766",
     "tmdbId": 217766,
-    "type": "show",
+    "type": "tv",
     "title": "Zom 100: Bucket List of the Dead",
     "overview": "An overworked 24-year-old finally decides to live a little and create a bucket list, when a zombie outbreak hits the country.",
     "year": "2023",
@@ -778,10 +698,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "JP",
-      "US"
-    ],
+    "originCountries": ["JP", "US"],
     "originalLanguage": ""
   }
 ]

@@ -14,9 +14,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Comedy",
     "secondaryGenre": "TV Movie",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,15 +32,13 @@
     "runTimeMinutes": 173,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
     "id": "84451",
     "tmdbId": 84451,
-    "type": "show",
+    "type": "tv",
     "title": "Bumping Mics with Jeff Ross & Dave Attell",
     "overview": "When Jeff Ross and Dave Attell take the stage, no one is safe. With the help of special guests, they're packing a lot of laughs into one epic weekend.",
     "year": "2018",
@@ -54,9 +50,7 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Talk",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,15 +68,13 @@
     "runTimeMinutes": 100,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "85418",
     "tmdbId": 85418,
-    "type": "show",
+    "type": "tv",
     "title": "COMEDIANS of the world",
     "overview": "Global stand-up comedy series features a diverse set of comics from 13 regions bringing their perspectives on what's funny around the world.",
     "year": "2019",
@@ -100,7 +92,7 @@
   {
     "id": "70830",
     "tmdbId": 70830,
-    "type": "show",
+    "type": "tv",
     "title": "Dave Chappelle",
     "overview": "Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials.",
     "year": "2017",
@@ -112,15 +104,13 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "77124",
     "tmdbId": 77124,
-    "type": "show",
+    "type": "tv",
     "title": "Dave Chappelle: Equanimity & The Bird Revelation",
     "overview": "Comedy titan Dave Chappelle caps a wild year with two stand-up specials packed with scorching new material, self-reflection and tough love.",
     "year": "2017",
@@ -138,7 +128,7 @@
   {
     "id": "121973",
     "tmdbId": 121973,
-    "type": "show",
+    "type": "tv",
     "title": "Ellen DeGeneres: Relatable",
     "overview": "In her first special since 2003, Ellen revisits her road to stardom and details the heartfelt -- and hilarious -- lessons she's learned along the way.",
     "year": "2018",
@@ -150,15 +140,13 @@
     "runTimeMinutes": 10,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "89755",
     "tmdbId": 89755,
-    "type": "show",
+    "type": "tv",
     "title": "Historical Roasts",
     "overview": "\"Roastmaster General\" Jeff Ross and a slew of guest stars poke fun at major historical figures while also honoring their enduring impact on the world.",
     "year": "2019",
@@ -170,15 +158,13 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "78319",
     "tmdbId": 78319,
-    "type": "show",
+    "type": "tv",
     "title": "James Acaster: Repertoire",
     "overview": "Offbeat comic James Acaster covers the strange, the mundane and everything in between in this collection of four wide-ranging stand-up specials.",
     "year": "2018",
@@ -190,9 +176,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Talk",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -210,9 +194,7 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -230,9 +212,7 @@
     "runTimeMinutes": 138,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -250,9 +230,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -270,15 +248,13 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "101090",
     "tmdbId": 101090,
-    "type": "show",
+    "type": "tv",
     "title": "Ladies Up",
     "overview": "Rising India-based comics Prashasti Singh, Kaneez Surka, Supriya Joshi, and Niveditha Prakasam bring no-holds-barred humor to this stand up series",
     "year": "2020",
@@ -290,15 +266,13 @@
     "runTimeMinutes": 17,
     "primaryGenre": "Reality",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "125969",
     "tmdbId": 125969,
-    "type": "show",
+    "type": "tv",
     "title": "Mad Crazy Colombian Comedians",
     "overview": "Four of Colombia's funniest and bawdiest comedians perform before a post-quarantine audience hungry for their stories.",
     "year": "2021",
@@ -310,15 +284,13 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "CO"
-    ],
+    "originCountries": ["CO"],
     "originalLanguage": ""
   },
   {
     "id": "95927",
     "tmdbId": 95927,
-    "type": "show",
+    "type": "tv",
     "title": "Lugar de Mulher",
     "overview": "Four comedians from Brazil joke about sexuality, politics, religion and motherhood - and show that the woman's place is wherever she wants to be.",
     "year": "2019",
@@ -330,15 +302,13 @@
     "runTimeMinutes": 15,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "BR"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
     "id": "156076",
     "tmdbId": 156076,
-    "type": "show",
+    "type": "tv",
     "title": "Only Jokes Allowed",
     "overview": "Six of South Africa's top comedians take center stage and showcase their talent in this collection of short stand-up sets.",
     "year": "2022",
@@ -350,9 +320,7 @@
     "runTimeMinutes": 16,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ZA"
-    ],
+    "originCountries": ["ZA"],
     "originalLanguage": ""
   },
   {
@@ -370,15 +338,13 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "215662",
     "tmdbId": 215662,
-    "type": "show",
+    "type": "tv",
     "title": "Romesh Ranganathan: The Cynic",
     "overview": "Going back to his hometown of Crawley, England, Romesh Ranganathan will talk about vegan-ism, his kids - and offers a peek into the making of his comedy special.",
     "year": "2022",
@@ -390,15 +356,13 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "139177",
     "tmdbId": 139177,
-    "type": "show",
+    "type": "tv",
     "title": "Russell Howard: Lubricant",
     "overview": "This two-part special features comic Russell Howard's delayed-yet-delighted return to the stage and a look at his life during an unexpected lockdown.",
     "year": "2021",
@@ -410,15 +374,13 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
     "id": "114604",
     "tmdbId": 114604,
-    "type": "show",
+    "type": "tv",
     "title": "Schulz Saves America",
     "overview": "Comedian Andrew Schulz takes on the year's most divisive topics in this fearlessly unfiltered and irreverent four-part special.",
     "year": "2020",
@@ -430,15 +392,13 @@
     "runTimeMinutes": 17,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "110167",
     "tmdbId": 110167,
-    "type": "show",
+    "type": "tv",
     "title": "Standup and Away! with Brian Regan",
     "overview": "Comic Brian Regan has become a well-known name on the comedy circuit since releasing his first stand-up album in 1997. In this hybrid series, he blends his trademark observational stand-up with short sketches and audience interaction. Topics range from everyday things that people can relate to -- such as sitting too close to others at restaurants and lost luggage -- to more out-there subjects like being the guy who flew to the moon but didn't get to walk on it.",
     "year": "2018",
@@ -450,15 +410,13 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "203280",
     "tmdbId": 203280,
-    "type": "show",
+    "type": "tv",
     "title": "That’s My Time with David Letterman",
     "overview": "David Letterman invites some of the hottest up-and-coming stand-up stars to perform a set and sit down for a chat.",
     "year": "2022",
@@ -470,15 +428,13 @@
     "runTimeMinutes": 18,
     "primaryGenre": "Talk",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "80366",
     "tmdbId": 80366,
-    "type": "show",
+    "type": "tv",
     "title": "The Comedy Lineup",
     "overview": "A diverse group of up-and-coming comedians perform 15-minute sets in this stand-up comedy showcase series.",
     "year": "2018",
@@ -490,15 +446,13 @@
     "runTimeMinutes": 15,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "83591",
     "tmdbId": 83591,
-    "type": "show",
+    "type": "tv",
     "title": "The Degenerates",
     "overview": "Six stand-ups explore the coarse and salacious side of comedy in this series of half-hour specials. For mature audiences.",
     "year": "2018",
@@ -510,9 +464,7 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Talk",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -530,15 +482,13 @@
     "runTimeMinutes": 184,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
     "id": "78827",
     "tmdbId": 78827,
-    "type": "show",
+    "type": "tv",
     "title": "The Honeymoon Stand Up Special",
     "overview": "Impending parenthood does funny things to Natasha Leggero and Moshe Kasher, who dissect family, relationships and more in a trio of stand-up specials.",
     "year": "2018",
@@ -550,9 +500,7 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -570,15 +518,13 @@
     "runTimeMinutes": null,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "92379",
     "tmdbId": 92379,
-    "type": "show",
+    "type": "tv",
     "title": "Tiffany Haddish Presents: They Ready",
     "overview": "Tiffany Haddish introduces her favorite comedians in a series of stand-up performances.",
     "year": "2019",
@@ -590,9 +536,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Reality",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -610,15 +554,13 @@
     "runTimeMinutes": 47,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "240402",
     "tmdbId": 240402,
-    "type": "show",
+    "type": "tv",
     "title": "Verified Stand-Up",
     "overview": "Ten comics. Ten dynamic sets. Two episodes. Discover your new favorite stand-up act as top performers take the stage at Webster Hall in New York City.",
     "year": "2023",
@@ -630,15 +572,13 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "96642",
     "tmdbId": 96642,
-    "type": "show",
+    "type": "tv",
     "title": "Zona Rosa",
     "overview": "An assortment of talent takes the stage for a night of honest stand-up featuring four of Mexico's funniest LGBTQ comedians.",
     "year": "2019",
@@ -650,9 +590,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   }
 ]

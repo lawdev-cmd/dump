@@ -14,9 +14,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "DK"
-    ],
+    "originCountries": ["DK"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 146,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Music",
     "secondaryGenre": "History",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "AU"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,15 +140,13 @@
     "runTimeMinutes": 141,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
     "id": "84469",
     "tmdbId": 84469,
-    "type": "show",
+    "type": "tv",
     "title": "Cowboy Bebop",
     "overview": "Long on style and short on cash, bounty hunters Spike, Jet and Faye trawl the solar system looking for jobs. But can they outrun Spike's past?",
     "year": "2021",
@@ -174,9 +158,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,11 +176,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "ZA",
-      "US",
-      "GB"
-    ],
+    "originCountries": ["ZA", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +194,7 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +212,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -256,15 +230,13 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Music",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "330129",
     "tmdbId": 330129,
-    "type": "show",
+    "type": "tv",
     "title": "Forbidden Woman",
     "overview": "A politician's wife falls in love with a famous singer after he saves her life, but she could lose everything if she doesn't end the affair.",
     "year": "2026",
@@ -276,15 +248,13 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Drama",
     "secondaryGenre": "Soap",
-    "originCountries": [
-      "CO"
-    ],
+    "originCountries": ["CO"],
     "originalLanguage": ""
   },
   {
     "id": "305644",
     "tmdbId": 305644,
-    "type": "show",
+    "type": "tv",
     "title": "Four Hands, Two Sonatas",
     "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
     "year": "2026",
@@ -296,9 +266,7 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -316,17 +284,13 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "CA",
-      "GB",
-      "US"
-    ],
+    "originCountries": ["CA", "GB", "US"],
     "originalLanguage": ""
   },
   {
     "id": "331170",
     "tmdbId": 331170,
-    "type": "show",
+    "type": "tv",
     "title": "Hustle 5 - Apna Homeground",
     "overview": "A new season brings India's fiercest rappers, iconic Squad Bosses, and Badshah as judge as they battle for the ultimate rap champion title.",
     "year": "2026",
@@ -338,15 +302,13 @@
     "runTimeMinutes": null,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
     "id": "155094",
     "tmdbId": 155094,
-    "type": "show",
+    "type": "tv",
     "title": "jeen-yuhs: A Kanye Trilogy",
     "overview": "The lives of an emerging superstar and a filmmaker intertwine in this intense, intimate docuseries charting Kanye West's career, filmed over two decades.",
     "year": "2022",
@@ -358,9 +320,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -378,15 +338,13 @@
     "runTimeMinutes": 138,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "254721",
     "tmdbId": 254721,
-    "type": "show",
+    "type": "tv",
     "title": "Kaulitz & Kaulitz",
     "overview": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series.",
     "year": "2024",
@@ -398,9 +356,7 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -418,9 +374,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -438,15 +392,13 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "79008",
     "tmdbId": 79008,
-    "type": "show",
+    "type": "tv",
     "title": "Luis Miguel: The Series",
     "overview": "The series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades.",
     "year": "2018",
@@ -458,9 +410,7 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -478,9 +428,7 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -498,15 +446,13 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "260264",
     "tmdbId": 260264,
-    "type": "show",
+    "type": "tv",
     "title": "Pop Star Academy: KATSEYE",
     "overview": "Twenty aspiring pop stars undergo a K-pop training program in this docuseries about the creation of HYBE x Geffen's first global girl group, KATSEYE.",
     "year": "2024",
@@ -518,9 +464,7 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -538,9 +482,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -558,9 +500,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -578,9 +518,7 @@
     "runTimeMinutes": 150,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +536,7 @@
     "runTimeMinutes": 11,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -618,15 +554,13 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "74444",
     "tmdbId": 74444,
-    "type": "show",
+    "type": "tv",
     "title": "The Comedy Get Down",
     "overview": "A comedy series about what really happens behind the scenes of a massive stand-up comedy tour.",
     "year": "2017",
@@ -638,9 +572,7 @@
     "runTimeMinutes": 20,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -658,10 +590,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -679,15 +608,13 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "210195",
     "tmdbId": 210195,
-    "type": "show",
+    "type": "tv",
     "title": "The Playlist",
     "overview": "How Swedish tech entrepreneur Daniel Ek and business partner Martin Lorentzon revolutionized the music industry through free and legal music streaming when they launched Spotify.",
     "year": "2022",
@@ -699,9 +626,7 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "SE"
-    ],
+    "originCountries": ["SE"],
     "originalLanguage": ""
   },
   {
@@ -719,9 +644,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -739,9 +662,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -759,9 +680,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -779,15 +698,13 @@
     "runTimeMinutes": 144,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "61663",
     "tmdbId": 61663,
-    "type": "show",
+    "type": "tv",
     "title": "Your Lie in April",
     "overview": "Kousei Arima was a genius pianist until his mother's sudden death took away his ability to play. Each day was dull for Kousei. But, then he meets a violinist named Kaori Miyazono who has an eccentric playing style. Can the heartfelt sounds of the girl's violin lead the boy to play the piano again?",
     "year": "2014",
@@ -799,9 +716,7 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   }
 ]

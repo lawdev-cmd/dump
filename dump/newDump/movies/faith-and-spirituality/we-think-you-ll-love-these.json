@@ -14,9 +14,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "NG"
-    ],
+    "originCountries": ["NG"],
     "originalLanguage": ""
   },
   {
@@ -54,15 +50,13 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "314553",
     "tmdbId": 314553,
-    "type": "show",
+    "type": "tv",
     "title": "Dunia Tanpa Tuhan",
     "overview": "In a small Jakarta community, a hapless student and his loyal pal find quirky solutions to their never-ending dilemmas of family, faith and friendship.",
     "year": "2026",
@@ -74,9 +68,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -114,10 +104,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "MX",
-      "US"
-    ],
+    "originCountries": ["MX", "US"],
     "originalLanguage": ""
   },
   {
@@ -135,9 +122,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "BR"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Family",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,16 +158,13 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
     "id": "236505",
     "tmdbId": 236505,
-    "type": "show",
+    "type": "tv",
     "title": "Mysteries of the Faith",
     "overview": "Believed to hold miraculous powers, sacred treasures are kept under lock and key. Uncover the history — and mystery — behind these Catholic relics.",
     "year": "2023",
@@ -196,9 +176,7 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +194,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +212,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "BR"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
@@ -256,15 +230,13 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "137440",
     "tmdbId": 137440,
-    "type": "show",
+    "type": "tv",
     "title": "Stories of a Generation - with Pope Francis",
     "overview": "Stories Of A Generation narrates the values of life: from love to pain, from work to dreams. 18 generational stories are enriched with the participation of Pope Francis and Martin Scorsese.",
     "year": "2021",
@@ -276,9 +248,7 @@
     "runTimeMinutes": 49,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +266,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +284,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +302,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -356,15 +320,13 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
     "id": "113450",
     "tmdbId": 113450,
-    "type": "show",
+    "type": "tv",
     "title": "Voices of Fire",
     "overview": "Pharrell Williams's hometown community leaders attempt to build one of the world's most inspiring gospel choirs.",
     "year": "2020",
@@ -376,9 +338,7 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]
