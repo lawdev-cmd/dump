@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-04T16:05:05.401Z",
+  "generatedAt": "2026-09-04T16:08:34.522Z",
   "movies": {
     "listPath": "giladg/lists/latest-4k-releases",
-    "requestUrl": "https://api.trakt.tv/users/giladg/lists/latest-4k-releases/items?extended=full,images&page=1&limit=25",
+    "requestUrl": "https://api.trakt.tv/users/giladg/lists/latest-4k-releases/items?extended=full,images&page=1&limit=50",
     "items": [
       {
         "id": "1137844",
@@ -23,26 +23,6 @@
           "US"
         ],
         "originalLanguage": "en"
-      },
-      {
-        "id": "1355228",
-        "tmdbId": 1355228,
-        "type": "movie",
-        "title": "Gandhari",
-        "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-        "year": "2026",
-        "rating": 7.5714287757873535,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-        "logoUrl": null,
-        "certificate": "R",
-        "runTimeMinutes": 117,
-        "primaryGenre": "Action",
-        "secondaryGenre": "Drama",
-        "originCountries": [
-          "IN"
-        ],
-        "originalLanguage": "hi"
       },
       {
         "id": "1506560",
@@ -85,33 +65,13 @@
         "originalLanguage": "en"
       },
       {
-        "id": "1386315",
-        "tmdbId": 1386315,
-        "type": "movie",
-        "title": "The Runner",
-        "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-        "year": "2026",
-        "rating": 6.380841255187988,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/w780/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
-        "logoUrl": "https://image.tmdb.org/t/p/original/L3ZBm0slDHruUcZ4dgkvWHh0rq.png",
-        "certificate": "PG-13",
-        "runTimeMinutes": 86,
-        "primaryGenre": "Thriller",
-        "secondaryGenre": "Action",
-        "originCountries": [
-          "GB"
-        ],
-        "originalLanguage": "en"
-      },
-      {
         "id": "1288059",
         "tmdbId": 1288059,
         "type": "movie",
         "title": "I Want Your Sex",
         "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
         "year": "2026",
-        "rating": 6.10357141494751,
+        "rating": 6.113879203796387,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w780/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
         "logoUrl": "https://image.tmdb.org/t/p/original/bzHH30OjjiTENKFrUFi1EWNVcW8.png",
@@ -121,26 +81,6 @@
         "secondaryGenre": "",
         "originCountries": [
           "US"
-        ],
-        "originalLanguage": "en"
-      },
-      {
-        "id": "1480574",
-        "tmdbId": 1480574,
-        "type": "movie",
-        "title": "Just Play Dead",
-        "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-        "year": "2026",
-        "rating": 6.394067764282227,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/w780/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
-        "logoUrl": "https://image.tmdb.org/t/p/original/8UgR1FD7IrRIswAgp4JGm7XW3ih.png",
-        "certificate": "R",
-        "runTimeMinutes": 97,
-        "primaryGenre": "Thriller",
-        "secondaryGenre": "Crime",
-        "originCountries": [
-          "GB"
         ],
         "originalLanguage": "en"
       },
@@ -203,12 +143,72 @@
           "US"
         ],
         "originalLanguage": "en"
+      },
+      {
+        "id": "1516698",
+        "tmdbId": 1516698,
+        "type": "movie",
+        "title": "The Last Sunrise",
+        "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+        "year": "2026",
+        "rating": 7.226293087005615,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/huW0TRfi1OKLbpNkb9VzU5zJVf2.png",
+        "certificate": "R",
+        "runTimeMinutes": 107,
+        "primaryGenre": "Romance",
+        "secondaryGenre": "Drama",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "87513",
+        "tmdbId": 87513,
+        "type": "movie",
+        "title": "Motor City",
+        "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+        "year": "2026",
+        "rating": 6.466358661651611,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/8ZQEEyXS8etgigeWrptogslHe41.png",
+        "certificate": "R",
+        "runTimeMinutes": 104,
+        "primaryGenre": "Action",
+        "secondaryGenre": "Crime",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1560520",
+        "tmdbId": 1560520,
+        "type": "movie",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+        "year": "2026",
+        "rating": 8.434977531433105,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/yH9NHHGZx4H5Zt7dZtCJqbUdViN.png",
+        "certificate": "R",
+        "runTimeMinutes": 79,
+        "primaryGenre": "Animation",
+        "secondaryGenre": "Action",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
       }
     ]
   },
   "tvShows": {
     "listPath": "omar-comin/lists/top-10-tv-shows-of-the-week",
-    "requestUrl": "https://api.trakt.tv/users/omar-comin/lists/top-10-tv-shows-of-the-week/items?extended=full,images&page=1&limit=25",
+    "requestUrl": "https://api.trakt.tv/users/omar-comin/lists/top-10-tv-shows-of-the-week/items?extended=full,images&page=1&limit=50",
     "items": [
       {
         "id": "95350",
@@ -237,7 +237,7 @@
         "title": "Off Campus",
         "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
         "year": "2026",
-        "rating": 8.644256591796875,
+        "rating": 8.644481658935547,
         "posterUrl": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w780/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
         "logoUrl": "https://image.tmdb.org/t/p/original/vSCRiiYfTjrIcdyJhb8xyLE3Tdf.png",
@@ -277,7 +277,7 @@
         "title": "Lucky",
         "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
         "year": "2026",
-        "rating": 7.582013130187988,
+        "rating": 7.583333492279053,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
         "logoUrl": "https://image.tmdb.org/t/p/original/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
