@@ -1,0 +1,802 @@
+[
+  {
+    "id": "94605",
+    "tmdbId": 94605,
+    "type": "tv",
+    "title": "Arcane",
+    "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+    "year": "2021",
+    "rating": 8.749,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jXLNOzeEA8AoJy92dJTUUZXTMxK.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "614933",
+    "tmdbId": 614933,
+    "type": "movie",
+    "title": "Atlas",
+    "overview": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+    "year": "2024",
+    "rating": 6.648,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hTyifkSjafKVdBEODW9i9AxOBrT.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "82452",
+    "tmdbId": 82452,
+    "type": "tv",
+    "title": "Avatar: The Last Airbender",
+    "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+    "year": "2024",
+    "rating": 7.77,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "246",
+    "tmdbId": 246,
+    "type": "tv",
+    "title": "Avatar: The Last Airbender",
+    "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "year": "2005",
+    "rating": 8.779,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l0zXgxqmIgaHNp1xFAJ6XzCcdD3.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "73223",
+    "tmdbId": 73223,
+    "type": "tv",
+    "title": "Black Clover",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "year": "2017",
+    "rating": 8.494,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "400106",
+    "tmdbId": 400106,
+    "type": "movie",
+    "title": "Bright",
+    "overview": "In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.",
+    "year": "2017",
+    "rating": 6.163,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hu4psJoKxDYezvvS4GlLF531fom.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sevOvVuq7YipeIR7yV2xwsMQQEl.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78173",
+    "tmdbId": 78173,
+    "type": "tv",
+    "title": "Dragons: Race to the Edge",
+    "overview": "Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.",
+    "year": "2015",
+    "rating": 8.363,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yVcuoQNo36FlZTavqjjjpsaUJyL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7McwIzuZeGwnrJC7l7CqbPVQ8OC.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1487",
+    "tmdbId": 1487,
+    "type": "movie",
+    "title": "Hellboy",
+    "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+    "year": "2004",
+    "rating": 6.677,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lbaTEneOofwvAyg77R8HbFML2zT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Et15vXHzqeYj24w3XMxkE4qkZc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "456740",
+    "tmdbId": 456740,
+    "type": "movie",
+    "title": "Hellboy",
+    "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
+    "year": "2019",
+    "rating": 5.574,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/djiDKVB07xTy7tDFbWb9k7KLI3E.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/upVX4gI5ilBH6tgZXbizJmLXPVx.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4935",
+    "tmdbId": 4935,
+    "type": "movie",
+    "title": "Howl's Moving Castle",
+    "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+    "year": "2004",
+    "rating": 8.386,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wdTLajZyrh6yEeSqU5xrFATJh9Y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46298",
+    "tmdbId": 46298,
+    "type": "tv",
+    "title": "Hunter x Hunter",
+    "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+    "year": "2011",
+    "rating": 8.658,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "512200",
+    "tmdbId": 512200,
+    "type": "movie",
+    "title": "Jumanji: The Next Level",
+    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "year": "2019",
+    "rating": 6.871,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nmpQDwh8LrBe7eDCPr1xcUif8Pc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "135397",
+    "tmdbId": 135397,
+    "type": "movie",
+    "title": "Jurassic World",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "year": "2015",
+    "rating": 6.703,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vleUbBFlEGdxaazvzBMoZ5dHDoY.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "351286",
+    "tmdbId": 351286,
+    "type": "movie",
+    "title": "Jurassic World: Fallen Kingdom",
+    "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+    "year": "2018",
+    "rating": 6.527,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bKnaQuhUqXM9OxdaSPpYNm0ufLu.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "803796",
+    "tmdbId": 803796,
+    "type": "movie",
+    "title": "KPop Demon Hunters",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "year": "2025",
+    "rating": 8.002,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mzHotrzOHHvGN4B8fyVQ55h7Z25.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "86423",
+    "tmdbId": 86423,
+    "type": "tv",
+    "title": "Locke & Key",
+    "overview": "After their dad's murder, three siblings move with their mom to his ancestral estate, where they discover magical keys that unlock powers — and secrets.",
+    "year": "2020",
+    "rating": 7.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hg0zBtIBNb9vcAo4kE33QtmDXVr.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75758",
+    "tmdbId": 75758,
+    "type": "tv",
+    "title": "Lost in Space",
+    "overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+    "year": "2018",
+    "rating": 7.497,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tJAGIHi7tzyVwOhfuoLkJPubj3b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d2vRzQGi2XhqzxCxcvmFKumWeYb.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46260",
+    "tmdbId": 46260,
+    "type": "tv",
+    "title": "Naruto",
+    "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "year": "2002",
+    "rating": 8.362,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37854",
+    "tmdbId": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "year": "1999",
+    "rating": 8.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9F7daAmibx8ZHTE17CdM5FAwiHE.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "111110",
+    "tmdbId": 111110,
+    "type": "tv",
+    "title": "ONE PIECE",
+    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+    "year": "2023",
+    "rating": 8.109,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/abWBV78tddBE7HW9pUeVkfbU3SF.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "213611",
+    "tmdbId": 213611,
+    "type": "tv",
+    "title": "Our Oceans",
+    "overview": "Discover the stories beneath the surface of the water in this stunning nature documentary series, which explores each of the Earth's five oceans.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5S1xVcfCXPzBeAluiTWKGqwMmRz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/79uppyAh8ZvQrm5DSdRsi9gQj9V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4u2G6vuh7QAC9D6J32gGbB5dkiB.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "83880",
+    "tmdbId": 83880,
+    "type": "tv",
+    "title": "Our Planet",
+    "overview": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope.",
+    "year": "2019",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yIIKWHHmJCj5LyszULLeWDjtfvg.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "268896",
+    "tmdbId": 268896,
+    "type": "movie",
+    "title": "Pacific Rim: Uprising",
+    "overview": "It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.",
+    "year": "2018",
+    "rating": 6.12,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nFWhttU8PM50t25NPdy7PE7rv3G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3pV306w6A7sZXacW81YXpIcO7fk.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "128",
+    "tmdbId": 128,
+    "type": "movie",
+    "title": "Princess Mononoke",
+    "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "year": "1997",
+    "rating": 8.319,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zmLS3kmBxLlVS1yxRY4x9WiLMrw.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1330021",
+    "tmdbId": 1330021,
+    "type": "movie",
+    "title": "Remarkably Bright Creatures",
+    "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+    "year": "2026",
+    "rating": 8.438,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9yhvM7mpxH8smgRAdLJwy4JE5R2.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "85720",
+    "tmdbId": 85720,
+    "type": "tv",
+    "title": "Shadow and Bone",
+    "overview": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might finally unite her country. But as she struggles to hone her power, dangerous forces plot against her. Thugs, thieves, assassins and saints are at war now, and it will take more than magic to survive.",
+    "year": "2021",
+    "rating": 7.749,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qzSjrYSZAWrjhg6Yf3hCcfJE4o0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6Y7abkf0l7ijLQfbPIkQ11z1J87.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "205050",
+    "tmdbId": 205050,
+    "type": "tv",
+    "title": "Shangri-La Frontier",
+    "overview": "Rakuro Hizutome only cares about one thing: beating crappy VR games. He devotes his entire life to these buggy games and could clear them all in his sleep. One day, he decides to challenge himself and play a popular god-tier game called Shangri-La Frontier. But he quickly learns just how difficult it is. Will his expert skills be enough to uncover its hidden secrets?",
+    "year": "2023",
+    "rating": 8.18,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xcgdODcDuzngTXRtV7AtnAFpWzu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tb6GwZGs0Qn1kGA5kd12hAUF1QN.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "429617",
+    "tmdbId": 429617,
+    "type": "movie",
+    "title": "Spider-Man: Far From Home",
+    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "year": "2019",
+    "rating": 7.394,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lAEaCmWwqkZSp8lAw6F7CfPkA9N.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "324857",
+    "tmdbId": 324857,
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "year": "2018",
+    "rating": 8.399,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
+    "certificate": "PG",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1007757",
+    "tmdbId": 1007757,
+    "type": "movie",
+    "title": "Swapped",
+    "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+    "year": "2026",
+    "rating": 8.872,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7fS6L7LRbiLZolZN8OShyJaI2mc.png",
+    "certificate": "PG",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "103768",
+    "tmdbId": 103768,
+    "type": "tv",
+    "title": "Sweet Tooth",
+    "overview": "On an epic adventure across a postapocalyptic world, a lovable boy who's part human and part deer searches for family and home with a gruff protector.",
+    "year": "2021",
+    "rating": 7.741,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mJ73yKF3oSyaQsWNOgxjaED9mXe.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81046",
+    "tmdbId": 81046,
+    "type": "tv",
+    "title": "The Dragon Prince",
+    "overview": "An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands.",
+    "year": "2018",
+    "rating": 8.205,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sD3OAmfxHRXWmZFROjRRL3HcPXj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bx7JCEE4d3TIpbsiMtluTetP9JL.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "777443",
+    "tmdbId": 777443,
+    "type": "movie",
+    "title": "The Electric State",
+    "overview": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+    "year": "2025",
+    "rating": 6.476,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tJlfv0hlWBvMXgf8JKEmDc3j2IQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "60735",
+    "tmdbId": 60735,
+    "type": "tv",
+    "title": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "year": "2014",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6Pdq7hLfWyuuA83IwwWbjlXfJGc.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "90802",
+    "tmdbId": 90802,
+    "type": "tv",
+    "title": "The Sandman",
+    "overview": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "year": "2022",
+    "rating": 7.853,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gzps6OMJAL9Hz1tVlLs4oi4Q4Qt.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "62104",
+    "tmdbId": 62104,
+    "type": "tv",
+    "title": "The Seven Deadly Sins",
+    "overview": "The “Seven Deadly Sins”—a group of evil knights who conspired to overthrow the kingdom of Britannia—were said to have been eradicated by the Holy Knights, although some claim that they still live. Ten years later, the Holy Knights have staged a Coup d'état and assassinated the king, becoming the new, tyrannical rulers of the kingdom. Elizabeth, the king's only daughter, sets out on a journey to find the “Seven Deadly Sins,” and to enlist their help in taking back the kingdom.",
+    "year": "2014",
+    "rating": 8.41,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gxTojpKEOtue85EEFlozwRbDXwJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cmziOVMQrqvVfrjjQdadMdi2bGL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1GBuTmYHrwpXmzofwjcKRFfP640.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75006",
+    "tmdbId": 75006,
+    "type": "tv",
+    "title": "The Umbrella Academy",
+    "overview": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets — and a looming threat to humanity.",
+    "year": "2019",
+    "rating": 8.458,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1q14sj3wqwIqH2cqLvJLm0DVd5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71912",
+    "tmdbId": 71912,
+    "type": "tv",
+    "title": "The Witcher",
+    "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+    "year": "2019",
+    "rating": 7.892,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vqpt6XBp8VQu3Xy4YQsvZaTbxjl.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "736526",
+    "tmdbId": 736526,
+    "type": "movie",
+    "title": "Troll",
+    "overview": "When an explosion in the Norwegian mountains awakens an ancient troll, officials appoint a fearless paleontologist to stop it from wreaking deadly havoc.",
+    "year": "2022",
+    "rating": 6.556,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ulgKdif3ubMACDltr8VZy6fyVjW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ml2Nl1JzWV0WlniVuF5YLrYt1ot.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68267",
+    "tmdbId": 68267,
+    "type": "tv",
+    "title": "Trollhunters: Tales of Arcadia",
+    "overview": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds.",
+    "year": "2016",
+    "rating": 8.454,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oJFwZEgWooKtzj0MXDECqkTA40c.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

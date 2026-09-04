@@ -1,0 +1,822 @@
+[
+  {
+    "id": "108545",
+    "tmdbId": 108545,
+    "type": "tv",
+    "title": "3 Body Problem",
+    "overview": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
+    "year": "2024",
+    "rating": 7.491,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ciizJ9Okzt9tBBGK7Q3T14LFT2j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/T04v7jUheJeMcUbsbe087Swg1j.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68467",
+    "tmdbId": 68467,
+    "type": "tv",
+    "title": "3%",
+    "overview": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+    "year": "2016",
+    "rating": 7.067,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uLBJSLuAQ8UqLIKZVWG3uNEXwjt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/13fAhlv2BCqHek8VrDNi7cZMuG3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5PctsSIsJPUdLisWikrmEBQVtyg.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "135157",
+    "tmdbId": 135157,
+    "type": "tv",
+    "title": "Alchemy of Souls",
+    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+    "year": "2022",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sFVThz6cgpQntvK6ovayVf2UUmz.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68421",
+    "tmdbId": 68421,
+    "type": "tv",
+    "title": "Altered Carbon",
+    "overview": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.",
+    "year": "2018",
+    "rating": 7.634,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AisK4uFsnwwmMkSynFpNl0VeGR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zUXsrEW4IAtFG0tA6dz0NpuTOpM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79130",
+    "tmdbId": 79130,
+    "type": "tv",
+    "title": "Another Life",
+    "overview": "After a massive alien artifact lands on Earth, Niko Breckinridge leads an interstellar mission to track down its source and make first contact.",
+    "year": "2019",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6ygiUWflbmz5p2LFc3COVHriQzK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vFxm6FUzcYAZVu6eyiSs9QIXC9b.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "112314",
+    "tmdbId": 112314,
+    "type": "tv",
+    "title": "Archive 81",
+    "overview": "An archivist takes a job restoring damaged videotapes and gets pulled into the vortex of a mystery involving the missing director and a demonic cult.",
+    "year": "2022",
+    "rating": 7.223,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l1jeSEm6a88GFcLzlHQr60D0dOi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7TYMho2TM6ZcqSv6YaEjlNIyhXn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8lmS8MhMJiZPjrC6f9gDetIboyQ.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79242",
+    "tmdbId": 79242,
+    "type": "tv",
+    "title": "Chilling Adventures of Sabrina",
+    "overview": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night.",
+    "year": "2018",
+    "rating": 8.164,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3UZ43UxVAFmtbQGFdZQ8KxiwJO5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7q0o5kW5k4thzas3sJvgSlt1xdu.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "67773",
+    "tmdbId": 67773,
+    "type": "tv",
+    "title": "Dirk Gently's Holistic Detective Agency",
+    "overview": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+    "year": "2016",
+    "rating": 7.687,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3eRjfZUOnHe82Cyo6oqaEG1JuIh.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "73157",
+    "tmdbId": 73157,
+    "type": "tv",
+    "title": "Future Man",
+    "overview": "Josh Futturman, a janitor by day/world-ranked gamer by night, is tasked with preventing the extinction of humanity after mysterious visitors from the future proclaim him the key to defeating the imminent super-race invasion.",
+    "year": "2017",
+    "rating": 7.148,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/49mOgAEa4eKpPsoBH8UvvXwEMDT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/migX5UM28N9QmV5n9Rk3wWiApiP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7LST0IWGDcu20B81XgPY2daQeFK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "228689",
+    "tmdbId": 228689,
+    "type": "tv",
+    "title": "Genie, Make a Wish",
+    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+    "year": "2025",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1dDj3NjJmmhHDb96C8Zp0j9RAyW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "126027",
+    "tmdbId": 126027,
+    "type": "tv",
+    "title": "Ghosts",
+    "overview": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+    "year": "2021",
+    "rating": 8.063,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uAqvh2GMfoEtb7OJ0l3LHvmfDNW.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 21,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93741",
+    "tmdbId": 93741,
+    "type": "tv",
+    "title": "Jurassic World Camp Cretaceous",
+    "overview": "Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.",
+    "year": "2020",
+    "rating": 8.016,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pwte1p4ZySI1qAVSVdSTRKjuIAa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4WIglfr4lDFVjCEcXzCeu6cJsOh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c4682f8R43nw58PmxcqIIacOfdE.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "102621",
+    "tmdbId": 102621,
+    "type": "tv",
+    "title": "KAOS",
+    "overview": "As discord reigns on Mount Olympus and almighty Zeus spirals into paranoia, three mortals are destined to reshape the future of humankind.",
+    "year": "2024",
+    "rating": 7.31,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oyKYPA1UXwwgrjmnM30sh33IRG5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gqaCWL6nm8rnakCYffU0HkiKhNB.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "300894",
+    "tmdbId": 300894,
+    "type": "tv",
+    "title": "Kurukshetra: The Great War of Mahabharata",
+    "overview": "An epic 18-day battle unfolds through the perspectives of 18 warriors, revealing their inner struggles and ethical challenges during a war between brothers.",
+    "year": "2025",
+    "rating": 8.03,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xbafLh6kWkWf87dqHdoHFDWGot9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u39VepT8l7cgDy9nsXG76t4av9n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gxDrBegd8URrxzo1baxegzS7aFj.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "128839",
+    "tmdbId": 128839,
+    "type": "tv",
+    "title": "La Brea",
+    "overview": "An epic adventure begins when a massive sinkhole opens in the middle of Los Angeles, pulling hundreds of people and buildings into its depths. Those who fell in find themselves in a mysterious and dangerous primeval land, where they have no choice but to band together to survive. Meanwhile, the rest of the world desperately seeks to understand what happened. In the search for answers, one family torn apart by this disaster will have to unlock the secrets of this inexplicable event to find a way back to each other.",
+    "year": "2021",
+    "rating": 7.426,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qhaPuyznsxb13wSQbpqSDqtNuX8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fd9IQv4tJ5Azkp8yIsHm80QFdpY.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "86423",
+    "tmdbId": 86423,
+    "type": "tv",
+    "title": "Locke & Key",
+    "overview": "After their dad's murder, three siblings move with their mom to his ancestral estate, where they discover magical keys that unlock powers — and secrets.",
+    "year": "2020",
+    "rating": 7.736,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hg0zBtIBNb9vcAo4kE33QtmDXVr.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75758",
+    "tmdbId": 75758,
+    "type": "tv",
+    "title": "Lost in Space",
+    "overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+    "year": "2018",
+    "rating": 7.497,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tJAGIHi7tzyVwOhfuoLkJPubj3b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d2vRzQGi2XhqzxCxcvmFKumWeYb.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "91557",
+    "tmdbId": 91557,
+    "type": "tv",
+    "title": "Ragnarok",
+    "overview": "A small Norwegian town experiencing warm winters and violent downpours seems to be headed for another Ragnarök -- unless someone intervenes in time.",
+    "year": "2020",
+    "rating": 7.748,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9rWGgUJSuVEgaScOKbJPc9wkR3v.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wu444tM9YBllq9UcBv5TeidO3j3.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "108296",
+    "tmdbId": 108296,
+    "type": "tv",
+    "title": "Resident Evil",
+    "overview": "Years after a viral outbreak caused a global apocalypse, Jade Wesker vows to bring down those responsible while fighting to survive against the Infected.",
+    "year": "2022",
+    "rating": 5.516,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pRJ1K2c4lkQCKgclUTFWGk7JABb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r7qCYbDlNQr2v7BNEfduI3BGXCc.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61664",
+    "tmdbId": 61664,
+    "type": "tv",
+    "title": "Sense8",
+    "overview": "One gunshot, one death, one moment out of time that irrevocably links eight minds in disparate parts of the world, putting them in each other's lives, each other's secrets, and in terrible danger. Ordinary people suddenly reborn as \"Sensates.\"",
+    "year": "2015",
+    "rating": 7.724,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/d6JYL53xISzfqz6HhvaKWTDcOUZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fwgpy6lihf5lyWCOgwYJq0JolpJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 152,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "85720",
+    "tmdbId": 85720,
+    "type": "tv",
+    "title": "Shadow and Bone",
+    "overview": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might finally unite her country. But as she struggles to hone her power, dangerous forces plot against her. Thugs, thieves, assassins and saints are at war now, and it will take more than magic to survive.",
+    "year": "2021",
+    "rating": 7.749,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qzSjrYSZAWrjhg6Yf3hCcfJE4o0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6Y7abkf0l7ijLQfbPIkQ11z1J87.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79680",
+    "tmdbId": 79680,
+    "type": "tv",
+    "title": "Snowpiercer",
+    "overview": "More than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
+    "year": "2020",
+    "rating": 7.351,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zFJxwXtW3Y7FSDrc2FnVFpQCcY1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ndJyZsNgq4G5xR1dqsqRHqHlwCS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158141",
+    "tmdbId": 158141,
+    "type": "tv",
+    "title": "Supacell",
+    "overview": "When five ordinary South Londoners discover they have extraordinary powers, it's down to just one man to bring them together to save the woman he loves.",
+    "year": "2024",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vHtNgRLWdMk7wIV2WbqkOzU7HHI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/st2VoiCq6RVKsHoLFAchB9cTmKO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qFSknTExVt5t2sizT0dWmMeYYdp.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "103768",
+    "tmdbId": 103768,
+    "type": "tv",
+    "title": "Sweet Tooth",
+    "overview": "On an epic adventure across a postapocalyptic world, a lovable boy who's part human and part deer searches for family and home with a gruff protector.",
+    "year": "2021",
+    "rating": 7.741,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mJ73yKF3oSyaQsWNOgxjaED9mXe.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "261145",
+    "tmdbId": 261145,
+    "type": "tv",
+    "title": "The Amazing Digital Circus",
+    "overview": "A woman finds herself trapped in a virtual circus where she and five other humans are subject to the whims of a wacky AI ringmaster. In this digital purgatory they must face frightening NPCs and cope with their own personal traumas.",
+    "year": "2023",
+    "rating": 8.659,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kqxkOvN7wIwucwxFWdTFqL9XRi2.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "224941",
+    "tmdbId": 224941,
+    "type": "tv",
+    "title": "The Boroughs",
+    "overview": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
+    "year": "2026",
+    "rating": 7.216,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tFNKk1t5sH27jAKh497pYh4hmzJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81046",
+    "tmdbId": 81046,
+    "type": "tv",
+    "title": "The Dragon Prince",
+    "overview": "An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands.",
+    "year": "2018",
+    "rating": 8.205,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sD3OAmfxHRXWmZFROjRRL3HcPXj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bx7JCEE4d3TIpbsiMtluTetP9JL.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "226362",
+    "tmdbId": 226362,
+    "type": "tv",
+    "title": "The Eternaut",
+    "overview": "After a devastating toxic snowfall kills millions, Juan Salvo and a group of survivors in Buenos Aires must resist an invisible threat from another world.",
+    "year": "2025",
+    "rating": 7.473,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ucI5KroZLP0KyJqQnAdOpzhVvBs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wDyJZ7mispIHc1I41QOnWGTOP0e.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93846",
+    "tmdbId": 93846,
+    "type": "tv",
+    "title": "The King: Eternal Monarch",
+    "overview": "Korean emperor Lee Gon tries to close the doors to a parallel world which was opened by demons; a detective tries to protect the people and the one she loves.",
+    "year": "2020",
+    "rating": 8.246,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bgTm5TTI6uoY0RbLA3Fbl5z32JG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lkNLgGBLKXAkHlZEmsRDKOoG9Q6.png",
+    "certificate": null,
+    "runTimeMinutes": 72,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69061",
+    "tmdbId": 69061,
+    "type": "tv",
+    "title": "The OA",
+    "overview": "Seven years after vanishing from her home, a young woman returns with mysterious new abilities and recruits five strangers for a secret mission.",
+    "year": "2016",
+    "rating": 7.535,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qoURJ24294zXaROUmlB7UseycsM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "82104",
+    "tmdbId": 82104,
+    "type": "tv",
+    "title": "The Order",
+    "overview": "Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic.",
+    "year": "2019",
+    "rating": 7.606,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AtcZyZizpGhofYumo1JrjuIFkXv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x6Ti1NKEG2GmFR39I7qzdjkNbII.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79026",
+    "tmdbId": 79026,
+    "type": "tv",
+    "title": "The Protector",
+    "overview": "The epic adventure of Hakan, a young shopkeeper whose modern world gets turned upside down when he learns he’s connected to a secret, ancient order, tasked with protecting Istanbul.",
+    "year": "2018",
+    "rating": 7.206,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/scrqQwSarTbq80oUdZrj7cbpscv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q1pOXWbLu2X80gmPpskj2BVySTi.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "TR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "76719",
+    "tmdbId": 76719,
+    "type": "tv",
+    "title": "The Rain",
+    "overview": "After a brutal virus wipes out most of the population, two young siblings embark on a perilous search for safety. A Scandinavian thriller series.",
+    "year": "2018",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jtOuOpJwyEVfdaekwP1tGO8hAw7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rfK7BGBUoqXc2EiKGbKuzaeSDjW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pVnC23ZrSGWDqadf86hYxU5Pxcr.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DK"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "90802",
+    "tmdbId": 90802,
+    "type": "tv",
+    "title": "The Sandman",
+    "overview": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "year": "2022",
+    "rating": 7.853,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gzps6OMJAL9Hz1tVlLs4oi4Q4Qt.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "67487",
+    "tmdbId": 67487,
+    "type": "tv",
+    "title": "The Tick",
+    "overview": "In a world where superheroes have been real for decades, an accountant with zero powers comes to realize his city is owned by a super villain. As he struggles to uncover this conspiracy, he falls in league with a strange blue superhero.",
+    "year": "2016",
+    "rating": 6.993,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8sngJVF54bugHfCkjJOsY4wx8Hk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5ak5dT375f1a9Tr1gpSodddf1aI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oKvCPzkscEP6Ug9uJM7hEmL8Q75.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75006",
+    "tmdbId": 75006,
+    "type": "tv",
+    "title": "The Umbrella Academy",
+    "overview": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets — and a looming threat to humanity.",
+    "year": "2019",
+    "rating": 8.458,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1q14sj3wqwIqH2cqLvJLm0DVd5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "259837",
+    "tmdbId": 259837,
+    "type": "tv",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "year": "2026",
+    "rating": 8.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/46I7PkWU0yy98CumLEN4JyA59Kd.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75450",
+    "tmdbId": 75450,
+    "type": "tv",
+    "title": "Titans",
+    "overview": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+    "year": "2018",
+    "rating": 7.853,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6wzKYZ86v52UMojvRJFBhTleZmV.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "67683",
+    "tmdbId": 67683,
+    "type": "tv",
+    "title": "Travelers",
+    "overview": "Hundreds of years from now, the last surviving humans discover the means of sending consciousness back through time, directly into people in the 21st century. These \"travelers\" assume the lives of seemingly random people, while secretly working as teams to perform missions in order to save humanity from a terrible future.",
+    "year": "2016",
+    "rating": 7.596,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aUVeyeyTrQrSFuUkqLCT8FtV7pp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yUDJ1r0UQdhb904povev5apjTVh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2CKjJu5sblK3qSoVlGsQBf72xzz.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68267",
+    "tmdbId": 68267,
+    "type": "tv",
+    "title": "Trollhunters: Tales of Arcadia",
+    "overview": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds.",
+    "year": "2016",
+    "rating": 8.454,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oJFwZEgWooKtzj0MXDECqkTA40c.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "65820",
+    "tmdbId": 65820,
+    "type": "tv",
+    "title": "Van Helsing",
+    "overview": "Vanessa Helsing, the daughter of famous vampire hunter and Dracula nemesis Abraham Van Helsing is resurrected five years in the future to find out that vampires have taken over the world and that she possesses unique power over them. She is humanity’s last hope to lead an offensive to take back what has been lost.",
+    "year": "2016",
+    "rating": 7.047,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r8ODGmfNbZQlNhiJl2xQENE2jsk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5VltHQJXdmbSD6gEJw3R8R1Kbmc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aNbbIM47kClH7rCdZO5kcQybn2V.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

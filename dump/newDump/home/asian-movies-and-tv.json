@@ -1,0 +1,822 @@
+[
+  {
+    "id": "135157",
+    "tmdbId": 135157,
+    "type": "tv",
+    "title": "Alchemy of Souls",
+    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+    "year": "2022",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sFVThz6cgpQntvK6ovayVf2UUmz.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "110316",
+    "tmdbId": 110316,
+    "type": "tv",
+    "title": "Alice in Borderland",
+    "overview": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to win.",
+    "year": "2020",
+    "rating": 8.093,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4lTzMSdcFkvCyJXOF9bQ74xRJdT.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "99966",
+    "tmdbId": 99966,
+    "type": "tv",
+    "title": "All of Us Are Dead",
+    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+    "year": "2022",
+    "rating": 8.284,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cEc7XPbGxSKXfiZU0z8czFOImI2.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "305379",
+    "tmdbId": 305379,
+    "type": "tv",
+    "title": "Badly in Love",
+    "overview": "In Japan's first dating show for rebellious yankiis, 11 singles butt heads, forge bonds and live together for 14 days as they go all out to find the one.",
+    "year": "2025",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/znBXK71xEjvfqcNsiRG8KFGk1Ut.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fdszgz2M8FLECQ0rECa5Y2V1t07.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/95QiPEXFrRa8Vx03p1olMcWKMIk.png",
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "288912",
+    "tmdbId": 288912,
+    "type": "tv",
+    "title": "Better Late Than Single",
+    "overview": "Ready to step into the dating world, lifelong singles get expert help for style, health and confidence. Will they manage hiccups on their way to love?",
+    "year": "2025",
+    "rating": 8.219,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/101Sutn63Tx2DO7ml7hX7epAzzV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2Lvfwz07scATRPwMG484soiIw7v.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1WkWcNMd0DAIz9FxZdfEt1dYsXM.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "280945",
+    "tmdbId": 280945,
+    "type": "tv",
+    "title": "Bon Appétit, Your Majesty",
+    "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
+    "year": "2025",
+    "rating": 8.625,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/exUXEOierAwZ597010TLQka9TFy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a0P7mQkEqaFrYJwTL14eUbU5Tke.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "154825",
+    "tmdbId": 154825,
+    "type": "tv",
+    "title": "Business Proposal",
+    "overview": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO — and makes a proposal.",
+    "year": "2022",
+    "rating": 8.473,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lq0YqJuffMuZhoKTiC5xDqvtCSn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/89cbbDLh5l7QNbgfKM4PoHHW43A.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "229891",
+    "tmdbId": 229891,
+    "type": "tv",
+    "title": "Can This Love Be Translated?",
+    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rvOcj4iGF5aMfvNVwQTtWN6rGuU.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "94796",
+    "tmdbId": 94796,
+    "type": "tv",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "year": "2019",
+    "rating": 8.536,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eOSHzaCE8Of4mIHsueUM9dIJXnJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "245684",
+    "tmdbId": 245684,
+    "type": "tv",
+    "title": "Culinary Class Wars",
+    "overview": "Eighty \"Black Spoon\" underdog cooks with a knack for flavor face 20 elite \"White Spoon\" chefs in a fierce cooking showdown among 100 contenders.",
+    "year": "2024",
+    "rating": 8.222,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dYMFQfzIJwCYAHwf3ZjiL2iVFIy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p63GY5JaHX4fine4fgQkhSoqc6r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wqZWD6lUDrW7btyEsVIIjXHPm7k.png",
+    "certificate": null,
+    "runTimeMinutes": 60,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "197067",
+    "tmdbId": 197067,
+    "type": "tv",
+    "title": "Extraordinary Attorney Woo",
+    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
+    "year": "2022",
+    "rating": 8.487,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/39owosjolYd3gKufgM9jMdSSk9t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/izsot0vibLhojHPTksvyVGPFgKu.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "940721",
+    "tmdbId": 940721,
+    "type": "movie",
+    "title": "Godzilla Minus One",
+    "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+    "year": "2023",
+    "rating": 7.595,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/glnJMBoFXWAaD7j7pFmNW8d7RpI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "128883",
+    "tmdbId": 128883,
+    "type": "tv",
+    "title": "Hometown Cha-Cha-Cha",
+    "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
+    "year": "2021",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2avhn5tACIdOp9F5EhNytbChJib.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/skYrMWvdXxxOiloSaZWP6LOvI64.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "285838",
+    "tmdbId": 285838,
+    "type": "tv",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "year": "2026",
+    "rating": 8.134,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/21nrcCJkHtuPvDLkZDOg2mstBtS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "198004",
+    "tmdbId": 198004,
+    "type": "tv",
+    "title": "King the Land",
+    "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
+    "year": "2023",
+    "rating": 8.209,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Ay4fPiG6MUwEJMoIIrUou276xm.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "70593",
+    "tmdbId": 70593,
+    "type": "tv",
+    "title": "Kingdom",
+    "overview": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people.",
+    "year": "2019",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vTO91EtVCNXl2y0jE1UxQkkMwdv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "252193",
+    "tmdbId": 252193,
+    "type": "tv",
+    "title": "Last Samurai Standing",
+    "overview": "In the early Meiji era, Shujiro, once known as an undefeated samurai, decides to participate in a deadly survival game to save his family and villagers.",
+    "year": "2025",
+    "rating": 7.847,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wKNEFlrs68rzweVzfwkjWmkJqu7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fUiGNHXYIsSotHimr8MT08S5IPq.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "241454",
+    "tmdbId": 241454,
+    "type": "tv",
+    "title": "Love Next Door",
+    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
+    "year": "2024",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8DZoBQ7U0EwnFSJbAOGX3v4cOEL.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "290193",
+    "tmdbId": 290193,
+    "type": "tv",
+    "title": "Mousetrap",
+    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+    "year": "2026",
+    "rating": 7.542,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uJfYt0J9X3QGdcqwIVqcLSrN1c3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "108261",
+    "tmdbId": 108261,
+    "type": "tv",
+    "title": "Mr. Queen",
+    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+    "year": "2020",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gko6rf0BmhTnc9mawzWfgPUPUT1.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "303143",
+    "tmdbId": 303143,
+    "type": "tv",
+    "title": "My Royal Nemesis",
+    "overview": "A Joseon-era villain doomed to die opens her eyes in modern-day Seoul — where a ruthless chaebol heir may be her last chance to rewrite her fate.",
+    "year": "2026",
+    "rating": 8.905,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3SDlj2zgdRDZx48Il4wJog9wprZ.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "291496",
+    "tmdbId": 291496,
+    "type": "tv",
+    "title": "Our Sticky Love",
+    "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+    "year": "2026",
+    "rating": 8.62,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tXfXuhXc6PI9i8x3pkHIouAUNAc.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "210905",
+    "tmdbId": 210905,
+    "type": "tv",
+    "title": "Physical: 100",
+    "overview": "One hundred contestants in top physical shape compete in a series of grueling challenges to claim the honor — and cash reward — as the last one standing.",
+    "year": "2023",
+    "rating": 7.616,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vl9XwsuGGzvbAWlHLTNTFIWcgK6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/msrw4yMwqrUgGDzQSRRNSgkamBt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8ri30DLbsR2PTj8UZSvYojMGI6u.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "293613",
+    "tmdbId": 293613,
+    "type": "tv",
+    "title": "Physical: Asia",
+    "overview": "Elite athletes from eight countries battle for national pride. After grueling tests of raw strength and endurance, only one flag can claim victory.",
+    "year": "2025",
+    "rating": 7.577,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/osa3I6CuabnCEpNgFOvFMLLS7yP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/823qOjKt0V0N9S6h2uoqu1IA15f.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zpWtE2Z0d2TH6yzrUimqiiCPmk2.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "279388",
+    "tmdbId": 279388,
+    "type": "tv",
+    "title": "Pursuit of Jade",
+    "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9GmWih7czW3EMOXYabOutNO3NzJ.png",
+    "certificate": null,
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "215720",
+    "tmdbId": 215720,
+    "type": "tv",
+    "title": "Queen of Tears",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "year": "2024",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rtYUutWaNOO0IfWQWhegTUw0ERo.png",
+    "certificate": null,
+    "runTimeMinutes": 110,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "139798",
+    "tmdbId": 139798,
+    "type": "tv",
+    "title": "Single's Inferno",
+    "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bkz7rStamWJxC3lp9TUpU9GR18S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7PirAZMGCb53CXuk2cfSHGtWqbk.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "298610",
+    "tmdbId": 298610,
+    "type": "tv",
+    "title": "Spooky in Love",
+    "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+    "year": "2026",
+    "rating": 8.703,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cbSFA6ILexvyf9J18CDMDwoR6Fi.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "96648",
+    "tmdbId": 96648,
+    "type": "tv",
+    "title": "Sweet Home",
+    "overview": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+    "year": "2020",
+    "rating": 8.211,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zcugNxDg59YwIf3dUHsrHmO7pc1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tPfB6aJRLc6ClGGv8TGt6M2bvTN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1630409",
+    "tmdbId": 1630409,
+    "type": "movie",
+    "title": "The Debt Collector",
+    "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
+    "year": "2026",
+    "rating": 7.956,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Aer1wKtqg0xo92g8UiVY6NcKBNV.png",
+    "certificate": "R",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "299952",
+    "tmdbId": 299952,
+    "type": "tv",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "year": "2026",
+    "rating": 7.25,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b5pNKvsEPlCG0UPVTXhHgtQcFFZ.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "279323",
+    "tmdbId": 279323,
+    "type": "tv",
+    "title": "The East Palace",
+    "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+    "year": "2026",
+    "rating": 8.239,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/555iLcFftDIlo3Z0CnoTdvP9WSK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "136283",
+    "tmdbId": 136283,
+    "type": "tv",
+    "title": "The Glory",
+    "overview": "Years after surviving horrific abuse in high school, a woman puts an elaborate revenge scheme in motion to make the perpetrators pay for their crimes.",
+    "year": "2022",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nZOEaSgCgOSiI3gS2aDbSnDpmRo.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "982843",
+    "tmdbId": 982843,
+    "type": "movie",
+    "title": "The Great Flood",
+    "overview": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape — and the future of humanity — on the line.",
+    "year": "2025",
+    "rating": 5.983,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/218MafWtM9XpPRuNdh0uhrNezi5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAd2x7N82EDUoOM52hl0K4TPgxH.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "259837",
+    "tmdbId": 259837,
+    "type": "tv",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "year": "2026",
+    "rating": 8.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/46I7PkWU0yy98CumLEN4JyA59Kd.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "238084",
+    "tmdbId": 238084,
+    "type": "tv",
+    "title": "Trigger",
+    "overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+    "year": "2025",
+    "rating": 8.077,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ojCikA8B5Cclian3h06K5SBiyS3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "112888",
+    "tmdbId": 112888,
+    "type": "tv",
+    "title": "True Beauty",
+    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
+    "year": "2020",
+    "rating": 8.278,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAFwvBPiU53yjGyC91MFMezOLNI.png",
+    "certificate": null,
+    "runTimeMinutes": 81,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "117376",
+    "tmdbId": 117376,
+    "type": "tv",
+    "title": "Vincenzo",
+    "overview": "During a visit to his motherland, a Korean-Italian Mafia lawyer gives an unrivaled conglomerate a taste of its own medicine  with a side of justice.",
+    "year": "2021",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/znGVUeFTAM0WhRHMJl1kxlzC1l6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "218038",
+    "tmdbId": 218038,
+    "type": "tv",
+    "title": "Vivant",
+    "overview": "Yusuke Nogi of Ryosho's Energy Development Division said that 10 times the official down payment was mistakenly sent to GFL, a local infrastructure company involved in a solar energy plant to be built in the Balkan Republic in Central Asia. Suspected of involvement, he heads to the Balkan Republic to collect the difference of $90 million. With the cooperation of his CIA friend Sam, Nogi obtained information that the terrorist al-Zaer had laundered the full amount of the contract money into diamonds and brought it out.",
+    "year": "2023",
+    "rating": 7.411,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aut8zs5YypvT5chQUuFhActLkHF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yBNDjG4Q963MecEllraSdqs3QjX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cf8BAFmrTZKeihzgrmTvTZ1eqwQ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "200709",
+    "tmdbId": 200709,
+    "type": "tv",
+    "title": "Weak Hero",
+    "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+    "year": "2022",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/igNEgOI3Wcq43xXcgH8LqBpio5H.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "219246",
+    "tmdbId": 219246,
+    "type": "tv",
+    "title": "When Life Gives You Tangerines",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "year": "2025",
+    "rating": 8.788,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Afrz3QAcQcsT6w4S5wrKUxmYPWM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hvFFNASGQ31Y6oQyxmq0EkaiTQX.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  }
+]

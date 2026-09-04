@@ -1,0 +1,827 @@
+[
+  {
+    "id": "245312",
+    "tmdbId": 245312,
+    "type": "tv",
+    "title": "A Man on the Inside",
+    "overview": "A retired professor with a knack for snooping gets a new lease on life when a private investigator recruits him to go undercover and crack a case.",
+    "year": "2024",
+    "rating": 7.417,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAX6yWIr16VTUjpMajT33MdobHK.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "72755",
+    "tmdbId": 72755,
+    "type": "tv",
+    "title": "Absentia",
+    "overview": "A missing FBI agent reappears six years after being declared dead.",
+    "year": "2017",
+    "rating": 7.259,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uXY6k8Gd45cTGzlz5s0A2ejDBXa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l4kkQYBIgL7nEXTc0OYkLTDbUHT.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "249042",
+    "tmdbId": 249042,
+    "type": "tv",
+    "title": "Adolescence",
+    "overview": "When a 13-year-old is accused of the murder of a classmate, his family, therapist and the detective in charge are all left asking: what really happened?",
+    "year": "2025",
+    "rating": 7.816,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wqSAKaSs9M2rt4doSgtzPXY4pE0.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "296206",
+    "tmdbId": 296206,
+    "type": "tv",
+    "title": "Agent Kim Reactivated",
+    "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68421",
+    "tmdbId": 68421,
+    "type": "tv",
+    "title": "Altered Carbon",
+    "overview": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.",
+    "year": "2018",
+    "rating": 7.634,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AisK4uFsnwwmMkSynFpNl0VeGR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zUXsrEW4IAtFG0tA6dz0NpuTOpM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "308014",
+    "tmdbId": 308014,
+    "type": "tv",
+    "title": "Berlin and the Lady with an Ermine",
+    "overview": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
+    "year": "2026",
+    "rating": 8.074,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uBw5HWfUgMx9yKFuecVEqiEtxFK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "291506",
+    "tmdbId": 291506,
+    "type": "tv",
+    "title": "Big Mistakes",
+    "overview": "Blackmailed into working for some very dangerous people, two deeply incapable siblings become the most disorganized duo in organized crime.",
+    "year": "2026",
+    "rating": 6.737,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8hqLTgkkaqx0LUitgjaM5zuJvmW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "249039",
+    "tmdbId": 249039,
+    "type": "tv",
+    "title": "Black Rabbit",
+    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cGpSceADmFjVuclMPxLzLyLaD4r.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "303351",
+    "tmdbId": 303351,
+    "type": "tv",
+    "title": "Blood Sacrifice",
+    "overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
+    "year": "2026",
+    "rating": 6.561,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kDR1yuINOx7IRdhpThrqLs88pa6.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127529",
+    "tmdbId": 127529,
+    "type": "tv",
+    "title": "Bloodhounds",
+    "overview": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice and protect their loved ones.",
+    "year": "2023",
+    "rating": 8.504,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/luUqD7PtUpwo51qG8rpXcecaO4b.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "330320",
+    "tmdbId": 330320,
+    "type": "tv",
+    "title": "Conversations with a Killer: The Charles Manson Tapes",
+    "overview": "Tracing Charles Manson's rise as a cult leader, the 1969 murders, and his trial, using unreleased prison recordings, interviews, and archival footage.",
+    "year": "2026",
+    "rating": 7.556,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9dNSq5RktG4rREsemQCqc26G7s.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "113988",
+    "tmdbId": 113988,
+    "type": "tv",
+    "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+    "overview": "This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade.",
+    "year": "2022",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/llLKLlbuE2ZH0WfdQTJcy3WsmLi.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "13916",
+    "tmdbId": 13916,
+    "type": "tv",
+    "title": "Death Note",
+    "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+    "year": "2006",
+    "rating": 8.62,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1NWy6mi2O5gZanKigYBWGIEQqSh.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "331616",
+    "tmdbId": 331616,
+    "type": "tv",
+    "title": "Death of the Pastor's Wife",
+    "overview": "What happened to Mica Miller? This documentary series retraces her promising life, toxic marriage and the mysterious circumstances of her death.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cy19xBHcZsQntoUZ27v3eSFPEU4.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "67773",
+    "tmdbId": 67773,
+    "type": "tv",
+    "title": "Dirk Gently's Holistic Detective Agency",
+    "overview": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+    "year": "2016",
+    "rating": 7.687,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3eRjfZUOnHe82Cyo6oqaEG1JuIh.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "559969",
+    "tmdbId": 559969,
+    "type": "movie",
+    "title": "El Camino: A Breaking Bad Movie",
+    "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+    "year": "2019",
+    "rating": 7.05,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6wZXUCi2YPfIY91ifWpbkjn5x2q.png",
+    "certificate": "R",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71411",
+    "tmdbId": 71411,
+    "type": "tv",
+    "title": "El Chapo",
+    "overview": "A look at the life of notorious drug kingpin, El Chapo, from his early days in the 1980s working for the Guadalajara Cartel, to his rise to power of during the '90s and his ultimate downfall in 2016.",
+    "year": "2017",
+    "rating": 7.538,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3FzlvQ5Ea35Zdz71Ye7JSvB6VdB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4kp7ZwgminnWqgFwO5QEiWS5BNa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4XB00ztbecwchpkjxiafPMSrG4V.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "5829",
+    "tmdbId": 5829,
+    "type": "tv",
+    "title": "Flashpoint",
+    "overview": "The Strategic Response Unit (SRU) is an elite team of cops who specialize in high-risk critical incidents. Trained in tactics and psychology, they deal with extreme situations, where split-second decisions could save a life...or cost one.",
+    "year": "2008",
+    "rating": 7.381,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3Bp3vJrPxnrN8iRDaclsVUPwgWa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6SlgW0xylNr2NikrZvMRd5tTwAo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2jLTLWOSjzcynaFM4By4o3SYTki.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "241734",
+    "tmdbId": 241734,
+    "type": "tv",
+    "title": "Forensic Factor: A New Era",
+    "overview": "The six-episode, one-hour docuseries explores how incredible innovations in forensic science, combined with the expertise of dedicated crime scene investigators work together to uncover the truth.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6SPgFlis9Wb6VLFi8VtRf0wy4Tk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6vQ0dmdw4plsOPv5AR3ySFToF0G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3d648FhCNXa688N5qIIMxufbY2S.png",
+    "certificate": null,
+    "runTimeMinutes": 43,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "259731",
+    "tmdbId": 259731,
+    "type": "tv",
+    "title": "HIS & HERS",
+    "overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
+    "year": "2026",
+    "rating": 7.321,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qOlWfNoCC1G4PQ06oRKP5ph7i.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "88236",
+    "tmdbId": 88236,
+    "type": "tv",
+    "title": "How to Sell Drugs Online (Fast)",
+    "overview": "To win back his ex-girlfriend, a nerdy teen starts selling ecstasy online out of his bedroom -- and becomes one of Europe's biggest dealers.",
+    "year": "2019",
+    "rating": 7.884,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xg7U76h1DNtwa0eBOIbFdiM80DR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/k5LOQVkVhwq8qybNjwSdWpGghM7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dzSkJEQgTFdJtqHk8kBctBK4QR2.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "87940",
+    "tmdbId": 87940,
+    "type": "tv",
+    "title": "Hudson & Rex",
+    "overview": "Detective Charlie Hudson teams up with what he calls his \"highly trained law enforcement animal\" German Shepherd dog named Rex who he prefers to team up with because he doesn't talk his ear off.\n\nBased on the Austrian–Italian series, Kommissar Rex.",
+    "year": "2019",
+    "rating": 8.38,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l5N985pVvDC41QwEprORSoGz3Q5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eEOx2lpnWm4lVF5jfqtKsWlyuJX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/95SKvFAUaSp7m1hKjFPrevyJLCI.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "17381",
+    "tmdbId": 17381,
+    "type": "tv",
+    "title": "I Survived...",
+    "overview": "What would you do if you were confronted with death? What gives someone the strength to survive? Is it luck, chance, instinct? In a stripped-down, simple-yet-cinematic interview style, “I Survived…” allows survivors to explain, in their own words, how they overcame unbelievable circumstances — offering insight into what got them through the experience that changed their lives forever.",
+    "year": "2008",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fKWJrZoVrbVbJswAAwX0i11bpjZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fUWelICmu7xLpqvYyj79IstLW5N.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "US",
+      "NZ",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "262280",
+    "tmdbId": 262280,
+    "type": "tv",
+    "title": "Legends",
+    "overview": "As drugs flood the streets of '90s Britain, a team of civil servants is thrust undercover to topple the gangs behind it.",
+    "year": "2026",
+    "rating": 7.564,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jgN2pRkzfDr2rVCnzB92KvxB1Mr.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "223386",
+    "tmdbId": 223386,
+    "type": "tv",
+    "title": "Man on Fire",
+    "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
+    "year": "2026",
+    "rating": 7.419,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/brsyZlmvOTHfJxgwpfT2hAd55CP.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "286801",
+    "tmdbId": 286801,
+    "type": "tv",
+    "title": "Monster: The Ed Gein Story",
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "year": "2025",
+    "rating": 7.238,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yzim5Aghuyv3VAeYxl7FDBvHQHM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "290193",
+    "tmdbId": 290193,
+    "type": "tv",
+    "title": "Mousetrap",
+    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+    "year": "2026",
+    "rating": 7.542,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uJfYt0J9X3QGdcqwIVqcLSrN1c3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "70485",
+    "tmdbId": 70485,
+    "type": "tv",
+    "title": "Mr. Mercedes",
+    "overview": "A demented serial killer taunts a retired police detective with a series of lurid letters and emails, forcing the ex-cop to undertake a private, and potentially felonious, crusade to bring the killer to justice before he can strike again.",
+    "year": "2017",
+    "rating": 7.145,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/diYVGzRSAJpOCE5Avd5ZKBFUepi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x31J7rE0yKSGDmXpkJtoGRg5FNk.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12786",
+    "tmdbId": 12786,
+    "type": "tv",
+    "title": "Murdoch Mysteries",
+    "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+    "year": "2008",
+    "rating": 7.687,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gMXlZrd9iuPUdVQg9CTVXtLwnVV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tKbdpkoTIvlDesStmxBDaLf77Oi.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "285807",
+    "tmdbId": 285807,
+    "type": "tv",
+    "title": "Nemesis",
+    "overview": "A relentless LAPD cop becomes obsessed with taking down the master thief behind a string of daring heists — and only one can come out on top.",
+    "year": "2026",
+    "rating": 7.697,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4S1aLdl1jyDsVRaevM6PqjWuIju.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "43348",
+    "tmdbId": 43348,
+    "type": "tv",
+    "title": "Pablo Escobar: The Drug Lord",
+    "overview": "Pablo is a man with a natural ability for business. Early in his life, Pablo is introduced to the business of cocaine and the power it yields. A young life of crime lands Pablo in and out of jail as he builds his criminal empire. Pablo expands his power through politics but it is not long before his conflicts as a Congressman and a drug lord collide. Pablo has his enemies executed, but not before the United States activates its own war on the Medellin cartel.",
+    "year": "2012",
+    "rating": 7.652,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5u02bo70uzUFpEV9Pd0lFkLA9Es.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xJxP6XzBNQlpW2MnCgWyvPufRGr.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "66599",
+    "tmdbId": 66599,
+    "type": "tv",
+    "title": "Private Eyes",
+    "overview": "Ex-pro hockey player Matt Shade irrevocably changes his life when he teams up with fierce P.I. Angie Everett to form an unlikely investigative powerhouse.",
+    "year": "2016",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yPt9IuY2D8g6Lpwh8O8wCDixzt9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3gRDZotvt7FqNyTU4bU9S2OCEPi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iwcy88aMvzjKwKErfj3Q81QtJfn.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "255251",
+    "tmdbId": 255251,
+    "type": "tv",
+    "title": "Sean Combs: The Reckoning",
+    "overview": "A revealing look at Sean 'Diddy' Combs' journey from music mogul to high-profile sexual offender, featuring footage and insider accounts that expose both his groundbreaking success with Bad Boy Entertainment and the troubling shadows behind his empire.",
+    "year": "2025",
+    "rating": 7.31,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5L9YS9mpYs0WfuSKYpLd9GUBFc9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4ErsWTzHcOzapc7zSDeTXtYxPO5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "66310",
+    "tmdbId": 66310,
+    "type": "tv",
+    "title": "StartUp",
+    "overview": "A desperate banker needs to conceal stolen money. A Haitian-American gang lord wants to go legit. A Cuban-American hacker has an idea that will revolutionize the very future of money itself. Forced to work together, they unwittingly create their version of the American dream - organized crime 2.0.",
+    "year": "2016",
+    "rating": 7.172,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mXiB1e0x3iaRaaPPVhC1c7rgwPr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jiU8ZlDa6CgNVhcODxvHGHTh4wB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Zr9xLku9I9Z1Akm7567nUBly8o.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "248226",
+    "tmdbId": 248226,
+    "type": "tv",
+    "title": "The Bombing of Pan Am 103",
+    "overview": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
+    "year": "2025",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jWMG8htFNfc4eeu9UcPszql3Xa6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lCe9bJXYHYPjsEDxaQmyMf7rkSa.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "5146",
+    "tmdbId": 5146,
+    "type": "tv",
+    "title": "The First 48",
+    "overview": "The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.",
+    "year": "2004",
+    "rating": 7.893,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i6bSut4XPepaJ5VC6oG303iGKQU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/esvu1XRoW7XbzDVkInUFbAYhLe4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pOYPq4Whx2a1qu2PWBGYpmGr3qn.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "328735",
+    "tmdbId": 328735,
+    "type": "tv",
+    "title": "The Idaho Murders: College Nightmare",
+    "overview": "Through bodycam footage, texts and interviews with loved ones, this documentary investigates the horrifying murder of four University of Idaho students.",
+    "year": "2026",
+    "rating": 6.719,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1BosXOwTUudCrE77ayEJSROW8sL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ArD3TJtfbGbM8t9EEENKRcRy2PO.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "39852",
+    "tmdbId": 39852,
+    "type": "tv",
+    "title": "The Sinner",
+    "overview": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons.",
+    "year": "2017",
+    "rating": 7.458,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lVWku9LX2qdJTtAbRzaCDhhWeTK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xbOpER6gqANjw7GpQz3wfMzasRK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93544",
+    "tmdbId": 93544,
+    "type": "tv",
+    "title": "Top Boy",
+    "overview": "Two seasoned drug dealers return to the gritty street of London, but their pursuit of money and power is threatened by a young and ruthless hustler.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mGZpOEaLZTRzWeQMq5SZM5BbDZg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jAz9AZpznu3ELhUp1XiMEeQv2Se.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/moGbVJliLrHDDH5c78JApppY2H8.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "248852",
+    "tmdbId": 248852,
+    "type": "tv",
+    "title": "UNTAMED",
+    "overview": "In the vast expanse of Yosemite National Park, a woman's death draws a federal agent into lawless terrain — where nature obeys no rules but its own.",
+    "year": "2025",
+    "rating": 7.199,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tclYY8RGieQwkJXDxZGf505Zybr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oGsh97JAA6LYu92B6TEswrjac8W.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2nNW0T64ZEjbtG4gTTOUjHDEUcS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "325188",
+    "tmdbId": 325188,
+    "type": "tv",
+    "title": "Worst Neighbor Ever",
+    "overview": "This intense documentary series details true stories of neighbors gone bad, from heinous fraud schemes to senseless acts of violent retribution.",
+    "year": "2026",
+    "rating": 7.517,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1WarGMl1xR0l7ut72putZcgrCJS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/68DV2CjqHpH8PsO76Ssrv4T47os.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/y7Udd1ebVG7PBMZuLmTd0sz9EGO.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

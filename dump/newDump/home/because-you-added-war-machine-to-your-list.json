@@ -1,0 +1,826 @@
+[
+  {
+    "id": "700391",
+    "tmdbId": 700391,
+    "type": "movie",
+    "title": "65",
+    "overview": "65 million years ago, the only 2 survivors of a spaceship from Somaris that crash-landed on Earth, must fend off dinosaurs to reach the escape vessel in time before an imminent asteroid strike threatens to destroy the planet.",
+    "year": "2023",
+    "rating": 5.954,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eSVu1FvGPy86TDo4hQbpuHx55DJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9I1rpYRweglRDqdwuTycjLSaoQA.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "413846",
+    "tmdbId": 413846,
+    "type": "movie",
+    "title": "1992",
+    "overview": "In 1992, Mercer is desperately trying to rebuild his life and his relationship with his son amidst the turbulent Los Angeles uprising following the Rodney King verdict. Across town, another father and son put their own strained relationship to the test as they plot a dangerous heist to steal catalytic converters, which contain valuable platinum from the factory where Mercer works. As tensions rise and chaos erupts, both families reach their boiling points when their worlds collide.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tPvFmQZM5HMspryyYbrtW02NR0G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pbmlCNeOwvCqum8yvMERbgnrSr7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eP65PJW2C08CrD6P3aMijvMZ4Hb.png",
+    "certificate": "R",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "503736",
+    "tmdbId": 503736,
+    "type": "movie",
+    "title": "Army of the Dead",
+    "overview": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+    "year": "2021",
+    "rating": 6.189,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gCIsRxzcxvmuLYeAvWgoOuSxszF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nlJkXc9NG6tnqM2oEJ4yVEWQQ6K.png",
+    "certificate": "R",
+    "runTimeMinutes": 148,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "209112",
+    "tmdbId": 209112,
+    "type": "movie",
+    "title": "Batman v Superman: Dawn of Justice",
+    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+    "year": "2016",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2jRycjYLsKBREurUute8roVN1FF.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 152,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "44943",
+    "tmdbId": 44943,
+    "type": "movie",
+    "title": "Battle: Los Angeles",
+    "overview": "When once distant UFOs become a terrifying threat and an alien invasion force begins attacking Earths major costal and riverside cities, a U.S Marine staff sergeant and his team are sent into battle only to find they must take it upon themselves to defeat an unknown enemy and protect what remains of Los Angeles.",
+    "year": "2011",
+    "rating": 5.826,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/buspsNeIGOAznaYQsnGDmQLZakW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k7jbwgYQNoXHAmagQTkmRYHBbXN.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "365177",
+    "tmdbId": 365177,
+    "type": "movie",
+    "title": "Borderlands",
+    "overview": "Returning to her home planet, an infamous bounty hunter forms an unexpected alliance with a team of unlikely heroes. Together, they battle monsters and dangerous bandits to protect a young girl who holds the key to unimaginable power.",
+    "year": "2024",
+    "rating": 5.546,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cHYEhYhMLzyUr87WOFyDwyLhvfc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "400106",
+    "tmdbId": 400106,
+    "type": "movie",
+    "title": "Bright",
+    "overview": "In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.",
+    "year": "2017",
+    "rating": 6.163,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hu4psJoKxDYezvvS4GlLF531fom.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sevOvVuq7YipeIR7yV2xwsMQQEl.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1356039",
+    "tmdbId": 1356039,
+    "type": "movie",
+    "title": "Counterattack",
+    "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
+    "year": "2025",
+    "rating": 8.267,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/38I76hGcFY6xB47pjm7pZwkfuAF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x4XNYmknLosDwfwuCbEzuuXYXFj.png",
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "296524",
+    "tmdbId": 296524,
+    "type": "movie",
+    "title": "Deepwater Horizon",
+    "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+    "year": "2016",
+    "rating": 6.902,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqEAHLh2bkxZCEMAkoksxy38lZJ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "429415",
+    "tmdbId": 429415,
+    "type": "movie",
+    "title": "Extinction",
+    "overview": "A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.",
+    "year": "2018",
+    "rating": 6.055,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mPNGcX1j5SFeDETkvcJA9POaNx8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qiGWHxZXMtDkAYJmmUPbQMw67BH.png",
+    "certificate": "R",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "545609",
+    "tmdbId": 545609,
+    "type": "movie",
+    "title": "Extraction",
+    "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+    "year": "2020",
+    "rating": 7.285,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8kmF0Eig8czqXY8CHdM5H2rggNR.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "697843",
+    "tmdbId": 697843,
+    "type": "movie",
+    "title": "Extraction 2",
+    "overview": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
+    "year": "2023",
+    "rating": 7.386,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jWC7V4ILCoGNviwfqsjOeo0eEgq.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "274855",
+    "tmdbId": 274855,
+    "type": "movie",
+    "title": "Geostorm",
+    "overview": "After an unprecedented series of natural disasters threatened the planet, the world's leaders came together to create an intricate network of satellites to control the global climate and keep everyone safe. But now, something has gone wrong: the system built to protect Earth is attacking it, and it becomes a race against the clock to uncover the real threat before a worldwide geostorm wipes out everything and everyone along with it.",
+    "year": "2017",
+    "rating": 6.126,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vIEuJiIZN9EclAJDmD49F2zUzuX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b0C2M9FuLEbK6KPHp9DnXp1Lnie.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "980489",
+    "tmdbId": 980489,
+    "type": "movie",
+    "title": "Gran Turismo",
+    "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+    "year": "2023",
+    "rating": 7.696,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/taQ9BjH8k1OZPM3hViIM9KoI9FN.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "229906",
+    "tmdbId": 229906,
+    "type": "tv",
+    "title": "Gundam: Requiem for Vengeance",
+    "overview": "Eleven months into the One Year War in U.C.0079, top Zaku II pilot Captain Solari faces the Earth Federation's new lethal weapon: the mobile suit Gundam.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ybJkwgv63Ht3bZNOrKsbTwYmaFC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jYq8uw7vRIDoptXMFqQblE903xn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/y1JggbASAFXf7Vmzuzr170glM6a.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 23,
+    "primaryGenre": "War & Politics",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "457332",
+    "tmdbId": 457332,
+    "type": "movie",
+    "title": "Hidden Strike",
+    "overview": "Two elite soldiers must escort civilians through a gauntlet of gunfire and explosions.",
+    "year": "2023",
+    "rating": 6.887,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hld8bMSwbjLGTLTgMKai6OfSSwJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nhb8EW52MKVyGAc9FLlSpJbzcRy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US",
+      "CN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "831946",
+    "tmdbId": 831946,
+    "type": "movie",
+    "title": "Interceptor",
+    "overview": "A U.S. Army Captain uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent attack threatens her remote missile interceptor station.",
+    "year": "2022",
+    "rating": 6.045,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jBKNAfANo4e3rzJtb7aHfYNd7b3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i2tcQ9nDJpdJELPA82eCd7Irasd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1mY2NYzVy0HghH5nm8bCuCc8NI2.png",
+    "certificate": null,
+    "runTimeMinutes": 98,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "135397",
+    "tmdbId": 135397,
+    "type": "movie",
+    "title": "Jurassic World",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "year": "2015",
+    "rating": 6.703,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vleUbBFlEGdxaazvzBMoZ5dHDoY.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "634492",
+    "tmdbId": 634492,
+    "type": "movie",
+    "title": "Madame Web",
+    "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "year": "2024",
+    "rating": 5.278,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/82Y9a1cGxwFjPnaeukz3eQQnG7v.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "272878",
+    "tmdbId": 272878,
+    "type": "movie",
+    "title": "Max",
+    "overview": "A dog that helped soldiers in Afghanistan returns to the U.S. and is adopted by his handler's family after suffering a traumatic experience.",
+    "year": "2015",
+    "rating": 7.116,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d3ACos3t4YwXML8keTA0wKN8e36.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bxBpDzktYTDMpx7VrS6r6wNDeTk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/srdLXzWCHkf8yHbJm4MYivdAtmJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "522162",
+    "tmdbId": 522162,
+    "type": "movie",
+    "title": "Midway",
+    "overview": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.",
+    "year": "2019",
+    "rating": 7.097,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7nAcuG6Wb7oBJxsYU82OiPHauRH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 138,
+    "primaryGenre": "War",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "775996",
+    "tmdbId": 775996,
+    "type": "movie",
+    "title": "Outside the Wire",
+    "overview": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+    "year": "2021",
+    "rating": 6.354,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q8YKoa0NZSlYL0KJZBlpTJrMNMF.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "268896",
+    "tmdbId": 268896,
+    "type": "movie",
+    "title": "Pacific Rim: Uprising",
+    "overview": "It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.",
+    "year": "2018",
+    "rating": 6.12,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nFWhttU8PM50t25NPdy7PE7rv3G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3pV306w6A7sZXacW81YXpIcO7fk.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "7485",
+    "tmdbId": 7485,
+    "type": "movie",
+    "title": "Shooter",
+    "overview": "A top Marine sniper, Bob Lee Swagger, leaves the military after a mission goes horribly awry and disappears, living in seclusion. He is coaxed back into service after a high-profile government official convinces him to help thwart a plot to kill the President of the United States. Ultimately double-crossed and framed for the attempt, Swagger becomes the target of a nationwide manhunt. He goes on the run to track the real killer and find out who exactly set him up, and why, eventually seeking revenge against some of the most powerful and corrupt leaders in the free world.",
+    "year": "2007",
+    "rating": 7.129,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/olv7UNXloW0rl8z17MTjx9P28Nq.png",
+    "certificate": "R",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "290729",
+    "tmdbId": 290729,
+    "type": "movie",
+    "title": "Sniper: Legacy",
+    "overview": "A rogue gunman is assassinating high-ranking military officers one by one. When Gunnery Sgt. Brandon Beckett is informed his father, legendary shooter Thomas Beckett has been killed, Brandon springs into action to take out the perpetrator.",
+    "year": "2014",
+    "rating": 6.009,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/a9L1t3vRaZRU1Fa0kolfQGiTCnQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oehDm7pwRZE2Tdo4FXGhDkcJTlD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rtdPexulND689P1dMegpl45pcoQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1149381",
+    "tmdbId": 1149381,
+    "type": "movie",
+    "title": "Soulcatcher",
+    "overview": "A military contractor hired to seize a weapon that turns people into savage killers seeks revenge when his brother falls victim to the device.",
+    "year": "2023",
+    "rating": 6.357,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l1f9JSPjCfNftigEii1SDK1g2b3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oPYJ1artbj7x8zgpJJkQMp0mNTW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b8SLLvNcAFdvIPPc7NLKISdVLXN.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "PL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "324670",
+    "tmdbId": 324670,
+    "type": "movie",
+    "title": "Spectral",
+    "overview": "A special-ops team is dispatched to fight supernatural beings that have taken over a European city.",
+    "year": "2016",
+    "rating": 6.565,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5yprxs7ZyBr58RsTQJrKCVmqk8X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cBrzOqgAJv1YG4Jww9dt1B54Sv8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cMAgLV9Gu5nZgxKjAcsFxp6wXPy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "239287",
+    "tmdbId": 239287,
+    "type": "tv",
+    "title": "Terminator Zero",
+    "overview": "A warrior from a post-apocalyptic future travels to 1997 to protect an AI scientist being hunted by an unfeeling — and indestructible — cyborg.",
+    "year": "2024",
+    "rating": 7.02,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/woH18JkZMYhMSWqtHkPA4F6Gd1z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8suGYlUHEJo5JvKy8BrRCtnQSo1.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US",
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "895904",
+    "tmdbId": 895904,
+    "type": "movie",
+    "title": "The Beekeeper",
+    "overview": "A sentient, superpowered swarm of bees attempts to fit into human society.",
+    "year": "2021",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oHogiDDQHVED1MrKgGONBfWAa5k.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 5,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9341",
+    "tmdbId": 9341,
+    "type": "movie",
+    "title": "The Core",
+    "overview": "Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth's inner core to stop rotating. With the planet's magnetic field rapidly deteriorating, our atmosphere literally starts to come apart at the seams with catastrophic consequences. To resolve the crisis, Keyes, along with a team of the world's most gifted scientists, travel into the earth's core. Their mission: detonate a device that will reactivate the core.",
+    "year": "2003",
+    "rating": 5.845,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v2YxWPX2yKdo6arIAknJzKLxhZY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5vQ6WSUJ1NQvDiDgdwsWxgXbk5O.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "27578",
+    "tmdbId": 27578,
+    "type": "movie",
+    "title": "The Expendables",
+    "overview": "Barney Ross leads a band of highly skilled mercenaries including knife enthusiast Lee Christmas, a martial arts expert Yin Yang, heavy weapons specialist Hale Caesar, demolitionist Toll Road, and a loose-cannon sniper Gunner Jensen. When the group is commissioned by the mysterious Mr. Church to assassinate the dictator of a small South American island, Barney and Lee visit the remote locale to scout out their opposition and discover the true nature of the conflict engulfing the city.",
+    "year": "2010",
+    "rating": 6.251,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j09ZkH6R4JWVylBcDai1laCmGw7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yBv9RxlWPXRCvjMFsrmB1pxwWo6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/liM31KX1YltzpcdPBLdCtlEdOan.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "76163",
+    "tmdbId": 76163,
+    "type": "movie",
+    "title": "The Expendables 2",
+    "overview": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
+    "year": "2012",
+    "rating": 6.355,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/74rTIGyGoIu5KSxDVMdr8H3MtMo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ihKsZZYMbyHXC1L7s90WDLITdC5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tUDh6lY9KoOdGZ7CU8MHtr2jjoH.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "746036",
+    "tmdbId": 746036,
+    "type": "movie",
+    "title": "The Fall Guy",
+    "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+    "year": "2024",
+    "rating": 6.953,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2rjI2uXmjitMAaXVO21r9ao7v2j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xsmBMxBjQLgYLJZGWxAyE28YWU5.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "390043",
+    "tmdbId": 390043,
+    "type": "movie",
+    "title": "The Hitman's Bodyguard",
+    "overview": "The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+    "year": "2017",
+    "rating": 6.894,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r0IKaC9zbEVjyAFF7xxfuCk7qvV.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "522931",
+    "tmdbId": 522931,
+    "type": "movie",
+    "title": "Hitman's Wife's Bodyguard",
+    "overview": "The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius's even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.",
+    "year": "2021",
+    "rating": 6.625,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bjIPzixuWnOzxDG25WaXKuy9lYZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zAgXLOZiCTkmXahbzh3kxrCanzD.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "948713",
+    "tmdbId": 948713,
+    "type": "movie",
+    "title": "The Last Kingdom: Seven Kings Must Die",
+    "overview": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
+    "year": "2023",
+    "rating": 7.242,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kEhCztSTP4ixu7R0AIWg8vvcvbb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6qbpfRsIbxwrDqVzNUgO3dObRo8.png",
+    "certificate": "R",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "547016",
+    "tmdbId": 547016,
+    "type": "movie",
+    "title": "The Old Guard",
+    "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+    "year": "2020",
+    "rating": 7.089,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bvxzhwGqNQSMwsPvZjht2sjByGR.png",
+    "certificate": "R",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "846422",
+    "tmdbId": 846422,
+    "type": "movie",
+    "title": "The Old Guard 2",
+    "overview": "Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.",
+    "year": "2025",
+    "rating": 5.904,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fd9K7ZDfzRAcbLh8JlG4HIKbtuR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iAbOdVKAPuEN2MdLSVlOuYvXMVF.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "531876",
+    "tmdbId": 531876,
+    "type": "movie",
+    "title": "The Outpost",
+    "overview": "A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.",
+    "year": "2020",
+    "rating": 6.901,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2ZsiregLZBzou3jDvp6RdpZ0Kwv.png",
+    "certificate": "R",
+    "runTimeMinutes": 123,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "399361",
+    "tmdbId": 399361,
+    "type": "movie",
+    "title": "Triple Frontier",
+    "overview": "Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.",
+    "year": "2019",
+    "rating": 6.334,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s9I2LmQMYCanl6DvC3X1AOHs2r8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iIM4CVcRkYgMW6gzbctnxFED61x.png",
+    "certificate": "R",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "613093",
+    "tmdbId": 613093,
+    "type": "movie",
+    "title": "Valley of the Dead",
+    "overview": "During the Spanish Civil War, sworn enemies must work together when they encounter flesh-eating zombies created in a Nazi experiment.",
+    "year": "2020",
+    "rating": 6.219,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/avokvOwhjVR9GgISsSSgb2A343G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h6XfgbzQEV4sitsIVY63pawLI0s.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1OmCpxTp0AdbzbxXNI3vQ0C410R.png",
+    "certificate": "R",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  }
+]

@@ -1,0 +1,823 @@
+[
+  {
+    "id": "296206",
+    "tmdbId": 296206,
+    "type": "tv",
+    "title": "Agent Kim Reactivated",
+    "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "64572",
+    "tmdbId": 64572,
+    "type": "tv",
+    "title": "Alvinnn!!! and The Chipmunks",
+    "overview": "Everyone's favorite chipmunks -- Alvin, Simon and Theodore -- are back in this computer-animated version of the classic animated series. The brothers are famous rock stars who tour around the world with their best friends, the Chipettes.",
+    "year": "2015",
+    "rating": 7.291,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uWBqLLeEY8rxJEw8U4CDUv1OLmC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mnBZnAjVLuOADAZdi2GEr2yJAyY.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "122781",
+    "tmdbId": 122781,
+    "type": "tv",
+    "title": "Asterix & Obelix: The Big Fight",
+    "overview": "When their druid forgets how to prepare the magic potion, Asterix and Obelix must defend the village as Caesar plots to use a Gallic law against them.",
+    "year": "2025",
+    "rating": 7.781,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yiBvCHwN3zFBTENZrkhMqy3BClO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rLUC7hOsXtYCg1DfUIVpnes4VJX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n9QM6x9a7S1ovFFSDYOVV0Kpe4V.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61838",
+    "tmdbId": 61838,
+    "type": "tv",
+    "title": "Barbie: Life in the Dreamhouse",
+    "overview": "The series is set as a reality TV-esque show following Barbie, her sisters and her friends in the day-to-day activities that take place in the Dreamhouse and surrounding areas. Much of the humor in the show derives from parodying and lampooning both the traditional reality TV format and the Barbie franchise itself.",
+    "year": "2012",
+    "rating": 7.626,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9gj2wYYIUg78qhgcg2IgeYU1yIg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6ZYaLOle3iKOHlXqADnxt592v3O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xSXeAcQB3L2AUbYR2KII6uNoC1j.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81700",
+    "tmdbId": 81700,
+    "type": "tv",
+    "title": "Booba",
+    "overview": "The world is a mystery to little Booba. But he approaches the curiosities around him with wonder, finding adventure in his everyday surroundings.",
+    "year": "2014",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/omnPz8NvgYDty6XsMA0YcA895CW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3TOFu4BkD6mtIPJVolvZ9gH8jQF.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 4,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71308",
+    "tmdbId": 71308,
+    "type": "tv",
+    "title": "Disjointed",
+    "overview": "Pot activist Ruth Whitefeather Feldman runs a medical marijuana dispensary while encouraging her loyal patients to chill out and enjoy the high life.",
+    "year": "2017",
+    "rating": 6.233,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fXo82DbiAI9t3H9DO2jzLu5Qwqh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fDxO6w4ozwxIph9pGz8VTwhZQ6p.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "89785",
+    "tmdbId": 89785,
+    "type": "tv",
+    "title": "Family Business",
+    "overview": "After learning France is about to legalize pot, a down-on-his-luck entrepreneur and his family race to turn their butcher shop into a marijuana café.",
+    "year": "2019",
+    "rating": 7.137,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xj8rrY53f5RtrhoI2Zliz3DPU31.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oQd4y7GjGWJfkw7Ub8rZhjNjTvw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bSjxADV4VbjdE4GwPLEdd9KvqLU.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "87093",
+    "tmdbId": 87093,
+    "type": "tv",
+    "title": "Family Reunion",
+    "overview": "Family Reunion follows a family of six who travel from Seattle, Washington to Columbus, Georgia for the McKellan Family Reunion and decide to stay to be closer to their family.",
+    "year": "2019",
+    "rating": 8.06,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1FOJNlszjqBk5S1CDjnGvFTP2e4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/558LZZCB612eRz9bMoTp9bSTnse.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jLYwzJAbSc0xWPolfuXCXuQPOsS.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "287978",
+    "tmdbId": 287978,
+    "type": "tv",
+    "title": "Flunked",
+    "overview": "Eddy, a math genius and small-time crook, avoids jail-time by going undercover as a teacher. His mission: to identify the kid of a major criminal.",
+    "year": "2026",
+    "rating": 6.786,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/caabnbe4QJ5ZvJipH4cssFkbzwc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4hIUjsuPsNusla53s4nMx2M6C8R.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "307534",
+    "tmdbId": 307534,
+    "type": "tv",
+    "title": "Free Bert",
+    "overview": "A gloriously messy dad and his equally unfiltered family cause chaos when they try to fit in with the snobby crowd at their elite new school.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/utwGNSLV2mjicTPmYPwOCFfdxs1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/62RoJ99TwJjONbhkKaf78KOVLmL.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74415",
+    "tmdbId": 74415,
+    "type": "tv",
+    "title": "Grizzy & the Lemmings",
+    "overview": "The forest ranger's house is the only area of human civilization in the middle of untamed wilderness in a vast natural reserve in Canada. When the ranger is away, a bear named Grizzy feels that the ranger's house is his territory, given that bears sit at the top of the food chain. After making his way inside the home, Grizzy takes advantage of all the modern conveniences there, including a comfortable sofa, air conditioning and fully equipped kitchen. He's not alone, though, because a group of small creatures called lemmings also populate the ranger's house when he is away. Because Grizzy and the lemmings are not civilized enough to live together in peace, it becomes an atmosphere of madness when the two sides try to outdo each other with tricks.",
+    "year": "2016",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vpzSerTbEIspXUndYM7MGhhX7dm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/b2egfASudQeAoTzObV8XAj5Grw0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tqeQs4M1BoqgDMVuEkA4vWHKv7f.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61852",
+    "tmdbId": 61852,
+    "type": "tv",
+    "title": "Henry Danger",
+    "overview": "When 13-year-old Henry Hart lands a job as Danger, the sidekick-in-training to superhero Captain Man, he must learn to navigate a double life balancing the challenges of 8th grade with the crazy adventures of a real-life crime fighter!",
+    "year": "2014",
+    "rating": 8.279,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xkC1jloJRr9crbGm9puKKk0zQRy.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "5371",
+    "tmdbId": 5371,
+    "type": "tv",
+    "title": "iCarly",
+    "overview": "Watch Carly, Sam, and Freddie, as they try to balance their everyday 8th grade lives with their newfound fame managing and starring in the most awesome show on the web.",
+    "year": "2007",
+    "rating": 7.951,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zswxst53aM8g2LysdVbtQNJAiKM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u3rph1KVUOKbOtrPIgCb27H08Fy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dzM6ciclOCE58D9cEMJBTU7yOq.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "299675",
+    "tmdbId": 299675,
+    "type": "tv",
+    "title": "Inside: USA",
+    "overview": "Content creators scheme, sabotage and spend in wild challenges to win up to $1M in the first US series from British YouTube collective the Sidemen.",
+    "year": "2025",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/757sSeqtdKCPO48WvARUOEKFTqc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9wt1JFAFEE94nm7xSaFh5CSvZ5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2B2qUyjytvOxrqEnWYG2l0xWKNJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 37,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "35610",
+    "tmdbId": 35610,
+    "type": "tv",
+    "title": "InuYasha",
+    "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+    "year": "2000",
+    "rating": 8.571,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l2JVIEVh7edX8J9vZVGLkVbf8VN.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158646",
+    "tmdbId": 158646,
+    "type": "tv",
+    "title": "Is It Cake?",
+    "overview": "Skilled cake artists create mouthwatering replicas of handbags, sewing machines and more in a mind-bending baking contest inspired by a popular meme.",
+    "year": "2022",
+    "rating": 6.935,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nDohKinqCX0EudNNstxYWI730jI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/moFIug9RURNnlGybDkUBsmdSJ8f.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gCirP0Au1AcSrSWKOFkn8gRzeAF.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1772",
+    "tmdbId": 1772,
+    "type": "tv",
+    "title": "Kath & Kim",
+    "overview": "Kath and Kim, a dysfunctional mother-daughter duo, navigate through relationship troubles, personal issues and life while trying to stay sane.",
+    "year": "2002",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xFyuJN3vorUw1314UTNJ2AMATB3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/seNnrcp5lQ2bmSVrFPIJmDKVvQT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bsoIY7sHHIm2hfGcbOxjoIEMqqO.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "279601",
+    "tmdbId": 279601,
+    "type": "tv",
+    "title": "Man vs Baby",
+    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
+    "year": "2025",
+    "rating": 6.793,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cx04JjV6BnsMmpiPyk3T3vx2oSx.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46080",
+    "tmdbId": 46080,
+    "type": "tv",
+    "title": "Masha and the Bear",
+    "overview": "Masha is an energetic three-year-old who can’t seem to keep herself out of trouble. Bear is a warm, fatherly figure that does his best to guide his friend and keep her from harm, often ending up the unintended victim of her misadventures.",
+    "year": "2009",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wPkeRunw71Mm10xQYKAwGG0NLgt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p40HTF1FdcZrdZvY4to8MrC6Stv.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "42382",
+    "tmdbId": 42382,
+    "type": "tv",
+    "title": "Mr. D",
+    "overview": "Based on Gerry Dee's real-life experiences as a high school teacher before he switched to comedy full-time, MR. D is a story about a charming, under-qualified teacher trying to fake his way through a teaching job, just like he often fakes his way through life.",
+    "year": "2012",
+    "rating": 7.328,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/XhBWi3V3Hi0Mwu3ctXVXQgv2OX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/Fd8oNE1KNEEE0SIILQgss43cwV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6c5SCz4BtzaC68esCOtfEm1tqpl.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "88378",
+    "tmdbId": 88378,
+    "type": "tv",
+    "title": "Mr. Iglesias",
+    "overview": "Hilarious high school teacher Gabriel Iglesias tries to make a difference in the lives of some smart but underperforming students at his alma mater.",
+    "year": "2019",
+    "rating": 7.473,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nRLuPKk3hKD5fiZGi5WGNdssox8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/r3hzqidrtk1yz6jkPHBT57OaGV7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kUizz1Qbvr7eztrAnNOmRMQ3BDf.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46260",
+    "tmdbId": 46260,
+    "type": "tv",
+    "title": "Naruto",
+    "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "year": "2002",
+    "rating": 8.362,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "73549",
+    "tmdbId": 73549,
+    "type": "tv",
+    "title": "Odd Squad",
+    "overview": "Odd Squad saves the day whenever something unusual happens.",
+    "year": "2014",
+    "rating": 6.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4PehC4usZ8PoChlUP3Y5TI4KaQF.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "204684",
+    "tmdbId": 204684,
+    "type": "tv",
+    "title": "Oddballs",
+    "overview": "Bubble-shaped boy James questions anything and everything that annoys him. The result? An awesome life of odd adventure with his two best friends.",
+    "year": "2022",
+    "rating": 7.224,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5N7a8wieLVLo56wXxyTbWlS1zEQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nZIqvQyYccgHwHXL5Aa3zpomtRC.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1043",
+    "tmdbId": 1043,
+    "type": "tv",
+    "title": "Ouran High School Host Club",
+    "overview": "New student Haruhi stumbles on the Ouran High School Host Club, an all-male group that makes money by entertaining the girls of the school.",
+    "year": "2006",
+    "rating": 8.168,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5B8DAu0cfmzwZNny2B6NYNkDrTS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/77TdSJAkYelWhEeBEZ8pR3Ns6To.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iSeCNHvlEQ4vP7V5FOUIRyEZyb4.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "60572",
+    "tmdbId": 60572,
+    "type": "tv",
+    "title": "Pokémon",
+    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "year": "1997",
+    "rating": 7.988,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xvERvRImZQOj83WPj1y3nxPxMDv.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "241138",
+    "tmdbId": 241138,
+    "type": "tv",
+    "title": "Rising Impact",
+    "overview": "When a third-grader's natural gift for golf is accidentally discovered by a pro player, the boy embarks on a journey to be the world's best golfer.",
+    "year": "2024",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i0jKVRkxf12hOUR1RZF62r9WdCk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lTOL2HtDkBJ4R5dHEKT8JlVxFhd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s2LVq1mnCi4zcR5npS78nigGcLt.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "85837",
+    "tmdbId": 85837,
+    "type": "tv",
+    "title": "Rust Valley Restorers",
+    "overview": "A crew of car lovers at a garage in the Rocky Mountains transforms abandoned heaps of rust into collectible classics.",
+    "year": "2018",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iie281wQpFiaGq3KBCrN1Yhq3LG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/62Cj60iM6GfcfDz9Kb63OeIivdr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aArYdj8BMJzMxX2az8s3pPBbsI4.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18123",
+    "tmdbId": 18123,
+    "type": "tv",
+    "title": "Scooby-Doo! Mystery Incorporated",
+    "overview": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
+    "year": "2010",
+    "rating": 8.231,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2VvLk11UlmdHFPQkDgm4KPSjLrs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5OSGsg6ilKf7SGsc8cAbhsY1ENF.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "328990",
+    "tmdbId": 328990,
+    "type": "tv",
+    "title": "Stokes Twins",
+    "overview": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+    "year": "2026",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xiJE7XC508TQFhKWQUdZJZO7nws.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mlFIlInCuSZB8BLRakhe8unoevo.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 28,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "302540",
+    "tmdbId": 302540,
+    "type": "tv",
+    "title": "The Bad Guys: The Series",
+    "overview": "How did the Bad Guys break into the bad guy business in the first place? Find out in this hilarious prequel series set before the hit films.",
+    "year": "2025",
+    "rating": 6.925,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1F19BFivPc2N3sXJ4461cWsrK33.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rjJPCHGLQw8wOUIQBYXbOr6GSOX.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "103786",
+    "tmdbId": 103786,
+    "type": "tv",
+    "title": "The Cuphead Show!",
+    "overview": "Follow the misadventures of the impulsive Cuphead and his cautious but persuadable brother Mugman in this animated series based on the hit video game.",
+    "year": "2022",
+    "rating": 7.939,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hdA9Tz16tfwfW1k7x66APoLrkdk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7JVvfW8lvEevwwofdGggXKwoAxI.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 14,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18352",
+    "tmdbId": 18352,
+    "type": "tv",
+    "title": "The Garfield Show",
+    "overview": "Your favorite lazy, fat cat is at it again. Garfield, Odie, Jon and the rest of the gang are back for more funny misadventures. Whether he's scarfing down lasagna or tricking Nermal the kitten, Garfield is guaranteed to crack you up. But remember: He hates Mondays!",
+    "year": "2009",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jBAXfUHvVTBCsCwP1xNG6B3bZ0d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fP8cKfxDbCBA8qGVlfGjk9j2S4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Th45yF6T7HUF1OhWNTzRyew3XO.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68073",
+    "tmdbId": 68073,
+    "type": "tv",
+    "title": "The Loud House",
+    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
+    "year": "2016",
+    "rating": 7.798,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jQmYRTt29hTNFGdNdwFVazOrDpO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gC7sIq35KQKq8Q1OV6zZjds6si8.svg",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "272429",
+    "tmdbId": 272429,
+    "type": "tv",
+    "title": "The Office Movers",
+    "overview": "Everett and Eric Saunders are two brothers reluctantly following in their father’s footsteps in commercial office moving. Everett, the owner of Shazam Moving, is fighting to keep his business afloat against stiff competition. Alongside his brother Eric, and a quirky crew of co-workers, Everett struggles to keep it together to land a big enough contract to be bought out by Zenithon Logistics, a moving industry giant. The Saunders brothers battle each other, their family and their crew as they face the unforgiving nature of the Toronto office moving game to make a last-ditch attempt to cash out and leave moving behind for good.",
+    "year": "2024",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kOHls1i4IatW8AnQahsTMlJ6t4I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lDtfM8sRZaVvJfUAflK5MaCZ1ev.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gcfOpiCcpP3ftJmvj26cpkFeLV4.png",
+    "certificate": null,
+    "runTimeMinutes": 24,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "123591",
+    "tmdbId": 123591,
+    "type": "tv",
+    "title": "The Smurfs",
+    "overview": "Blue and small, standing only three apples high, the Smurfs might be hard to tell apart at first. However, each Smurf is a distinct individual with his or her own personality, their names say it all",
+    "year": "2021",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uiOT3X9p9eB1V5QQeSP0yAIP5gV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/znf5Z1LSFYFOsRGClXwclqIhf83.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mlqDksYHE44UQk9JdAuF7CUltVW.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 12,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "BE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "316920",
+    "tmdbId": 316920,
+    "type": "tv",
+    "title": "This Is a Gardening Show",
+    "overview": "Zach Galifianakis digs into the world of gardening, interviewing curious kids and eccentric experts in a funny, oddball celebration of the food we eat.",
+    "year": "2026",
+    "rating": 7.222,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gIeD6FGxdwmfqDjTGYaAqPE0xO5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7XQFldFRVpmmPToh7YlsydID6as.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 16,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "38251",
+    "tmdbId": 38251,
+    "type": "tv",
+    "title": "Toriko",
+    "overview": "In a world where gastronomy reigns, Gourmet Hunter Toriko hunts rare ingredients and animals to create his ultimate full-course meal.",
+    "year": "2011",
+    "rating": 7.486,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hXOIPTWn8XoODLBxiatYUAqyS1t.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j6u5ekbEjavBLUYBPfoXZh4G4Jg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/83wnDckL4RvKjDwbTgDugyOCQAE.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "6618",
+    "tmdbId": 6618,
+    "type": "tv",
+    "title": "Total Drama Island",
+    "overview": "Total Drama Island focuses on twenty-two teenagers' arrival at Camp Wawanakwa to compete on a reality television show. The contestants are divided into two teams and must compete in challenges every three days. While the winning team earns invincibility, the losing team has to vote off one of their own players. Whoever is voted off must walk the Dock of Shame to the Boat of Losers and leave the island. The teams eventually dissolve and the elimination process continues until the last contestant standing wins a grand prize of $100,000.",
+    "year": "2007",
+    "rating": 7.521,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5H8n9dS2bypIAK4sUF3nCBk5tM7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uesigtATJKTf38YyUPuxD5X9YGj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dERqcTpxHI6Gx4xRipvlctbMO24.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61671",
+    "tmdbId": 61671,
+    "type": "tv",
+    "title": "Unbreakable Kimmy Schmidt",
+    "overview": "When a woman is rescued from a doomsday cult and lands in New York City, she must navigate a world she didn't think even existed anymore.",
+    "year": "2015",
+    "rating": 7.105,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oG0q5cylZ77NTOloLf8Dg9MJHOC.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61967",
+    "tmdbId": 61967,
+    "type": "tv",
+    "title": "Wet Hot American Summer: First Day of Camp",
+    "overview": "It's the first day of camp in this outrageous prequel to the hilarious 2001 cult classic movie. And at Camp Firewood, anything can happen.",
+    "year": "2015",
+    "rating": 6.429,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/depAfoSmNgjQWfo38a4L6SnKtek.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9pxaiU2F3c1yK2fNN2pFkc5EaEy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yf5vgDN1gFbAClcuyuNmXAU7g7i.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

@@ -1,0 +1,823 @@
+[
+  {
+    "id": "4608",
+    "tmdbId": 4608,
+    "type": "tv",
+    "title": "30 Rock",
+    "overview": "Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.",
+    "year": "2006",
+    "rating": 7.501,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ih1RshPCCv5rha4Qi63Kwgv2qUY.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "118357",
+    "tmdbId": 118357,
+    "type": "tv",
+    "title": "1883",
+    "overview": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
+    "year": "2021",
+    "rating": 8.301,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iiq4SWXg7tl3nuWs2sfXFr9MEDQ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "240901",
+    "tmdbId": 240901,
+    "type": "tv",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "year": "2023",
+    "rating": 9.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kBAbXwwsUfnpri7V46BuK7vamlh.png",
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "154385",
+    "tmdbId": 154385,
+    "type": "tv",
+    "title": "BEEF",
+    "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2VHbof9yaNhovEnaancBkXEULCT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g7RRw24eo1VhPhmnCRp6GYW9AJd.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "42009",
+    "tmdbId": 42009,
+    "type": "tv",
+    "title": "Black Mirror",
+    "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+    "year": "2011",
+    "rating": 8.29,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61222",
+    "tmdbId": 61222,
+    "type": "tv",
+    "title": "BoJack Horseman",
+    "overview": "Meet the most beloved sitcom horse of the '90s , 20 years later. He's a curmudgeon with a heart of...not quite gold...but something like gold. Copper?",
+    "year": "2014",
+    "rating": 8.53,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8czXfVg26ohZB41TijcXkMcbedc.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "88176",
+    "tmdbId": 88176,
+    "type": "tv",
+    "title": "Beautiful Bones: Sakurako's Investigation",
+    "overview": "Born in an affluent family, Sakurako is grown beautiful but rather spirited and speaks roughly. As an osteologist, she reconstructs skeletal remains of animals in her atelier at home when receiving job offers from museums. Deeply inspired by the beauty and majesty of bodies, her eccentricity is remarkable. \"Dead bodies speak eloquently.\" says Sakurako, at the events of examining incidents. She observes bodies and the crime scenes very carefully, and reveals the truth one by one. Kujo Sakurako, the beautiful osteologist, resolves the cases with her expertise hearing the \"voice\" of bones. How does this extraordinary heroine resolve cases?",
+    "year": "2017",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qLBAGibLGa5DYDkF3mROQ0jgj7x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hPYickaKZtYnUBFfUTWNwJVwmnC.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 47,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "91239",
+    "tmdbId": 91239,
+    "type": "tv",
+    "title": "Bridgerton",
+    "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+    "year": "2020",
+    "rating": 8.052,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hCktfeE5wbaakqp8y98Ui5ZAats.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "70523",
+    "tmdbId": 70523,
+    "type": "tv",
+    "title": "Dark",
+    "overview": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+    "year": "2017",
+    "rating": 8.427,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4588",
+    "tmdbId": 4588,
+    "type": "tv",
+    "title": "ER",
+    "overview": "ER explores the inner workings of an urban teaching hospital and the critical issues faced by the dedicated physicians and staff of its overburdened emergency room.",
+    "year": "1994",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/en3zftWPQb5Ue6aA8W88RQbtqzd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mm5G1pTGXMzG79xVrN5VqdLi11v.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1950",
+    "tmdbId": 1950,
+    "type": "tv",
+    "title": "Everwood",
+    "overview": "After the death of his wife, world-class neurosurgeon Dr. Andrew Brown leaves Manhattan and moves his family to the small town of Everwood, Colorado. There he becomes a small-town doctor and learns parenting on the fly as he raises his talented but resentful 15-year-old son Ephram and his 9-year-old daughter Delia.",
+    "year": "2002",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pXpK8GnLL0wZkfelg5lCVSOnytN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pC0zQZPsKD8Cxrin3W1VOSQbfTR.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69557",
+    "tmdbId": 69557,
+    "type": "tv",
+    "title": "Fauda",
+    "overview": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
+    "year": "2015",
+    "rating": 7.421,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8tsp3Rme4fwlTTS9sdJXYPPZDNm.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "IL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4586",
+    "tmdbId": 4586,
+    "type": "tv",
+    "title": "Gilmore Girls",
+    "overview": "Set in the charming town of Stars Hollow, Connecticut, the series follows the captivating lives of Lorelai and Rory Gilmore, a mother/daughter pair who have a relationship most people only dream of.",
+    "year": "2000",
+    "rating": 7.882,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/knLz8N6ADgqfRyfgFTFJIEYG3jM.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "62993",
+    "tmdbId": 62993,
+    "type": "tv",
+    "title": "Why? With Hannibal Buress",
+    "overview": "Why? With Hannibal Buress” will feature the comic “answering the burning questions on his mind through stand-up, filmed segments, man-on-the-street interviews and special in-studio guests.",
+    "year": "2015",
+    "rating": 4.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ujuKMMEks4twuDYmwuZLiljx3Fg.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1639",
+    "tmdbId": 1639,
+    "type": "tv",
+    "title": "Heroes",
+    "overview": "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented.",
+    "year": "2006",
+    "rating": 7.447,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AqHUTKJ6UTb4CAU48SqDbxoyFUg.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1407",
+    "tmdbId": 1407,
+    "type": "tv",
+    "title": "Homeland",
+    "overview": "CIA officer Carrie Mathison is tops in her field despite being bipolar, which makes her volatile and unpredictable. With the help of her long-time mentor Saul Berenson, Carrie fearlessly risks everything, including her personal well-being and even sanity, at every turn.",
+    "year": "2011",
+    "rating": 7.594,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War & Politics",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1425",
+    "tmdbId": 1425,
+    "type": "tv",
+    "title": "House of Cards",
+    "overview": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons.",
+    "year": "2013",
+    "rating": 8.009,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zoAxfThy7ntyCutBeNgdaKhRoSX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/17KtWi75BhP6aTgtUuDHyLpRI9s.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1408",
+    "tmdbId": 1408,
+    "type": "tv",
+    "title": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "year": "2004",
+    "rating": 8.565,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7p0wWpIKCWKT27xWOWT4jzgRjhc.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2734",
+    "tmdbId": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "year": "1999",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w4WWub1o7O9Kwt3OYf57P8koLvf.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "63174",
+    "tmdbId": 63174,
+    "type": "tv",
+    "title": "Lucifer",
+    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "year": "2016",
+    "rating": 8.429,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "132719",
+    "tmdbId": 132719,
+    "type": "tv",
+    "title": "Money Heist: From Tokyo to Berlin",
+    "overview": "The filmmakers and actors behind \"Money Heist\" characters like Tokyo and the Professor talk about the emotional artistic process of filming the series.",
+    "year": "2021",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7YuQcbPXgk6CP75TOeCY4VGkJgt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gk1enrMtCVABqJd4ujVwIIeswTT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zGSzknBwfpqVceKDAxMMyOvWgUJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "63351",
+    "tmdbId": 63351,
+    "type": "tv",
+    "title": "Narcos",
+    "overview": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
+    "year": "2015",
+    "rating": 8.079,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i9JLT4ejMU1Oa6ZalyO9SRe4oX4.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "80968",
+    "tmdbId": 80968,
+    "type": "tv",
+    "title": "Narcos: Mexico",
+    "overview": "See the rise of the Guadalajara Cartel as an American DEA agent learns the danger of targeting narcos in 1980s Mexico.",
+    "year": "2018",
+    "rating": 7.919,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aXwMx8OvRFMfI1RmkbJm6Bq1jVg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/64jEzC7YeKEpnn1YwjCGRo9ZvOX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i96UYRTNO9kNqp2QafrLpCQZP0Y.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1424",
+    "tmdbId": 1424,
+    "type": "tv",
+    "title": "Orange Is the New Black",
+    "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+    "year": "2013",
+    "rating": 7.651,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ho41qmKw6gGyiWCJPE7syKfwQCr.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "56570",
+    "tmdbId": 56570,
+    "type": "tv",
+    "title": "Outlander",
+    "overview": "The story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.",
+    "year": "2014",
+    "rating": 8.203,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1411",
+    "tmdbId": 1411,
+    "type": "tv",
+    "title": "Person of Interest",
+    "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
+    "year": "2011",
+    "rating": 8.101,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1UkDX6CK8hJ0oUtUycDTp5Vh9wO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fMnD6iTWfrVWyQnKqPqTcPpy2iX.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4344",
+    "tmdbId": 4344,
+    "type": "tv",
+    "title": "Rescue Me",
+    "overview": "The aftermath of 9/11 has left the firefighters of the NYFD traumatized, and no one more so than Tommy Gavin. Recently separated from his wife and their three kids, Tommy drifts between sorrow and anger as he tries to shake the recurring nightmares of his fallen comrades, especially his late cousin, Jimmy Keefe. Working alongside veterans like Lt. “Lou” Shea, Franco Rivera and Sean Garrity, and rookie Mike Lombardi, Tommy battles alcohol and drugs as he struggles to remain first and foremost a New York City firefighter.",
+    "year": "2004",
+    "rating": 7.544,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bmPIJET1BbQqvUEYSfjdz0BxGRR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9sMkaU9cP83AcyJpxts5AjrwAPd.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "96580",
+    "tmdbId": 96580,
+    "type": "tv",
+    "title": "Resident Alien",
+    "overview": "Crash-landed alien Harry takes on the identity of a small-town Colorado doctor. Arriving with a secret mission, he starts off living a simple life…but things get a bit rocky when he’s roped into solving a local murder and realizes he needs to assimilate into his new world. As he does, he begins to wrestle with the moral dilemma of his mission and asking the big life questions like: “Are human beings worth saving?” and “Why do they fold their pizza before eating it?”",
+    "year": "2021",
+    "rating": 7.79,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aCbOj4wc6vQUUVNKppssj2PYUy0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wpmp9yorPVt1rECwgjSY0wMdnbE.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61662",
+    "tmdbId": 61662,
+    "type": "tv",
+    "title": "Schitt's Creek",
+    "overview": "Formerly filthy rich video store magnate Johnny Rose, his soap star wife Moira, and their two kids, über-hipster son David and socialite daughter Alexis, suddenly find themselves broke and forced to live in Schitt's Creek, a small depressing town they once bought as a joke.",
+    "year": "2015",
+    "rating": 7.789,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1VUHjXi1kaw58X2e53lWqSltjQ6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "97645",
+    "tmdbId": 97645,
+    "type": "tv",
+    "title": "Solar Opposites",
+    "overview": "A family of aliens from a much better world must take refuge in middle America after the destruction of their planet. Their mission: protect the Pupa, a living super computer that will one day evolve into its true form, consume them and terraform the Earth.",
+    "year": "2020",
+    "rating": 7.791,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1cVt0Tm7erwYT5lyae9vUkPr4XY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oFE2LJuRtgwidNhsxZR9mBKlBc7.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "17611",
+    "tmdbId": 17611,
+    "type": "tv",
+    "title": "Southland",
+    "overview": "A raw and authentic look into the Los Angeles crime scene, going far inside the lives of cops, criminals, victims and their families. The show centers on four main characters: Officer John Cooper, a seasoned cop who will have to prove himself again after recovering from surgery; Officer Ben Sherman, who still has much to learn after recently completing his training rotation; Detective Lydia Adams, whose unending caseload hits closer to home; and Sammy Bryant, a former detective who decided to go back to being a uniform cop after the traumatic death of his partner.",
+    "year": "2009",
+    "rating": 7.903,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wjWyxg8bJATeYOUkNE2aUdYE0eh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aBji0FDTKU9FFzi7ktQoIRdrYAK.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "62649",
+    "tmdbId": 62649,
+    "type": "tv",
+    "title": "Superstore",
+    "overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
+    "year": "2015",
+    "rating": 7.534,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v9DO3H8BBjzmTIqCvRULY1s1ht5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 21,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "65494",
+    "tmdbId": 65494,
+    "type": "tv",
+    "title": "The Crown",
+    "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+    "year": "2016",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8fm76nc1eDF8T9ciPS0Bi8ogriz.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "203857",
+    "tmdbId": 203857,
+    "type": "tv",
+    "title": "The Diplomat",
+    "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+    "year": "2023",
+    "rating": 7.608,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mZTsqoUSWVnkm6rWRxmeifMzdkb.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War & Politics",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "60735",
+    "tmdbId": 60735,
+    "type": "tv",
+    "title": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "year": "2014",
+    "rating": 7.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6Pdq7hLfWyuuA83IwwWbjlXfJGc.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "236235",
+    "tmdbId": 236235,
+    "type": "tv",
+    "title": "The Gentlemen",
+    "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+    "year": "2024",
+    "rating": 7.822,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8sQ0oDunlRpesa5vIO6UPhbJNxC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zBaAxkdlFix1xcvEln6CuTdV64U.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "116799",
+    "tmdbId": 116799,
+    "type": "tv",
+    "title": "The Lincoln Lawyer",
+    "overview": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln.",
+    "year": "2022",
+    "rating": 7.724,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jBFOVEE5sMIyT141YIqIwyU8Y1D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/OjtgqtsYOc1IZArBBt3omvy16W.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "65493",
+    "tmdbId": 65493,
+    "type": "tv",
+    "title": "The Ranch",
+    "overview": "Being a pro athlete didn't pan out for Colt. Now he's helping his dad and brother keep the ranch afloat, and figuring out how he fits into the family.",
+    "year": "2016",
+    "rating": 7.374,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rIycDdkLET20EVW2LPytLNuyOp3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kSfq6jRNiuhsu48wbqjabOrfTMq.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71912",
+    "tmdbId": 71912,
+    "type": "tv",
+    "title": "The Witcher",
+    "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+    "year": "2019",
+    "rating": 7.892,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vqpt6XBp8VQu3Xy4YQsvZaTbxjl.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "186",
+    "tmdbId": 186,
+    "type": "tv",
+    "title": "Weeds",
+    "overview": "After the unexpected death of her husband, a suburban mom resorts to selling weed to support her family.",
+    "year": "2005",
+    "rating": 7.477,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gKUsBTa5b0GY7U4iWBseeBalfjO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6k6vAUa0Fm73HB0QBOJbFGTgPq5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7hzu8vJi0ZuX1tat4J0ICLQqib1.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78191",
+    "tmdbId": 78191,
+    "type": "tv",
+    "title": "You",
+    "overview": "A dangerously charming, obsessive man goes to extreme measures to insert himself into the lives of women who fascinate him.",
+    "year": "2018",
+    "rating": 8.004,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gzOIymABxmetAECXtazEYCpMmfb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/VeNCc4i7LbRQpwC1mYl5jtBzFM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

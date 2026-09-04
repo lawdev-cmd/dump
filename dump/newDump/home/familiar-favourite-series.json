@@ -1,0 +1,822 @@
+[
+  {
+    "id": "68421",
+    "tmdbId": 68421,
+    "type": "tv",
+    "title": "Altered Carbon",
+    "overview": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.",
+    "year": "2018",
+    "rating": 7.634,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AisK4uFsnwwmMkSynFpNl0VeGR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zUXsrEW4IAtFG0tA6dz0NpuTOpM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "70785",
+    "tmdbId": 70785,
+    "type": "tv",
+    "title": "Anne with an E",
+    "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
+    "year": "2017",
+    "rating": 8.651,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gtqNjjM2wXmTnbTvMP3xYAXaLrU.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71578",
+    "tmdbId": 71578,
+    "type": "tv",
+    "title": "Atypical",
+    "overview": "Sam, an 18-year-old on the autism spectrum, takes a funny, yet painful, journey of self-discovery for love and independence and upends his family.",
+    "year": "2017",
+    "rating": 8.015,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kNif3eZAjQ7qU3Ol9E7zo0kjPMo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uy3yFKKjd2PvrUTHVMjDM8gD0eP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wJMQ9ljshQCsZBFM0xXEuKqSLVP.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 33,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74204",
+    "tmdbId": 74204,
+    "type": "tv",
+    "title": "Big Mouth",
+    "overview": "Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg.",
+    "year": "2017",
+    "rating": 7.607,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bkcdZnx66OY7rU8GvE6W8vKRcjT.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61986",
+    "tmdbId": 61986,
+    "type": "tv",
+    "title": "Bloodline",
+    "overview": "A dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community. But when the black sheep son comes home for the 45th anniversary of his parents' hotel, he threatens to expose the Rayburns' dark secrets and shameful past, pushing his siblings to the limits of family loyalty.",
+    "year": "2015",
+    "rating": 7.117,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uEaqgEjAShqrziUia4XBzvXXGXP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/78s4wDyITtvjMRHHn2Rk7IPCtcg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gylleDvm1rDiS4gD3PzA6WsbSSm.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79242",
+    "tmdbId": 79242,
+    "type": "tv",
+    "title": "Chilling Adventures of Sabrina",
+    "overview": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night.",
+    "year": "2018",
+    "rating": 8.164,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3UZ43UxVAFmtbQGFdZQ8KxiwJO5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7q0o5kW5k4thzas3sJvgSlt1xdu.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77169",
+    "tmdbId": 77169,
+    "type": "tv",
+    "title": "Cobra Kai",
+    "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+    "year": "2018",
+    "rating": 8.197,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pkNOYbuOrm2CcyJcpqRLHN3ZW2m.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81357",
+    "tmdbId": 81357,
+    "type": "tv",
+    "title": "Dead to Me",
+    "overview": "A hotheaded widow searching for the hit-and-run driver who mowed down her husband befriends an eccentric optimist who isn't quite what she seems.",
+    "year": "2019",
+    "rating": 7.315,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mAj18PHeACxqcrEus4pD8pksRmB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/esVFDEBaTECJvmsYcFLsPAWXwJQ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "73021",
+    "tmdbId": 73021,
+    "type": "tv",
+    "title": "Disenchantment",
+    "overview": "Set in a ruined medieval city called Dreamland, Disenchantment follows the grubby adventures of a hard-drinking princess, her feisty elf companion and her personal demon.",
+    "year": "2018",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1WynayCqKRzrl4cFZR8NOfiDwd6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hHEqDPbO6z4Xje5tOf3Wm1mdMtI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6hNRzVQrUCcVPMsuLvXk2iDym1O.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "72002",
+    "tmdbId": 72002,
+    "type": "tv",
+    "title": "Dynasty",
+    "overview": "Follows two of America’s wealthiest families, the Carringtons and the Colbys, as they feud for control over their fortune and their children focusing on Fallon Carrington, the daughter of billionaire Blake Carrington, and her soon-to-be stepmother, Cristal, a Hispanic woman marrying into this WASP family and America’s most powerful class.",
+    "year": "2017",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rVQ35erLIoV8hyh7lIKAMiChmOO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bq6AcviGsBmynArhhCpLkR8YN6U.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pFjglX2YwbbfogHh32VakoffjRr.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Soap",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "82596",
+    "tmdbId": 82596,
+    "type": "tv",
+    "title": "Emily in Paris",
+    "overview": "New passions. New fashions. New Emily? A plucky American marketing whiz spreads her wings in life and love after landing her dream job in Paris.",
+    "year": "2020",
+    "rating": 7.549,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/c0bkO416OU7YGdOFktk45H8REgL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ituJmU0BgXUSPmTAeVi0j0zHI5u.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "63522",
+    "tmdbId": 63522,
+    "type": "tv",
+    "title": "F is for Family",
+    "overview": "Follow the Murphy family back to the 1970s, when kids roamed wild, beer flowed freely and nothing came between a man and his TV.",
+    "year": "2015",
+    "rating": 7.386,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3gkdyR58Hm0gMkItqvyNz7zSTWH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bdntcURJ4dSr7zoLeyB6ZGrMynD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fPN0uYcLzmFM5vbFdJVqVUbFCiN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "63623",
+    "tmdbId": 63623,
+    "type": "tv",
+    "title": "Fuller House",
+    "overview": "The Tanner family's adventures continue as DJ Tanner-Fuller shares a home with her sister Stephanie and friend Kimmy who help raise her three boys.",
+    "year": "2016",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n4ZZB471d2UueUFEaOWnKetCxnY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aiXDRO3jglLdpkBjTJTJ1o8yQbL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eShV4PTVGlfplO5wglSsCWf9oBR.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "117581",
+    "tmdbId": 117581,
+    "type": "tv",
+    "title": "Ginny & Georgia",
+    "overview": "Free-spirited Georgia and her two kids, Ginny and Austin, move north in search of a fresh start but find that the road to new beginnings can be bumpy.",
+    "year": "2021",
+    "rating": 8.012,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vOwunzW4dx3n0J5mH40n9jTRSwY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lPmUu3xkoksz3xsa1feIUoOBZrg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aOUlC5b08y0BHq9bkYjWLZNoR7y.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1395",
+    "tmdbId": 1395,
+    "type": "tv",
+    "title": "Gossip Girl",
+    "overview": "An exclusive group of privileged teens from a posh prep school on Manhattan's Upper East Side whose lives revolve around the blog of the all-knowing albeit ultra-secretive Gossip Girl.",
+    "year": "2007",
+    "rating": 8.139,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mRvSUuU1VQQkZZ578jKJpcUCuL8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5RWAjCYhu3D8Ai2QBYP7GjaxFb3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "62320",
+    "tmdbId": 62320,
+    "type": "tv",
+    "title": "Grace and Frankie",
+    "overview": "Elegant, proper Grace and freewheeling, eccentric Frankie are a pair of frenemies whose lives are turned upside down - and permanently intertwined - when their husbands leave them for each other. Together, they must face starting over in their 70s in a 21st century world.",
+    "year": "2015",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3aD3PaSeF8eHJFLliLlWYw4EcPt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jco0oPYZN7bUDZ0xAmstotXI1gB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/veNaNqtqXC5JPD00P79L8a65A5E.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14929",
+    "tmdbId": 14929,
+    "type": "tv",
+    "title": "Heartland",
+    "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
+    "year": "2007",
+    "rating": 8.25,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1bVQuM21SMsCAIkSe61HvBdKlfi.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75758",
+    "tmdbId": 75758,
+    "type": "tv",
+    "title": "Lost in Space",
+    "overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+    "year": "2018",
+    "rating": 7.497,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tJAGIHi7tzyVwOhfuoLkJPubj3b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d2vRzQGi2XhqzxCxcvmFKumWeYb.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "99353",
+    "tmdbId": 99353,
+    "type": "tv",
+    "title": "Love Is Blind",
+    "overview": "Nick and Vanessa Lachey host this social experiment where single men and women look for love and get engaged, all before meeting in person.",
+    "year": "2020",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8XhV6ke8ltRYoG4SYmibF2bGwrC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5sZyCtojLzqYAsz0qH9QMllu55I.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jH9yvSWIiWXhmidzyiM30xFBxFL.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "96677",
+    "tmdbId": 96677,
+    "type": "tv",
+    "title": "Lupin",
+    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "year": "2021",
+    "rating": 7.682,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pvs4XEveCXeqKRkor4w2CtPk0pU.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79696",
+    "tmdbId": 79696,
+    "type": "tv",
+    "title": "Manifest",
+    "overview": "After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
+    "year": "2018",
+    "rating": 7.615,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iZu83GB1IM7VXL2X90m7iLHYUHU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qwXlCiJZk9d09fFJg2Up9CfIp1b.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12786",
+    "tmdbId": 12786,
+    "type": "tv",
+    "title": "Murdoch Mysteries",
+    "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+    "year": "2008",
+    "rating": 7.687,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gMXlZrd9iuPUdVQg9CTVXtLwnVV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tKbdpkoTIvlDesStmxBDaLf77Oi.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "100883",
+    "tmdbId": 100883,
+    "type": "tv",
+    "title": "Never Have I Ever",
+    "overview": "After a traumatic year, all an Indian-American teen wants is to go from pariah to popular -- but friends, family and feeling won't make it easy on her.",
+    "year": "2020",
+    "rating": 8.046,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hd5fnBixab6IzfUwjC5wfdbX3eM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/umVYLVZ7T85TkIHudxK799lPnLQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wDT1IDj7YxEDHI5WggiheKt76xm.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "76747",
+    "tmdbId": 76747,
+    "type": "tv",
+    "title": "On My Block",
+    "overview": "In a rough Los Angeles neighborhood, four smart, funny and streetwise teens find their lifelong friendship tested as they begin high school.",
+    "year": "2018",
+    "rating": 8.306,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w6oviv65UEducvjAdH3sYYaxdu2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sIlni6nuGcI5NBwyBGaFINifn9q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ycV26TKrUe0cSOlzDzYSq0m6v0H.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81983",
+    "tmdbId": 81983,
+    "type": "tv",
+    "title": "Paradise PD",
+    "overview": "An eager young rookie joins the ragtag small-town police force led by his dad as they bumble, squabble and snort their way through a big drug case.",
+    "year": "2018",
+    "rating": 7.133,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/desSj4kx0y9p61vm9QBE3Wm8GxK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eVj45YR8BUKblq2YaUw8xu255xF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lGaO1hpnu0uIOKe9Ys4VqhkgQdq.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "21762",
+    "tmdbId": 21762,
+    "type": "tv",
+    "title": "Parenthood",
+    "overview": "The trials and tribulations of the very large, colorful and imperfect Braverman family.",
+    "year": "2010",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sugCFBeGOxmIXp0bC0iPMrM7pBW.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "66676",
+    "tmdbId": 66676,
+    "type": "tv",
+    "title": "Queen of the South",
+    "overview": "Teresa flees Mexico after her drug-runner boyfriend is murdered. Settling in Dallas, she looks to become the country's reigning drug smuggler and to avenge her lover's murder.",
+    "year": "2016",
+    "rating": 7.614,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rzdC5EHkkKJE6OPVdh6gT1pR1c9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3NVXTxrzxm5x7MBaQlzeLZk9pRD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9AMsyBhTD0wH2gD06aGMQ2AYxdb.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "31585",
+    "tmdbId": 31585,
+    "type": "tv",
+    "title": "Rookie Blue",
+    "overview": "Ambitious young cops try to prove themselves in their high-stakes careers, in which the smallest mistake can have deadly consequences. At the core of the close-knit group is perfectionist Andy McNally, whose father was a homicide detective before he burned out on the job. The series follows Andy and her four colleagues -- Dov Epstein, Gail Peck, Traci Nash and Chris Diaz -- as they experience the trials, triumphs and tribulations of police work, as well as its effect on their personal lives.",
+    "year": "2010",
+    "rating": 7.65,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rUINbQ8JKiQwN9g9PYJ6Nu0Iap1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2vrv8S6xfVSbiak5uosssgMDhJf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4IaLevtrRnOQ2KxWtuujA7yLMCG.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "69470",
+    "tmdbId": 69470,
+    "type": "tv",
+    "title": "Santa Clarita Diet",
+    "overview": "They're ordinary husband and wife realtors until she undergoes a dramatic change that sends them down a road of death and destruction. In a good way.",
+    "year": "2017",
+    "rating": 7.429,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5rBjNm2sRubaXKBnU904NInFi7P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zPCDfLwOEtEhddaT2xeO5ChErsV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cayyejlXLuxNcD5KPcTwEltPiOY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81356",
+    "tmdbId": 81356,
+    "type": "tv",
+    "title": "Sex Education",
+    "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+    "year": "2019",
+    "rating": 8.194,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u23G9KZregWHs1use6ir1fX27gl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/giHehxoTuynaEzlsLiDFdNns9Jz.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "126280",
+    "tmdbId": 126280,
+    "type": "tv",
+    "title": "Sex/Life",
+    "overview": "A woman's daring sexual past collides with her married-with-kids present when the bad-boy ex she can't stop fantasizing about crashes back into her life.",
+    "year": "2021",
+    "rating": 7.057,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9nBVkNBe4x9HKDAzxjxlIqecxCW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pbOk3YxkgPZz95GuGnN3xLQN4UC.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93405",
+    "tmdbId": 93405,
+    "type": "tv",
+    "title": "Squid Game",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "year": "2021",
+    "rating": 7.855,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6YFWTX7fiGjWpsnJWLLV4RSbJWd.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "66310",
+    "tmdbId": 66310,
+    "type": "tv",
+    "title": "StartUp",
+    "overview": "A desperate banker needs to conceal stolen money. A Haitian-American gang lord wants to go legit. A Cuban-American hacker has an idea that will revolutionize the very future of money itself. Forced to work together, they unwittingly create their version of the American dream - organized crime 2.0.",
+    "year": "2016",
+    "rating": 7.172,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mXiB1e0x3iaRaaPPVhC1c7rgwPr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jiU8ZlDa6CgNVhcODxvHGHTh4wB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Zr9xLku9I9Z1Akm7567nUBly8o.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74016",
+    "tmdbId": 74016,
+    "type": "tv",
+    "title": "The Resident",
+    "overview": "A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.",
+    "year": "2018",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "39852",
+    "tmdbId": 39852,
+    "type": "tv",
+    "title": "The Sinner",
+    "overview": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons.",
+    "year": "2017",
+    "rating": 7.458,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lVWku9LX2qdJTtAbRzaCDhhWeTK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xbOpER6gqANjw7GpQz3wfMzasRK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75006",
+    "tmdbId": 75006,
+    "type": "tv",
+    "title": "The Umbrella Academy",
+    "overview": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets — and a looming threat to humanity.",
+    "year": "2019",
+    "rating": 8.458,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1q14sj3wqwIqH2cqLvJLm0DVd5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "67136",
+    "tmdbId": 67136,
+    "type": "tv",
+    "title": "This Is Us",
+    "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+    "year": "2016",
+    "rating": 8.226,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Q6yKFzBM07507ud3CY5YdjtkOc.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "75450",
+    "tmdbId": 75450,
+    "type": "tv",
+    "title": "Titans",
+    "overview": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+    "year": "2018",
+    "rating": 7.853,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6wzKYZ86v52UMojvRJFBhTleZmV.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "67683",
+    "tmdbId": 67683,
+    "type": "tv",
+    "title": "Travelers",
+    "overview": "Hundreds of years from now, the last surviving humans discover the means of sending consciousness back through time, directly into people in the 21st century. These \"travelers\" assume the lives of seemingly random people, while secretly working as teams to perform missions in order to save humanity from a terrible future.",
+    "year": "2016",
+    "rating": 7.596,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aUVeyeyTrQrSFuUkqLCT8FtV7pp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yUDJ1r0UQdhb904povev5apjTVh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2CKjJu5sblK3qSoVlGsQBf72xzz.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61671",
+    "tmdbId": 61671,
+    "type": "tv",
+    "title": "Unbreakable Kimmy Schmidt",
+    "overview": "When a woman is rescued from a doomsday cult and lands in New York City, she must navigate a world she didn't think even existed anymore.",
+    "year": "2015",
+    "rating": 7.105,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oG0q5cylZ77NTOloLf8Dg9MJHOC.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "88324",
+    "tmdbId": 88324,
+    "type": "tv",
+    "title": "Virgin River",
+    "overview": "After seeing an ad for a midwife, a recently divorced big-city nurse moves to the redwood forests of California, where she meets an intriguing man.",
+    "year": "2019",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m1nuMHBCiNy6pMGzRAdH5frNesN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kr5lA4cdwD7TMK5g5L0iy8lJgds.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]
