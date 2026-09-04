@@ -1,0 +1,62 @@
+[
+  {
+    "id": "290323",
+    "tmdbId": 290323,
+    "type": "show",
+    "title": "Baby Einstein Ocean Explorers",
+    "overview": "Discovering the fascinating flora and fauna of the deep to exploring the secrets of the shoreline, children will delight in joining the SS Curiosity crew to sing, dance, and discover. Created in partnership with child development experts, each episode engages young viewers and reinforces early learning skills through repetition and interactivity as they journey from sea floor to the shore.",
+    "year": "2023",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4mYp6leiy10gdlciWqte6OOzfht.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/r9uwVg81G9VRKpysQIbp9ybn2k7.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 8,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "320680",
+    "tmdbId": 320680,
+    "type": "show",
+    "title": "Baby Einstein Closer Look",
+    "overview": "Cal the Caterpillar and his friends identify apples, balls, cats, dogs, eggs and more on this fun-filled adventure from A to E",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3WZye4lnUsc3QT6fHPHKk1rBXLw.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "213573",
+    "tmdbId": 213573,
+    "type": "show",
+    "title": "StoryBots: Answer Time",
+    "overview": "Got a question? The StoryBots have an answer! Join curious friends Beep, Boop, Bing, Bang and Bo on fun adventures to find facts for real kids like you.",
+    "year": "2022",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ccMq0WNCvgq1GitFrBRbJ3BTzet.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mnegNlapnoGc0IsDPSKqwVzyi4G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pGrprQOTKFeGSlyMM5cKu1VGUeN.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

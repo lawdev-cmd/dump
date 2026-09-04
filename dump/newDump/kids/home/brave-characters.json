@@ -1,0 +1,808 @@
+[
+  {
+    "id": "10779",
+    "tmdbId": 10779,
+    "type": "show",
+    "title": "Action Pack",
+    "overview": "The heroic kids of the Action Academy take on the bad guys with their hearts, their wits and their superpowers, and bring out the best in them.",
+    "year": "2022",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uuDysbuWHcg2Xt5a0JsqAxeGH1X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3eABi0uQGa5C1sFeW7L53kc8U7a.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vDRPvmb5tmlAEZzODJ3ZjR98mNN.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "812456",
+    "tmdbId": 812456,
+    "type": "movie",
+    "title": "Barbie & Chelsea: The Lost Birthday",
+    "overview": "Barbie, Chelsea and their family go on a cruise ship for Chelsea's birthday. But when they cross the international date line skipping her birthday, Chelsea escapes to the jungle island to find a fabled wish and get her birthday back.",
+    "year": "2021",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dAmBnfCRBwy5S6n3Qb6aQKJYYRO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8wKvuN7BXLUlTw4karUlWmK2XcW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qsLV3cRMtLyWGcDclsGH1ohN1cn.png",
+    "certificate": "NR",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "2098",
+    "tmdbId": 2098,
+    "type": "show",
+    "title": "Batman: The Animated Series",
+    "overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+    "year": "1992",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vKXgCje2NVqnxixqoU9JQXREvLr.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "495193",
+    "tmdbId": 495193,
+    "type": "movie",
+    "title": "Benji",
+    "overview": "Two school kids strike up a friendship with an orphaned puppy named Benji. When danger befalls them and they end up kidnapped by robbers who are in over their heads, Benji and his scruffy sidekick come to the rescue.",
+    "year": "2018",
+    "rating": 6.916,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/79pacM3h5FoETnfuRC6O2qPfzn4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eOkbeZ658RHVt7ULoFBqmesxEYX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pcY0y3jZG2RFf6Trau43lcJ406y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "74728",
+    "tmdbId": 74728,
+    "type": "show",
+    "title": "Carmen Sandiego",
+    "overview": "A master thief who uses her skills for good, Carmen Sandiego travels the world foiling V.I.L.E.'s evil plans — with help from her savvy sidekicks.",
+    "year": "2019",
+    "rating": 7.934,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jpis9X6awQ1X5MBm9eHRUc0N0pu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rpouileCT7DFfMbJoWQfOST1O8U.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xFzkZYrWs1cndNJuyjvilQrUhNX.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "520758",
+    "tmdbId": 520758,
+    "type": "movie",
+    "title": "Chicken Run: Dawn of the Nugget",
+    "overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
+    "year": "2023",
+    "rating": 6.933,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eImY0cjbH0bll8EXSqxqEZIZcmY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1r22iNfynoE2Bkf6eLWC5CN7AMA.png",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "448119",
+    "tmdbId": 448119,
+    "type": "movie",
+    "title": "Dolittle",
+    "overview": "After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.",
+    "year": "2020",
+    "rating": 6.573,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xcUf6yIheo78btFqihlRLftdR3M.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wcFOzxkmvsDpEKyH7NN8T9rfJd8.png",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10107",
+    "tmdbId": 10107,
+    "type": "movie",
+    "title": "Firehouse Dog",
+    "overview": "Rexxx, Hollywood's top canine star, gets lost and is adopted into a shabby firehouse. He teams up with a young kid to get the station back on its feet.",
+    "year": "2007",
+    "rating": 6.209,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q6wm2pmx8WiYrNa1vbCaabCUDcD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w2gpGtFz0KuNuNhUxKTGQUzvgfP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hSBzJhmXylb0Kz9qeeQNau8up6l.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127753",
+    "tmdbId": 127753,
+    "type": "show",
+    "title": "Johnny Test",
+    "overview": "How much trouble could one imaginative boy, his faithful dog and two science-loving sisters possibly get into? Hmm, that sounds like a challenge!",
+    "year": "2021",
+    "rating": 6.16,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wSCaL6EF1QU5mVVc4IHAll0ROex.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j8Xhav4n6M9XwhCQ7b2IpblURiR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/j0JcBB4R8rpZzrvJD0CGlIlEEQp.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 14,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "237512",
+    "tmdbId": 237512,
+    "type": "show",
+    "title": "Jurassic World: Chaos Theory",
+    "overview": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs — and to themselves.",
+    "year": "2024",
+    "rating": 8.333,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qjPC0KYEhdWAIPmCtAkg0j1iJXC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bViJwyK61FDAZ9LnX2wSLy0U4TI.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "214091",
+    "tmdbId": 214091,
+    "type": "show",
+    "title": "Karate Sheep",
+    "overview": "Trico is an enthusiastic sheep who loves to share new objects and ideas with the rest of the flock. This causes ruckus in the mountain pastures, which all inevitably end up at Wanda’s expense, a tough ewe whose job is to keep the sheep safe. Not a small feat, especially when Wolf is always lurking, waiting to make the most of this newfound chaos.",
+    "year": "2022",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oHNb5bEHkgKrPpSVEbMpneiV8uy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qI1vDGKZ0LJ9F6PB9a4Ze3L2d4Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xhFQo0fmXhTJ1S1PmA3fCpcKCqX.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49444",
+    "tmdbId": 49444,
+    "type": "movie",
+    "title": "Kung Fu Panda 2",
+    "overview": "Po is finally living the dream as the Dragon Warrior—until a shadow from his past comes roaring back. When the ruthless peacock Lord Shen unleashes a devastating new weapon used to wipe out kung fu masters across the land, Po and the Furious Five race across China to put an end to his plans. But if Po is to have any hope of stopping him, he must first confront the truth of his origins—and find inner peace before his past tears him apart.",
+    "year": "2011",
+    "rating": 7.084,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/reHkSQwiYKK4SabnGDY1FWKie82.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n52KkzjoXr0WriwE2XTkD36gLLI.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "140300",
+    "tmdbId": 140300,
+    "type": "movie",
+    "title": "Kung Fu Panda 3",
+    "overview": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+    "year": "2016",
+    "rating": 6.94,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kqG1NXMlCrog1LkA8fwWWRz78JI.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "129959",
+    "tmdbId": 129959,
+    "type": "show",
+    "title": "Kung Fu Panda: The Dragon Knight",
+    "overview": "Follow the adventures of Po, who partners up with a no-nonsense English knight named Wandering Blade to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.",
+    "year": "2022",
+    "rating": 7.48,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/j7FL6KfjEjrGSXt6peQw7U3VL0R.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/47Hkpx5CfveE6A0VGDQekCbSoPA.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "586954",
+    "tmdbId": 586954,
+    "type": "movie",
+    "title": "Latte and the Magic Waterstone",
+    "overview": "When a greedy bear steals a magic stone to keep the forest’s water for himself, a brave hedgehog and a timid squirrel must work together to retrieve it.",
+    "year": "2019",
+    "rating": 6.58,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/saxPKOrN6rNScTicLpBDZw58Cw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/poKtpiQ0akacXzXohWmtb0Z7nFD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t15OdJ8QXrkIx1KUBtWCqlmfk4O.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1047680",
+    "tmdbId": 1047680,
+    "type": "movie",
+    "title": "Mighty Express: Mighty Trains Race",
+    "overview": "Trouble on the tracks! Freight Nate gets tricked into participating in a high-speed race — with all the Mighty Express cargo cars at stake!",
+    "year": "2022",
+    "rating": 4.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sBpl3Ei5Yhs3JwIDpRXG4E6ius0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8BBJYD2lPC7gYwnJcxM5oMbYxGU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8qnJzD3L5UW1fASxwz155nMf60f.png",
+    "certificate": "G",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "127575",
+    "tmdbId": 127575,
+    "type": "show",
+    "title": "Mighty Little Bheem: Festival of Colors",
+    "overview": "From surprising stage performances to spraying colors with friends, join baby Bheem for all his Holi hijinks during the special spring festival.",
+    "year": "2020",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sJ8quqxJRpirI09gra5FokHrIhe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vK9IQRVtQkFX1cJ5pTQ40vzNQXN.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 7,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "235998",
+    "tmdbId": 235998,
+    "type": "show",
+    "title": "Mighty Monsterwheelies",
+    "overview": "Inspired by iconic movie monsters like Dracula and the Mummy, but with a Frankenstein-sized twist: These vehicle heroes are here to help — not scare!",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/16aRqo4WLrCXngc8NJH5ria0UeN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qhtkooHrZw1V7CxU1M97zffvNZ2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5WT2yY001ctbaz4k7n8SilGiTtG.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 13,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "496450",
+    "tmdbId": 496450,
+    "type": "movie",
+    "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+    "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+    "year": "2023",
+    "rating": 7.614,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2etjUsfRxpODxCSCffrLKAKegK2.png",
+    "certificate": "PG",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "597316",
+    "tmdbId": 597316,
+    "type": "movie",
+    "title": "My Little Pony: A New Generation",
+    "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
+    "year": "2021",
+    "rating": 7.619,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uNZnve55MplVSUclf9mz3DO8tpP.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CA",
+      "IE",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18360",
+    "tmdbId": 18360,
+    "type": "movie",
+    "title": "Night at the Museum: Battle of the Smithsonian",
+    "overview": "Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.",
+    "year": "2009",
+    "rating": 6.157,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zdhICEDUlBTQ43fQMa2KJt8fDFX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yBt6zaEjNtn5P6S9UZWiZlhbuIO.png",
+    "certificate": "PG",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "560050",
+    "tmdbId": 560050,
+    "type": "movie",
+    "title": "Over the Moon",
+    "overview": "Fueled by memories of her mother, resourceful Fei Fei builds a rocket to the moon on a mission to prove the existence of a legendary moon goddess.",
+    "year": "2020",
+    "rating": 7.18,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/inHrrDDPmohfhdgPGI65a9ymNHX.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "266647",
+    "tmdbId": 266647,
+    "type": "movie",
+    "title": "Pan",
+    "overview": "Living a bleak existence at a London orphanage, 12-year-old Peter finds himself whisked away to the fantastical world of Neverland. Adventure awaits as he meets new friend James Hook and the warrior Tiger Lily. They must band together to save Neverland from the ruthless pirate Blackbeard. Along the way, the rebellious and mischievous boy discovers his true destiny, becoming the hero forever known as Peter Pan.",
+    "year": "2015",
+    "rating": 5.955,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/w8i0mZR7MEL7c3bXSsuYg7VJsew.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fACoy2VWw9lz1UbqrgtbIcSYi5e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/73FBFsogSRfXIfhm9YE5Ktwa3K7.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "AU",
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "638134",
+    "tmdbId": 638134,
+    "type": "movie",
+    "title": "Pets United",
+    "overview": "When Roger (a Robin Hood-esque, stray dog) and Belle (an elegant yet spoilt pet cat) are thrown together amidst the chaos of a robot take-over of their home city, they must push all their preconceptions aside in order to survive, as they embark on a high-stakes, action-packed adventure.",
+    "year": "2019",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bftdQMCkQa3KXHWXwAaW0g1p6ZH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3qUCd86JfBTpHYbQtOWlVonQOVK.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "GB",
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "283784",
+    "tmdbId": 283784,
+    "type": "show",
+    "title": "Pinkfong Super Rescue Team",
+    "overview": "",
+    "year": "2022",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l9KdRHNBJ75VD63Xl06ENR963rI.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "662708",
+    "tmdbId": 662708,
+    "type": "movie",
+    "title": "Pokémon the Movie: Secrets of the Jungle",
+    "overview": "In the Forest of Okoya, Koko is a feral child who has been raised as a Pokémon by the Mythical Pokémon Zarude. Koko has grown up never doubting that he is a Pokémon even though he can't really use any sort of moves. Ash Ketchum and Pikachu meet Koko and help him protect the Great Tree from the crooked scientist Dr. Zed.",
+    "year": "2020",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9Ow7PJcAHMMxgSIjCW6RnRqE9OA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4KpNHvQIjyg1YFovRAoUXoFrGnR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uLDKurIHGuejnQ9P3qmeTokR84p.png",
+    "certificate": "G",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12429",
+    "tmdbId": 12429,
+    "type": "movie",
+    "title": "Ponyo",
+    "overview": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+    "year": "2008",
+    "rating": 7.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yp8vEZflGynlEylxEesbYasc06i.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1QmEcK0w2Ub4Hm094fHbZT8vA7o.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kh4b2CejW3HECRh8bBlMwg2ymaD.png",
+    "certificate": "G",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "93392",
+    "tmdbId": 93392,
+    "type": "show",
+    "title": "Raising Dion",
+    "overview": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps.",
+    "year": "2019",
+    "rating": 7.502,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nydKXBiLn4vpL1d5o1utbPKYdii.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nn37nj8LsJLmhxZIZWhVFzuiwVr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cfw7fQehLbaT2kJAWEUTGqBcZCI.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "797394",
+    "tmdbId": 797394,
+    "type": "movie",
+    "title": "Secret Magic Control Agency",
+    "overview": "The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.",
+    "year": "2021",
+    "rating": 6.998,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/indmotrl83pJaroHTNcaFa7zToK.png",
+    "certificate": "NR",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10926",
+    "tmdbId": 10926,
+    "type": "show",
+    "title": "Sonic X",
+    "overview": "After getting stranded on Earth, Sonic and his friends team up with 12-year-old Chris Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.",
+    "year": "2003",
+    "rating": 7.593,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1EFqCQv0td8LMogXCpNEAW3uxgL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8Ep5ppQvqFvaMQrX3ENmM4jpNPI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcQf1UyyLqxZMpjE6FtegrM2TbN.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "592983",
+    "tmdbId": 592983,
+    "type": "movie",
+    "title": "Spellbound",
+    "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+    "year": "2024",
+    "rating": 6.586,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iqL1ztNeXAXulsZzpJWmyiZdZWc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7FZwDfLdPq48wDvQ2tAcikgJ10G.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "101400",
+    "tmdbId": 101400,
+    "type": "show",
+    "title": "Spirit Riding Free: Riding Academy",
+    "overview": "In a small Western town a young girl from the city forms a tight bond with wild horse Spirit while having adventures with her friends.",
+    "year": "2020",
+    "rating": 7.857,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1P73hdMxOmxeWySMA8RDvmS1dQ4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xN9mw9I4JnnRMFTcHLFtnv5hDkH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qHLf7YbabLzvKw4CxtsXg4zYAqT.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "129",
+    "tmdbId": 129,
+    "type": "movie",
+    "title": "Spirited Away",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "year": "2001",
+    "rating": 8.534,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hkUi1Z15Ymj9GNamWQkzUhehLuy.png",
+    "certificate": "PG",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "304750",
+    "tmdbId": 304750,
+    "type": "show",
+    "title": "Superhero Baby Shark",
+    "overview": "Baby Shark and Daddy Shark are superheroes! They use their skills, tools and teamwork to protect the town from the evil villain, Thief Baby Shark.",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ucjh8wXpjQrh8xFQL8NVQs4ikmO.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "16112",
+    "tmdbId": 16112,
+    "type": "movie",
+    "title": "The Adventures of Elmo in Grouchland",
+    "overview": "Elmo loves his fuzzy, well-worn blue blanket more than anything in the whole world. However, when Elmo's blanket gets sucked through a colorful, swirling tunnel into Grouchland, the yuckiest place on earth, Elmo goes on an adventure to Grouchland to retrieve his prized possession.",
+    "year": "1999",
+    "rating": 6.245,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/u9i4frT1XPaTqJxRYLJ8j2r8LYO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/veU2KXRIWEXWLifUdbJH77YqTUO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oR3KGctOlsd8hSxuz8eOskQLz89.png",
+    "certificate": "G",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81046",
+    "tmdbId": 81046,
+    "type": "show",
+    "title": "The Dragon Prince",
+    "overview": "An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands.",
+    "year": "2018",
+    "rating": 8.205,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sD3OAmfxHRXWmZFROjRRL3HcPXj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bx7JCEE4d3TIpbsiMtluTetP9JL.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "410113",
+    "tmdbId": 410113,
+    "type": "movie",
+    "title": "The Loud House Movie",
+    "overview": "The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.",
+    "year": "2021",
+    "rating": 7.232,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7dM5DILTl9ddpjvnJhs2nA1U9Ru.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9p3bwHTpX5Axpyp4gxqmDxWaau0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xvolEXnLzLgpWOEVVBsW8Y3oTyQ.png",
+    "certificate": "G",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "832502",
+    "tmdbId": 832502,
+    "type": "movie",
+    "title": "The Monkey King",
+    "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
+    "year": "2023",
+    "rating": 6.489,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yhit94ENEliV14h63Zmr6QPUGpP.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "68267",
+    "tmdbId": 68267,
+    "type": "show",
+    "title": "Trollhunters: Tales of Arcadia",
+    "overview": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds.",
+    "year": "2016",
+    "rating": 8.454,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oJFwZEgWooKtzj0MXDECqkTA40c.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "231727",
+    "tmdbId": 231727,
+    "type": "show",
+    "title": "Wolf King",
+    "overview": "A young commoner comes of age and learns he's the last of a long line of Werewolves — and heir to the throne.",
+    "year": "2025",
+    "rating": 6.806,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/crfpyT8XZo8kKihagGP6jVx6n8G.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  }
+]

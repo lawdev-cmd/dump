@@ -1,0 +1,382 @@
+[
+  {
+    "id": "381289",
+    "tmdbId": 381289,
+    "type": "movie",
+    "title": "A Dog's Purpose",
+    "overview": "A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.",
+    "year": "2017",
+    "rating": 7.638,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/njiJ5IbX4M7h7k5q1VxhiK8jMfT.png",
+    "certificate": "PG",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "51739",
+    "tmdbId": 51739,
+    "type": "movie",
+    "title": "The Secret World of Arrietty",
+    "overview": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items \"borrowed\" from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
+    "year": "2010",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lCIYf28WTRnSkMPBVURJGnBP8yo.png",
+    "certificate": "G",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "7443",
+    "tmdbId": 7443,
+    "type": "movie",
+    "title": "Chicken Run",
+    "overview": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop–even if they can’t fly! It’s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly…but, with teamwork, determination and a little bit o’ cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
+    "year": "2000",
+    "rating": 6.852,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2QGUE6u4M7sddXKpttgS4AP2GBC.png",
+    "certificate": "G",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "448119",
+    "tmdbId": 448119,
+    "type": "movie",
+    "title": "Dolittle",
+    "overview": "After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.",
+    "year": "2020",
+    "rating": 6.573,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xcUf6yIheo78btFqihlRLftdR3M.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wcFOzxkmvsDpEKyH7NN8T9rfJd8.png",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "555604",
+    "tmdbId": 555604,
+    "type": "movie",
+    "title": "Guillermo del Toro's Pinocchio",
+    "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+    "year": "2022",
+    "rating": 7.997,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/e782pDRAlu4BG0ahd777n8zfPzZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sFHqRdrAw1xvX8ltoJkyAVsHjPh.png",
+    "certificate": "PG",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4935",
+    "tmdbId": 4935,
+    "type": "movie",
+    "title": "Howl's Moving Castle",
+    "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+    "year": "2004",
+    "rating": 8.386,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wdTLajZyrh6yEeSqU5xrFATJh9Y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "49444",
+    "tmdbId": 49444,
+    "type": "movie",
+    "title": "Kung Fu Panda 2",
+    "overview": "Po is finally living the dream as the Dragon Warrior—until a shadow from his past comes roaring back. When the ruthless peacock Lord Shen unleashes a devastating new weapon used to wipe out kung fu masters across the land, Po and the Furious Five race across China to put an end to his plans. But if Po is to have any hope of stopping him, he must first confront the truth of his origins—and find inner peace before his past tears him apart.",
+    "year": "2011",
+    "rating": 7.084,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/reHkSQwiYKK4SabnGDY1FWKie82.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n52KkzjoXr0WriwE2XTkD36gLLI.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "331482",
+    "tmdbId": 331482,
+    "type": "movie",
+    "title": "Little Women",
+    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+    "year": "2019",
+    "rating": 7.841,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hyf1yl5axqVSSKRfvZW9rqDq7A.png",
+    "certificate": "PG",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "262841",
+    "tmdbId": 262841,
+    "type": "movie",
+    "title": "Monster Trucks",
+    "overview": "Tripp is a high school senior with a knack for building trucks who makes an incredible discovery - a gas-guzzling creature named Creech. To protect his mischievous new friend, Tripp hides Creech under the hood of his latest creation, turning it into a real-life super-powered Monster Truck. Together, this unlikely duo with a shared taste for speed team up on a wild and unforgettable journey to reunite Creech with his family.",
+    "year": "2016",
+    "rating": 6.081,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aUzNybWqURfeg9BveLr4GOVCkti.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w0I6KQ3r9DdNZ0tIsD1CA67Hr6x.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dph67qtRtkbV5NcFARNOR5lUgye.png",
+    "certificate": "PG",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "181533",
+    "tmdbId": 181533,
+    "type": "movie",
+    "title": "Night at the Museum: Secret of the Tomb",
+    "overview": "When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.",
+    "year": "2014",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1ClgfKeczI0d0KKuBs5qSIqUReT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mQTRijxOQOPzkj721yrPalNq6yQ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11621",
+    "tmdbId": 11621,
+    "type": "movie",
+    "title": "Porco Rosso",
+    "overview": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
+    "year": "1992",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ec4m0EvVlEtVl5aySdw6ab9uG0b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gChm9syaXaZA0ixKvaWwOyeKzr9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "668461",
+    "tmdbId": 668461,
+    "type": "movie",
+    "title": "Slumberland",
+    "overview": "A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.",
+    "year": "2022",
+    "rating": 7.269,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tfae1vtjzlE73DPJGlHq88sZKX3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6tAYyCxF0T5oUIH95zMBC3X3W5T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rKPnEwScwWqJleJTxriehm5EzKF.png",
+    "certificate": "PG",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "265712",
+    "tmdbId": 265712,
+    "type": "movie",
+    "title": "Stand by Me Doraemon",
+    "overview": "Sewashi and Doraemon find themselves way back in time and meet Nobita. It is up to Doraemon to take care of Nobita or else he will not return to the present.",
+    "year": "2014",
+    "rating": 7.433,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1aABIiqBY7yoQESE8qWvR0w9bJZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fecSkePkQvoNK64P67bsp3Vmhst.png",
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "17578",
+    "tmdbId": 17578,
+    "type": "movie",
+    "title": "The Adventures of Tintin",
+    "overview": "Intrepid young reporter, Tintin, and his loyal dog, Snowy, are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson and Thomson, travel half the world, one step ahead of their enemies, as Tintin endeavors to find the Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.",
+    "year": "2011",
+    "rating": 6.929,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6mqgl2szMLRYj4lhlXOjju5Tpeo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kZ4CFusx1gy1bomvqIaZOXCTfiz.png",
+    "certificate": "PG",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "654028",
+    "tmdbId": 654028,
+    "type": "movie",
+    "title": "The Christmas Chronicles: Part Two",
+    "overview": "Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.",
+    "year": "2020",
+    "rating": 6.502,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mxVpkHclXPgWxo62SJ0a0YcUzgC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eWVwmgvWLUGv3Ikum3WWYml2pE7.png",
+    "certificate": "PG",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "501929",
+    "tmdbId": 501929,
+    "type": "movie",
+    "title": "The Mitchells vs. the Machines",
+    "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+    "year": "2021",
+    "rating": 7.83,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2dBK8tGVO7E3usWVbXNzJl3h7WB.png",
+    "certificate": "PG",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12096",
+    "tmdbId": 12096,
+    "type": "movie",
+    "title": "The Pink Panther",
+    "overview": "When the coach of the France football team is killed by a poisoned dart in the stadium at the end of a game, and his huge, expensive ring with the Pink Panther diamond  disappears, the ambitious Chief Inspector Dreyfus assigns the worst police inspector – Jacques Clouseau – to the case.",
+    "year": "2006",
+    "rating": 5.875,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3jiNJ4lyAmdSidvbFTFIL2GQGBu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xOJpuZVTQ7tUiBtsXhGO7c4VWWa.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24961",
+    "tmdbId": 24961,
+    "type": "movie",
+    "title": "The Wiz",
+    "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+    "year": "1978",
+    "rating": 6.189,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9zkvOuDQzpYSKUTtSlP6QDe3JNv.png",
+    "certificate": "G",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "449406",
+    "tmdbId": 449406,
+    "type": "movie",
+    "title": "Vivo",
+    "overview": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
+    "year": "2021",
+    "rating": 7.22,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/e6DlxuwzeZozu6D3h636gyDAHLo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AsoF5slprur9YMifq9vUci0xnSg.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

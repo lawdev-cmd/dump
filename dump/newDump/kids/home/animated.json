@@ -1,0 +1,830 @@
+[
+  {
+    "id": "770254",
+    "tmdbId": 770254,
+    "type": "movie",
+    "title": "Back to the Outback",
+    "overview": "Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia’s deadliest creatures plot an escape from their zoo to the Outback, a place where they’ll fit in without being judged.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jbAUTO7qFN8XFG2LM3bz30vzGFJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5B22eed7ErxFiYAG4Ksb4eLwKNF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xcA3jpaMQQ7LkvxlrvgOC8afGP1.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "61838",
+    "tmdbId": 61838,
+    "type": "show",
+    "title": "Barbie: Life in the Dreamhouse",
+    "overview": "The series is set as a reality TV-esque show following Barbie, her sisters and her friends in the day-to-day activities that take place in the Dreamhouse and surrounding areas. Much of the humor in the show derives from parodying and lampooning both the traditional reality TV format and the Barbie franchise itself.",
+    "year": "2012",
+    "rating": 7.626,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9gj2wYYIUg78qhgcg2IgeYU1yIg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6ZYaLOle3iKOHlXqADnxt592v3O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xSXeAcQB3L2AUbYR2KII6uNoC1j.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9907",
+    "tmdbId": 9907,
+    "type": "movie",
+    "title": "Barnyard",
+    "overview": "Otis is a mischievous, carefree Holstein cow who lives on a farm where, unbeknownst to humans, the animals are anthropomorphic. He prefers having fun with his best friends: Pip the mouse, Freddy the ferret, Peck the rooster, and Pig the pig - rather than following strict rules and accepting responsibility. But when his adoptive father is killed in a coyote attack, he has a heavy responsibility thrust upon him to become leader of his farm home's community.",
+    "year": "2006",
+    "rating": 5.965,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qB9jFInwUEb2VLhMeKQX17Vdrnp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eiU6of30k9VaXxYPq682VwM2D5q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sB0WV1hwCazEQ80jZBdhMsjkkWn.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "275909",
+    "tmdbId": 275909,
+    "type": "show",
+    "title": "Bebefinn Dance Time",
+    "overview": "It’s time to get moving and grooving with Bebefinn as he explores the wide world around him through music and easy-to-follow dances!",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1kthv7JSIa4RJJxRJvvZsdIRcsE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gTd4OUrATeW9A7beLavX2808Ugx.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "129832",
+    "tmdbId": 129832,
+    "type": "show",
+    "title": "Bread Barbershop",
+    "overview": "Meet Bread! He's a brilliant cake decorator who gives amazing makeovers to customers in a town inhabited by quirky little food characters.",
+    "year": "2019",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/saI7dFBvounvh37BtqMwELsDyHH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2ajK3kOjRMPseje2tqS6CQUcEHE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9LcLmFzWCIWlPCiyzTitq4HhqFl.png",
+    "certificate": null,
+    "runTimeMinutes": 10,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77240",
+    "tmdbId": 77240,
+    "type": "show",
+    "title": "Captain Tsubasa",
+    "overview": "The passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession.  In order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.",
+    "year": "2018",
+    "rating": 8.197,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dSvRkislUYBu8jWpqRpUsfNFNcr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/82yjt6twLPoOVL5Kkakip6PSPDu.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "268531",
+    "tmdbId": 268531,
+    "type": "movie",
+    "title": "Captain Underpants: The First Epic Movie",
+    "overview": "Based on the bestselling book series, this outrageous comedy tells the story of George and Harold,  two overly imaginative pranksters who hypnotize their principal into thinking he’s an enthusiastic, yet dimwitted, superhero named Captain Underpants.",
+    "year": "2017",
+    "rating": 6.301,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vKSmaPct5OEeMoD8ue30RisHlKD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5ceIqlRzWH4x1IPU9OfjXHO2Kz6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6lWN60V4Uw4PkBG168Ljzw2TPPo.png",
+    "certificate": "PG",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "89504",
+    "tmdbId": 89504,
+    "type": "show",
+    "title": "Chip and Potato",
+    "overview": "Lovable pug Chip starts kindergarten, makes new friends and tries new things -- with a little help from Potato, her secret mouse pal.",
+    "year": "2018",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/df2OtvZdUgiNhxRoB9cvwTBttrm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kAZzMgyhRCzbOVd3LY62KKjkp82.jpg",
+    "logoUrl": null,
+    "certificate": "TV-Y",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1167307",
+    "tmdbId": 1167307,
+    "type": "movie",
+    "title": "David",
+    "overview": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+    "year": "2025",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8c0u0yRU0cjGoAPkHoOZQpq4esp.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "ZA",
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78173",
+    "tmdbId": 78173,
+    "type": "show",
+    "title": "Dragons: Race to the Edge",
+    "overview": "Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.",
+    "year": "2015",
+    "rating": 8.363,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yVcuoQNo36FlZTavqjjjpsaUJyL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7McwIzuZeGwnrJC7l7CqbPVQ8OC.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "117162",
+    "tmdbId": 117162,
+    "type": "show",
+    "title": "Go, Dog. Go!",
+    "overview": "Handy and inventive pup Tag chases adventure with her best pal, Scooch, solving problems and helping the citizens of Pawston along the way.",
+    "year": "2021",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qHwkhQZ8YpHS3Wz7EWUzwp5WEpR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A9ktTOdkwTKOdSaJDCXozLt1YRm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3a5OvNBUPq8r9Lfy1zzGoNbU7s7.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "302696",
+    "tmdbId": 302696,
+    "type": "show",
+    "title": "KPop Demon Hunters Lyric Videos",
+    "overview": "Some of the smash film's hottest hits come to life as lyric videos in a line-up featuring \"How It's Done,\" \"Golden,\" \"Soda Pop,\" \"Takedown\" and \"Free.\"",
+    "year": "2025",
+    "rating": 9.155,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dTqYRhRzKayrCcDVqIS3bXOiRR5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qyj4vs8223qaaWRoa5V37NMKTYt.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "38693",
+    "tmdbId": 38693,
+    "type": "show",
+    "title": "Ninjago: Masters of Spinjitzu",
+    "overview": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
+    "year": "2012",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ptEtIr3rVuAJpmbwaLJJqND6HVq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7MSskBZ9qhIthuhqCBiBLpIyo7h.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1075794",
+    "tmdbId": 1075794,
+    "type": "movie",
+    "title": "Leo",
+    "overview": "Jaded 74-year-old reptile Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+    "year": "2023",
+    "rating": 7.344,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/auXrHU6O17n9Tz11SHReoorjrU6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ZkPpvKEhxaJwZiCr24fJA3O6dj.png",
+    "certificate": "PG",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "940551",
+    "tmdbId": 940551,
+    "type": "movie",
+    "title": "Migration",
+    "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+    "year": "2023",
+    "rating": 7.356,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gklkxY0veMajdCiGe6ggsh07VG2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hxzondI2u5lxZKt0XufCucM2RGs.png",
+    "certificate": "PG",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1029119",
+    "tmdbId": 1029119,
+    "type": "movie",
+    "title": "Minions & More Volume 1",
+    "overview": "This collection of 10 short films produced by Illumination includes: From the \"Despicable Me\" franchise: Puppy (2013); Minion Scouts (2019); Training Wheels (2013); The Secret Life of Kyle (2017); Santa's Little Helpers (2019).  From the \"Grinch\" franchise: The Dog Days of Winter (2019).  From the \"Secret Life of Pets\" franchise: Norman Television (2016); Weenie (2016).  From the \"Sing\" franchise: Love at First Sight (2017).  From the \"Lorax\" franchise: Forces of Nature (2012).",
+    "year": "2022",
+    "rating": 7.03,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hjVIpMS8gOEaLB87kpgEOqdDCrk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v57iMzSzzM8NsyMqrSmKGToHoCe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7mybGYk37GoDFfcbCvlTNhGKPGm.png",
+    "certificate": "PG",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1045644",
+    "tmdbId": 1045644,
+    "type": "movie",
+    "title": "Minions & More 2",
+    "overview": "This collection of 11 short films produced by Illumination includes: From the \"Despicable Me\" franchise: Mower Minions (2016); Yellow Is the New Black (2018); Competition (2015); Cro Minion (2015); Binky Nelson Unpacified (2015); Panic in the Mailroom (2013). From the \"Secret Life of Pets\" franchise: Super Gidget (2019). From the \"Sing\" franchise: Eddie's Life Coach (2017); Gunter Babysits (2017). From the \"Lorax\" franchise: Serenade (2012); Wagon Ho! (2012).",
+    "year": "2022",
+    "rating": 7.377,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j0w5tggQs0VVtXj5OF8kWqME2WG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m0TSKryA9qRPzsEJxJ9CR4HHBuE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wvWcmYRNWKVp5elfFZR4xtIj087.png",
+    "certificate": "G",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "236207",
+    "tmdbId": 236207,
+    "type": "show",
+    "title": "Morphle",
+    "overview": "",
+    "year": "2023",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mAjJ09o5ZOZ7T6Osa9PlfP9ZOYa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6IIqZJ69BkBhXzQLsdirq7aYpk7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sn4NwuGXi3Ipwrf0htwsxd7g2yK.png",
+    "certificate": null,
+    "runTimeMinutes": 29,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "33765",
+    "tmdbId": 33765,
+    "type": "show",
+    "title": "My Little Pony: Friendship Is Magic",
+    "overview": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
+    "year": "2010",
+    "rating": 8.185,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gOyIKp7adMCzFrYjc5rxmt2PNhi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fO2ZtnCpvHTXltkaZriniPFiDQy.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46260",
+    "tmdbId": 46260,
+    "type": "show",
+    "title": "Naruto",
+    "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "year": "2002",
+    "rating": 8.362,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "275908",
+    "tmdbId": 275908,
+    "type": "show",
+    "title": "Pinkfong Little Dino School",
+    "overview": "Learn numbers, colors and the ABCs with little dinosaur friends Rex, Brie, Vella and Pete as they tell delightful stories and sing catchy tunes.",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zTbtssIluuEIz331BWiyLccABcL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/LBu9c9hJJdda449jLfuZjMTMAB.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 3,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "209708",
+    "tmdbId": 209708,
+    "type": "show",
+    "title": "Princess Power",
+    "overview": "Princess friends from four different Fruitdoms — Blueberry, Kiwi, Pineapple and Raspberry — spring into action to make their worlds a better place.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bMwxyVC50bV1YfrpUIrOCLRdV87.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/py6zOi6spw1PkmhgkkzB7LtEdOo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9X5wWpxvFdrKlYuJCagPzUIaU9C.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 15,
+    "primaryGenre": "Kids",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18123",
+    "tmdbId": 18123,
+    "type": "show",
+    "title": "Scooby-Doo! Mystery Incorporated",
+    "overview": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
+    "year": "2010",
+    "rating": 8.231,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2VvLk11UlmdHFPQkDgm4KPSjLrs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5OSGsg6ilKf7SGsc8cAbhsY1ENF.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10555",
+    "tmdbId": 10555,
+    "type": "movie",
+    "title": "Shark Tale",
+    "overview": "Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.",
+    "year": "2004",
+    "rating": 6.046,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7ZmZxar3bYORcl0TPA4oceyxcaE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ktpElNu4lHM4H3aO2EpB0TUgkgi.svg",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "130688",
+    "tmdbId": 130688,
+    "type": "show",
+    "title": "Sharkdog",
+    "overview": "10 year old Max and his best friend Sharkdog - half shark, half dog, all appetite. Blissfully unaware of his own strength, stealth and general sharkiness, Sharkdog often leaves a trail of chaos in his wake.",
+    "year": "2021",
+    "rating": 8.042,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cdkeBd7XZ6CmSE1a36rGG4bjqbb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/z0RaSf4tAvugf832rIaaGkwJRXF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2ZubDNTnZ5BNQHipHbTtd4ywSkQ.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 17,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "SG"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "810",
+    "tmdbId": 810,
+    "type": "movie",
+    "title": "Shrek the Third",
+    "overview": "After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom.",
+    "year": "2007",
+    "rating": 6.314,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lRgOOb2EpGYTA9DvANfUPeQO5VA.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79888",
+    "tmdbId": 79888,
+    "type": "show",
+    "title": "Simon",
+    "overview": "Simon is an adorable little rabbit who exudes all the vitality of childhood. He's at an age when little rabbits (and indeed little children!) are starting to come into their own - challenging relationships with parents, embarking upon school life, learning about the world in general, dealing with authority and of course, language.",
+    "year": "2016",
+    "rating": 8.25,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iuS4DrakZQTtQKLeQ7ZTjUAQKoN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/gE8Ov8bI6P0Fdfl6KBW2HzHo2p6.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 5,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "569094",
+    "tmdbId": 569094,
+    "type": "movie",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "year": "2023",
+    "rating": 8.347,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
+    "certificate": "PG",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "71680",
+    "tmdbId": 71680,
+    "type": "show",
+    "title": "Spirit: Riding Free",
+    "overview": "In a small Western town, spunky ex-city girl Lucky forms a tight bond with wild horse Spirit while having adventures with best pals Pru and Abigail.",
+    "year": "2017",
+    "rating": 7.589,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jRJYUWTH1qyTL0us4dix6wasN0A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2boe4RpWbab88pPRIa3iBbU5NvJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1lG4vHKx99WVeSpMAOtQJGW9Xdd.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "224263",
+    "tmdbId": 224263,
+    "type": "show",
+    "title": "Stranger Things: Tales from '85",
+    "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+    "year": "2026",
+    "rating": 7.586,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/krRJcoEVbkT2fPZDqmj9zWp9ZQR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ff4nzGS3122NvLVN10dheKtEZ9E.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10996",
+    "tmdbId": 10996,
+    "type": "movie",
+    "title": "Stuart Little 2",
+    "overview": "Stuart, an adorable white mouse, still lives happily with his adoptive family, the Littles, on the east side of Manhattan's Central Park. More crazy mouse adventures are in store as Stuart, his human brother, George, and their mischievous cat, Snowbell, set out to rescue a friend.",
+    "year": "2002",
+    "rating": 5.774,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1vdPKC35IOjEAJEr9Y2rjEeyCcW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iEvlXeDvLW5IjmWa5jwO0Tieu1g.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jH2rEe3vU9u09ksybXILkiimSoV.png",
+    "certificate": "PG",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "77606",
+    "tmdbId": 77606,
+    "type": "show",
+    "title": "The Boss Baby: Back in Business",
+    "overview": "The Boss Baby brings his big brother Tim to the office to teach him the art of business in this animated series sprung from the hit film.",
+    "year": "2018",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mUVZHkJPKDYgDy1dbDdi0Esj9eB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ry3j5NEF72tMezdEomGrVXb6pFB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/swXJujoQAIWlhnDJl89Zpab5qCk.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18352",
+    "tmdbId": 18352,
+    "type": "show",
+    "title": "The Garfield Show",
+    "overview": "Your favorite lazy, fat cat is at it again. Garfield, Odie, Jon and the rest of the gang are back for more funny misadventures. Whether he's scarfing down lasagna or tricking Nermal the kitten, Garfield is guaranteed to crack you up. But remember: He hates Mondays!",
+    "year": "2009",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jBAXfUHvVTBCsCwP1xNG6B3bZ0d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fP8cKfxDbCBA8qGVlfGjk9j2S4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Th45yF6T7HUF1OhWNTzRyew3XO.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "7248",
+    "tmdbId": 7248,
+    "type": "show",
+    "title": "The Magic School Bus",
+    "overview": "An eccentric schoolteacher takes her class on wondrous educational field trips with the help of a magical school bus.",
+    "year": "1994",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3A70wxUpplD4V3IcL8WmNFBgAbV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pWZjTb2ixwVEzvnsvv3KYz5pvIs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tHod7y5zRMQsG2U5pIhTcI75DHO.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1184918",
+    "tmdbId": 1184918,
+    "type": "movie",
+    "title": "The Wild Robot",
+    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "year": "2024",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xvXJfGKjHHe1m4Usye198DCw7iJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "138523",
+    "tmdbId": 138523,
+    "type": "show",
+    "title": "Thomas & Friends: All Engines Go!",
+    "overview": "In a reboot of the classic TV series, a younger Thomas The Tank Engine goes on adventures with all of his friends, as they work on the Island of Sodor.",
+    "year": "2021",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7R8ssJqWA2P1wfH2776oxh81FNe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oM68iNQs2UIdJzqqQbFqfs7toyq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tUxMW97OCSFeDonh8PhGWiSujU0.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 10,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "CA",
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "221504",
+    "tmdbId": 221504,
+    "type": "show",
+    "title": "Unicorn Academy",
+    "overview": "When a dark force threatens to destroy Unicorn Island, a brave teen and her five schoolmates must rise up to protect their beloved magical academy.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5aex9xH2Tq9G9m9WyhPJiyVOJol.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w1OI696IzYW37hZwdLfiGUYzAvX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d2kJPhDDcYSHMocYnjqUpjZTwzt.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "316945",
+    "tmdbId": 316945,
+    "type": "show",
+    "title": "Unicorn Academy: Secrets Revealed",
+    "overview": "A new mystery unfolds at Unicorn Academy as long-buried secrets begin to surface, threatening the very balance of Unicorn Island. As Sophia and her friends return for another year, they are drawn into a dangerous quest filled with hidden powers, unexpected betrayals, and dark forces growing stronger in the shadows. With every step, the stakes rise, pushing the riders to their limits. Packed with magic, suspense, and emotional twists, this chapter promises a thrilling adventure where not everything is as it seems, and every secret could change their destiny forever.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7ISVs3g7rjCnhFqnWLdwqxw9Wus.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wySgT9mfmQzJgttiSDuONykUVh5.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "35094",
+    "tmdbId": 35094,
+    "type": "show",
+    "title": "Wild Kratts",
+    "overview": "The adventures of Chris and Martin Kratt as they encounter incredible wild animals, combining science education with fun and adventure as the duo travels to animal habitats around the globe.",
+    "year": "2011",
+    "rating": 7.523,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lQ1WqzCSyjH3Zhe11776cnP7ESO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/urXyHFiXr7vyU9JhCDlGCeulYDA.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "286822",
+    "tmdbId": 286822,
+    "type": "show",
+    "title": "Winx Club: The Magic Is Back",
+    "overview": "When Bloom discovers she has magic, her life takes a wild turn. At the Alfea school for fairies and witches, she meets five girls who become her best friends — and her greatest strength. Together, they’re the Winx. As dark secrets rise and powerful enemies close in, the Winx will need to unlock their true potential to protect their world — and themselves.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oFO3GdOHzLIp3F6qrDbcC65MYUX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5W4ST8DCqSUQh4itmwUJ6dVMeZs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iA4HBg2MElV7jzSaihGm6EUDx0s.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "112439",
+    "tmdbId": 112439,
+    "type": "show",
+    "title": "Wonderoos",
+    "overview": "Join animal pals Kiki, Dewey, Hazzy, Luly and Teshi as they learn how to make friends, try new foods and face other big firsts in colorful Roo City!",
+    "year": "2024",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jL3ramnaNtWmPPv62atJu7zvN86.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aOop4VFfXKXExir1J1Aupch4d3V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tjBGJCTEQej2kVP2jMVtgQoFwck.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": null,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]
