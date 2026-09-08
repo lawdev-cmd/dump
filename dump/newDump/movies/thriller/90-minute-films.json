@@ -1,0 +1,807 @@
+[
+  {
+    "id": "1659087",
+    "tmdbId": 1659087,
+    "type": "movie",
+    "title": "180",
+    "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
+    "year": "2026",
+    "rating": 5.86,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcwSNBfbJawloA9GeLnkq6xUo6S.png",
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ZA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "931628",
+    "tmdbId": 931628,
+    "type": "movie",
+    "title": "A Sacrifice",
+    "overview": "American social psychologist Ben Monroe investigates a local cult connected to a disturbing event. While he immerses himself into his work, his rebellious teenage daughter, Mazzy, gets involved with a mysterious local boy, who introduces her to the city’s underground party scene. As these two worlds head towards an intersection, Mazzy finds herself in great danger and Ben will need to race against the clock to save her.",
+    "year": "2024",
+    "rating": 5.548,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ihXINKQfzdaVKvZwZqmchy20uVD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ch0kqAxTI6VMgDNPWCiN0ZFCwfs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uGuM3JzF66FBn8tTwOmdGBHUfdM.png",
+    "certificate": "R",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "850028",
+    "tmdbId": 850028,
+    "type": "movie",
+    "title": "Alice, Darling",
+    "overview": "Pushed to the breaking point by Simon, her psychologically abusive boyfriend, Alice becomes an unwitting participant in an intervention staged by her two closest friends while on vacation. As she rediscovers the essence of herself and gains some much-needed perspective, she slowly starts to fray the cords of codependency that bind her. However, Simon's vengeance is as inevitable as it is shattering, and once unleashed, it tests her strength, her courage, and the bonds of deep-rooted friendships.",
+    "year": "2022",
+    "rating": 5.625,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3QpO7dxLXBdPgWpNLKvRNojz7bv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cSjccCESfkHq2AltVkY3WRYXqdg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/draoNa0bveekUDQ1rf5BzLMMinG.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "490004",
+    "tmdbId": 490004,
+    "type": "movie",
+    "title": "Arizona",
+    "overview": "Set in the midst of the 2009 housing crisis, the life of Cassie Fowler, a single mother and struggling realtor, goes off the rails when she witnesses a murder.",
+    "year": "2018",
+    "rating": 5.452,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AcqXQms8AzkrTL22FbT9VKcjt7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xZJWIX09rE0YHohBekt8WwENdow.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "410199",
+    "tmdbId": 410199,
+    "type": "movie",
+    "title": "ARQ",
+    "overview": "Two old friends living in a dystopic future become trapped in a mysterious time loop — one that may have something to do with an ongoing battle between an omnipotent corporation and a ragtag band of rebels.",
+    "year": "2016",
+    "rating": 6.139,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oX6rYilUqQJMcMzCn6K61UifOnN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5gK6qB8KKqQ6i9yx8Fr2Fqajvpb.png",
+    "certificate": "R",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10782",
+    "tmdbId": 10782,
+    "type": "movie",
+    "title": "Basic",
+    "overview": "When a hurricane hits a US Army base on the edge of the Panama Canal, an elite covert operations team of US Army Rangers recruits are on a routine jungle training exercise that goes horribly awry. Only two recruits are rescued, one of which is badly injured, but both have different accounts regarding the fate of their leader, legendary and ruthless Army Ranger Drill Sergeant Nathan West, and the rest of their platoon. Tom Hardy, an ex-army Ranger turned maverick DEA agent is brought in to solve the mystery and uncover what really happened out there.",
+    "year": "2003",
+    "rating": 6.508,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jtyF4NF9fQlyGP8cgU1mK3DLUTB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nbQccqxcpAV1dwofccLeM3c6qzn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2MOhen1apPyWXbD34sumcB6Epmq.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "916740",
+    "tmdbId": 916740,
+    "type": "movie",
+    "title": "Brazen",
+    "overview": "Mystery writer Grace Miller has killer instincts when it comes to motive - and she'll need every bit of expertise to help solve her sister's murder.",
+    "year": "2022",
+    "rating": 4.806,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2Jp2RIwJ3Dt7vamkTt7llVJ7uY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xnhGoVLBINvNHpaMR8Mp7FIHDAq.png",
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "838484",
+    "tmdbId": 838484,
+    "type": "movie",
+    "title": "Choose or Die",
+    "overview": "In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.",
+    "year": "2022",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/isxWigGBWpXtc2xOxybiYWxHzWm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oEf7fKJLizxMyqVQg9auHmBiQBy.png",
+    "certificate": "NR",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "5458",
+    "tmdbId": 5458,
+    "type": "movie",
+    "title": "Cruel Intentions 2",
+    "overview": "After his precocious behavior has gotten him bounced out of one more in a string of exclusive private schools, 16-year old Sebastian Valmont has arrived in New York City to live with his father and stepmother. The cunning and handsome Sebastian may have met his match, however, in his equally manipulative and beautiful stepsister Kathryn Merteuil.",
+    "year": "2000",
+    "rating": 5.088,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/soO0nrnh9lEdTgGFBT0IIvejwcK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rhj7SiBtWzP2ZkVuJvpcKDr5Byn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rljtZcMgXPiSzFysbyGWrahbWFx.png",
+    "certificate": "R",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "5460",
+    "tmdbId": 5460,
+    "type": "movie",
+    "title": "Cruel Intentions 3",
+    "overview": "Meet Cassie, Jason and Patrick, three amoral college students who, through a series of sexual wagers, take malicious pleasure in ruining the lives of their fellow classmates.",
+    "year": "2004",
+    "rating": 4.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pxjJf3QnZxe3EO8NuwEeK0Yldcd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/92UT2ZSW2dtBhuczEQlSu3n14Cd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oYdijp3f3sDMXBnb5xKv6GNtMKq.png",
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "899445",
+    "tmdbId": 899445,
+    "type": "movie",
+    "title": "Deep Fear",
+    "overview": "A solo trip aboard a yacht takes a terrifying turn when a woman encounters three drug traffickers clinging to the shattered remains of a boat. They soon force her to dive into shark-infested waters to retrieve kilos of cocaine from the sunken wreck.",
+    "year": "2023",
+    "rating": 5.25,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ms1omYCnhnO3eDOI88tfiy6SaoX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fgz3OhZ9zQVu5UWL6iE69fhSLXI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zLzG6ycmIdmu4GGU6huvLMDpwqv.png",
+    "certificate": null,
+    "runTimeMinutes": 84,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11456",
+    "tmdbId": 11456,
+    "type": "movie",
+    "title": "Domestic Disturbance",
+    "overview": "Frank Morrison is a divorced father with a 12-year-old son, Danny. His ex-wife Susan and son Danny now live with Rick Barnes, Susan's new husband. Danny, who has a reputation for telling lies, accuses his stepfather of committing a murder. Initially, no one believes his accusations, but then Frank becomes convinced and is the only one who believes him. Now, the father Danny trusts must protect him from the stepfather he fears.",
+    "year": "2001",
+    "rating": 5.764,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/quRhjnXAuIn04VmgM84nmKzt79J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/uKwQGbxSQ3VWfVRJWeZ7sNQlBJ5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5p0xU1XU9GoLWzTWt5HBrRMxt7D.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "773975",
+    "tmdbId": 773975,
+    "type": "movie",
+    "title": "End of the Road",
+    "overview": "Recently widowed mom Brenda fights to protect her family during a harrowing road trip when a murder and a missing bag of cash plunge them into danger.",
+    "year": "2022",
+    "rating": 5.979,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tLFIMuPWJHlTJ6TN8HCOiSD6SdA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8dKxyxYrRsIWRsAMNCqL1f56Icd.png",
+    "certificate": "R",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1030613",
+    "tmdbId": 1030613,
+    "type": "movie",
+    "title": "Faithfully Yours",
+    "overview": "Using each other as alibis, two friends sneak off to indulge in secret affairs — but their elaborate web of lies unravels when one of them goes missing.",
+    "year": "2022",
+    "rating": 5.931,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i64ot8tIL9XMSwiSQrvi6DuOBpM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wM7Q43bXytzDAvgsu0zNwNtBx1r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/75JrvB6Mq8nkzuWUQRzaTE6nXyO.png",
+    "certificate": null,
+    "runTimeMinutes": 96,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "NL"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "714375",
+    "tmdbId": 714375,
+    "type": "movie",
+    "title": "Fatal Affair",
+    "overview": "After a brief encounter with David Hammond, an old college friend, successful lawyer Ellie Warren tries to mend her marriage with her husband Marcus. But she finds herself caught in a terrifying game of cat and mouse when the encounter escalates into an obsession that jeopardizes everyone she loves.",
+    "year": "2020",
+    "rating": 5.707,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lMbUiOZh8wELqY63v3ou54yTvEG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zte7l6diMY4surbKLCW1mmsU53H.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1276945",
+    "tmdbId": 1276945,
+    "type": "movie",
+    "title": "Ferry 2",
+    "overview": "After losing his drug empire, Ferry Bouman has found a measure of peace away from Brabant's criminal underworld — until his past catches up to him.",
+    "year": "2024",
+    "rating": 5.966,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8pwdnL3pEISIN1EGmwZzU6hpNVk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/A28EE0vgHrB0OdoxWWMfgfyEoYn.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "BE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1364082",
+    "tmdbId": 1364082,
+    "type": "movie",
+    "title": "Hijack '93",
+    "overview": "In an effort to dismantle their military-backed government, four men hijack an airplane, leveraging passengers onboard in the name of social change.",
+    "year": "2024",
+    "rating": 5.618,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nrwTBMlexcgy11MXRVRz8IZrfTI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/l0YYwVi7tIcuSGc3ssxTL5kfiHi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aQ26SQhBT9AObH7wPDFCflXQP8r.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "NG"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "864873",
+    "tmdbId": 864873,
+    "type": "movie",
+    "title": "Hypnotic",
+    "overview": "A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.",
+    "year": "2021",
+    "rating": 6.004,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9CyFLGfeDOrOOPouHp446T5MSNi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/99Qgd6MvsO1w5dViK6nvsW25BoV.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "414190",
+    "tmdbId": 414190,
+    "type": "movie",
+    "title": "iBoy",
+    "overview": "After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.",
+    "year": "2017",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z2pJigKnzgDL7RI5AlYf0eeoWTF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oKpkhLNQuLgokAx7SVIs3uu4Ig7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uFBaNWrMIUGfIJV5J90BjKKyaoJ.png",
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "785752",
+    "tmdbId": 785752,
+    "type": "movie",
+    "title": "Intrusion",
+    "overview": "When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.",
+    "year": "2021",
+    "rating": 5.954,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eu2TZN0sLqC2oBmduTiArtauWL0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vmipz8gAClzO4w8kM6gxw2uFoDR.png",
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "611468",
+    "tmdbId": 611468,
+    "type": "movie",
+    "title": "Kidnapping Stella",
+    "overview": "Snatched off the street and held for ransom, a bound and gagged woman uses her limited powers to derail her two masked abductors' carefully laid plans.",
+    "year": "2019",
+    "rating": 5.328,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/Vs89HqchcSoksB7No3ZBugGTVK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/e0TNO1ZqAhKFFZfwpLeWzIS9597.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "845222",
+    "tmdbId": 845222,
+    "type": "movie",
+    "title": "Kingdom: Ashin of the North",
+    "overview": "Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family.",
+    "year": "2021",
+    "rating": 7.105,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pfcj8IYB5bK8RTWiHwOCGfIzVw6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8tEttwtIE5tJltvKSYyllpyKh6V.png",
+    "certificate": null,
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1376152",
+    "tmdbId": 1376152,
+    "type": "movie",
+    "title": "Monster",
+    "overview": "Andrew, a family man afflicted with nyctophobia, is faced with losing everything he loves if he doesn't heal old wounds.",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iM9p4smJl7y1XaeuzPo6qHw35Lw.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 22,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1309923",
+    "tmdbId": 1309923,
+    "type": "movie",
+    "title": "Non Negotiable",
+    "overview": "Hostage negotiator Alan Bender is called to rescue the president from a kidnapping, only to find himself also mediating to save his wife and marriage.",
+    "year": "2024",
+    "rating": 6.225,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bHQG4UsLMFCy91gfLAFRpnCOPdP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6Vbm2nHxHMlZZ199fmZtMytpFvK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o1iaHxeITvgmIGIjYwBvQbk0hTf.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "AR",
+      "MX"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "853588",
+    "tmdbId": 853588,
+    "type": "movie",
+    "title": "Prey",
+    "overview": "A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.",
+    "year": "2021",
+    "rating": 4.674,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mCVfC5BUHHPOx2GDpwxeUV1d28G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/k6YjZblaTamvnvDouOJoAdPHaHj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dzh3xeOJqvfg1NufwHdmvKGfr82.png",
+    "certificate": null,
+    "runTimeMinutes": 87,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "560362",
+    "tmdbId": 560362,
+    "type": "movie",
+    "title": "Rattlesnake",
+    "overview": "After a mysterious woman saves her daughter from a deadly snakebite, a single mother must repay the debt by killing a stranger before sundown.",
+    "year": "2019",
+    "rating": 5.251,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/meEuc9El2efDGZMARPjd4u4qHhd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dfkBYDfGH94AyGlba2kRIgysNCs.png",
+    "certificate": null,
+    "runTimeMinutes": 85,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "649087",
+    "tmdbId": 649087,
+    "type": "movie",
+    "title": "Red Dot",
+    "overview": "On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.",
+    "year": "2021",
+    "rating": 5.878,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cMhoSGFMOOZUyvZYB6Q9AR4t6fV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "582607",
+    "tmdbId": 582607,
+    "type": "movie",
+    "title": "See You Yesterday",
+    "overview": "As two teen prodigies try to master the art of time travel, a tragic police shooting sends them on a series of dangerous trips to the past.",
+    "year": "2019",
+    "rating": 5.543,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4VNpU3Hjjslfd5CY0Ywr7zSgObM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1BJVctMKbtMfkbV4uJV7WFUd1LN.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "536650",
+    "tmdbId": 536650,
+    "type": "movie",
+    "title": "Solo",
+    "overview": "\"Solo\" tells the story of J, a saxophonist who finds a heart beating in his saxophone case, on the eve of his big concert at the International Jazz Show.",
+    "year": "2018",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uucyc7PsmvSd5Ser3Uhn22aUnBY.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 15,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "",
+    "originCountries": [
+      "PT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "804616",
+    "tmdbId": 804616,
+    "type": "movie",
+    "title": "Something in the Water",
+    "overview": "After lesbian couple Meg and Kayla split following a traumatic homophobic incident, their three friends are intent on mending the rift during the wedding of Lizzie at a paradise resort. But a pre-wedding boat excursion turns to disaster and the wedding breakfast is likely to be the five girls!",
+    "year": "2024",
+    "rating": 5.55,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rNkyIlfrJ9XmVJSXzdUQWMjbNGb.png",
+    "certificate": "R",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US",
+      "FR",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10145",
+    "tmdbId": 10145,
+    "type": "movie",
+    "title": "The Forgotten",
+    "overview": "Telly Paretta is a grieving mother struggling to cope with the loss of her 9-year-old son. She is stunned when her psychiatrist reveals that she has created nine years of memories about a son she never had. But when she remembers a man who had a similar experience, Telly embarks on a search to prove her son's existence, and her sanity.",
+    "year": "2004",
+    "rating": 5.941,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gANKh0Vm00CTE1Hf2aTh2IIXn8X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tq5xnlYFDlfRZvSAOr3T7H8Yeko.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i5PdoilteFc2zrl9bRpTuiF2dxp.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1006917",
+    "tmdbId": 1006917,
+    "type": "movie",
+    "title": "The Lost Patient",
+    "overview": "The 19 years old Thomas wakes up in a hospital after three years in a coma. He doesn't remember anything. The psychologist Anna tells him that his family has been murdered and that he is the only survivor of the massacre while his sister Laura is still missing.",
+    "year": "2022",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tHwGtD4zT0IhKdc2JQNxHAJFGWn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pHjSH9Fxf7gYzYBZNZJ4ZLNxk17.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yYNYIE6Y28jrqCqgu59OHQ49TZL.png",
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "701175",
+    "tmdbId": 701175,
+    "type": "movie",
+    "title": "The Paramedic",
+    "overview": "Unable to face his new reality in a wheelchair, Ángel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.",
+    "year": "2020",
+    "rating": 6.037,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l9ruFmHoUws4A45s8FBZuMNC6Mu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zxsamH7UFEHzFXspREj60PpsMIO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dgG49qnimrHFqpEgUDFXb11ytfj.png",
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "499669",
+    "tmdbId": 499669,
+    "type": "movie",
+    "title": "The Son",
+    "overview": "In 2013, Dima Ilukhin, the cousin of the film’s director and a soldier in the Russian army, died on duty in the Republic of Dagestan in the North Caucasus. He was 21 years old. This incident marks the starting point for Abaturov’s reflection on the military. He films the training of new recruits in Siberia, as they bid farewell to their mothers and girlfriends, learn the mechanics of a Kalashnikov, or how to throw a hand grenade and administer first aid. While his parents try to cope with their loss, Dima’s former fellow recruits have to return to battle.",
+    "year": "2019",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/e1hJyC9skeMrxtSkXMTvxidsTf4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hLezHrjbh4SVpsIG1eahRjR9EJp.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 71,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "RU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "840882",
+    "tmdbId": 840882,
+    "type": "movie",
+    "title": "The Weekend Away",
+    "overview": "When her best friend vanishes during a girls' trip to Croatia, Beth races to figure out what happened. But each clue yields another unsettling deception.",
+    "year": "2022",
+    "rating": 6.06,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ogBxTYI7TDSnkUONkwK4R8hM1lE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iGOhaOZ5cI3WPtzAKLE7GOUpKpV.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1039868",
+    "tmdbId": 1039868,
+    "type": "movie",
+    "title": "Vanished into the Night",
+    "overview": "A father, immersed in a difficult divorce process, embarks on a dangerous mission when his children disappear from their isolated country house.",
+    "year": "2024",
+    "rating": 5.557,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/f83MF5KVFRs5zuFCPlb6UQV1Yo9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/c8KlUfYC5442nkG1Zyaygfui5Q9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pHO4s7eJDxPK0Xj4s8BStHv1lXB.png",
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10053",
+    "tmdbId": 10053,
+    "type": "movie",
+    "title": "When a Stranger Calls",
+    "overview": "Far away from the site of a gruesome murder, a teenager named Jill Johnson arrives at a luxurious home for a baby-sitting job. With the children fast asleep, she settles in for what she expects to be an ordinary evening. Soon, the ringing of a phone and the frightening words of a sadistic caller turn Jill's routine experience into a night of terror.",
+    "year": "2006",
+    "rating": 5.739,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r5FAdQAtgRpHuSI4x5ydvcVHuFz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8nluZo04z9Y8iynYmnMmvO9bU9L.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tOViWaxNVFtyh8tTrpfGCEIuyLD.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "747688",
+    "tmdbId": 747688,
+    "type": "movie",
+    "title": "Yara",
+    "overview": "The murder of 13-year-old Yara Gambirasio shocks the little town of Brembate di Sopra, Italy. To bring the culprit to justice, prosecutors have only scant DNA evidence and no database to compare them to. Based on a true story.",
+    "year": "2021",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1et5eGMOIHEixeWDzMXT0RS5hS3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jpadmB7KftfYHJnyY9e8AFH60L8.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 96,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "412105",
+    "tmdbId": 412105,
+    "type": "movie",
+    "title": "You Get Me",
+    "overview": "After arguing with his girlfriend, Ali, Tyler lands in the arms of sexy new girl, Holly. The next morning, he finds that not only does Ali agree to take him back, but Holly is a new student at their school and is dead set on her new man.",
+    "year": "2017",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5eV0mIQqSztD3McjO22EOFlQDj1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fV17fbBYTzFUwa8X2xbSRhK6HFM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uCfsgvWKOOhUJgxWSGrPL2D8cLx.png",
+    "certificate": "R",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "975022",
+    "tmdbId": 975022,
+    "type": "movie",
+    "title": "You're Killing Me",
+    "overview": "Eden goes to a coveted 'Heaven and Hell' party, hoping to get a letter of recommendation to an elite university from the wealthy parents of her classmate, but the party quickly turns into a fight for her life.",
+    "year": "2023",
+    "rating": 5.526,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tAnwQKYkRlXS6Lgaq5XQ7JqS58x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pm7RuTMM00SNcHhQwoJoxgv2hP7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1ByZ4UTFoUrp0Y1RpIo9z6GuiD8.png",
+    "certificate": "NR",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

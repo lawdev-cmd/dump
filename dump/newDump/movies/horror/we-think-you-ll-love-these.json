@@ -14,7 +14,9 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Action",
     "secondaryGenre": "Horror",
-    "originCountries": ["KR"],
+    "originCountries": [
+      "KR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -32,7 +34,10 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "Crime",
-    "originCountries": ["US", "CA"],
+    "originCountries": [
+      "US",
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -50,7 +55,9 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -68,7 +75,10 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Horror",
-    "originCountries": ["US", "RO"],
+    "originCountries": [
+      "US",
+      "RO"
+    ],
     "originalLanguage": ""
   },
   {
@@ -86,7 +96,10 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["GB", "US"],
+    "originCountries": [
+      "GB",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -104,7 +117,9 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -122,7 +137,9 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -140,7 +157,9 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -158,7 +177,9 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -176,7 +197,9 @@
     "runTimeMinutes": 82,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -194,7 +217,9 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -212,7 +237,9 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -230,7 +257,9 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": ["ES"],
+    "originCountries": [
+      "ES"
+    ],
     "originalLanguage": ""
   },
   {
@@ -248,7 +277,9 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -266,7 +297,9 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -284,7 +317,10 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": ["CA", "US"],
+    "originCountries": [
+      "CA",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -302,7 +338,9 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": ["TW"],
+    "originCountries": [
+      "TW"
+    ],
     "originalLanguage": ""
   },
   {
@@ -320,7 +358,9 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -338,7 +378,9 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -356,7 +398,9 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -374,7 +418,9 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -392,7 +438,9 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -410,7 +458,9 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -428,7 +478,9 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -446,7 +498,9 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -464,7 +518,9 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -482,7 +538,9 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -500,7 +558,9 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -518,7 +578,9 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Action",
     "secondaryGenre": "Horror",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -536,7 +598,9 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -554,7 +618,9 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -572,7 +638,9 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -590,7 +658,10 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Horror",
-    "originCountries": ["US", "FR"],
+    "originCountries": [
+      "US",
+      "FR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -608,7 +679,10 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US", "FR"],
+    "originCountries": [
+      "US",
+      "FR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -626,7 +700,9 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Action",
     "secondaryGenre": "Horror",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -644,7 +720,9 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Horror",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -662,7 +740,9 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -680,7 +760,9 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -698,7 +780,349 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "503736",
+    "tmdbId": 503736,
+    "type": "movie",
+    "title": "Army of the Dead",
+    "overview": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+    "year": "2021",
+    "rating": 6.189,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gCIsRxzcxvmuLYeAvWgoOuSxszF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nlJkXc9NG6tnqM2oEJ4yVEWQQ6K.png",
+    "certificate": "R",
+    "runTimeMinutes": 148,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "405774",
+    "tmdbId": 405774,
+    "type": "movie",
+    "title": "Bird Box",
+    "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+    "year": "2018",
+    "rating": 6.822,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5geEjUx1MaGpJHDCskeoOHdqFYR.png",
+    "certificate": "R",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "599975",
+    "tmdbId": 599975,
+    "type": "movie",
+    "title": "Countdown",
+    "overview": "A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.",
+    "year": "2019",
+    "rating": 6.208,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A2gg4AujbLakz91ZhF7VDXoU6Al.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "591274",
+    "tmdbId": 591274,
+    "type": "movie",
+    "title": "Fear Street: 1978",
+    "overview": "In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns' history come alive.",
+    "year": "2021",
+    "rating": 7.171,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oMnJhVFr0xVfxy4HPBt1LDKoFgV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6rJifYFt5JW0qH2Cqc9WTTYaWdg.png",
+    "certificate": "R",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1062722",
+    "tmdbId": 1062722,
+    "type": "movie",
+    "title": "Frankenstein",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "year": "2025",
+    "rating": 7.618,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AjgdfuPzZdqCEH6qxPqRXtmYFDZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1125311",
+    "tmdbId": 1125311,
+    "type": "movie",
+    "title": "Imaginary",
+    "overview": "When Jessica moves back into her childhood home with her family, her youngest stepdaughter Alice develops an eerie attachment to a stuffed bear named Chauncey she finds in the basement. Alice starts playing games with Chauncey that begin playful and become increasingly sinister. As Alice’s behavior becomes more and more concerning, Jessica intervenes only to realize Chauncey is much more than the stuffed toy bear she believed him to be.",
+    "year": "2024",
+    "rating": 5.883,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bPCxkrCEGJmaYfvdXj0x3mCLbGr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/TGsfNWkASegCfAn6ED1b08a9O6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3t98vrkZ2ORY9qsC0Biz0u6knaO.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "22894",
+    "tmdbId": 22894,
+    "type": "movie",
+    "title": "Legion",
+    "overview": "When God loses faith in humankind, he sends his legion of angels to bring on the Apocalypse. Humanity's only hope for survival lies in a group of strangers trapped in an out-of-the-way, desert diner with the Archangel Michael.",
+    "year": "2010",
+    "rating": 5.908,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ykocDqwg5PRUopnBVb1x1DWnEJF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7HzdWt7Rz3VeoHk5QEBEZaa0m1S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oxeblWVFZlrg9sl9t63nJQ0JC1q.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "38321",
+    "tmdbId": 38321,
+    "type": "movie",
+    "title": "Priest",
+    "overview": "In an alternate world, humanity and vampires have warred for centuries. After the last Vampire War, the veteran Warrior Priest lives in obscurity with other humans inside one of the Church's walled cities. When the Priest's niece is kidnapped by vampires, the Priest breaks his vows to hunt them down. He is accompanied by the niece's boyfriend, who is a wasteland sheriff, and a former Warrior Priestess.",
+    "year": "2011",
+    "rating": 5.91,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fYHiA7LPGl9DG7m3DUs0Td1VMcO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/srrzHjAzhYzUulBbllQCNekgnQb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jAIPvSRq7DWzmsUCWwaXsHGH507.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1257009",
+    "tmdbId": 1257009,
+    "type": "movie",
+    "title": "Primitive War",
+    "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
+    "year": "2025",
+    "rating": 6.651,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/noujgznyJIaurEinZhcSVzTmkLo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bWF5ImUscXXYia8owpm8coadR4m.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kDhYSQFapYt6o6FAOhm2U5BotKx.png",
+    "certificate": "NR",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "273477",
+    "tmdbId": 273477,
+    "type": "movie",
+    "title": "Scouts Guide to the Zombie Apocalypse",
+    "overview": "Three scouts and lifelong friends join forces with one badass cocktail waitress to become the world’s most unlikely team of heroes.  When their peaceful town is ravaged by a zombie invasion, they’ll fight for the badge of a lifetime and put their scouting skills to the test to save mankind from the undead.",
+    "year": "2015",
+    "rating": 6.595,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ks2C2Ap2W79L5QiVQ7jVp5mmIna.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/em9wHIdhRYv8vz740x2YUF0coMw.png",
+    "certificate": "R",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1114513",
+    "tmdbId": 1114513,
+    "type": "movie",
+    "title": "Speak No Evil",
+    "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+    "year": "2024",
+    "rating": 7.093,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zr3qHlfh6NwhaV1ZabPPlc2OShu.png",
+    "certificate": "R",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1118584",
+    "tmdbId": 1118584,
+    "type": "movie",
+    "title": "Talk to Me",
+    "overview": "Farid, who works abroad, locks himself on the last day of his stay in Beirut in his son Rawad's room, to find what he is hiding there. Separated by a locked door, the dysfunctional dynamic between them intensifies, and the past resurfaces.",
+    "year": "2022",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9t7gUKSxXjvQpgHdC7VUhJ1BTBK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AnV8SUecu2AHf0moME3qWpk59NS.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 21,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "LB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "419479",
+    "tmdbId": 419479,
+    "type": "movie",
+    "title": "The Babysitter",
+    "overview": "When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.",
+    "year": "2017",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uAzKNxGnbK5SL7VF7UeQyZdQLHV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wNW576H4HtGy3kQHDeI4x8uHEZ3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hSWjIpCkSg3s1UbktRJ9vtE87ti.png",
+    "certificate": "R",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "433808",
+    "tmdbId": 433808,
+    "type": "movie",
+    "title": "The Ritual",
+    "overview": "A group of college friends reunite for a trip to the forest, but encounter a menacing presence in the woods that's stalking them.",
+    "year": "2017",
+    "rating": 6.303,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vaArQHq1lHFNppoJlMlv30Gs2fQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/txJNYb27i8j39RusDkx9syIAYuQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1010600",
+    "tmdbId": 1010600,
+    "type": "movie",
+    "title": "The Strangers: Chapter 1",
+    "overview": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+    "year": "2024",
+    "rating": 5.675,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5mbBEVKSnyzNJ4v9dpC58o9bzHx.png",
+    "certificate": "R",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "827931",
+    "tmdbId": 827931,
+    "type": "movie",
+    "title": "Time Cut",
+    "overview": "A teen in 2024 accidentally time-travels to 2003, days before a masked killer murders her sister. Can she change the past without destroying the future?",
+    "year": "2024",
+    "rating": 5.641,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qYvOcinXcnebhmCxYeivurh91T1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m65wshPpjiNP6neBp1CstMyMdAF.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1001311",
+    "tmdbId": 1001311,
+    "type": "movie",
+    "title": "Under Paris",
+    "overview": "In order to save Paris from an international bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.",
+    "year": "2024",
+    "rating": 5.925,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6U3kqBTVffeLLOUlofZkMExnK3b.png",
+    "certificate": "R",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "FR"
+    ],
     "originalLanguage": ""
   }
 ]

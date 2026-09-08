@@ -759,5 +759,165 @@
       "IN"
     ],
     "originalLanguage": ""
+  },
+  {
+    "id": "1211419",
+    "tmdbId": 1211419,
+    "type": "movie",
+    "title": "A Vampire in the Family",
+    "overview": "Fernandinho is a family man, former football player and a current podcast commentator that is surprised by the visit of his inconvenient brother-in-law, Gregorio, who discovers to be lazy and literally a bloodsucker - a vampire.",
+    "year": "2023",
+    "rating": 5.286,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dws3yBxzT70cI53tEpUk21OIliS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xJdVOpzJ4SOV8yJQpaIXByZOFh1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7uWhhlpqtU25NeyF3auVGtx8y1y.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1429834",
+    "tmdbId": 1429834,
+    "type": "movie",
+    "title": "Almost Family",
+    "overview": "A Brazilian father finds a worthy opponent when he meets his daughter's Argentine in-laws, and a trip to Bariloche becomes the stage for a fun international rivalry.",
+    "year": "2025",
+    "rating": 6.294,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sJTEJDlUwuXet2s8Ou6MUryqpQh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lP5kcBL67k4aduIEzlSTVRR4RBh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7vnznR4ERdrxf9EZxog6jmOAZez.png",
+    "certificate": "PG",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "643215",
+    "tmdbId": 643215,
+    "type": "movie",
+    "title": "Asterix & Obelix: The Middle Kingdom",
+    "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+    "year": "2023",
+    "rating": 4.823,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vsRhZCmZFYYgrfqK54temfuDlBJ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "755045",
+    "tmdbId": 755045,
+    "type": "movie",
+    "title": "Cirkus",
+    "overview": "Two sets of identical twins are accidentally separated at birth. Several years later, when they are coincidentally in the same town, there is a lot of confusion and misunderstanding when people mistake them for each other.",
+    "year": "2022",
+    "rating": 4.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/if1EDRozDB2LJ8IO2d7lzt46Ahh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jfbN09FuWw5cQNl248pL5KAyjZ7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/91aC5KB7kKaIpIGXsZ6LTWV7Ll6.png",
+    "certificate": "NR",
+    "runTimeMinutes": 139,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "755339",
+    "tmdbId": 755339,
+    "type": "movie",
+    "title": "Just Another Christmas",
+    "overview": "After taking a very nasty fall on Christmas Eve, grinchy Jorge blacks out and wakes up one year later, with no memory of the year that has passed. He soon realizes that he’s doomed to keep waking up on Christmas Eve after Christmas Eve, having to deal with the aftermath of what his other self has done the other 364 days of the year.",
+    "year": "2020",
+    "rating": 7.34,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/36xTkr5CxVGKqe55q6lxVa8LyK3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/si3wY2ndrwufBH76ps3BxFlGEO2.svg",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "585062",
+    "tmdbId": 585062,
+    "type": "movie",
+    "title": "Luka Chuppi",
+    "overview": "The story of a television reporter in Mathura who falls in love with a headstrong woman.",
+    "year": "2019",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ozCWKIQisOfWFgJDLMggIeEFTLE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/53Hdv97EopLH8MmvV1bUP8IpUyv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xwhyWKW3TwyhQz3J1vWn3qpa58O.png",
+    "certificate": null,
+    "runTimeMinutes": 126,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "994006",
+    "tmdbId": 994006,
+    "type": "movie",
+    "title": "The Entitled",
+    "overview": "Suddenly catapulted into high society, a young woman who lacks a bit of finesse tries to integrate into her new surroundings.",
+    "year": "2022",
+    "rating": 4.885,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/plv85l002BHwPq7zvjceGt4h3nz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nyl5ERVPNMElUICsTmY98zZ5iqp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oYhLHUSpPbT8ajjpv4U1UrZRvu3.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1618945",
+    "tmdbId": 1618945,
+    "type": "movie",
+    "title": "Yoh! Bestie",
+    "overview": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
+    "year": "2026",
+    "rating": 6.26,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/svD9iA104DNbTTOHWlhF9Ddl9kO.png",
+    "certificate": null,
+    "runTimeMinutes": 95,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "ZA"
+    ],
+    "originalLanguage": ""
   }
 ]

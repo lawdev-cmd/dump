@@ -1,0 +1,807 @@
+[
+  {
+    "id": "40807",
+    "tmdbId": 40807,
+    "type": "movie",
+    "title": "50/50",
+    "overview": "Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.",
+    "year": "2011",
+    "rating": 7.197,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/inJlDPDtKlbXn9zhdTrohhbFlD6.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "644",
+    "tmdbId": 644,
+    "type": "movie",
+    "title": "A.I. Artificial Intelligence",
+    "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+    "year": "2001",
+    "rating": 7.069,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 146,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "329865",
+    "tmdbId": 329865,
+    "type": "movie",
+    "title": "Arrival",
+    "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "year": "2016",
+    "rating": 7.633,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "283587",
+    "tmdbId": 283587,
+    "type": "movie",
+    "title": "Beasts of No Nation",
+    "overview": "Based on the experiences of Agu, a child fighting in the civil war of a West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
+    "year": "2015",
+    "rating": 7.582,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Edm0assnCckcdCFrUdufR9daaI.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "301502",
+    "tmdbId": 301502,
+    "type": "movie",
+    "title": "Blonde",
+    "overview": "From her volatile childhood as Norma Jeane, through her rise to stardom and romantic entanglements, this reimagined fictional portrait of Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to explore the widening split between her public and private selves.",
+    "year": "2022",
+    "rating": 5.879,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sdirxnHDdRmrM55mWfLCFeMdRSn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ogknWdDKrTwLJk5J4HW4ABzPfTV.png",
+    "certificate": "NC-17",
+    "runTimeMinutes": 167,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "258480",
+    "tmdbId": 258480,
+    "type": "movie",
+    "title": "Carol",
+    "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
+    "year": "2015",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2giW19Qb8Lmyd5XCyVU2avABvhZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wWUGY9UK5np46uASulermNpc0Oo.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "392",
+    "tmdbId": 392,
+    "type": "movie",
+    "title": "Chocolat",
+    "overview": "In the winter of 1959, a single mother and her young daughter arrive in a rural French town, where they open an unusual chocolate shop that disrupts the moral fiber of the strictly Catholic townsfolk and mayor.",
+    "year": "2000",
+    "rating": 6.971,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lnwPvyj8UR7MetG2pQ92453IIoR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ci7lHSttckIgO6TlaT4X1zy8CDi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uLRVOYfOwABmlfUrsLKFqcs4qHC.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1538",
+    "tmdbId": 1538,
+    "type": "movie",
+    "title": "Collateral",
+    "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+    "year": "2004",
+    "rating": 7.249,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9w4gPo5pgmXfdJjEOBD55p1O35i.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "321741",
+    "tmdbId": 321741,
+    "type": "movie",
+    "title": "Concussion",
+    "overview": "A dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu's emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.",
+    "year": "2015",
+    "rating": 7.079,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uuRFr7Jhsq7bITDyyvxZrQMAr9e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fEaZwgkX2k91LJZ5APkaK0aDwg1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wyNIGnF3nBhnQx8N7TAqQWWRzCD.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "471507",
+    "tmdbId": 471507,
+    "type": "movie",
+    "title": "Destroyer",
+    "overview": "When Erin Bell was a young cop, she was given an undercover assignment that ended badly and destroyed her life. Years later, she must face her demons in order to make peace with her past.",
+    "year": "2018",
+    "rating": 5.905,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/o2dRMwUUUg601AaFiPXBNwurAhM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pqXHz3zQnvWp4okuS5bxf3z5xrS.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "393729",
+    "tmdbId": 393729,
+    "type": "movie",
+    "title": "Divines",
+    "overview": "In a ghetto where religion and drug trafficking rub shoulders, Dounia has a lust for power and success. Supported by Maimouna, her best friend, she decides to follow in the footsteps of Rebecca, a respected dealer. But her encounter with Djigui, a young, disturbingly sensual dancer, throws her off course.",
+    "year": "2016",
+    "rating": 7.657,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gOwIZPNFstt9BWUyekMzSF2Wzd1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3uIHgW5SAaa8kP24aoFvgf9hjOX.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 105,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "528888",
+    "tmdbId": 528888,
+    "type": "movie",
+    "title": "Dolemite Is My Name",
+    "overview": "The story of Rudy Ray Moore, who created the iconic big screen pimp character Dolemite in the 1970s.",
+    "year": "2019",
+    "rating": 6.963,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2ycAZWELqHygeqivCLuqNQsYPSP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mViXtulVDeIEwMN2lTV34rlzXat.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "646380",
+    "tmdbId": 646380,
+    "type": "movie",
+    "title": "Don't Look Up",
+    "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+    "year": "2021",
+    "rating": 7.057,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eYgCFNcx04Hji4VrZDDtcOh6LNE.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "472734",
+    "tmdbId": 472734,
+    "type": "movie",
+    "title": "Dumplin'",
+    "overview": "To prove a point about measuring up and fitting in, Texas teen Willowdean “Dumplin’” Dickson enters a local pageant run by her ex-beauty queen mom.",
+    "year": "2018",
+    "rating": 6.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9c9X3HHlBKuPpvOcFIxlldS7TGh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eLEk0oQpa6FfnmKeIK1wRnO6Y4k.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "275",
+    "tmdbId": 275,
+    "type": "movie",
+    "title": "Fargo",
+    "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+    "year": "1996",
+    "rating": 7.849,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/33niNRK7JDLcaGy2pcJsYkVTeq7.png",
+    "certificate": "R",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "433247",
+    "tmdbId": 433247,
+    "type": "movie",
+    "title": "First They Killed My Father",
+    "overview": "A 5-year-old girl embarks on a harrowing quest for survival amid the sudden rise and terrifying reign of the Khmer Rouge in Cambodia.",
+    "year": "2017",
+    "rating": 7.371,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4hEp8ZAycjitk7UOX0VpfSFnwRU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2zqeK0l5A4BADrtqcFqkuxwsGdD.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "War",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "121986",
+    "tmdbId": 121986,
+    "type": "movie",
+    "title": "Frances Ha",
+    "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+    "year": "2013",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oUVd42KgJWW6YnZLfzI7SDTdcPL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d7O28FvoZZf79Fy9EDnUQHTKJV2.png",
+    "certificate": "R",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "592984",
+    "tmdbId": 592984,
+    "type": "movie",
+    "title": "Hillbilly Elegy",
+    "overview": "An urgent phone call pulls a Yale Law student back to his Ohio hometown, where he reflects on three generations of family history and his own future.",
+    "year": "2020",
+    "rating": 6.677,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kCqWQ24m7TjA0RllQMn0JYrcy4a.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ma5uxlBZSIILbD6rjtOKnoktVea.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "11931",
+    "tmdbId": 11931,
+    "type": "movie",
+    "title": "In Her Shoes",
+    "overview": "Irresponsible party girl Maggie is kicked out of her father's and stepmother's home—where she lives for free—and is taken in by her hard-working sister, Philadelphia lawyer Rose. After Maggie's disruptive ways ruin her sister's love life, Rose turns her out as well. But when their grandmother, who they never knew existed, comes into their lives, the sisters face some complicated truths about themselves and their family.",
+    "year": "2005",
+    "rating": 6.223,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gmd2n3TuXewrbINp8Jfhwd5Jw6S.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yNhmsmCqK6bTl4xUT28fJ1r6f61.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o4lk7AnDHriuHborTnVAVFYYdhN.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US",
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1069905",
+    "tmdbId": 1069905,
+    "type": "movie",
+    "title": "Jay Kelly",
+    "overview": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
+    "year": "2025",
+    "rating": 6.129,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c30boUKrENwHp5vsvz8AkeUDWwo.png",
+    "certificate": "R",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "16620",
+    "tmdbId": 16620,
+    "type": "movie",
+    "title": "La Bamba",
+    "overview": "Los Angeles teenager Ritchie Valens becomes an overnight rock 'n' roll success in 1958, thanks to a love ballad called \"Donna\" that he wrote for his girlfriend. But as his star rises, Valens has conflicts with his jealous brother, Bob, and becomes haunted by a recurring nightmare of a plane crash just as he begins his first national tour alongside Buddy Holly.",
+    "year": "1987",
+    "rating": 7.28,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jXDanAOPM6gmypt72WlkZwrPuK0.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "331482",
+    "tmdbId": 331482,
+    "type": "movie",
+    "title": "Little Women",
+    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+    "year": "2019",
+    "rating": 7.841,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hyf1yl5axqVSSKRfvZW9rqDq7A.png",
+    "certificate": "PG",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "839369",
+    "tmdbId": 839369,
+    "type": "movie",
+    "title": "May December",
+    "overview": "Twenty years after their notorious tabloid romance gripped the nation, a married couple buckles under the pressure when an actress arrives to do research for a film about their past.",
+    "year": "2023",
+    "rating": 6.568,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/97MOhHIgU6ZdLcB9DrAhx3WAqrU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ydHSkQ1JvgKkrFRC6qQrSznYGxB.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "414425",
+    "tmdbId": 414425,
+    "type": "movie",
+    "title": "Mudbound",
+    "overview": "In the post–World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.",
+    "year": "2017",
+    "rating": 7.357,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tf21kSKepMOlnorszWaiFwksKU4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/m0CrcOOSUK6Ylf0pkGfGX0BdDq7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7Evc2XSe4JTI5df0Ql9HWjisfug.png",
+    "certificate": "R",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "581032",
+    "tmdbId": 581032,
+    "type": "movie",
+    "title": "News of the World",
+    "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+    "year": "2020",
+    "rating": 6.908,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oyBZyY5GdzZdofVVsDda49QmvFP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uJ7IqfP6Trhd39mY9aW23QLs8rD.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10312",
+    "tmdbId": 10312,
+    "type": "movie",
+    "title": "Patch Adams",
+    "overview": "The true story of Dr. Hunter \"Patch\" Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh—even if it meant risking his own career.",
+    "year": "1998",
+    "rating": 7.31,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rSxRM9ndmYsXYravDgslNf7nAbM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "641662",
+    "tmdbId": 641662,
+    "type": "movie",
+    "title": "Pieces of a Woman",
+    "overview": "When a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.",
+    "year": "2020",
+    "rating": 7.01,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/izNpxVcjKbF9BiYF4GVqxCOfewL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l4B6eQQWNlta4bng4nW5MeaodEu.png",
+    "certificate": "R",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA",
+      "US",
+      "HU"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "4348",
+    "tmdbId": 4348,
+    "type": "movie",
+    "title": "Pride & Prejudice",
+    "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+    "year": "2005",
+    "rating": 8.054,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vuyRQbu5GHZcZ1Ky6SXLjO0QHnb.png",
+    "certificate": "PG",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "898713",
+    "tmdbId": 898713,
+    "type": "movie",
+    "title": "Rustin",
+    "overview": "Activist Bayard Rustin faces racism and homophobia as he helps change the course of Civil Rights history by orchestrating the 1963 March on Washington.",
+    "year": "2023",
+    "rating": 6.502,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dFmp1KIGdSVDhIhy0yQNmCDTjav.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k2r4oGKra7gdEtJroZyng9jPlVe.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1120911",
+    "tmdbId": 1120911,
+    "type": "movie",
+    "title": "Saturday Night",
+    "overview": "At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television forever. This is the story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live.",
+    "year": "2024",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9ewYb0LIBJNds8ZMoobKYUd647g.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jtyc3yVWPJWHlebztwLfKTAsRvr.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "906126",
+    "tmdbId": 906126,
+    "type": "movie",
+    "title": "Society of the Snow",
+    "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+    "year": "2023",
+    "rating": 7.968,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2e853FDVSIso600RqAMunPxiZjq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3PVk5gmcRmJ3Jq1CxR1YeX07W4m.png",
+    "certificate": "R",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9663",
+    "tmdbId": 9663,
+    "type": "movie",
+    "title": "Starman",
+    "overview": "When an alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona, the government tries to stop them.",
+    "year": "1984",
+    "rating": 6.928,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/a34NyULWqPXALmAF6rE3kne9ZfX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eQxluGSaYcy4JRmoM1KISes1gPl.png",
+    "certificate": "PG",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "541134",
+    "tmdbId": 541134,
+    "type": "movie",
+    "title": "The Good Nurse",
+    "overview": "Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth.",
+    "year": "2022",
+    "rating": 6.869,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x2U0R60Z7hmJxZixzsGZfjFJbve.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xhOwjqYxsONnXHOrk7ZK638OxsX.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "205587",
+    "tmdbId": 205587,
+    "type": "movie",
+    "title": "The Judge",
+    "overview": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
+    "year": "2014",
+    "rating": 7.33,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/anPUcSUkSlwP7bw7oi6kDRRyfjE.png",
+    "certificate": "R",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "554230",
+    "tmdbId": 554230,
+    "type": "movie",
+    "title": "The Lost Daughter",
+    "overview": "A woman's seaside vacation takes a dark turn when her obsession with a young mother forces her to confront secrets from her past.",
+    "year": "2021",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6jRHaYJyje5RNS3L353udrPU3ME.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1KW3atUNKx3JlD6nE5sNC60hqX8.png",
+    "certificate": "R",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "614911",
+    "tmdbId": 614911,
+    "type": "movie",
+    "title": "The Midnight Sky",
+    "overview": "A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.",
+    "year": "2020",
+    "rating": 5.731,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dueiWzWc81UAgnbDAyH4Gjqnh4n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u6AH3PDY8bbzvEdLI2fy70aDpbY.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "23168",
+    "tmdbId": 23168,
+    "type": "movie",
+    "title": "The Town",
+    "overview": "A proficient group of thieves rob a bank and hold the manager hostage. Things begin to get complicated when one of the crew members falls in love with her.",
+    "year": "2010",
+    "rating": 7.226,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6hgAWJdjRO9AVbE3NhubDQLCz1I.png",
+    "certificate": "R",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "551332",
+    "tmdbId": 551332,
+    "type": "movie",
+    "title": "The Two Popes",
+    "overview": "Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church.",
+    "year": "2019",
+    "rating": 7.474,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bOPessdyd0dChHy70FM8Om7CgDg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lz6H7FHHICfbN1zdGWgmWooyBBm.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1241983",
+    "tmdbId": 1241983,
+    "type": "movie",
+    "title": "Train Dreams",
+    "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+    "year": "2025",
+    "rating": 7.318,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jnaOmD9PmAkNjgVtCn17o7clOYe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fGMX5T1D4FWagJIRXFP31Mc0ThR.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "744594",
+    "tmdbId": 744594,
+    "type": "movie",
+    "title": "White Noise",
+    "overview": "Jack Gladney, professor of Hitler studies at The-College-on-the-Hill, husband to Babette, and father to four children/stepchildren, is torn asunder by a chemical spill from a rail car that releases an \"Airborne Toxic Event\" forcing Jack to confront his biggest fear - his own mortality.",
+    "year": "2022",
+    "rating": 5.581,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4QB2TfxmzgMDLmsVVk1HM4tt7ef.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q6fHEVIzgu9ElVFIb1HH24ig7CE.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  }
+]

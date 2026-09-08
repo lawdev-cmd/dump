@@ -799,5 +799,125 @@
       "JP"
     ],
     "originalLanguage": ""
+  },
+  {
+    "id": "449574",
+    "tmdbId": 449574,
+    "type": "movie",
+    "title": "Godzilla: Planet of the Monsters",
+    "overview": "A desperate group of refugees attempts to recolonize Earth 20,000 years after Godzilla took over. But one young man wants revenge above all else.",
+    "year": "2017",
+    "rating": 6.363,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5QAc8dsyOwJBGQ71mhOLMEivOsF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/znbMrE4LN4BS3UTuk0i9kifdSoi.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "169934",
+    "tmdbId": 169934,
+    "type": "movie",
+    "title": "Iron Man: Rise of Technovore",
+    "overview": "Iron Man enlists the help of ruthless vigilante the Punisher to track down War Machine's murderer. All the while, he's being pursued by S.H.I.E.L.D. agents Black Widow and Hawkeye, who suspect his involvement in a recent terrorist plot.",
+    "year": "2013",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eHDez1uN5X2ZAq4niX7HvhyZIIO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dC69G4jSq3TkgPIrfgRqZDOxlh4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/35Amiit5fGQBz8Xb5Rilj5MBzd6.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "685274",
+    "tmdbId": 685274,
+    "type": "movie",
+    "title": "Mobile Suit Gundam Hathaway",
+    "overview": "Twelve years after Char's rebellion, Hathaway Noa leads an insurgency against Earth Federation, but meeting an enemy officer and a mysterious woman alters his fate.",
+    "year": "2021",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6gw8onh4FKsruBA7Oouv01EFxzn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lkQ3p3zLVY9mfLPEJ1mdIbfSLmk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vKZVPhu16j9CDHn2dfFBDmAzq9C.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "37933",
+    "tmdbId": 37933,
+    "type": "movie",
+    "title": "Tales from Earthsea",
+    "overview": "As crops dwindle and dragons reappear, mankind stands on the verge of total chaos. Lord Archmage Sparrowhawk, a powerful wizard, and Arren, a troubled young prince, search for the force behind this mysterious imbalance that threatens to destroy the land of Earthsea.",
+    "year": "2006",
+    "rating": 6.525,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/x5ufEAM7bS7DVXaovApamQh5BNE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5Ui5we398ldlqCWZyLs5UOMphXa.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "18491",
+    "tmdbId": 18491,
+    "type": "movie",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+    "year": "1997",
+    "rating": 8.268,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AbCwf7YnBPielNGBvTXNPTMTgFA.png",
+    "certificate": "NR",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "666243",
+    "tmdbId": 666243,
+    "type": "movie",
+    "title": "The Witcher: Nightmare of the Wolf",
+    "overview": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.",
+    "year": "2021",
+    "rating": 7.426,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/orGlr1vHTgbDkGJPwuBjd8ncVjQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pfkLJuC6mKOWrEpo33H1Ld5Fa1e.png",
+    "certificate": "R",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
   }
 ]

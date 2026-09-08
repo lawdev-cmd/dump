@@ -779,5 +779,65 @@
       "JP"
     ],
     "originalLanguage": ""
+  },
+  {
+    "id": "887870",
+    "tmdbId": 887870,
+    "type": "movie",
+    "title": "Blue Giant",
+    "overview": "High school student Dai Miyamoto has his life is turned upside down the day he discovers jazz. Picking up a saxophone and leaving his sleepy hometown for the bustling nightclubs of Tokyo, Dai will find that the life of a professional musician isn’t for the faint of heart, as he must confront what it truly means to be great.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7LxbzvDvdeU7lBzB92JShURa0cM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pRfBBi7q8cvM4NiKCh9cGmQdocV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/45YdjAYhSDjwgRhycX5AmyPr1yr.png",
+    "certificate": "NR",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "449574",
+    "tmdbId": 449574,
+    "type": "movie",
+    "title": "Godzilla: Planet of the Monsters",
+    "overview": "A desperate group of refugees attempts to recolonize Earth 20,000 years after Godzilla took over. But one young man wants revenge above all else.",
+    "year": "2017",
+    "rating": 6.363,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5QAc8dsyOwJBGQ71mhOLMEivOsF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/znbMrE4LN4BS3UTuk0i9kifdSoi.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "21057",
+    "tmdbId": 21057,
+    "type": "movie",
+    "title": "Ocean Waves",
+    "overview": "At Kichijōji Station, Tokyo, Taku Morisaki glimpses a familiar woman on the platform opposite boarding a train. Later, her photo falls from a shelf as he exits his apartment before flying to Kōchi Prefecture. Picking it up, he looks at it briefly before leaving. As the aeroplane takes off, he narrates the events that brought her into his life...",
+    "year": "1993",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fSR1LLMIJZ6WcQEkM82yKy4F9vQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6ryHAHtpcNTExUVekeaNe0xmDbb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9EwYqn9kwghkr02jbP3xzgHqLHw.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
   }
 ]

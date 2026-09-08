@@ -14,7 +14,9 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["DK"],
+    "originCountries": [
+      "DK"
+    ],
     "originalLanguage": ""
   },
   {
@@ -32,7 +34,9 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -50,7 +54,9 @@
     "runTimeMinutes": 15,
     "primaryGenre": "Music",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -68,7 +74,9 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Music",
     "secondaryGenre": "History",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -86,7 +94,9 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -104,7 +114,9 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -122,7 +134,10 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": ["DE", "IT"],
+    "originCountries": [
+      "DE",
+      "IT"
+    ],
     "originalLanguage": ""
   },
   {
@@ -140,7 +155,9 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": ["AU"],
+    "originCountries": [
+      "AU"
+    ],
     "originalLanguage": ""
   },
   {
@@ -158,7 +175,9 @@
     "runTimeMinutes": 155,
     "primaryGenre": "War",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -176,7 +195,9 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": ["FR"],
+    "originCountries": [
+      "FR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -194,7 +215,9 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
-    "originCountries": ["NL"],
+    "originCountries": [
+      "NL"
+    ],
     "originalLanguage": ""
   },
   {
@@ -212,7 +235,9 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["TR"],
+    "originCountries": [
+      "TR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -230,7 +255,10 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["AU", "US"],
+    "originCountries": [
+      "AU",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -248,7 +276,9 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -266,7 +296,9 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["MX"],
+    "originCountries": [
+      "MX"
+    ],
     "originalLanguage": ""
   },
   {
@@ -284,7 +316,9 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Family",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -302,7 +336,9 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["PH"],
+    "originCountries": [
+      "PH"
+    ],
     "originalLanguage": ""
   },
   {
@@ -320,7 +356,9 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["BR"],
+    "originCountries": [
+      "BR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -338,7 +376,9 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -356,7 +396,9 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -374,7 +416,9 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -392,7 +436,9 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["CL"],
+    "originCountries": [
+      "CL"
+    ],
     "originalLanguage": ""
   },
   {
@@ -410,7 +456,9 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Romance",
     "secondaryGenre": "Music",
-    "originCountries": ["PH"],
+    "originCountries": [
+      "PH"
+    ],
     "originalLanguage": ""
   },
   {
@@ -428,7 +476,9 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": ["ES"],
+    "originCountries": [
+      "ES"
+    ],
     "originalLanguage": ""
   },
   {
@@ -446,7 +496,9 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -464,7 +516,9 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -482,7 +536,9 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -500,7 +556,9 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["CN"],
+    "originCountries": [
+      "CN"
+    ],
     "originalLanguage": ""
   },
   {
@@ -518,7 +576,9 @@
     "runTimeMinutes": 144,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -536,7 +596,9 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -554,7 +616,9 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -572,7 +636,9 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -590,7 +656,9 @@
     "runTimeMinutes": 137,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -608,7 +676,9 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -626,7 +696,9 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -644,7 +716,9 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -662,7 +736,9 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -680,7 +756,9 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -698,7 +776,9 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["MX"],
+    "originCountries": [
+      "MX"
+    ],
     "originalLanguage": ""
   },
   {
@@ -716,7 +796,10 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CY", "US"],
+    "originCountries": [
+      "CY",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -734,7 +817,9 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Animation",
     "secondaryGenre": "Romance",
-    "originCountries": ["JP"],
+    "originCountries": [
+      "JP"
+    ],
     "originalLanguage": ""
   },
   {
@@ -752,7 +837,9 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["PH"],
+    "originCountries": [
+      "PH"
+    ],
     "originalLanguage": ""
   },
   {
@@ -770,7 +857,149 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": ["BR"],
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "332562",
+    "tmdbId": 332562,
+    "type": "movie",
+    "title": "A Star Is Born",
+    "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+    "year": "2018",
+    "rating": 7.489,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/px1y5QKnt2VReQsOk4sfh71tINy.png",
+    "certificate": "R",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Music",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "889737",
+    "tmdbId": 889737,
+    "type": "movie",
+    "title": "Joker: Folie à Deux",
+    "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "year": "2024",
+    "rating": 5.403,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AVWlQpVhpudyFsSh3OQIieHHYf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cy6WlTXPsAZEIfNK2laJiSETwb1.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "16620",
+    "tmdbId": 16620,
+    "type": "movie",
+    "title": "La Bamba",
+    "overview": "Los Angeles teenager Ritchie Valens becomes an overnight rock 'n' roll success in 1958, thanks to a love ballad called \"Donna\" that he wrote for his girlfriend. But as his star rises, Valens has conflicts with his jealous brother, Bob, and becomes haunted by a recurring nightmare of a plane crash just as he begins his first national tour alongside Buddy Holly.",
+    "year": "1987",
+    "rating": 7.28,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jXDanAOPM6gmypt72WlkZwrPuK0.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "313369",
+    "tmdbId": 313369,
+    "type": "movie",
+    "title": "La La Land",
+    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+    "year": "2016",
+    "rating": 7.897,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/97DYpdDmiOpfn9l9I2dGxDH01t1.svg",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "762975",
+    "tmdbId": 762975,
+    "type": "movie",
+    "title": "Purple Hearts",
+    "overview": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+    "year": "2022",
+    "rating": 8.043,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jdZM1Gs6DtRGvosgqaXRrIkvYX7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hPIpXRnw4Jk1m3hQsQClCcBiCjh.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "327331",
+    "tmdbId": 327331,
+    "type": "movie",
+    "title": "The Dirt",
+    "overview": "The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
+    "year": "2019",
+    "rating": 7.436,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lFLwxSd9JReOBBxoUwQFBANcyIl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sXID3fXjARG5BuXuDbEh2MeWj8j.png",
+    "certificate": "R",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "537116",
+    "tmdbId": 537116,
+    "type": "movie",
+    "title": "tick, tick... BOOM!",
+    "overview": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
+    "year": "2021",
+    "rating": 7.586,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rrkaKkOFOP1SYIBguRI3J5b7yOq.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   }
 ]

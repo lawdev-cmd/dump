@@ -14,7 +14,9 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -32,7 +34,9 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": ["BR"],
+    "originCountries": [
+      "BR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -50,7 +54,9 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -68,7 +74,9 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": ["JP"],
+    "originCountries": [
+      "JP"
+    ],
     "originalLanguage": ""
   },
   {
@@ -86,7 +94,10 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["DE", "GB"],
+    "originCountries": [
+      "DE",
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -104,7 +115,9 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Animation",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -122,7 +135,9 @@
     "runTimeMinutes": 34,
     "primaryGenre": "Animation",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -140,7 +155,9 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -158,7 +175,9 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -176,7 +195,9 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Comedy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -194,7 +215,9 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["ES"],
+    "originCountries": [
+      "ES"
+    ],
     "originalLanguage": ""
   },
   {
@@ -212,7 +235,10 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": ["GB", "US"],
+    "originCountries": [
+      "GB",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -230,7 +256,9 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": ["NO"],
+    "originCountries": [
+      "NO"
+    ],
     "originalLanguage": ""
   },
   {
@@ -248,7 +276,9 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -266,7 +296,9 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -284,7 +316,9 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["PH"],
+    "originCountries": [
+      "PH"
+    ],
     "originalLanguage": ""
   },
   {
@@ -302,7 +336,9 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -320,7 +356,9 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -338,7 +376,9 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -356,7 +396,10 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA", "US"],
+    "originCountries": [
+      "CA",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -374,7 +417,9 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": ["JP"],
+    "originCountries": [
+      "JP"
+    ],
     "originalLanguage": ""
   },
   {
@@ -392,7 +437,9 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": ["JP"],
+    "originCountries": [
+      "JP"
+    ],
     "originalLanguage": ""
   },
   {
@@ -410,7 +457,9 @@
     "runTimeMinutes": 40,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": ["FR"],
+    "originCountries": [
+      "FR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -428,7 +477,9 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -446,7 +497,9 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -464,7 +517,29 @@
     "runTimeMinutes": 22,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "97400",
+    "tmdbId": 97400,
+    "type": "show",
+    "title": "Midnight Mass",
+    "overview": "The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe.",
+    "year": "2021",
+    "rating": 7.564,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/YauN3gyvgqktYhze4gXPWuoZBY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qhUiIRrMkcZSjKxCh5lxdbAE5nV.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   }
 ]

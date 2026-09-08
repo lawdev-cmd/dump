@@ -14,7 +14,9 @@
     "runTimeMinutes": 80,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -32,7 +34,9 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -50,7 +54,9 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -68,7 +74,9 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -86,7 +94,9 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -104,7 +114,9 @@
     "runTimeMinutes": 90,
     "primaryGenre": "TV Movie",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -122,7 +134,9 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -140,7 +154,9 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -158,7 +174,9 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -176,7 +194,9 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Drama",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -194,7 +214,9 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -212,7 +234,9 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -230,7 +254,9 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Action",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -248,7 +274,9 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -266,7 +294,11 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": ["CA", "GB", "US"],
+    "originCountries": [
+      "CA",
+      "GB",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -284,7 +316,9 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -302,7 +336,9 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -320,7 +356,9 @@
     "runTimeMinutes": 168,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -338,7 +376,9 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -356,7 +396,9 @@
     "runTimeMinutes": 158,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -374,7 +416,9 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -392,7 +436,9 @@
     "runTimeMinutes": 90,
     "primaryGenre": "TV Movie",
     "secondaryGenre": "Comedy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -410,7 +456,9 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -428,7 +476,9 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -446,7 +496,9 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -464,7 +516,9 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -482,7 +536,9 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -500,7 +556,9 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -518,7 +576,10 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": ["CA", "GB"],
+    "originCountries": [
+      "CA",
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -536,7 +597,9 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -554,7 +617,10 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA", "FR"],
+    "originCountries": [
+      "CA",
+      "FR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -572,7 +638,9 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -590,7 +658,9 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -608,7 +678,9 @@
     "runTimeMinutes": 20,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -626,7 +698,10 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": ["CA", "US"],
+    "originCountries": [
+      "CA",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -644,7 +719,9 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": ["FR"],
+    "originCountries": [
+      "FR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -662,7 +739,10 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["FR", "CA"],
+    "originCountries": [
+      "FR",
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -680,7 +760,9 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -698,7 +780,9 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -716,7 +800,9 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -734,7 +820,454 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Family",
-    "originCountries": ["CA", "FR"],
+    "originCountries": [
+      "CA",
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "280218",
+    "tmdbId": 280218,
+    "type": "movie",
+    "title": "1987",
+    "overview": "In 1987, Ricardo is seventeen years old. This summer, Ricardo has a busy schedule: lose his virginity, find a way to get into bars, get a car and spend time with his friends. In order to make fast money, Ricardo decides to use his Italian connections to take a shortcut via the world of crime. But things don't go so smoothly.",
+    "year": "2014",
+    "rating": 6.902,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/h5Od9rVwDBJ9FEtfyxJxjakaoZA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bRYAXMSYXPsNbtAUmgxCbecS0BZ.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1507275",
+    "tmdbId": 1507275,
+    "type": "movie",
+    "title": "A Paw Patrol Christmas",
+    "overview": "Rubble is looking forward to Santa bringing him a new laser drill, but finds that Santa has come down with a cold and can’t deliver any presents. When Mayor Humdinger decides he’s going to the North Pole to take all the gifts for himself, it’s up to the PAW Patrol to stop him.",
+    "year": "2025",
+    "rating": 7.423,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/32mjpsITLwEQcvqKuMBGyajN18h.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m4mEHrZdfJi1Xi5gIZvNpUszb6L.png",
+    "certificate": "G",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "850028",
+    "tmdbId": 850028,
+    "type": "movie",
+    "title": "Alice, Darling",
+    "overview": "Pushed to the breaking point by Simon, her psychologically abusive boyfriend, Alice becomes an unwitting participant in an intervention staged by her two closest friends while on vacation. As she rediscovers the essence of herself and gains some much-needed perspective, she slowly starts to fray the cords of codependency that bind her. However, Simon's vengeance is as inevitable as it is shattering, and once unleashed, it tests her strength, her courage, and the bonds of deep-rooted friendships.",
+    "year": "2022",
+    "rating": 5.625,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/3QpO7dxLXBdPgWpNLKvRNojz7bv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cSjccCESfkHq2AltVkY3WRYXqdg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/draoNa0bveekUDQ1rf5BzLMMinG.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "417489",
+    "tmdbId": 417489,
+    "type": "movie",
+    "title": "Bon Cop Bad Cop 2",
+    "overview": "Ward and Bouchard must face an important car theft ring that turns out to be a lot more than they bargained for: one where the stolen cars will serve as bombs in a well planned terrorist attack.",
+    "year": "2017",
+    "rating": 6.392,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/sXP6WjVJGeZuqVQJVMMAf8CeGma.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cJmXtzMJM8dgYTlMysBPPSr0tB3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uhX5VoLh5wDdM6rZ1sWtYeaZGm9.png",
+    "certificate": null,
+    "runTimeMinutes": 126,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "15049",
+    "tmdbId": 15049,
+    "type": "movie",
+    "title": "Bon Cop Bad Cop",
+    "overview": "When the body of the executive of hockey Benoit Brisset is found on the billboard of the border of Quebec and Ontario, the jurisdiction of the crime is shared between the two police forces and detectives David Bouchard from Montreal and Martin Ward from Toronto are assigned to work together. With totally different styles, attitudes and languages.",
+    "year": "2006",
+    "rating": 6.394,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kidOf2K4pEM0Llsm8aIRcANTcSF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f8Vy1YNbHcZSwXAS8zCzZ2yiSQz.jpg",
+    "logoUrl": null,
+    "certificate": "PG-13",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "461130",
+    "tmdbId": 461130,
+    "type": "movie",
+    "title": "Code 8",
+    "overview": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)",
+    "year": "2019",
+    "rating": 6.259,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/izGX7npHEopDQvngYcxMJEfcFbj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sna617r0Sv4Ba34UMGvtIoqBU3t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kQyeCqy7Oxf69wb0BniNmGOiY6R.png",
+    "certificate": "NR",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "592117",
+    "tmdbId": 592117,
+    "type": "movie",
+    "title": "Compulsive Liar",
+    "overview": "Simon Aubert runs his entire life on lies. An executive at an aviation company, he lies about everything… Simon’s self-serving lies are so abundant that the universe (governed by a handful of Buddhist monks, it seems) decides to right a wrong by teaching him a lesson and making all of the lies reality on the eve of his company’s crucial meeting with a Russian businessman that Simon absolutely needs to impress in order to prevent the closure of the small-town plant where his twin brother Phil works.",
+    "year": "2019",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zBIFXQpda8Hx8BN3HP2BHsttCLG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jT4jDTCoaCJoQsK1g3iCfnrwgyx.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 111,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1317877",
+    "tmdbId": 1317877,
+    "type": "movie",
+    "title": "Dream Eater",
+    "overview": "A filmmaker documents her boyfriend's violent parasomnia during their holiday at a remote cabin in the woods.",
+    "year": "2025",
+    "rating": 5.324,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5PRT9vkRxSAogsce4v4svKNQkqb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vqrw1TwujGvNcDBL6xVVU9cUKge.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fdu0Kk5mNn5CKuNdIsTDC4ctgFS.png",
+    "certificate": "NR",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1155815",
+    "tmdbId": 1155815,
+    "type": "movie",
+    "title": "Hate to Love: Nickelback",
+    "overview": "Nickelback is one of the most successful acts in music history — they're also the number one band haters love to hate. This intimate portrait surveys the Canadian stadium rockers' rollercoaster career.",
+    "year": "2024",
+    "rating": 5.933,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qZv4TVul550HYHPKC4M9NOVOQiO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pjiSDvCYg0QjOy7Eh3DPKOyGMh0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zttn5VCLklyIHQNUqYbDXbYsqaN.png",
+    "certificate": "NR",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "CA",
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "46738",
+    "tmdbId": 46738,
+    "type": "movie",
+    "title": "Incendies",
+    "overview": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+    "year": "2010",
+    "rating": 8.102,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jDADVUZdWCTArACWXIdiedbfi1i.png",
+    "certificate": "R",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "667216",
+    "tmdbId": 667216,
+    "type": "movie",
+    "title": "Infinity Pool",
+    "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+    "year": "2023",
+    "rating": 6.043,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b02cNj2tvEHKbnLdqtojir7oQwV.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "483407",
+    "tmdbId": 483407,
+    "type": "movie",
+    "title": "Junior Majeur",
+    "overview": "Five years after winning the Quebec Pee-Wee tournament with his team, 18-year-old hockey prodigy Janeau Trudel is playing for the Chicoutimi Saguenéens in the Quebec Major Junior Hockey League.",
+    "year": "2017",
+    "rating": 6.767,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eYynhCdMeZDG2xuuNxY5dgGPqBd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fL1WpsvUj7ELYWlWmtQojP6yUW5.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 115,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "209293",
+    "tmdbId": 209293,
+    "type": "movie",
+    "title": "Louis Cyr: The Strongest Man in the World",
+    "overview": "Biopic of Louis Cyr, strongest man in the world at the end of the 19th Century.",
+    "year": "2013",
+    "rating": 6.769,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pMRwnR9wXgV8VFZXZDAiCqiCJbC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/822aujXMt3G2smZ1xIH26ioOpM4.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 130,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "265177",
+    "tmdbId": 265177,
+    "type": "movie",
+    "title": "Mommy",
+    "overview": "A peculiar neighbor offers hope to a recent widow who is struggling to raise a teenager who is unpredictable and, sometimes, violent.",
+    "year": "2014",
+    "rating": 8.196,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uPDP0cHGOpkr47rdCdHWo4CyiPj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dIHezuC3AmylT8mkXQiWSjz2wJR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a0WNra2wnqw1WGccTTnZuglTb3N.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "241257",
+    "tmdbId": 241257,
+    "type": "movie",
+    "title": "Regression",
+    "overview": "Minnesota, 1990. Detective Bruce Kenner investigates the case of young Angela, who accuses her father, John Gray, of an unspeakable crime. When John unexpectedly and without recollection admits guilt, renowned psychologist Dr. Raines is brought in to help him relive his memories and what they discover unmasks a horrifying nationwide mystery.",
+    "year": "2015",
+    "rating": 5.585,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pYr7HL3peZQZRaAYqwWT6Ax4DAx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pgEe6EK26Q8z36IrHsfd6FoTcLN.png",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "942243",
+    "tmdbId": 942243,
+    "type": "movie",
+    "title": "Ru",
+    "overview": "After a dangerous sea crossing and a stay in a camp in Malaysia, the young Vietnamese Tinh and her family are accepted as refugees in Canada and arrive in Montreal where they begin their new life. But for Tinh, adapting has its share of difficulties.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/48m1dBNxnBRHS1Fm30eTWgvVOrv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9M4sa2AIjo2yrerOfBJdcIKqNia.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "39681",
+    "tmdbId": 39681,
+    "type": "movie",
+    "title": "Seven Days",
+    "overview": "Like many happy people, Bruno Hamel is leading an uneventful life until one afternoon, when his daughter is raped and murdered. When the murderer is arrested, a terrible project germinates in Bruno's darkened mind. He plans to capture the \"monster\" and make him pay for his crime.",
+    "year": "2010",
+    "rating": 6.277,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ag662hfmscOMYuVXxcPzAcDfIJY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1FIyqEY0Vz4GX3YYnyoZJQBnmXL.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 105,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "79108",
+    "tmdbId": 79108,
+    "type": "movie",
+    "title": "Starbuck",
+    "overview": "David Wozniak is a perpetual adolescent who discovers that, as a sperm donor, he has fathered 533 children. He is advised that more than 100 of his offspring are trying to force the fertility clinic to reveal the true identity of \"Starbuck,\" the pseudonym he used when donating his sperm. To make matters worse, his girlfriend Valérie is pregnant with his child, but doesn't feel that he is mature enough to be a father.",
+    "year": "2011",
+    "rating": 6.895,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t7ZyIR941krELzP7POiFUu0yhFq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/98SMte6G9hUxLpe2OZuF8UvJkTL.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 103,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1039227",
+    "tmdbId": 1039227,
+    "type": "movie",
+    "title": "Suze",
+    "overview": "When her only daughter goes off to university, an empty nest mother gets stuck taking care of her daughter's heart-broken ex-boyfriend, who she can't stand.",
+    "year": "2025",
+    "rating": 7.538,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/j1CBbkJGuWMjZw7jzxVa2wCDvSL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ryhPsBgcSE2IcsrYkEeF5plSb93.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wHJ2QxvNdWu5BkggU1VWhTnKP2j.png",
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "515047",
+    "tmdbId": 515047,
+    "type": "movie",
+    "title": "The Fall of the American Empire",
+    "overview": "A shy and insecure delivery driver arrives on the scene of a robbery-gone-wrong and picks up two bags of cash and hides them in his truck. He is interrogated by two tough police detectives and manages to evade suspicion but he is warned that whoever owns the money will be looking for it. Only the help of a prostitute and a former biker recently released from jail might get him out of trouble.",
+    "year": "2018",
+    "rating": 6.555,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mStaOzKKMOODJGhiQsrhCvIOPmt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/TuUQjErEChd9JLlJTYHP7YE3cv.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 127,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9958",
+    "tmdbId": 9958,
+    "type": "movie",
+    "title": "Trailer Park Boys: The Movie",
+    "overview": "The boys get arrested for robbing an ATM machine and spend 18 months in jail, upon release they decide to pull off \"The Big Dirty\", a plan to steal a large amount of coins because they are untraceable and quit their life of crime forever.",
+    "year": "2006",
+    "rating": 6.534,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lBmoxMfxxIepgpoByFr78ygnjrZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eTXZPwlNqS5HUVDndrAPeUfmas9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vGTxr3X5svpikLR6Xc5zvXxxZ7f.png",
+    "certificate": "R",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1544623",
+    "tmdbId": 1544623,
+    "type": "movie",
+    "title": "Who Killed the Montreal Expos?",
+    "overview": "An investigation into the downfall of the Montreal Expos, Canada's first Major League Baseball team — and who was ultimately responsible.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/9WBhvNNUE9HHy2rGwwQ0Iyk8WSs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/hrAsYE228j0EB473nx84HTL88ap.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4ba4kJZiyH2wVkeqiy6RKxL75qg.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   }
 ]

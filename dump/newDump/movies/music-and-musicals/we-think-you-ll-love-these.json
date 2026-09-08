@@ -14,7 +14,9 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["DK"],
+    "originCountries": [
+      "DK"
+    ],
     "originalLanguage": ""
   },
   {
@@ -32,7 +34,9 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -50,7 +54,9 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -68,7 +74,9 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["SE"],
+    "originCountries": [
+      "SE"
+    ],
     "originalLanguage": ""
   },
   {
@@ -86,7 +94,9 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Music",
     "secondaryGenre": "History",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -104,7 +114,9 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": ["AU"],
+    "originCountries": [
+      "AU"
+    ],
     "originalLanguage": ""
   },
   {
@@ -122,7 +134,9 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -140,7 +154,10 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Music",
     "secondaryGenre": "Documentary",
-    "originCountries": ["KR", "GB"],
+    "originCountries": [
+      "KR",
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -158,7 +175,10 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["KR", "US"],
+    "originCountries": [
+      "KR",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -176,7 +196,9 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -194,7 +216,9 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -212,7 +236,9 @@
     "runTimeMinutes": 141,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": ["JP"],
+    "originCountries": [
+      "JP"
+    ],
     "originalLanguage": ""
   },
   {
@@ -230,7 +256,9 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -248,7 +276,9 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -266,7 +296,9 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": ["FR"],
+    "originCountries": [
+      "FR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -284,7 +316,9 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["CA"],
+    "originCountries": [
+      "CA"
+    ],
     "originalLanguage": ""
   },
   {
@@ -302,7 +336,11 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["CA", "GB", "US"],
+    "originCountries": [
+      "CA",
+      "GB",
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -320,7 +358,9 @@
     "runTimeMinutes": 138,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -338,7 +378,9 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -356,7 +398,9 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": ["DE"],
+    "originCountries": [
+      "DE"
+    ],
     "originalLanguage": ""
   },
   {
@@ -374,7 +418,9 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -392,7 +438,9 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["MX"],
+    "originCountries": [
+      "MX"
+    ],
     "originalLanguage": ""
   },
   {
@@ -410,7 +458,9 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -428,7 +478,9 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Music",
     "secondaryGenre": "Documentary",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -446,7 +498,9 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -464,7 +518,9 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Animation",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -482,7 +538,9 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -500,7 +558,9 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
-    "originCountries": ["IT"],
+    "originCountries": [
+      "IT"
+    ],
     "originalLanguage": ""
   },
   {
@@ -518,7 +578,9 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": ["GB"],
+    "originCountries": [
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -536,7 +598,9 @@
     "runTimeMinutes": 11,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -554,7 +618,9 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": ["BR"],
+    "originCountries": [
+      "BR"
+    ],
     "originalLanguage": ""
   },
   {
@@ -572,7 +638,9 @@
     "runTimeMinutes": 20,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Documentary",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -590,7 +658,10 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Music",
-    "originCountries": ["US", "GB"],
+    "originCountries": [
+      "US",
+      "GB"
+    ],
     "originalLanguage": ""
   },
   {
@@ -608,7 +679,9 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -626,7 +699,9 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": ["SE"],
+    "originCountries": [
+      "SE"
+    ],
     "originalLanguage": ""
   },
   {
@@ -644,7 +719,9 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "Music",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -662,7 +739,9 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -680,7 +759,9 @@
     "runTimeMinutes": 144,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": ["US"],
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   },
   {
@@ -698,7 +779,370 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": ["JP"],
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "103086",
+    "tmdbId": 103086,
+    "type": "show",
+    "title": "All For Love",
+    "overview": "A penniless country boy goes in search of his runaway sister in Bogotá, where he falls for an aspiring singer, but gets tangled up in organized crime.",
+    "year": "2020",
+    "rating": 7.569,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oTmIP28BCEtgWBdxRMgK33nS0EA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/v6gog3v6BjTrXhsaVfTCDHurFLe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/62iMZLuCuu29mBRBIIlImhDq6uW.png",
+    "certificate": "NR",
+    "runTimeMinutes": null,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "222024",
+    "tmdbId": 222024,
+    "type": "show",
+    "title": "Erin & Aaron",
+    "overview": "A newly blended family and two polar opposite stepsiblings named Erin and Aaron who come together through music.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aQ73bNBqci7qUJNVjlVFXsglFFx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cPM88Bhgluy9hh7t7R3OuxPo1tm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vC1RUVr8on7cn2cu5cyDASRrxII.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1744876",
+    "tmdbId": 1744876,
+    "type": "movie",
+    "title": "Fito Páez: The World Within a Song",
+    "overview": "A documentary film that observes, listens to, and interacts with Fito Páez from a place of profound intimacy. The camera, almost invisible, witnesses his every move, accompanying him for over a year during recordings, rehearsals, tours, and performances in major cities across Latin America, Europe, and the United States. It is also a journey through the life of one of the greatest Spanish-language artists: his loves and heartbreaks, children and friendships, excesses, tragedies, failures, and successes.",
+    "year": "2026",
+    "rating": 5.111,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 112,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "593691",
+    "tmdbId": 593691,
+    "type": "movie",
+    "title": "HOMECOMING: A film by Beyoncé",
+    "overview": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
+    "year": "2019",
+    "rating": 8.035,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zVApoL11dCWG5yJ7ceAwex4hf4K.png",
+    "certificate": "R",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "155094",
+    "tmdbId": 155094,
+    "type": "show",
+    "title": "jeen-yuhs: A Kanye Trilogy",
+    "overview": "The lives of an emerging superstar and a filmmaker intertwine in this intense, intimate docuseries charting Kanye West's career, filmed over two decades.",
+    "year": "2022",
+    "rating": 7.121,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pDrZvecNSRHGU8Wma6KsBi4DdAX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mnAY51TaVOtfi7WkFI5qczVhu9W.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eVfMTZwrqrflXA3nHtmUywXrRI6.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "158511",
+    "tmdbId": 158511,
+    "type": "tv",
+    "title": "Karma's World Music Videos",
+    "overview": "Step into Karma's musical world as she rocks the mic -- and her curls -- for this fun and funky playlist packed with rhymes and the power of positivity!",
+    "year": "2022",
+    "rating": 2.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/fdHJ3B1mOj5djEw883rSpX5pZ4W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bh1MfE1l8fGGoymYLS56JVTGCCV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 5,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "803796",
+    "tmdbId": 803796,
+    "type": "movie",
+    "title": "KPop Demon Hunters",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "year": "2025",
+    "rating": 8.002,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mzHotrzOHHvGN4B8fyVQ55h7Z25.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "496450",
+    "tmdbId": 496450,
+    "type": "movie",
+    "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+    "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+    "year": "2023",
+    "rating": 7.614,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2etjUsfRxpODxCSCffrLKAKegK2.png",
+    "certificate": "PG",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "84452",
+    "tmdbId": 84452,
+    "type": "tv",
+    "title": "Nicky Jam: El Ganador",
+    "overview": "Follow Reggaeton artist Nicky Jam's struggles to overcome drug addiction and rise to international success in this dramatization of his life story.",
+    "year": "2018",
+    "rating": 7.309,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r0SIujs19jJcWTq5IQO1oyB25XX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/loV6xhTbeJyN1yh1NBqjGFKdtEz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sWbpWOzw35p0Dj9wPltRKTI6H1j.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CO"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "560050",
+    "tmdbId": 560050,
+    "type": "movie",
+    "title": "Over the Moon",
+    "overview": "Fueled by memories of her mother, resourceful Fei Fei builds a rocket to the moon on a mission to prove the existence of a legendary moon goddess.",
+    "year": "2020",
+    "rating": 7.18,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/inHrrDDPmohfhdgPGI65a9ymNHX.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "592983",
+    "tmdbId": 592983,
+    "type": "movie",
+    "title": "Spellbound",
+    "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+    "year": "2024",
+    "rating": 6.586,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iqL1ztNeXAXulsZzpJWmyiZdZWc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7FZwDfLdPq48wDvQ2tAcikgJ10G.png",
+    "certificate": "PG",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "538604",
+    "tmdbId": 538604,
+    "type": "movie",
+    "title": "The After Party",
+    "overview": "When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.",
+    "year": "2018",
+    "rating": 6.081,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wFPGheX6X4bt1ZqP1870MPlUvGu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7tGLqxYjjdE7JaYKhgfHiUpZS3S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qQ5MOLiG8CjmGhsKXtlRncDbgW2.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "410113",
+    "tmdbId": 410113,
+    "type": "movie",
+    "title": "The Loud House Movie",
+    "overview": "The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.",
+    "year": "2021",
+    "rating": 7.232,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7dM5DILTl9ddpjvnJhs2nA1U9Ru.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9p3bwHTpX5Axpyp4gxqmDxWaau0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xvolEXnLzLgpWOEVVBsW8Y3oTyQ.png",
+    "certificate": "G",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "927254",
+    "tmdbId": 927254,
+    "type": "movie",
+    "title": "The Twits",
+    "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+    "year": "2025",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1Fy8YhOXtQzzGJYqaaT1T7yT1O.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24961",
+    "tmdbId": 24961,
+    "type": "movie",
+    "title": "The Wiz",
+    "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+    "year": "1978",
+    "rating": 6.189,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9zkvOuDQzpYSKUTtSlP6QDe3JNv.png",
+    "certificate": "G",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "739547",
+    "tmdbId": 739547,
+    "type": "movie",
+    "title": "Thelma the Unicorn",
+    "overview": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
+    "year": "2024",
+    "rating": 6.893,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eTLui31dSW2VGWHZAnb01wpHGFV.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "484510",
+    "tmdbId": 484510,
+    "type": "movie",
+    "title": "Trolls Holiday",
+    "overview": "When the eternally optimistic Poppy, queen of the Trolls, learns that the Bergens no longer have any holidays on their calendar, she enlists the help of Branch and the rest of the gang on a delightfully quirky mission to fix something that the Bergens don't think is broken.",
+    "year": "2017",
+    "rating": 6.669,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lJV03Etqdv9mJSixgIVn7dstoNc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wACAzDetLg6HRaL98SJQ1sk4HTf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2wzRY00R18LBet4Lx0DQMPzgKBv.png",
+    "certificate": "PG",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": ""
+  },
+  {
+    "id": "449406",
+    "tmdbId": 449406,
+    "type": "movie",
+    "title": "Vivo",
+    "overview": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
+    "year": "2021",
+    "rating": 7.22,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/e6DlxuwzeZozu6D3h636gyDAHLo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AsoF5slprur9YMifq9vUci0xnSg.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
     "originalLanguage": ""
   }
 ]
