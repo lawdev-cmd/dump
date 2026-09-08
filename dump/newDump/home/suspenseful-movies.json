@@ -14,9 +14,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "War",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 140,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Action",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +140,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +158,7 @@
     "runTimeMinutes": 140,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,29 +176,7 @@
     "runTimeMinutes": 144,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1355228",
-    "tmdbId": 1355228,
-    "type": "movie",
-    "title": "Gandhari",
-    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-    "year": "2026",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oIn6zUEIOipYu3E1kZWacu9lHWB.png",
-    "certificate": null,
-    "runTimeMinutes": 115,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +194,7 @@
     "runTimeMinutes": 140,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -254,29 +212,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1484913",
-    "tmdbId": 1484913,
-    "type": "movie",
-    "title": "Ikka",
-    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
-    "year": "2026",
-    "rating": 5.738,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
-    "logoUrl": null,
-    "certificate": "R",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -294,9 +230,7 @@
     "runTimeMinutes": 140,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -314,9 +248,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -334,9 +266,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -354,10 +284,7 @@
     "runTimeMinutes": 137,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -375,9 +302,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -395,9 +320,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Crime",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -415,10 +338,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -436,9 +356,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -456,9 +374,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,9 +392,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -496,9 +410,7 @@
     "runTimeMinutes": 5,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -516,10 +428,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -537,9 +446,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -557,9 +464,7 @@
     "runTimeMinutes": 126,
     "primaryGenre": "War",
     "secondaryGenre": "History",
-    "originCountries": [
-      "NL"
-    ],
+    "originCountries": ["NL"],
     "originalLanguage": ""
   },
   {
@@ -577,9 +482,7 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -597,9 +500,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -617,9 +518,7 @@
     "runTimeMinutes": 133,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -637,9 +536,7 @@
     "runTimeMinutes": 157,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -657,9 +554,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -677,9 +572,7 @@
     "runTimeMinutes": 140,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -697,9 +590,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -717,9 +608,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -737,9 +626,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -757,9 +644,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -777,9 +662,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -797,9 +680,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -817,9 +698,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

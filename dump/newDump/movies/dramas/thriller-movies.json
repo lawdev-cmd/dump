@@ -14,9 +14,7 @@
     "runTimeMinutes": 143,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,10 +104,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "MX",
-      "ES"
-    ],
+    "originCountries": ["MX", "ES"],
     "originalLanguage": ""
   },
   {
@@ -135,9 +122,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "BR"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -175,69 +158,7 @@
     "runTimeMinutes": 155,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1484913",
-    "tmdbId": 1484913,
-    "type": "movie",
-    "title": "Ikka",
-    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
-    "year": "2026",
-    "rating": 5.738,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
-    "logoUrl": null,
-    "certificate": "R",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1433117",
-    "tmdbId": 1433117,
-    "type": "movie",
-    "title": "Kara",
-    "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
-    "year": "2026",
-    "rating": 5.922,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fZ5oN7lRIHkfvaICiMjQ1NHnKpd.png",
-    "certificate": null,
-    "runTimeMinutes": 161,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1628367",
-    "tmdbId": 1628367,
-    "type": "movie",
-    "title": "Kartavya",
-    "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
-    "year": "2026",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/3uDyPIGNZ6OxGPaFgGs47JhNUuK.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 109,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -255,9 +176,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -275,9 +194,7 @@
     "runTimeMinutes": 140,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -295,30 +212,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1239511",
-    "tmdbId": 1239511,
-    "type": "movie",
-    "title": "Lucky Baskhar",
-    "overview": "A middle-class bank clerk who longs to trade stability for adventure gets more than he bargained for when he unexpectedly becomes a wealthy man.",
-    "year": "2024",
-    "rating": 7.698,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/a47JQFl9L7VDa79tEvnTOJe0rPa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/q8UyN4XhpmChtneZXdZ8fktQka6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/68sP6ojhkMgma9YYCNEerbyPMyi.png",
-    "certificate": "NR",
-    "runTimeMinutes": 151,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +230,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +248,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -376,9 +266,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -396,29 +284,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1227128",
-    "tmdbId": 1227128,
-    "type": "movie",
-    "title": "Raid 2",
-    "overview": "Set seven years after the events of the first film, it follows the return of IRS officer Amay Patnaik, who is attempting to take down a seemingly benevolent politician.",
-    "year": "2025",
-    "rating": 6.475,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/562SAxZP1sLuYqDDTuODu3hdGyx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yCMcExahhtFaiwyHcQU6JgGAh6e.png",
-    "certificate": null,
-    "runTimeMinutes": 139,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -436,9 +302,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -456,9 +320,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,9 +338,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -496,9 +356,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
@@ -516,9 +374,7 @@
     "runTimeMinutes": 151,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -536,9 +392,7 @@
     "runTimeMinutes": 138,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -556,9 +410,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -576,9 +428,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -596,9 +446,7 @@
     "runTimeMinutes": 167,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -616,9 +464,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -636,9 +482,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -656,9 +500,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -676,10 +518,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP",
-      "US"
-    ],
+    "originCountries": ["JP", "US"],
     "originalLanguage": ""
   },
   {
@@ -697,9 +536,7 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -717,10 +554,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -738,9 +572,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -758,9 +590,7 @@
     "runTimeMinutes": 145,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -778,9 +608,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -798,9 +626,7 @@
     "runTimeMinutes": 157,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

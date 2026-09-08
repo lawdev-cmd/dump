@@ -252,24 +252,6 @@
     "originalLanguage": ""
   },
   {
-    "id": "101090",
-    "tmdbId": 101090,
-    "type": "tv",
-    "title": "Ladies Up",
-    "overview": "Rising India-based comics Prashasti Singh, Kaneez Surka, Supriya Joshi, and Niveditha Prakasam bring no-holds-barred humor to this stand up series",
-    "year": "2020",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/amH94ax5bR073WoKVOnnfu0NmTh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/x9d5CcoiRTW8q2RmS4yu5XrQmKh.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vbqZqtNX9yTscoFaIuN7rLwOi2w.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 17,
-    "primaryGenre": "Reality",
-    "secondaryGenre": "Comedy",
-    "originCountries": ["IN"],
-    "originalLanguage": ""
-  },
-  {
     "id": "125969",
     "tmdbId": 125969,
     "type": "tv",
@@ -591,6 +573,24 @@
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
     "originCountries": ["MX"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "72671",
+    "tmdbId": 72671,
+    "type": "tv",
+    "title": "The Standups",
+    "overview": "Comedy's freshest voices take the stage in LA for six half-hour specials packed with sly jokes, hilarious anecdotes and awkward confessions.",
+    "year": "2017",
+    "rating": 5.828,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/abXFOhCuAJVzpmTwYbC3IKaWTX1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/55MvUksSH1kfAxex26i9KeWXQLV.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

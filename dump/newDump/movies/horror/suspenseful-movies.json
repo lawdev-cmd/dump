@@ -14,30 +14,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "695962",
-    "tmdbId": 695962,
-    "type": "movie",
-    "title": "Bhool Bhulaiyaa 2",
-    "overview": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for eighteen years.",
-    "year": "2022",
-    "rating": 6.143,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/4anJikUop9pepyORUH8IpNdhbqq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kPO12gmhADFTuyjiP3VZzRTitEC.png",
-    "certificate": null,
-    "runTimeMinutes": 143,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -55,9 +32,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +50,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -95,9 +68,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -115,9 +86,7 @@
     "runTimeMinutes": 80,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -135,10 +104,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -156,9 +122,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -176,9 +140,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -196,9 +158,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +176,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +194,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -256,9 +212,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -276,10 +230,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -297,9 +248,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -317,9 +266,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -337,9 +284,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -357,9 +302,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -377,9 +320,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -397,9 +338,7 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -417,9 +356,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -437,9 +374,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -457,9 +392,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
@@ -477,9 +410,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "SE"
-    ],
+    "originCountries": ["SE"],
     "originalLanguage": ""
   },
   {
@@ -497,9 +428,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -517,9 +446,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -537,9 +464,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -557,9 +482,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -577,9 +500,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -597,9 +518,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Action",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -617,9 +536,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -637,9 +554,7 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "TH"
-    ],
+    "originCountries": ["TH"],
     "originalLanguage": ""
   },
   {
@@ -657,9 +572,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -677,9 +590,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -697,9 +608,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -717,9 +626,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -737,9 +644,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -757,9 +662,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -777,9 +680,223 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1247019",
+    "tmdbId": 1247019,
+    "type": "movie",
+    "title": "Death Whisperer 2",
+    "overview": "Three years after his sister's death, Yak relentlessly searches for the dark spirit that killed her in hopes of seeking revenge.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A0fHnpVX8vYQCmvETllWJQ30Mi6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 112,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["TH"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "433244",
+    "tmdbId": 433244,
+    "type": "movie",
+    "title": "Clinical",
+    "overview": "A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.",
+    "year": "2017",
+    "rating": 5.313,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k9baYzut6dLyAXdg8gqmaR4EZ1Q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sUKRP2rDqi2Kfh8c2xO8WJKi0sU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ktT8UtiM2x9hveJBjNHn9PIIs1G.png",
+    "certificate": null,
+    "runTimeMinutes": 104,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Horror",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1463298",
+    "tmdbId": 1463298,
+    "type": "movie",
+    "title": "Vengeance in the Dreary Night",
+    "overview": "Jefri and Sarah are an adulterous couple now desperately trying to create an alibi after the corpse of Sofia, the lawful wife they murdered, mysteriously disappears from the morgue. Arya Pradana, a police investigator, uses all his logic to uncover the truth. Has the corpse come back to life to take revenge on her killers?",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/er89Hf3Xrw64SgF1Vc9Yf8EURAL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/p1V67T5vf7HD91BVe4K9TUZHtl4.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 103,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": ["ID"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "710871",
+    "tmdbId": 710871,
+    "type": "movie",
+    "title": "Ghost Lab",
+    "overview": "After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.",
+    "year": "2021",
+    "rating": 6.478,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A09Dqy91W40Q2iiD7IOJteDpJAa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ok5OH3S28TWsk764AS1KPe8ICin.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m9EmH0Xec4PulXtWEPCvRsCXhLL.png",
+    "certificate": "NR",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": ["TH"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "667216",
+    "tmdbId": 667216,
+    "type": "movie",
+    "title": "Infinity Pool",
+    "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+    "year": "2023",
+    "rating": 6.043,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b02cNj2tvEHKbnLdqtojir7oQwV.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": ["CA"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1120937",
+    "tmdbId": 1120937,
+    "type": "movie",
+    "title": "Influencer",
+    "overview": "Selfish, separated parents Amber and Cameron are forced to put their starry-eyed career ambitions on hold when Amber suddenly finds herself homeless and Cameron begrudgingly agrees to look after their 6-year-old daughter.",
+    "year": "2022",
+    "rating": 2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qCekjTsQei4NXOiYXdYgLZLqhcb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/mgR2z7LUTW3MbtPSHDy4OFUkvIV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 88,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1376152",
+    "tmdbId": 1376152,
+    "type": "movie",
+    "title": "Monster",
+    "overview": "Andrew, a family man afflicted with nyctophobia, is faced with losing everything he loves if he doesn't heal old wounds.",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iM9p4smJl7y1XaeuzPo6qHw35Lw.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 22,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "714669",
+    "tmdbId": 714669,
+    "type": "movie",
+    "title": "Run Rabbit Run",
+    "overview": "Sarah is a fertility doctor with a firm understanding of the cycle of life. When she is forced to make sense of the increasingly strange behavior of her young daughter Mia, she must challenge her own beliefs and confront a ghost from her past.",
+    "year": "2024",
+    "rating": 5.477,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cgetiYyTqJ4CMmPmvDw30nnYj1f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sFwkgsMOjQb8zuXKXozSoSetQqo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uiEbvc0mvnjSeaVP0oxBix9Tu6q.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["AU"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1264429",
+    "tmdbId": 1264429,
+    "type": "movie",
+    "title": "Temurun",
+    "overview": "After their mother dies during a violent break-in, two siblings move in with their estranged father discover their family's sinister heritage.",
+    "year": "2024",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/2IeYZ2iYHEbTQUwRyWxYnM3KDsp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6xHXziwAHr6n2g70Xjt6LCKIteV.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["ID"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1321326",
+    "tmdbId": 1321326,
+    "type": "movie",
+    "title": "The Haunted Apartment: \"Miss K\"",
+    "overview": "Apartment 610 holds a dark and terrifying secret: anyone who enters it will die within four days. Can Alma and her sister, Mia, escape the curse?",
+    "year": "2024",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uLJFPFIezEQsUWN4WpbNaofysj1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zmaytJXQgaoDZcFH2Z0EqRhuTS3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3oOBjTJZMRfmc7jIT0yOtESmuh2.png",
+    "certificate": null,
+    "runTimeMinutes": 103,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["ID"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "943930",
+    "tmdbId": 943930,
+    "type": "movie",
+    "title": "Tin & Tina",
+    "overview": "After a traumatic miscarriage, Lola and her husband, Adolfo, adopt Tin and Tina, a lovely albino brother and sister with an ultra-Catholic education that makes them interpret the Holy Bible verbatim.",
+    "year": "2023",
+    "rating": 5.944,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fUUEyB2WI8BqHgBIL0c17DNKmYL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s7VfUL0ohdoVCv6PwZ4aOMgQANC.png",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["ES"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "975022",
+    "tmdbId": 975022,
+    "type": "movie",
+    "title": "You're Killing Me",
+    "overview": "Eden goes to a coveted 'Heaven and Hell' party, hoping to get a letter of recommendation to an elite university from the wealthy parents of her classmate, but the party quickly turns into a fight for her life.",
+    "year": "2023",
+    "rating": 5.526,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tAnwQKYkRlXS6Lgaq5XQ7JqS58x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pm7RuTMM00SNcHhQwoJoxgv2hP7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1ByZ4UTFoUrp0Y1RpIo9z6GuiD8.png",
+    "certificate": "NR",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

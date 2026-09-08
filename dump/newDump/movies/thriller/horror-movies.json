@@ -1,45 +1,5 @@
 [
   {
-    "id": "659381",
-    "tmdbId": 659381,
-    "type": "movie",
-    "title": "Aaviri",
-    "overview": "A thriller film directed by Ravi Babu, starring Ravi Babu and Neha Chauhan in the lead roles.",
-    "year": "2019",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/fzDgSGbFxMrFXvH5SdorTehfe2v.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/hypxDqN6x94OQvyFmGiAwH9dKuv.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 113,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1561969",
-    "tmdbId": 1561969,
-    "type": "movie",
-    "title": "Baramulla",
-    "overview": "A cop's inquiry into child kidnappings unravels chilling secrets as supernatural events endanger his family and the peaceful town of Baramulla.",
-    "year": "2025",
-    "rating": 5.925,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/xm5ER19nTk7iuWFaiNRUYe3Zlz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/fbTRgh6moAvhlkB4wPjswP9EdWz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3A92ILpm3TDNm4TIYh8CF4WzmOc.png",
-    "certificate": "R",
-    "runTimeMinutes": 120,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
     "id": "1215918",
     "tmdbId": 1215918,
     "type": "movie",
@@ -54,9 +14,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +32,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +50,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +68,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +86,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +104,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +122,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +140,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "TH"
-    ],
+    "originCountries": ["TH"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +158,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +176,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -254,9 +194,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -274,9 +212,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -294,9 +230,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Drama",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -314,29 +248,7 @@
     "runTimeMinutes": 22,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "642889",
-    "tmdbId": 642889,
-    "type": "movie",
-    "title": "Psycho",
-    "overview": "Based on the Buddhist tale of Angulimala, a dreaded serial killer, Psycho tells the story of a blind man who gets involved in a murder mystery. trying to save his lover from a psychopath who has kidnapped her.",
-    "year": "2020",
-    "rating": 5.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/cTHrUUSqTNc1nyBzVGD4SbpqaIe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/pRXmRr3XSieO9xUo5SHzc1pkkWu.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 145,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -354,9 +266,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -374,29 +284,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "AU"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1187619",
-    "tmdbId": 1187619,
-    "type": "movie",
-    "title": "Shaitaan",
-    "overview": "Kabir and his family's fun weekend retreat takes terrifying turn when an intruder takes over the control of the  body of his teenage daughter, putting her at the mercy of his increasingly sinister orders.",
-    "year": "2024",
-    "rating": 6.297,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/yNGAfRd0VZwtSAZiC1WXWqCbvIb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/h7CsY2AQ97yL6qoWY7Jmp1vhrG4.png",
-    "certificate": null,
-    "runTimeMinutes": 132,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -414,9 +302,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -434,9 +320,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -454,9 +338,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -474,9 +356,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -494,9 +374,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -514,9 +392,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -534,29 +410,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Action",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "FR"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1419390",
-    "tmdbId": 1419390,
-    "type": "movie",
-    "title": "Vash Level 2",
-    "overview": "Twelve years after saving his daughter Arya from a dark force, Atharva learns it never left her. When strange events begin again, he must fight to save her once more.",
-    "year": "2025",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/uTZU5eG5Afs0CLO9DlYVDW5pnfS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/5AHNEPeP4YdQDTJ7NRVvRX2VzSm.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 103,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -574,9 +428,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -594,9 +446,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -614,9 +464,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -634,9 +482,43 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "805320",
+    "tmdbId": 805320,
+    "type": "movie",
+    "title": "Bird Box Barcelona",
+    "overview": "After a mysterious force decimates the world’s population, Sebastian must navigate his own survival journey through the desolate streets of Barcelona. As he forms uneasy alliances with other survivors and they try to escape the city, an unexpected and even more sinister threat grows.",
+    "year": "2023",
+    "rating": 5.918,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7tu0bQi8Tw2BrOB5vFyUjVtWma0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tK4Y0gnsROWDxPcZDSQxYSY4G0K.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": ["ES", "US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "582607",
+    "tmdbId": 582607,
+    "type": "movie",
+    "title": "See You Yesterday",
+    "overview": "As two teen prodigies try to master the art of time travel, a tragic police shooting sends them on a series of dangerous trips to the past.",
+    "year": "2019",
+    "rating": 5.543,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4VNpU3Hjjslfd5CY0Ywr7zSgObM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1BJVctMKbtMfkbV4uJV7WFUd1LN.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

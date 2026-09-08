@@ -1,45 +1,5 @@
 [
   {
-    "id": "734253",
-    "tmdbId": 734253,
-    "type": "movie",
-    "title": "Adipurush",
-    "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
-    "year": "2023",
-    "rating": 4.456,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xjjHH1SxphgYtwCCdAlN5wmYGqR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3OhPN4CCPddcVvwuhLFZvGrgBfS.png",
-    "certificate": "NR",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1372588",
-    "tmdbId": 1372588,
-    "type": "movie",
-    "title": "Akhanda 2: Thaandavam",
-    "overview": "When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, new threats emerge putting the world in danger. And as the world burns, Akhanda returns.",
-    "year": "2025",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/805aMQucnpLkSmQ35Pql35fq3Gw.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 164,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
     "id": "165",
     "tmdbId": 165,
     "type": "movie",
@@ -54,9 +14,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +32,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +50,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +68,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,10 +86,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +104,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -175,10 +122,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   },
   {
@@ -196,9 +140,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +158,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +176,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -256,29 +194,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "801688",
-    "tmdbId": 801688,
-    "type": "movie",
-    "title": "Kalki 2898-AD",
-    "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
-    "year": "2024",
-    "rating": 6.423,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/o8XSR1SONnjcsv84NRu6Mwsl5io.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/phv0D4lpztKSUqNByCJkP1HB1IS.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 176,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +212,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +230,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "RU"
-    ],
+    "originCountries": ["RU"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +248,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -356,10 +266,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -377,9 +284,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -397,9 +302,7 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -417,9 +320,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -437,9 +338,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Action",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -457,10 +356,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -478,9 +374,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -498,9 +392,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Drama",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -518,9 +410,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -538,29 +428,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "910784",
-    "tmdbId": 910784,
-    "type": "movie",
-    "title": "Thangalaan",
-    "overview": "During the British rule, Thangalaan, a fierce tribal leader, and his tribe assist Lord Clement, a British General, to trace gold in their village. While searching for the gold, the villagers earn the wrath of Aarathi, an apparent sorceress, who Thangalaan sets out to stop with all his might.",
-    "year": "2024",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/dAci50FwevkdWIUzQWpdz7kSKHe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/sNOWphqcNsq7aKw1LSKcP672gwf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aiRJYJ9mbbVm21TqBpunKjZBcbO.png",
-    "certificate": null,
-    "runTimeMinutes": 156,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -578,9 +446,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +464,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -618,9 +482,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -638,9 +500,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -658,9 +518,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -678,9 +536,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -698,9 +554,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -718,9 +572,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -738,10 +590,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   }
 ]

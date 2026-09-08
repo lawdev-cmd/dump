@@ -14,10 +14,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Drama",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "DK",
-      "IS"
-    ],
+    "originCountries": ["DK", "IS"],
     "originalLanguage": ""
   },
   {
@@ -35,29 +32,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1515729",
-    "tmdbId": 1515729,
-    "type": "movie",
-    "title": "Blast",
-    "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
-    "year": "2026",
-    "rating": 7.754,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bLTZQ0a6lEdLht1n0dplIZpV4eW.png",
-    "certificate": null,
-    "runTimeMinutes": 143,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +50,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -95,29 +68,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1213898",
-    "tmdbId": 1213898,
-    "type": "movie",
-    "title": "Border 2",
-    "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jbCnrty7OWdXjIdVFKmuSp7EBzn.png",
-    "certificate": "R",
-    "runTimeMinutes": 201,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -135,9 +86,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +104,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +122,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +140,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +158,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -235,29 +176,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "872906",
-    "tmdbId": 872906,
-    "type": "movie",
-    "title": "Jawan",
-    "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
-    "year": "2023",
-    "rating": 7.04,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7VQCCoFTVUt4rpsrgF9TE69L5lw.png",
-    "certificate": "NR",
-    "runTimeMinutes": 169,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -275,29 +194,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "FR"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "498448",
-    "tmdbId": 498448,
-    "type": "movie",
-    "title": "Kesari",
-    "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
-    "year": "2019",
-    "rating": 7.114,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/notcxmT6RN93g43BnRI8GvRktZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jBsn42vKDkyfFVkVXEZLJ5qUhQU.png",
-    "certificate": null,
-    "runTimeMinutes": 151,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -315,9 +212,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -335,70 +230,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1383072",
-    "tmdbId": 1383072,
-    "type": "movie",
-    "title": "Mahavatar Narsimha",
-    "overview": "Tyrannical demon Hiranyakashyap challenges Vishnu, proclaiming himself a god. However, his son Prahlad remains devoted to Vishnu, who appears as Narsimha to defeat the demon.",
-    "year": "2025",
-    "rating": 7.407,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/15UrawRUcfDKo93CD1oSMpuWKKP.png",
-    "certificate": null,
-    "runTimeMinutes": 131,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14134",
-    "tmdbId": 14134,
-    "type": "movie",
-    "title": "Main Hoon Na",
-    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
-    "year": "2004",
-    "rating": 6.624,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
-    "certificate": "PG",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1339876",
-    "tmdbId": 1339876,
-    "type": "movie",
-    "title": "Mardaani 3",
-    "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
-    "year": "2026",
-    "rating": 7.614,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 131,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -416,9 +248,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "War",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -436,30 +266,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1247165",
-    "tmdbId": 1247165,
-    "type": "movie",
-    "title": "Raja Shivaji",
-    "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-    "year": "2026",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/7rmSMnH5HDHWWil6tYmxPlH8vqz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/irmGhzPBbzyswyEa8021gg4LvZY.png",
-    "certificate": null,
-    "runTimeMinutes": 195,
-    "primaryGenre": "Action",
-    "secondaryGenre": "History",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -477,9 +284,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "War",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -497,9 +302,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -517,9 +320,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -537,9 +338,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -557,9 +356,7 @@
     "runTimeMinutes": 148,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -577,9 +374,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -597,9 +392,7 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Western",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -617,9 +410,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "War",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -637,9 +428,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -657,10 +446,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "FR",
-      "LU"
-    ],
+    "originCountries": ["FR", "LU"],
     "originalLanguage": ""
   },
   {
@@ -678,9 +464,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Drama",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -698,9 +482,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Action",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -718,29 +500,7 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "585268",
-    "tmdbId": 585268,
-    "type": "movie",
-    "title": "War",
-    "overview": "Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything.",
-    "year": "2019",
-    "rating": 6.759,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/yUtaHkL2SDIAZhRApZAyQrAXygn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/aOSDKvqglKVa3SYy4CPXYUAfDlf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/b9a4Jeh82ZpMy7WPy0PksIaiq27.png",
-    "certificate": null,
-    "runTimeMinutes": 152,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -758,9 +518,7 @@
     "runTimeMinutes": 202,
     "primaryGenre": "Music",
     "secondaryGenre": "",
-    "originCountries": [
-      "CH"
-    ],
+    "originCountries": ["CH"],
     "originalLanguage": ""
   }
 ]

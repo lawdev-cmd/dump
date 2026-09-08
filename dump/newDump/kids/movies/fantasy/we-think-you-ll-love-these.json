@@ -14,9 +14,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Family",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Family",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -134,29 +122,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "329521",
-    "tmdbId": 329521,
-    "type": "movie",
-    "title": "Chhota Bheem: Dholakpur to Kathmandu",
-    "overview": "Bheem and his friends are invited to spend their vacations in Kathmandu.Their trip is not without mishap, as a young ape is separated from its father. Bheem defeats the jaguars, and unites the ape with its father.",
-    "year": "2012",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/xgOG2qkL8CT7msXPMKAc298fMTA.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 69,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +140,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +158,7 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +176,7 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +194,7 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -254,9 +212,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -274,9 +230,7 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -294,9 +248,7 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -314,9 +266,7 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -334,9 +284,7 @@
     "runTimeMinutes": 14,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -354,9 +302,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -374,11 +320,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CA",
-      "GB",
-      "US"
-    ],
+    "originCountries": ["CA", "GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -396,9 +338,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -416,9 +356,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "IE"
-    ],
+    "originCountries": ["IE"],
     "originalLanguage": ""
   },
   {
@@ -436,9 +374,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Animation",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -456,9 +392,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -476,10 +410,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -497,9 +428,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -517,10 +446,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -538,9 +464,7 @@
     "runTimeMinutes": 3,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -558,9 +482,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -578,9 +500,7 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Animation",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +518,7 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -618,9 +536,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -638,10 +554,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -659,9 +572,7 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -679,10 +590,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "AU",
-      "US"
-    ],
+    "originCountries": ["AU", "US"],
     "originalLanguage": ""
   },
   {
@@ -700,10 +608,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -721,11 +626,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Family",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "NZ",
-      "GB",
-      "US"
-    ],
+    "originCountries": ["NZ", "GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -743,29 +644,7 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14214",
-    "tmdbId": 14214,
-    "type": "movie",
-    "title": "Thoda Pyaar Thoda Magic",
-    "overview": "One day they pray to God for help and he does help them. He sends his most mischievous, childlike, lovable angel to the rescue, with a mission to bring Ranbeer and the kids together. Geeta (Rani Mukerji) comes bicycling down a rainbow… and bursts into Ranbeer's house as the selfproclaimed new nanny. And then starts the roller coaster ride of fun, emotions, magic and love.",
-    "year": "2008",
-    "rating": 5.472,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/sILNLbwCDFHsQhCzLfxU89R1dni.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/5ZfCyyxqkaoVYtnuNMtnNRWlPhP.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 145,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -783,9 +662,205 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "437872",
+    "tmdbId": 437872,
+    "type": "movie",
+    "title": "Anpanman: Adventure of Happie",
+    "overview": "A dodeca tree-dwelling boy named Happy travels afar to look for Anpanman with the aim of becoming his apprentice. But he is ddisillusioned with doing good everyday and teams up with Baikinman  to lure  Anpanman to the dodeca tree. But watching Anpanman fight Guringa shows him what real strength is...",
+    "year": "2005",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hSGLK6ajJKnISm1Xk0HhPCmKnRR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/reqhHDx7Bcub5NccuLusWbUoVb6.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 51,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "587454",
+    "tmdbId": 587454,
+    "type": "movie",
+    "title": "Anpanman: Apple Boy and Everyone's Hope",
+    "overview": "An aspiring super hero gets his chance for bravery when a witch transforms his village into an uninhabitable mess. Now, he must save the day!",
+    "year": "2014",
+    "rating": 4,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/znfgDi46tmFtJHxfoz1yAzAVVWU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/38sUvEX7bdE0mwH3dATk8UfDcPv.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 48,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "361606",
+    "tmdbId": 361606,
+    "type": "movie",
+    "title": "Anpanman: The Blacknose with Magical Song",
+    "overview": "An orphan is raised by a villain who doesn’t allow the joys of life. Now, it’s up to a red bean paste-filled superhero to introduce life’s gifts.",
+    "year": "2010",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/nIusleRwIaf4V4xfL9MgduWsuXH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zxjBswCdW2upQ9mLQVwpW1oCSUl.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 51,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "360599",
+    "tmdbId": 360599,
+    "type": "movie",
+    "title": "Anpanman: The Secret of Fairy Rin-Rin",
+    "overview": "Anpanman’s strength from the flowers provided by the fairy Rin-Rin is in jeopardy when bad Baikinman tricks her into giving them to him instead!",
+    "year": "2008",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vftiMr6GJOLl37xH9Pz7O39j5k6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AqC8AzOGxwFz97ShECTm932u0Jh.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 51,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1183148",
+    "tmdbId": 1183148,
+    "type": "movie",
+    "title": "Chhota Bheem Adventure of Persia",
+    "overview": "A magical feather takes Bheem and the gang to Dilshad, where an evil king rules the land. Can they stop his terrible rise — and save the people?",
+    "year": "",
+    "rating": 0,
+    "posterUrl": null,
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 65,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "733982",
+    "tmdbId": 733982,
+    "type": "movie",
+    "title": "It's me against you - The mystery of the spellbound school",
+    "overview": "A beautiful school is about to reopen after many years and Luì and Sofì (Me against You) are the special guests of the inauguration party, their friend Pongo awaits them there. The school, however, could hide a mystery and, once again, the Me against You will have to face the evil Mr. S with courage and try to sabotage his evil plans in the name of friendship. In the school, for the first time, Luì and Sofì could learn an important secret about their past. A new “magical” adventure in the cinema for Luì and Sofì, in a world of magic, with lots of surprises and fun for their little fans and all families.",
+    "year": "2021",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n8BFAJf3RRVoiT1UUFTJOoQuXiY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cuzReaeVngNlXYMS2zo3FV51dT4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2YZr3keHX4Ht9ALwUnoqe5Hpdbe.png",
+    "certificate": null,
+    "runTimeMinutes": 63,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["IT"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "628964",
+    "tmdbId": 628964,
+    "type": "movie",
+    "title": "Child of Kamiari Month",
+    "overview": "A year after losing her mother, a young girl learns that she must journey across Japan to the annual gathering of gods in the sacred land of Izumo.",
+    "year": "2021",
+    "rating": 6.474,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/zbajcTeE9NIOS5IzHqGDj0ZmW8b.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lr79OVNnJp1Jwys77zEjnJnQ1pc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6PNDRGsApi1nyCMxiBsdFfHsfc5.png",
+    "certificate": "PG",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1026999",
+    "tmdbId": 1026999,
+    "type": "movie",
+    "title": "Kleks Academy",
+    "overview": "A seemingly ordinary girl finds her way into the eponymous Academy to explore the world of fairy tales, imagination and creativity. With the help of a crazy, talented teacher, she develops her unique abilities and also stumbles upon a clue that will help her unravel the biggest secret of the family...",
+    "year": "2024",
+    "rating": 5.961,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ymbECZscR8BTkdvXziSinMIckAz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/w2zsNG7WKBMH35QqcFYILEAdYDU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6Phg4hyu5ZaJjWGymNA1ktiyhaB.png",
+    "certificate": null,
+    "runTimeMinutes": 130,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": ["PL"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "832502",
+    "tmdbId": 832502,
+    "type": "movie",
+    "title": "The Monkey King",
+    "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
+    "year": "2023",
+    "rating": 6.489,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yhit94ENEliV14h63Zmr6QPUGpP.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "643533",
+    "tmdbId": 643533,
+    "type": "movie",
+    "title": "Super Monsters Save Christmas",
+    "overview": "On Christmas Eve, the Super Monsters get together to make decorations, but end up having to find Santa's missing reindeer in order to save their holiday.",
+    "year": "2019",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/d96SFX22o3dIuZ0qzOLNJ7ErfGP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/9PbQNBrQVd9gqGAak9wxNvfZZr9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ut4OGN4529ZZQlWX1QcOIeQ9qOr.png",
+    "certificate": "G",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "835739",
+    "tmdbId": 835739,
+    "type": "movie",
+    "title": "Super Monsters: Once Upon a Rhyme",
+    "overview": "From Goldilocks to Hansel and Gretel, the Super Monsters reimagine classic fairy tales and favorite nursery rhymes with a musical, magical spin!",
+    "year": "2021",
+    "rating": 6.07,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/unIkHTdCEIdHdtmWjEwfv7Ifllk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eK6eBzp7m7WZYaJ3iAnjdPDngiP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ojrTTgnmJFMzoo9ILxunUjzMXyS.png",
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

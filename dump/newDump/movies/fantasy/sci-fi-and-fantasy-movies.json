@@ -1,25 +1,5 @@
 [
   {
-    "id": "734253",
-    "tmdbId": 734253,
-    "type": "movie",
-    "title": "Adipurush",
-    "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
-    "year": "2023",
-    "rating": 4.456,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xjjHH1SxphgYtwCCdAlN5wmYGqR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3OhPN4CCPddcVvwuhLFZvGrgBfS.png",
-    "certificate": "NR",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
     "id": "785457",
     "tmdbId": 785457,
     "type": "movie",
@@ -34,49 +14,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1372588",
-    "tmdbId": 1372588,
-    "type": "movie",
-    "title": "Akhanda 2: Thaandavam",
-    "overview": "When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, new threats emerge putting the world in danger. And as the world burns, Akhanda returns.",
-    "year": "2025",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/805aMQucnpLkSmQ35Pql35fq3Gw.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 164,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14478",
-    "tmdbId": 14478,
-    "type": "movie",
-    "title": "Adventures of Ali-Baba and the Forty Thieves",
-    "overview": "A village man accidentally uncovers a web of political intrigue after discovering and distributing treasures from Hussain's secret hideout. The Khazi sets a gang of ruthless bandits on the man to ensure the safety of his treasures.Based on the story of Ali Baba and the Forty Thieves from the 1001 Nights or Arabian Tales.",
-    "year": "1980",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hIQJMdnu5qR1PXuN8gNDdyxvwdx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/75MVhvcv5l0Sh7TbmZLzAqxkAhC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/IJGYYcIYik1CPRzE1kwfgy02Or.png",
-    "certificate": null,
-    "runTimeMinutes": 138,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,29 +32,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "45002",
-    "tmdbId": 45002,
-    "type": "movie",
-    "title": "Chamatkar",
-    "overview": "When Sunder loses everything, he seeks refuge in a graveyard, where he befriends a ghost.",
-    "year": "1992",
-    "rating": 6.492,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/AuHqRWvDYvw082NAaJ82KSCzuxU.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cAczU5dvIlqCeC4KUiDxqSZ9LSt.png",
-    "certificate": null,
-    "runTimeMinutes": 171,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -134,10 +50,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   },
   {
@@ -155,10 +68,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   },
   {
@@ -176,9 +86,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Drama",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -196,9 +104,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +122,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +140,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -256,9 +158,7 @@
     "runTimeMinutes": 142,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +176,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +194,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +212,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +230,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -356,10 +248,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -377,10 +266,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -398,29 +284,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "33081",
-    "tmdbId": 33081,
-    "type": "movie",
-    "title": "Paheli",
-    "overview": "Kishanlal marries the beautiful Lachchi, but the day after the wedding, he leaves on business for five years. When Kishanlal reappears only a few days later, Lachchi is delighted, but this new Kishanlal is in fact a spirit who has taken the form of Lachchi's husband, after having seen her by chance and fallen in love with her. Four years later, the real Kishanlal returns and the townsfolk must determine who is who.",
-    "year": "2005",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1oQ8mBfBKcVT758y1949ULkSXER.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/7WoyOMp0wORdgYJimHeg0XuNaTM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mcqhjCOdC2U5GGUqKZiEoZrFEfh.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -438,29 +302,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "ID"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1626170",
-    "tmdbId": 1626170,
-    "type": "movie",
-    "title": "Sing Geetham",
-    "overview": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/ob25gz42Uo0WUX3q4TqC7Crmex7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/y3YZvFiuWJ0b4OpCvX9UY1AIprF.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 137,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Music",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -478,29 +320,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "910784",
-    "tmdbId": 910784,
-    "type": "movie",
-    "title": "Thangalaan",
-    "overview": "During the British rule, Thangalaan, a fierce tribal leader, and his tribe assist Lord Clement, a British General, to trace gold in their village. While searching for the gold, the villagers earn the wrath of Aarathi, an apparent sorceress, who Thangalaan sets out to stop with all his might.",
-    "year": "2024",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/dAci50FwevkdWIUzQWpdz7kSKHe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/sNOWphqcNsq7aKw1LSKcP672gwf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aiRJYJ9mbbVm21TqBpunKjZBcbO.png",
-    "certificate": null,
-    "runTimeMinutes": 156,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -518,9 +338,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Romance",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -538,9 +356,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -558,9 +374,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -578,9 +392,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +410,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -618,9 +428,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -638,9 +446,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -658,9 +464,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -678,9 +482,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -698,11 +500,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "PL",
-      "KR",
-      "US"
-    ],
+    "originCountries": ["PL", "KR", "US"],
     "originalLanguage": ""
   },
   {
@@ -720,9 +518,7 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -740,29 +536,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14214",
-    "tmdbId": 14214,
-    "type": "movie",
-    "title": "Thoda Pyaar Thoda Magic",
-    "overview": "One day they pray to God for help and he does help them. He sends his most mischievous, childlike, lovable angel to the rescue, with a mission to bring Ranbeer and the kids together. Geeta (Rani Mukerji) comes bicycling down a rainbow… and bursts into Ranbeer's house as the selfproclaimed new nanny. And then starts the roller coaster ride of fun, emotions, magic and love.",
-    "year": "2008",
-    "rating": 5.472,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/sILNLbwCDFHsQhCzLfxU89R1dni.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/5ZfCyyxqkaoVYtnuNMtnNRWlPhP.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 145,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -780,9 +554,439 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "960170",
+    "tmdbId": 960170,
+    "type": "movie",
+    "title": "Rainbow",
+    "overview": "In search of her mother, a teenager and her eccentric group of companions set off on a journey, trying to avoid the clutches of a wicked woman.",
+    "year": "2022",
+    "rating": 5.478,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7RVajiBhqJVwKIhUqSnRWBWhZA5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/h0buW4Y9yqDcl28FzI7kJunfaiM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tBAVMJPUMZNSqIGycOX53L0nvBT.png",
+    "certificate": "R",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": ["ES"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1211419",
+    "tmdbId": 1211419,
+    "type": "movie",
+    "title": "A Vampire in the Family",
+    "overview": "Fernandinho is a family man, former football player and a current podcast commentator that is surprised by the visit of his inconvenient brother-in-law, Gregorio, who discovers to be lazy and literally a bloodsucker - a vampire.",
+    "year": "2023",
+    "rating": 5.286,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dws3yBxzT70cI53tEpUk21OIliS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xJdVOpzJ4SOV8yJQpaIXByZOFh1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7uWhhlpqtU25NeyF3auVGtx8y1y.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": ["BR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1155086",
+    "tmdbId": 1155086,
+    "type": "movie",
+    "title": "Just Like a Christmas Movie",
+    "overview": "On the verge of a massive deadline, a cynical workaholic is zapped by faulty Christmas lights while stranded in a small Colorado town and finds herself cast as the lead in an over-the-top Hallmark-style holiday movie. Now she must wrap, bake, and carol herself into some Christmas cheer to break the curse and make her way back ho-ho-home.",
+    "year": "2023",
+    "rating": 5.063,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5sDEMo8prZ1tmTlyTTPXjBWIKrr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ut5xgA99GHNRa6sjXrwa81tJl8l.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "TV Movie",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["CA"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1069913",
+    "tmdbId": 1069913,
+    "type": "movie",
+    "title": "The Last Man on Earth",
+    "overview": "In a comedy set during the Christmas novena of a company, Piquiña, an ugly and boastful man, tries to conquer Liliana, the woman desired by all. Convinced of his charm, he goes after her, but Liliana rejects him with a blunt phrase: she would only be with him if he were the last man on Earth.",
+    "year": "2022",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/q7hjC7UebawduaVSqnekvyjQ7JI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7vZRbMkYjsGIUK45Q3RTcl140Ex.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 87,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": ["CO"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "854",
+    "tmdbId": 854,
+    "type": "movie",
+    "title": "The Mask",
+    "overview": "Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit of the Norse god Loki. Donning it transforms him into an unrestrained, green-faced, cartoon-like wild man. While the mask grants him the confidence to woo a local singer, it also makes him the target of a ruthless mobster.",
+    "year": "1994",
+    "rating": 6.995,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bGz2KRRj4NMJ0M8SdydzMEb0u5M.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1196207",
+    "tmdbId": 1196207,
+    "type": "movie",
+    "title": "The Night My Dad Saved Christmas 2",
+    "overview": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to save Christmas.",
+    "year": "2025",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": ["ES"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1065049",
+    "tmdbId": 1065049,
+    "type": "movie",
+    "title": "A Farewell for Lilí",
+    "overview": "When an electrical job goes wrong, a cynical electrician must accept help from a spirit to bury the evidence of a fatal accident.",
+    "year": "2022",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/i4WkjrzR4BZ5PPlIEIVoQ3THmeR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aCKgP2hNNTG5x5a4i0vxKzH6FhU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eNiZ5Ycu7hh88KzJsZhqzUWGqiP.png",
+    "certificate": null,
+    "runTimeMinutes": 12,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": ["DO"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1550223",
+    "tmdbId": 1550223,
+    "type": "movie",
+    "title": "The Time That Remains",
+    "overview": "Surrounded by a string of deaths, an older woman relives her romance with a mysterious, ageless lover as an inspector closes in on their dark secret.",
+    "year": "2025",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/pjtrhgskggN2uD3lF2A9QxHO2Wd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/OCNoxTB6sqZXmiazkZYyUA6Iz7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2PqO3fi5nQmfrXisr7ifwmBemQ2.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": ["PH"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "533983",
+    "tmdbId": 533983,
+    "type": "movie",
+    "title": "Up Among the Stars",
+    "overview": "Víctor is a film director who is overcome by his own misfortunes. He is an alcoholic, unemployed and terribly depressed, largely because of the death of his wife. However, Victor is still the best in one thing: telling fantastic stories to his nine-year-old son, Ingmar. These stories are each of the scripts he dreams of directing in the future, when he gathers all the necessary resources. Victor and Ingmar share a present full of sadness and precariousness, but also full of robots and locations of films they have seen together. Despite forming a great team, their problems will multiply when others begin to question their role as a father.",
+    "year": "2018",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/xvdnPjkvOftz6drRiEeAK393hxL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jd2Vale3uLeRZAlRQGkvJS2pWWD.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": ["ES"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1496623",
+    "tmdbId": 1496623,
+    "type": "movie",
+    "title": "Buddy",
+    "overview": "As Jansen finishes packing up his belongings, an old friend - Buddy the clown - pays him a visit.",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4WClD8FT6p3CUbCrKx6X2lYOuL7.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 8,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10253",
+    "tmdbId": 10253,
+    "type": "movie",
+    "title": "Dragon Wars: D-War",
+    "overview": "Ethan learns he carries the spirit of a warrior who battled dragons in 16th-century Korea -- and one day he'll find a tattooed girl carrying the spirit of that warrior's beloved. Years later, he meets Sarah and dragons soon descend on Los Angeles seeking out the two souls of the ancient lovers.",
+    "year": "2007",
+    "rating": 4.581,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rEpvqWGu08coDLUpcpiz4sMoDYo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5WWqrUIGrCb1QvZtYVaSfZgUG8n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cLdBBnltxZgoj7IBoQuElXHOCs6.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": ["KR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1487",
+    "tmdbId": 1487,
+    "type": "movie",
+    "title": "Hellboy",
+    "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+    "year": "2004",
+    "rating": 6.677,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/lbaTEneOofwvAyg77R8HbFML2zT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Et15vXHzqeYj24w3XMxkE4qkZc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "456740",
+    "tmdbId": 456740,
+    "type": "movie",
+    "title": "Hellboy",
+    "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
+    "year": "2019",
+    "rating": 5.574,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/djiDKVB07xTy7tDFbWb9k7KLI3E.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/upVX4gI5ilBH6tgZXbizJmLXPVx.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Horror",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "455476",
+    "tmdbId": 455476,
+    "type": "movie",
+    "title": "Knights of the Zodiac",
+    "overview": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
+    "year": "2023",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fLEsa5SKTFgrdUGMHbsWomniak6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5gBBwuPH45EaU4a1Obydrz3rqW9.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "734355",
+    "tmdbId": 734355,
+    "type": "movie",
+    "title": "Monster Run",
+    "overview": "Ji Mo is an outcast, due to her ability to see monsters that no one else can. One day, she meets a monster hunter, Meng. She discovers that there really are monsters in the world, and she is involved in a new storm.",
+    "year": "2020",
+    "rating": 5.703,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/18mwyI7hSaXwqfJazyCbCEq4TLl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cPUKaqRSf0WxVlaNNTJto6eYR10.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/R1P9RWFKTyiC5e7052aa1OKpJ6.png",
+    "certificate": null,
+    "runTimeMinutes": 104,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": ["CN"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1051959",
+    "tmdbId": 1051959,
+    "type": "movie",
+    "title": "The Claus Family 3",
+    "overview": "When the delivery of presents goes wrong and Grandpa Noël gets in trouble, siblings Jules and Noor must work together to save Christmas.",
+    "year": "2022",
+    "rating": 5.733,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/aJg7z3AVwBakEUDdJaah5QyebXn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qEr93DMd9uDlJz7K6USktHhE1rg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wNVpLEWXBnlKNgzBmMo5nRqI5tT.png",
+    "certificate": null,
+    "runTimeMinutes": 74,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["BE", "NL"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "779782",
+    "tmdbId": 779782,
+    "type": "movie",
+    "title": "The School for Good and Evil",
+    "overview": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.",
+    "year": "2022",
+    "rating": 7.02,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/415g2a9VWm8IyGicmQJpGkd70V4.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 149,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "288287",
+    "tmdbId": 288287,
+    "type": "movie",
+    "title": "A Choo",
+    "overview": "Even when they were orphans, Wang Yizhi has always been in love with Xinxin. Now older, Yizhi decides to train as a boxer before he allows himself to profess his love, but only for her to fall for a geeky computer engineer who is secretly a popular superhero. When Xinxin gets kidnapped, Yizhi must prove his love and his fighting skills to get the girl of his dreams.",
+    "year": "2020",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ekhUMW90LKjIXN3zbNEQhbswJIV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qk6khjQUF2B655bfX7NEHyhnHS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vXR7EmVCEVu7zZ43nV6g4PjLqtI.png",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["TW"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "388427",
+    "tmdbId": 388427,
+    "type": "movie",
+    "title": "La Leyenda del Diamante",
+    "overview": "When a gun-toting rebel tries to rescue her kidnapped sister, she finds herself up against a widely feared desperado and a cursed guardian of treasure.",
+    "year": "2018",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uyxUcPJzV4wqiTNhKrZzs9F1C8o.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 87,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["MX"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1090486",
+    "tmdbId": 1090486,
+    "type": "movie",
+    "title": "BRO",
+    "overview": "After being fatally injured in a car crash, a man is given three months back on earth to make amends.",
+    "year": "2023",
+    "rating": 6.313,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cCirdTe57qpOvb1NFKECbQRMmfQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cDau8XMNbURuVPOhqJo9AK1kUQm.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 133,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": ["IN"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "45002",
+    "tmdbId": 45002,
+    "type": "movie",
+    "title": "Chamatkar",
+    "overview": "When Sunder loses everything, he seeks refuge in a graveyard, where he befriends a ghost.",
+    "year": "1992",
+    "rating": 6.492,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/AuHqRWvDYvw082NAaJ82KSCzuxU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cAczU5dvIlqCeC4KUiDxqSZ9LSt.png",
+    "certificate": null,
+    "runTimeMinutes": 171,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["IN"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "412190",
+    "tmdbId": 412190,
+    "type": "movie",
+    "title": "Love O2O",
+    "overview": "A college stud tries to level up his relationship with a computer science major after becoming attracted to her skills in an online role-playing game.",
+    "year": "2016",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/wW8903K4gTSDgzJiU6iZmbeT5SC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cfAsueSHK0hbSQe8jAnUgF8eOtj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9ToOpaoDZFtNmpyliL0Cx5PtlBx.png",
+    "certificate": null,
+    "runTimeMinutes": 105,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["CN"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "349138",
+    "tmdbId": 349138,
+    "type": "movie",
+    "title": "Ludo",
+    "overview": "Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.",
+    "year": "2015",
+    "rating": 2.971,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rso6tCy4IZOcjckDQdRdPciWHfw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vYSqSeFPctMACRp5Mp2kziwxcl1.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": ["BD"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "632856",
+    "tmdbId": 632856,
+    "type": "movie",
+    "title": "Spirited",
+    "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
+    "year": "2022",
+    "rating": 6.84,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/idYBta5RnWEUQfnBuf6tfIsGtXy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

@@ -448,5 +448,23 @@
     "secondaryGenre": "",
     "originCountries": ["BR"],
     "originalLanguage": ""
+  },
+  {
+    "id": "254721",
+    "tmdbId": 254721,
+    "type": "tv",
+    "title": "Kaulitz & Kaulitz",
+    "overview": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series.",
+    "year": "2024",
+    "rating": 8.268,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dX7tkJn3EXcWZDNrOh2gxyFoIKg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/2nD64DomGfdyXG1CkW3QdgcPCUP.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": ["DE"],
+    "originalLanguage": ""
   }
 ]

@@ -432,24 +432,6 @@
     "originalLanguage": ""
   },
   {
-    "id": "524288",
-    "tmdbId": 524288,
-    "type": "movie",
-    "title": "Period. End of Sentence.",
-    "overview": "In an effort to improve feminine hygiene, a machine that creates low-cost biodegradable sanitary pads is installed in a rural village in Northern India. Using the machine, a group of local women is employed to produce and sell pads, offering them newfound independence and helping to destigmatize menstruation for all.",
-    "year": "2018",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/dsCeBj8oabzsHQOGGLPrmrqIvDs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/9uW5X9fdtfJp0bSW60Eqh0lqcEt.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hPrUoFGbRLK7W3GkXyAhJJojCPw.png",
-    "certificate": null,
-    "runTimeMinutes": 26,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": ["IN"],
-    "originalLanguage": ""
-  },
-  {
     "id": "1115191",
     "tmdbId": 1115191,
     "type": "movie",
@@ -519,24 +501,6 @@
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
     "originCountries": ["IE", "US", "GB"],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1041580",
-    "tmdbId": 1041580,
-    "type": "movie",
-    "title": "The Elephant Whisperers",
-    "overview": "Bomman and Bellie, a couple in south India, devote their lives to caring for an orphaned baby elephant named Raghu, forging a family like no other.",
-    "year": "2022",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/rRn0Uj2WXal7FkWWyKK0bleQlOy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/qSuSc03Kz90CtrIvaYBdYuyMpkd.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/p8RkKd8MvT2F7ZoeYnF2VcXYs6o.png",
-    "certificate": null,
-    "runTimeMinutes": 40,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": ["IN"],
     "originalLanguage": ""
   },
   {
@@ -717,6 +681,24 @@
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
     "originCountries": ["UA", "GB", "US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "799375",
+    "tmdbId": 799375,
+    "type": "movie",
+    "title": "Stutz",
+    "overview": "In candid conversations with actor Jonah Hill, leading psychiatrist Phil Stutz explores his early life experiences and unique, visual model of therapy.",
+    "year": "2022",
+    "rating": 7.463,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uOiJmotRM12wsgfwiEXsp3AErdU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ubtLuy2SsC7q0BIewPPOGeQVtlN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1xoTI2ksXCaPUEL7jHtbkchrRc7.png",
+    "certificate": "R",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

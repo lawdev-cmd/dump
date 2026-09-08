@@ -14,9 +14,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "History",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,29 +86,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "360814",
-    "tmdbId": 360814,
-    "type": "movie",
-    "title": "Dangal",
-    "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
-    "year": "2016",
-    "rating": 7.873,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/w9Bxolh7pQY8SfNPPpuKahQhxkY.png",
-    "certificate": "PG",
-    "runTimeMinutes": 161,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +104,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +122,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -174,29 +140,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1509599",
-    "tmdbId": 1509599,
-    "type": "movie",
-    "title": "Gatta Kusthi 2",
-    "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-    "year": "2026",
-    "rating": 4.929,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jOM46KdTUsBDQ93USngmQrgm56z.png",
-    "certificate": null,
-    "runTimeMinutes": 153,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +158,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +176,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -254,9 +194,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -274,9 +212,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -294,9 +230,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -314,9 +248,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -334,9 +266,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Comedy",
     "secondaryGenre": "History",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -354,29 +284,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1057265",
-    "tmdbId": 1057265,
-    "type": "movie",
-    "title": "Peddi",
-    "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
-    "year": "2026",
-    "rating": 5.79,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2WDyVZ2JJqMNWEUXewc0olRsguN.png",
-    "certificate": "NR",
-    "runTimeMinutes": 189,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -394,9 +302,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -414,9 +320,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -434,29 +338,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "376812",
-    "tmdbId": 376812,
-    "type": "movie",
-    "title": "Sultan",
-    "overview": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
-    "year": "2016",
-    "rating": 6.842,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/oarT8LL2XE0aPU9kXqrD249Z4rM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/74bUfGDD0kJ53M334vQcbJRzsI8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qCvkXph5MNPcnDKG0qrVpc4Fx3f.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 170,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -474,9 +356,7 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -494,11 +374,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "IE",
-      "US",
-      "GB"
-    ],
+    "originCountries": ["IE", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -516,9 +392,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -536,9 +410,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -556,9 +428,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Drama",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -576,9 +446,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -596,9 +464,7 @@
     "runTimeMinutes": 41,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -616,10 +482,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -637,9 +500,7 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Documentary",
     "secondaryGenre": "History",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -657,9 +518,7 @@
     "runTimeMinutes": 77,
     "primaryGenre": "History",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -677,9 +536,7 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -697,9 +554,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -717,9 +572,7 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -737,9 +590,7 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -757,9 +608,7 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -777,10 +626,7 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -798,9 +644,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   }
 ]

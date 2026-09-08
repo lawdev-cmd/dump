@@ -14,9 +14,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Music",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,49 +50,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "205022",
-    "tmdbId": 205022,
-    "type": "movie",
-    "title": "Chennai Express",
-    "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
-    "year": "2013",
-    "rating": 6.503,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/9j7XfhBJKNfidMCa8JsNbqU1waV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/8u7dfVGGBcGrk1nCu55X5RqImwv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1Ch5mF02b7uu9OX38NjpQhQIjfQ.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1392469",
-    "tmdbId": 1392469,
-    "type": "movie",
-    "title": "Cocktail 2",
-    "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
-    "year": "2026",
-    "rating": 5.776,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gSW7GIQcAa7Pbhp8N8mSGAWP5ln.png",
-    "certificate": null,
-    "runTimeMinutes": 150,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +68,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,49 +86,7 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "19404",
-    "tmdbId": 19404,
-    "type": "movie",
-    "title": "Dilwale Dulhania Le Jayenge",
-    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
-    "year": "1995",
-    "rating": 8.503,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/84beTJf26mfhoasUlKSOiNSutyS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2y2BbO3udAS9Zfzya3ifqUn7JUh.png",
-    "certificate": "PG",
-    "runTimeMinutes": 190,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1321108",
-    "tmdbId": 1321108,
-    "type": "movie",
-    "title": "Dude",
-    "overview": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
-    "year": "2025",
-    "rating": 5.51,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/oLUbL4RtynlTtKd1byseeOCkIZO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/kDRkOFPkjYjubhiIcvurBKuLSRI.jpg",
-    "logoUrl": null,
-    "certificate": "NR",
-    "runTimeMinutes": 140,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +104,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +122,7 @@
     "runTimeMinutes": 142,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +140,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -254,9 +158,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "BR"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
@@ -274,29 +176,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1432631",
-    "tmdbId": 1432631,
-    "type": "movie",
-    "title": "Idhayam Murali",
-    "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
-    "year": "2026",
-    "rating": 6.889,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aeI0gsEH4DReeQtBnBhAIyiFCJQ.png",
-    "certificate": null,
-    "runTimeMinutes": 164,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -314,9 +194,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -334,30 +212,7 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14134",
-    "tmdbId": 14134,
-    "type": "movie",
-    "title": "Main Hoon Na",
-    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
-    "year": "2004",
-    "rating": 6.624,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
-    "certificate": "PG",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -375,9 +230,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -395,9 +248,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -415,29 +266,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "8079",
-    "tmdbId": 8079,
-    "type": "movie",
-    "title": "Om Shanti Om",
-    "overview": "In the early 70s, aspiring actor Om Prakash Makhija, and a famous starlet Shantipriya, are murdered. Thirty years later, his reincarnation Om Kapoor sets out to discover the mystery of their demise.",
-    "year": "2007",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/oArsQTD4bPPMtRjqr03SO9W6phF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/mBdT7nvhXmvZKK1mieS261IApcI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eTEPafUc9Drd3G11rOPlMYGpNFC.png",
-    "certificate": "NR",
-    "runTimeMinutes": 169,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -455,9 +284,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -475,49 +302,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1538273",
-    "tmdbId": 1538273,
-    "type": "movie",
-    "title": "Pyaar Prema Kalyanam",
-    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
-    "year": "2026",
-    "rating": 7.318,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
-    "logoUrl": null,
-    "certificate": "PG-13",
-    "runTimeMinutes": 127,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1241634",
-    "tmdbId": 1241634,
-    "type": "movie",
-    "title": "Saiyaara",
-    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
-    "year": "2025",
-    "rating": 6.367,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qnJ0VhbFAeu7YUPpEB3AZ3d1bAI.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -535,9 +320,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -555,9 +338,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -575,9 +356,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -595,9 +374,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -615,9 +392,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -635,9 +410,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -655,9 +428,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -675,9 +446,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -695,9 +464,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -715,49 +482,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1508564",
-    "tmdbId": 1508564,
-    "type": "movie",
-    "title": "With Love",
-    "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
-    "year": "2026",
-    "rating": 6.78,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/mKVSozOhy9to5AFfIX1tsDDFrFK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eL0bMGF3g9Us3u6pGuaRyrY21n4.png",
-    "certificate": null,
-    "runTimeMinutes": 141,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "185008",
-    "tmdbId": 185008,
-    "type": "movie",
-    "title": "Yeh Jawaani Hai Deewani",
-    "overview": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
-    "year": "2013",
-    "rating": 7.296,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/hvaSiRRM93aCSzTmKlY4sHERL0S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2NeOmDPauwvkt1pEvtD6jxor7eS.png",
-    "certificate": null,
-    "runTimeMinutes": 160,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -775,9 +500,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

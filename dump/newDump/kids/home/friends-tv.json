@@ -14,9 +14,7 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Kids",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": null,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "SA"
-    ],
+    "originCountries": ["SA"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 10,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -114,10 +104,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Kids",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "CA",
-      "GB"
-    ],
+    "originCountries": ["CA", "GB"],
     "originalLanguage": ""
   },
   {
@@ -135,9 +122,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +158,7 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Family",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +176,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Family",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -215,11 +194,7 @@
     "runTimeMinutes": 12,
     "primaryGenre": "Kids",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "CA",
-      "FR",
-      "US"
-    ],
+    "originCountries": ["CA", "FR", "US"],
     "originalLanguage": ""
   },
   {
@@ -237,9 +212,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -257,9 +230,7 @@
     "runTimeMinutes": 7,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -277,10 +248,7 @@
     "runTimeMinutes": 8,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "US",
-      "KR"
-    ],
+    "originCountries": ["US", "KR"],
     "originalLanguage": ""
   },
   {
@@ -298,10 +266,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "IT",
-      "CA"
-    ],
+    "originCountries": ["IT", "CA"],
     "originalLanguage": ""
   },
   {
@@ -319,10 +284,7 @@
     "runTimeMinutes": 15,
     "primaryGenre": "Kids",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -340,29 +302,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "88393",
-    "tmdbId": 88393,
-    "type": "tv",
-    "title": "Mighty Little Bheem",
-    "overview": "An innocent toddler’s boundless curiosity -- and extraordinary might -- lead to mischief and adventure in his small Indian town.",
-    "year": "2019",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/2iw5aWhN5quKEE4j59AKjOlzR6B.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/2HpKgMR7HM1KEyT1BjtcK1LASkG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1o1Yn9JlgDRXgsESpkRR7pimpTY.png",
-    "certificate": "TV-Y",
-    "runTimeMinutes": 7,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Kids",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -380,10 +320,7 @@
     "runTimeMinutes": 4,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "GB",
-      "FR"
-    ],
+    "originCountries": ["GB", "FR"],
     "originalLanguage": ""
   },
   {
@@ -401,9 +338,7 @@
     "runTimeMinutes": 18,
     "primaryGenre": "Animation",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -421,9 +356,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -441,9 +374,7 @@
     "runTimeMinutes": 20,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -461,9 +392,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -481,9 +410,7 @@
     "runTimeMinutes": 11,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -501,9 +428,7 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Kids",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -521,9 +446,7 @@
     "runTimeMinutes": 17,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "SG"
-    ],
+    "originCountries": ["SG"],
     "originalLanguage": ""
   },
   {
@@ -541,9 +464,7 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -561,9 +482,7 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Animation",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -581,9 +500,7 @@
     "runTimeMinutes": 11,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -601,9 +518,7 @@
     "runTimeMinutes": 22,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -621,9 +536,7 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Kids",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -641,9 +554,7 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "AU"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -661,11 +572,7 @@
     "runTimeMinutes": 10,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "CA",
-      "US",
-      "GB"
-    ],
+    "originCountries": ["CA", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -683,9 +590,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -703,9 +608,7 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -723,9 +626,7 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -743,9 +644,7 @@
     "runTimeMinutes": 5,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "MY"
-    ],
+    "originCountries": ["MY"],
     "originalLanguage": ""
   },
   {
@@ -763,9 +662,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

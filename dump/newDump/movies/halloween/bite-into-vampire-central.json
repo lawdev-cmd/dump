@@ -342,24 +342,6 @@
     "originalLanguage": ""
   },
   {
-    "id": "224333",
-    "tmdbId": 224333,
-    "type": "tv",
-    "title": "Tooth Pari: When Love Bites",
-    "overview": "A rebellious vampire with a broken tooth falls for a shy dentist on the streets of Kolkata but will human and mystical forces keep them apart?",
-    "year": "2023",
-    "rating": 6.357,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/aZIV0NIwDoa0vIfBW29zsmPderU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/2JTjGgfKqLsjcQFb49lZUPvmIqp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9bKt0UdlGsL8dWMKPipjtwEWMxc.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Mystery",
-    "originCountries": ["IN"],
-    "originalLanguage": ""
-  },
-  {
     "id": "81559",
     "tmdbId": 81559,
     "type": "tv",
@@ -464,6 +446,24 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1376152",
+    "tmdbId": 1376152,
+    "type": "movie",
+    "title": "Monster",
+    "overview": "Andrew, a family man afflicted with nyctophobia, is faced with losing everything he loves if he doesn't heal old wounds.",
+    "year": "2024",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/iM9p4smJl7y1XaeuzPo6qHw35Lw.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 22,
+    "primaryGenre": "",
+    "secondaryGenre": "",
     "originCountries": ["US"],
     "originalLanguage": ""
   }

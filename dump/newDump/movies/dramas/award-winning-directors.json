@@ -14,9 +14,7 @@
     "runTimeMinutes": 143,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -54,29 +50,7 @@
     "runTimeMinutes": 146,
     "primaryGenre": "Drama",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "393445",
-    "tmdbId": 393445,
-    "type": "movie",
-    "title": "Ae Dil Hai Mushkil",
-    "overview": "Ayan falls in love with his soulmate, Alizeh, but she doesn’t reciprocate the feeling. Later, a relationship with Saba helps him realize Alizeh’s value in his life, irrespective of their relationship status.",
-    "year": "2016",
-    "rating": 6.399,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/2wCaF36obO4LysX0m57h0BKxX27.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3nsZPrMtcWSRqfk4FlIohz7JJvw.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 158,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +68,7 @@
     "runTimeMinutes": 137,
     "primaryGenre": "Drama",
     "secondaryGenre": "War",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +86,7 @@
     "runTimeMinutes": 178,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +104,7 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +122,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +140,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +158,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +176,7 @@
     "runTimeMinutes": 168,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,10 +194,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -255,9 +212,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Drama",
     "secondaryGenre": "War",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -275,50 +230,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "10757",
-    "tmdbId": 10757,
-    "type": "movie",
-    "title": "Kabhi Khushi Kabhie Gham",
-    "overview": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.",
-    "year": "2001",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/eJrD94E1msYEa0DygvkvdEKpChm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xfOSqabgVwcMlZnjdwHwO83KEeG.png",
-    "certificate": null,
-    "runTimeMinutes": 209,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "11854",
-    "tmdbId": 11854,
-    "type": "movie",
-    "title": "Kuch Kuch Hota Hai",
-    "overview": "Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him.",
-    "year": "1998",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/iQJZMLr5cdn7Al2Av4V1VEzPDoQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bh7Ie29qrvs0xnNYpj4m5cmg8yZ.png",
-    "certificate": null,
-    "runTimeMinutes": 185,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +248,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +266,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -376,9 +284,7 @@
     "runTimeMinutes": 137,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -396,9 +302,7 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -416,29 +320,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "297222",
-    "tmdbId": 297222,
-    "type": "movie",
-    "title": "PK",
-    "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
-    "year": "2014",
-    "rating": 7.703,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/BnDydsaEeMhywD5Snv6jN77ifh.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 153,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -456,9 +338,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,9 +356,7 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -496,9 +374,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -516,9 +392,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -536,9 +410,7 @@
     "runTimeMinutes": 143,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -556,9 +428,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -576,9 +446,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -596,9 +464,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -616,9 +482,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -636,9 +500,7 @@
     "runTimeMinutes": 162,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -656,9 +518,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -676,9 +536,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Drama",
     "secondaryGenre": "Western",
-    "originCountries": [
-      "AU"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -696,9 +554,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -716,9 +572,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -736,9 +590,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "History",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -756,9 +608,7 @@
     "runTimeMinutes": 39,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -776,9 +626,7 @@
     "runTimeMinutes": 194,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -796,9 +644,7 @@
     "runTimeMinutes": 128,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   }
 ]

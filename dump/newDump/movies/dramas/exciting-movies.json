@@ -14,49 +14,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "FR"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "348892",
-    "tmdbId": 348892,
-    "type": "movie",
-    "title": "Bajrangi Bhaijaan",
-    "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
-    "year": "2015",
-    "rating": 7.816,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 159,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1515729",
-    "tmdbId": 1515729,
-    "type": "movie",
-    "title": "Blast",
-    "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
-    "year": "2026",
-    "rating": 7.754,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bLTZQ0a6lEdLht1n0dplIZpV4eW.png",
-    "certificate": null,
-    "runTimeMinutes": 143,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -74,31 +32,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "ZA",
-      "US",
-      "GB"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "370665",
-    "tmdbId": 370665,
-    "type": "movie",
-    "title": "Dilwale",
-    "overview": "Raj is a Mafia member. One day he meet a girl (Meera) while chasing by his rival gang and falls in love with her. Later he finds out that this girl is the daughter of the leader of his rival gang. Yet their love story continues until he was shot by his girlfriend upon a deep misunderstanding. After that incident these two lovers lives separate until their siblings fallen in love. With this new love story their paths intertwines again.",
-    "year": "2015",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/pYgPu6hhOr61knwbestTx4vSdMb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/6wnvu7YAHncMhwKs9YDrhKd98zO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uiJiy6B3U8i8cpvi8MvkZEWfFjt.png",
-    "certificate": null,
-    "runTimeMinutes": 158,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["ZA", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -116,9 +50,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -136,9 +68,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -156,9 +86,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -176,9 +104,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -196,9 +122,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +140,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +158,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -256,9 +176,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -276,69 +194,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1015981",
-    "tmdbId": 1015981,
-    "type": "movie",
-    "title": "Jolly LLB 3",
-    "overview": "The third part of the Jolly LLB trilogy brings back Jagdish Tyagi and Jagdishwar Mishra for the biggest face-off as penurious widow Janki Devi Solanki awaits justice against business tycoon Haribhai Khaitan in a satire on the judiciary, justice and the gulf between the privileged and the people on the other side of the spectrum.",
-    "year": "2025",
-    "rating": 6.531,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/bwRoU9p5GvjxgPfmIgsfcJ4ydng.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/gC1kJpDPtaogbq7N543si20jC0w.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kGLKPbpsPpHPDuy8jnwCnTlbUES.png",
-    "certificate": null,
-    "runTimeMinutes": 156,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1239511",
-    "tmdbId": 1239511,
-    "type": "movie",
-    "title": "Lucky Baskhar",
-    "overview": "A middle-class bank clerk who longs to trade stability for adventure gets more than he bargained for when he unexpectedly becomes a wealthy man.",
-    "year": "2024",
-    "rating": 7.698,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/a47JQFl9L7VDa79tEvnTOJe0rPa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/q8UyN4XhpmChtneZXdZ8fktQka6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/68sP6ojhkMgma9YYCNEerbyPMyi.png",
-    "certificate": "NR",
-    "runTimeMinutes": 151,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1383072",
-    "tmdbId": 1383072,
-    "type": "movie",
-    "title": "Mahavatar Narsimha",
-    "overview": "Tyrannical demon Hiranyakashyap challenges Vishnu, proclaiming himself a god. However, his son Prahlad remains devoted to Vishnu, who appears as Narsimha to defeat the demon.",
-    "year": "2025",
-    "rating": 7.407,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xFjk2l1SGgvrMYlFIHGiP7BfvEY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/15UrawRUcfDKo93CD1oSMpuWKKP.png",
-    "certificate": null,
-    "runTimeMinutes": 131,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +212,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Comedy",
     "secondaryGenre": "History",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -376,10 +230,7 @@
     "runTimeMinutes": 138,
     "primaryGenre": "War",
     "secondaryGenre": "History",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -397,70 +248,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Action",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "432527",
-    "tmdbId": 432527,
-    "type": "movie",
-    "title": "Padmaavat",
-    "overview": "Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her.",
-    "year": "2018",
-    "rating": 6.927,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/50reJgWrWTXK3fvGh8idw71gxAO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5hMu9jAfdYGQb4u1xMVeXEC1xnr.png",
-    "certificate": "NR",
-    "runTimeMinutes": 163,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "History",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1247165",
-    "tmdbId": 1247165,
-    "type": "movie",
-    "title": "Raja Shivaji",
-    "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-    "year": "2026",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/7rmSMnH5HDHWWil6tYmxPlH8vqz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/irmGhzPBbzyswyEa8021gg4LvZY.png",
-    "certificate": null,
-    "runTimeMinutes": 195,
-    "primaryGenre": "Action",
-    "secondaryGenre": "History",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1257960",
-    "tmdbId": 1257960,
-    "type": "movie",
-    "title": "Sikandar",
-    "overview": "A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.",
-    "year": "2025",
-    "rating": 4.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bNKRRx5KzuyILXUvV7Xr8SYNVYg.png",
-    "certificate": null,
-    "runTimeMinutes": 133,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -478,9 +266,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -498,9 +284,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -518,9 +302,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Crime",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -538,9 +320,7 @@
     "runTimeMinutes": 148,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -558,9 +338,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -578,9 +356,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +374,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -618,10 +392,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -639,10 +410,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "War",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US",
-      "IE"
-    ],
+    "originCountries": ["US", "IE"],
     "originalLanguage": ""
   },
   {
@@ -660,10 +428,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "FR",
-      "LU"
-    ],
+    "originCountries": ["FR", "LU"],
     "originalLanguage": ""
   },
   {
@@ -681,9 +446,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "History",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -701,9 +464,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Drama",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -721,9 +482,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -741,9 +500,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   }
 ]

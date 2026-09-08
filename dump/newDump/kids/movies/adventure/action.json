@@ -14,12 +14,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US",
-      "ES",
-      "GB",
-      "CN"
-    ],
+    "originCountries": ["US", "ES", "GB", "CN"],
     "originalLanguage": ""
   },
   {
@@ -37,9 +32,7 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -57,9 +50,7 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -77,9 +68,7 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -97,9 +86,7 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -117,9 +104,7 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -137,9 +122,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -157,89 +140,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "218088",
-    "tmdbId": 218088,
-    "type": "movie",
-    "title": "Chhota Bheem and Krishna: Mayanagari",
-    "overview": "Young lord Krishna has fallen for demoness Maayandri’s revenge plot against him! Can Bheem rescue him and thwart Maayandri’s other destructive plans?",
-    "year": "2011",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/bfr1AlNOmDbsFJKTxJhDB9dCTJk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/hVPTQRmSw2trr7uWD6Sl7WTNY1t.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 66,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "TV Movie",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "518972",
-    "tmdbId": 518972,
-    "type": "movie",
-    "title": "Chhota Bheem aur Krishna: Pataliputra - City of the Dead",
-    "overview": "The peace of Pataliputra vanishes when Kirmada, the evil starts to hunt people down in order to get his physical form back. When Krishna and Bheem learn that Krimada is finding an opportunity to take revenge on them for destroying his body, they get into swift action to eradicate the scary danger Pataliputra is facing. What will it take for the duo to win?",
-    "year": "2009",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/nD2VDpLPBJ9tO4vHC1rBTkAktdQ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/29ZheY8rPnULStOmJhrO7gINztT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mokYlN4hxfAx4CSZGXwhfgPcAfQ.png",
-    "certificate": null,
-    "runTimeMinutes": 65,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "852976",
-    "tmdbId": 852976,
-    "type": "movie",
-    "title": "Chhota Bheem: Master of Shaolin",
-    "overview": "Summoned by a monk to help reclaim a temple from a dangerous leader, Bheem must master the Shaolin kung fu techniques if he wants a fighting chance!",
-    "year": "2011",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/9qXRg4fXPFO7dVDSQZgnyVKs2F6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/gzxD1VO5usVZ7v328ANGWXtXSpG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nih7UNw4swVfThEm8W3R0p4gzzr.png",
-    "certificate": null,
-    "runTimeMinutes": 75,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "852978",
-    "tmdbId": 852978,
-    "type": "movie",
-    "title": "Chhota Bheem: The Rise of Kirmada",
-    "overview": "Bheem and young lord Krishna team up to protect the world against the wicked and powerful Kirmada and his equally dangerous bat army.",
-    "year": "2012",
-    "rating": 4.667,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/cunykbDmy7ExMMi6J7vEffOZy3G.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/pQcp3prf6A0x9E13pBgXZvWPtEy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/w5tFogfZPpLv27ITrZKJ90w3LUK.png",
-    "certificate": null,
-    "runTimeMinutes": 68,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "TV Movie",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -257,9 +158,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Family",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -277,9 +176,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -297,9 +194,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "MY"
-    ],
+    "originCountries": ["MY"],
     "originalLanguage": ""
   },
   {
@@ -317,10 +212,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Family",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -338,9 +230,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -358,9 +248,7 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Family",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
@@ -378,9 +266,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Action",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -398,9 +284,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -418,9 +302,7 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -438,9 +320,7 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -458,11 +338,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "AU",
-      "US",
-      "GB"
-    ],
+    "originCountries": ["AU", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -480,9 +356,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -500,9 +374,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -520,9 +392,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "ZA"
-    ],
+    "originCountries": ["ZA"],
     "originalLanguage": ""
   },
   {
@@ -558,9 +428,7 @@
     "runTimeMinutes": 33,
     "primaryGenre": "Animation",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -578,9 +446,7 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +464,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -618,9 +482,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -638,9 +500,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Family",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -658,9 +518,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -678,9 +536,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -698,10 +554,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Animation",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US",
-      "JP"
-    ],
+    "originCountries": ["US", "JP"],
     "originalLanguage": ""
   },
   {
@@ -719,9 +572,259 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "MY"
-    ],
+    "originCountries": ["MY"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "786357",
+    "tmdbId": 786357,
+    "type": "movie",
+    "title": "Animals on the Loose: A You vs. Wild Movie",
+    "overview": "When there’s a power outage at a safari reserve, Bear Grylls is called and he needs your help. The situation is dire: an escaped lion is headed for a nearby village; a baboon has broken free and is going towards the sea cliffs, and the power must be restored before more animals escape.",
+    "year": "2021",
+    "rating": 5.798,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6ZkhIiJRYLzghOkHrA9X6dbcK3K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nVrI4mBlAl1qcxhiORM9m9tfOUZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rY2foXhuUTnKJLRBIXKjmcQWjC3.png",
+    "certificate": null,
+    "runTimeMinutes": 45,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "494092",
+    "tmdbId": 494092,
+    "type": "movie",
+    "title": "Beat Bugs: All Together Now",
+    "overview": "After winning a local talent show, the Beat Bugs journey to compete on \"The Bug Factor,\" a televised singing contest held in faraway Rocket Ship Park.",
+    "year": "2017",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AeFFvbzD4gSwrwS0Wk1CY3mQLZb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/i8Avugwcldk0dg1pPTZ6w2Gtx1w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/slvjnVVZdjeLmKQkPsZUyVqueww.png",
+    "certificate": null,
+    "runTimeMinutes": 50,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Music",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "702525",
+    "tmdbId": 702525,
+    "type": "movie",
+    "title": "Bigfoot Family",
+    "overview": "Bigfoot, Adam's father, wants to use his fame for a good cause. Protecting a large wildlife reserve in Alaska sounds like the perfect opportunity! When Bigfoot mysteriously disappears without a trace, Adam and his animal friends will brave anything to find him again and save the nature reserve.",
+    "year": "2020",
+    "rating": 7.084,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/vn7sNO6CD8FBHBEVcOiNv08mjy1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/u6GALns99aM7nDdcY4Cxf6sACdC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9UVGoWJctKmUnDc464rl6qpyWFO.png",
+    "certificate": "G",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": ["BE", "FR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "586954",
+    "tmdbId": 586954,
+    "type": "movie",
+    "title": "Latte and the Magic Waterstone",
+    "overview": "When a greedy bear steals a magic stone to keep the forest’s water for himself, a brave hedgehog and a timid squirrel must work together to retrieve it.",
+    "year": "2019",
+    "rating": 6.58,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/saxPKOrN6rNScTicLpBDZw58Cw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/poKtpiQ0akacXzXohWmtb0Z7nFD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t15OdJ8QXrkIx1KUBtWCqlmfk4O.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": ["DE"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "81",
+    "tmdbId": 81,
+    "type": "movie",
+    "title": "Warriors of the Wind",
+    "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+    "year": "1984",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2xynj0gkTPCNXH1wVJacQVdM63N.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "423453",
+    "tmdbId": 423453,
+    "type": "movie",
+    "title": "Sahara",
+    "overview": "A young cobra and his scorpion best friend go on a journey across the Sahara desert to save a new-found love.",
+    "year": "2017",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/4YYaBvush9fAcXdpyowXEXDEbjm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cVaCZtH5kl0cftYgH3l8j0q54nF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cPWFbQvRGgVr5PImLCWXQsxn2Jg.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": ["CA", "FR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "739986",
+    "tmdbId": 739986,
+    "type": "movie",
+    "title": "True Spirit",
+    "overview": "When the tenacious young sailor Jessica Watson sets out to be the youngest person to sail solo, nonstop and unassisted around the world, many expect her to fail. With the support of her sailing coach and mentor Ben Bryant and her parents, Jessica is determined to accomplish what was thought to be impossible, navigating some of the world’s most challenging stretches of ocean over the course of 210 days.",
+    "year": "2023",
+    "rating": 6.996,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5qntAorVEzixuYOIPMCGwDiuGkd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/dA34DDakXgvbjnyKocOcLJtKz0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u83WmNUgkGGWuqHbriGKyxBIpI3.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": ["AU", "US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "869589",
+    "tmdbId": 869589,
+    "type": "movie",
+    "title": "You vs. Wild: Out Cold",
+    "overview": "After a plane crash leaves Bear with amnesia, he must make choices to save the missing pilot and survive in this high-stakes interactive adventure.",
+    "year": "2021",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/k69MwGlDXT3sh0k7w47ORxhFgzh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/lmp0LCbbuZEJlA9BtadKTf6kUHZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b7gAaZLr496xE7EI1rBZ6GfdsNZ.png",
+    "certificate": null,
+    "runTimeMinutes": 25,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "736790",
+    "tmdbId": 736790,
+    "type": "movie",
+    "title": "Chupa",
+    "overview": "While visiting family in Mexico, a lonely boy befriends a mythical creature hiding on his grandfather's ranch and embarks on the adventure of a lifetime.",
+    "year": "2023",
+    "rating": 6.28,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aityu1Gma509jInlspHstEt8Jg0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kUEnFWwzOKIn8iRzuaxcZGH9bh8.png",
+    "certificate": "PG",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "644092",
+    "tmdbId": 644092,
+    "type": "movie",
+    "title": "Finding ʻOhana",
+    "overview": "Two Brooklyn siblings' summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.",
+    "year": "2021",
+    "rating": 6.228,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/yImmxRokQ48PD49ughXdpKTAsAU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aHVVnXV2ZKAqOTqt8ocFAUgqcsy.png",
+    "certificate": "PG",
+    "runTimeMinutes": 123,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "140300",
+    "tmdbId": 140300,
+    "type": "movie",
+    "title": "Kung Fu Panda 3",
+    "overview": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+    "year": "2016",
+    "rating": 6.94,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kqG1NXMlCrog1LkA8fwWWRz78JI.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1011985",
+    "tmdbId": 1011985,
+    "type": "movie",
+    "title": "Kung Fu Panda 4",
+    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+    "year": "2024",
+    "rating": 6.999,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/QeAYsp12oO1o9vc1CTBDxxKgJk.png",
+    "certificate": "PG",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "496450",
+    "tmdbId": 496450,
+    "type": "movie",
+    "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+    "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+    "year": "2023",
+    "rating": 7.614,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2etjUsfRxpODxCSCffrLKAKegK2.png",
+    "certificate": "PG",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["FR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "615677",
+    "tmdbId": 615677,
+    "type": "movie",
+    "title": "We Can Be Heroes",
+    "overview": "When alien invaders capture Earth's superheroes, their kids must learn to work together to save their parents - and the planet.",
+    "year": "2020",
+    "rating": 5.923,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/y6FYAhaeFMj9Lsk8OdF2NeWQkbd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fBeg3PzXiHmSnTM4yJhRCsoEBhN.png",
+    "certificate": "PG",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Action",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

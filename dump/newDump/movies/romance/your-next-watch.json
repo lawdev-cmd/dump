@@ -14,9 +14,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,10 +32,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -55,9 +50,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +68,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -95,9 +86,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -115,9 +104,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -135,9 +122,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -155,29 +140,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "205022",
-    "tmdbId": 205022,
-    "type": "movie",
-    "title": "Chennai Express",
-    "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
-    "year": "2013",
-    "rating": 6.503,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/9j7XfhBJKNfidMCa8JsNbqU1waV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/8u7dfVGGBcGrk1nCu55X5RqImwv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1Ch5mF02b7uu9OX38NjpQhQIjfQ.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,50 +158,7 @@
     "runTimeMinutes": 120,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "HK",
-      "TW"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1214835",
-    "tmdbId": 1214835,
-    "type": "movie",
-    "title": "De De Pyaar De 2",
-    "overview": "When Ashish meets his girlfriend's parents for the first time, their age difference sparks outrage and a madcap plot to drive him out of her life.",
-    "year": "2025",
-    "rating": 6.667,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/oH6Pan7upyAPY8sGSJ1WmYmTcuL.jpg",
-    "logoUrl": null,
-    "certificate": "NR",
-    "runTimeMinutes": 146,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "19404",
-    "tmdbId": 19404,
-    "type": "movie",
-    "title": "Dilwale Dulhania Le Jayenge",
-    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
-    "year": "1995",
-    "rating": 8.503,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/84beTJf26mfhoasUlKSOiNSutyS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2y2BbO3udAS9Zfzya3ifqUn7JUh.png",
-    "certificate": "PG",
-    "runTimeMinutes": 190,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["HK", "TW"],
     "originalLanguage": ""
   },
   {
@@ -256,9 +176,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Music",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +194,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +212,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -316,29 +230,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14134",
-    "tmdbId": 14134,
-    "type": "movie",
-    "title": "Main Hoon Na",
-    "overview": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
-    "year": "2004",
-    "rating": 6.624,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/v9WuP3V5eeJudaqoDE870HEuYSk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6IT6SUme8qzebF5h5tmcb5iGujt.png",
-    "certificate": "PG",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +248,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -376,9 +266,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -396,69 +284,7 @@
     "runTimeMinutes": 126,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1320660",
-    "tmdbId": 1320660,
-    "type": "movie",
-    "title": "Pati Patni Aur Woh Do",
-    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-    "year": "2026",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/pA4Cg2DW1a2s9HQzqueKgYVaVua.jpg",
-    "logoUrl": null,
-    "certificate": "PG-13",
-    "runTimeMinutes": 117,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "297222",
-    "tmdbId": 297222,
-    "type": "movie",
-    "title": "PK",
-    "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
-    "year": "2014",
-    "rating": 7.703,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/BnDydsaEeMhywD5Snv6jN77ifh.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 153,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14072",
-    "tmdbId": 14072,
-    "type": "movie",
-    "title": "Rab Ne Bana Di Jodi",
-    "overview": "A boring, reserved husband secretly becomes a lively, confident stranger to woo his own unaware wife only to make her fall head over heels for his dashing alter ego.",
-    "year": "2008",
-    "rating": 7.095,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qugyZNhZah8IaXfPQIxlsDHsOpK.png",
-    "certificate": "PG",
-    "runTimeMinutes": 167,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,29 +302,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1241634",
-    "tmdbId": 1241634,
-    "type": "movie",
-    "title": "Saiyaara",
-    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
-    "year": "2025",
-    "rating": 6.367,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qnJ0VhbFAeu7YUPpEB3AZ3d1bAI.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -516,9 +320,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -536,9 +338,7 @@
     "runTimeMinutes": 146,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -556,29 +356,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1142921",
-    "tmdbId": 1142921,
-    "type": "movie",
-    "title": "Tere Ishk Mein",
-    "overview": "A psychology student attempts to rehabilitate a volatile young man, before evolving into a doomed romance.",
-    "year": "2025",
-    "rating": 5.364,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/3FgFKX1gW21LzjT0Yniflaqmhpr.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 169,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -596,9 +374,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -616,9 +392,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -636,9 +410,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Drama",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -656,9 +428,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Romance",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -676,9 +446,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -696,9 +464,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -716,9 +482,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -736,9 +500,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -756,29 +518,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "185008",
-    "tmdbId": 185008,
-    "type": "movie",
-    "title": "Yeh Jawaani Hai Deewani",
-    "overview": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
-    "year": "2013",
-    "rating": 7.296,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/hvaSiRRM93aCSzTmKlY4sHERL0S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2NeOmDPauwvkt1pEvtD6jxor7eS.png",
-    "certificate": null,
-    "runTimeMinutes": 160,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -796,9 +536,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

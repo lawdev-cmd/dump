@@ -14,9 +14,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,10 +122,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "AU",
-      "US"
-    ],
+    "originCountries": ["AU", "US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +140,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -175,10 +158,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -196,9 +176,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -216,9 +194,7 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +212,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -256,9 +230,7 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +248,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +266,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +284,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +302,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -356,29 +320,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "731949",
-    "tmdbId": 731949,
-    "type": "movie",
-    "title": "Kilometers and Kilometers",
-    "overview": "When a debt-ridden man reluctantly agrees to drive an American tourist around India, their stark differences lead to bickering… and unexpected bonding.",
-    "year": "2020",
-    "rating": 5.955,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/x2X1Speb2aQqk4Z3B2yngh33lx7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/cuvK2owfau4LjPDYYCg3Ll3qQEX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pI5Tq4gXCMv46eZKBNmInHB0ZzS.png",
-    "certificate": null,
-    "runTimeMinutes": 129,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -396,9 +338,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -416,9 +356,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -436,29 +374,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "896828",
-    "tmdbId": 896828,
-    "type": "movie",
-    "title": "Padmini",
-    "overview": "Rameshan, a lecturer and part-time poet, becomes the laughing stock of the village after his wife runs away on the wedding night. When he tries to overcome these taunts and win a second chance at love, he faces an uphill legal battle and toxicity of the society.",
-    "year": "2023",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/dH5T9iztaJZ0NZDWiOOJfwzxUXI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/s7NbHqBc0bFWo0XHZrsrtMoMx2u.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 120,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,9 +392,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -496,9 +410,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -516,9 +428,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -536,9 +446,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -556,29 +464,7 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "659086",
-    "tmdbId": 659086,
-    "type": "movie",
-    "title": "Sillu Karuppatti",
-    "overview": "An anthology of four romantic stories across four age groups connected by that magical thread called love.",
-    "year": "2019",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/zMrLXaRbbdSmRiQZo2byeVMmvzU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/hpK3TFzp8yKderCqpPOjDr0xEKz.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 138,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -596,9 +482,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -616,9 +500,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -636,9 +518,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -656,9 +536,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -676,9 +554,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -696,9 +572,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -716,9 +590,7 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -736,30 +608,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "FR",
-      "CA"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "637805",
-    "tmdbId": 637805,
-    "type": "movie",
-    "title": "Vikruthi",
-    "overview": "Mistaking the sleeping passenger on his train for a drunk, a young man posts a picture of him online, unaware of his impulsive act's ugly repercussions.",
-    "year": "2019",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/lhyf1hRUXib411aUWtEARVvZb3z.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/k2TBrH1rDY96NyxLds4vWBtfuOq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xod9bwYBCPPZsIy5143N4CGpSyR.png",
-    "certificate": null,
-    "runTimeMinutes": 123,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["FR", "CA"],
     "originalLanguage": ""
   },
   {
@@ -777,9 +626,7 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -797,9 +644,421 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1019836",
+    "tmdbId": 1019836,
+    "type": "movie",
+    "title": "Christmas Bloody Christmas",
+    "overview": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+    "year": "2022",
+    "rating": 5.335,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/60Dy8eA5QyUHKHBmojXUtZxWdo8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/evxXVJtomJJbAXcDxF6wsCJzVDe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qgOUdfxbbW1e1dDnfHI2cSnnkHx.png",
+    "certificate": null,
+    "runTimeMinutes": 87,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "396493",
+    "tmdbId": 396493,
+    "type": "movie",
+    "title": "Creep 2",
+    "overview": "After finding an ad online for “video work,” Sara, a video artist whose primary focus is creating intimacy with lonely men, thinks she may have found the subject of her dreams. She drives to a remote house in the forest and meets a man claiming to be a serial killer. Unable to resist the chance to create a truly shocking piece of art, she agrees to spend the day with him. However, as the day goes on, she discovers she may have dug herself into a hole from which she can’t escape.",
+    "year": "2017",
+    "rating": 6.337,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xn4qe52O0gwfapVT9aOZOPA4wQt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAbh5omatolkOuC3Ol1yAHYnOLZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "735110",
+    "tmdbId": 735110,
+    "type": "movie",
+    "title": "Dark Forces",
+    "overview": "In search of his sister, a renegade criminal seeks answers at a sordid hotel where he encounters a sinister guest and romances a mysterious waitress.",
+    "year": "2020",
+    "rating": 4.061,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/dKSN0oZCUSNcEd39MnySLYmpUiJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aahbYclKYfms6Utm5YHQOywsj9N.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aSUJY69ZOm6IRjIDgFtBV30ys2D.png",
+    "certificate": null,
+    "runTimeMinutes": 81,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Action",
+    "originCountries": ["ES"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "667216",
+    "tmdbId": 667216,
+    "type": "movie",
+    "title": "Infinity Pool",
+    "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+    "year": "2023",
+    "rating": 6.043,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b02cNj2tvEHKbnLdqtojir7oQwV.png",
+    "certificate": "R",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": ["CA"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "349138",
+    "tmdbId": 349138,
+    "type": "movie",
+    "title": "Ludo",
+    "overview": "Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.",
+    "year": "2015",
+    "rating": 2.971,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rso6tCy4IZOcjckDQdRdPciWHfw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vYSqSeFPctMACRp5Mp2kziwxcl1.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": ["BD"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "586265",
+    "tmdbId": 586265,
+    "type": "movie",
+    "title": "The Devil's Mark",
+    "overview": "An exorcist priest meets a family that has a daughter who is pursued by a demon.",
+    "year": "2020",
+    "rating": 4.492,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ucaoZox168cCaT5iymkzFetv01r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/asKrgRzQfD22ZRne02ScuNa8j5a.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nT685oScMMeM651yYSEgTJPs58S.png",
+    "certificate": null,
+    "runTimeMinutes": 82,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": ["MX"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "395982",
+    "tmdbId": 395982,
+    "type": "movie",
+    "title": "Prevenge",
+    "overview": "A pregnant widow, believing herself to be guided by her unborn child, embarks on a homicidal rampage.",
+    "year": "2017",
+    "rating": 5.548,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/nMOEd4RkXd2WZTUrUivWYyuXazD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qfvntog6sUBHlkQyaF69NlkQfMp.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["GB"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "714669",
+    "tmdbId": 714669,
+    "type": "movie",
+    "title": "Run Rabbit Run",
+    "overview": "Sarah is a fertility doctor with a firm understanding of the cycle of life. When she is forced to make sense of the increasingly strange behavior of her young daughter Mia, she must challenge her own beliefs and confront a ghost from her past.",
+    "year": "2024",
+    "rating": 5.477,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/cgetiYyTqJ4CMmPmvDw30nnYj1f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sFwkgsMOjQb8zuXKXozSoSetQqo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uiEbvc0mvnjSeaVP0oxBix9Tu6q.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["AU"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "661930",
+    "tmdbId": 661930,
+    "type": "movie",
+    "title": "The Swarm",
+    "overview": "A single mother breeds locusts as high-protein foods but has trouble getting them to reproduce until she finds they have a taste for blood.",
+    "year": "2021",
+    "rating": 5.773,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bbJxCgZETPJFRXInSndtaSx42EJ.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Drama",
+    "originCountries": ["FR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "975022",
+    "tmdbId": 975022,
+    "type": "movie",
+    "title": "You're Killing Me",
+    "overview": "Eden goes to a coveted 'Heaven and Hell' party, hoping to get a letter of recommendation to an elite university from the wealthy parents of her classmate, but the party quickly turns into a fight for her life.",
+    "year": "2023",
+    "rating": 5.526,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/tAnwQKYkRlXS6Lgaq5XQ7JqS58x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pm7RuTMM00SNcHhQwoJoxgv2hP7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1ByZ4UTFoUrp0Y1RpIo9z6GuiD8.png",
+    "certificate": "NR",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "429107",
+    "tmdbId": 429107,
+    "type": "movie",
+    "title": "Beatriz at Dinner",
+    "overview": "Beatriz, an immigrant from a poor town in Mexico, has drawn on her innate kindness to build a career as a health practitioner. Doug Strutt is a cutthroat, self-satisfied billionaire. When these two opposites meet at a dinner party, their worlds collide, and neither will ever be the same.",
+    "year": "2017",
+    "rating": 5.764,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ypvlGBvm6p0EIvKCzJw0OqsuzK5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5iT6eAI64JJM8p0dL6EExaUvydg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u71bqlOye6doYBSfWdce7waZm5h.png",
+    "certificate": "R",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "582927",
+    "tmdbId": 582927,
+    "type": "movie",
+    "title": "I'm No Longer Here",
+    "overview": "In Monterrey, Mexico, a young street gang spends their days dancing to slowed-down cumbia and attending parties. After a mix-up with a local cartel, their leader is forced to migrate to the U.S. but quickly longs to return home.",
+    "year": "2019",
+    "rating": 7.858,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/AtfK71xkVaaHTZwU5mgfDgBqg9Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/wFSXN4CaDfmUURbEbghhK6m7WPI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/59N3H11CK6j0QbL6FQuWiSdb1wE.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": ["MX"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "78480",
+    "tmdbId": 78480,
+    "type": "movie",
+    "title": "Monsieur Lazhar",
+    "overview": "During a harsh Montréal winter, an elementary-school class is left reeling after its teacher commits suicide. Bachir Lazhar, a charismatic Algerian immigrant, steps in as the substitute teacher for the classroom of traumatized children. All the while, he must keep his personal life tucked away: the fact that he is seeking political refuge in Québec – and that he, like the children, has suffered an appalling loss.",
+    "year": "2011",
+    "rating": 7.192,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/qcSXbOP1iv859kgQgqZ4Ib9yqKG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/bMdKv4K2QgAStm0PLQIHNsgMpND.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 94,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["CA"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1058615",
+    "tmdbId": 1058615,
+    "type": "movie",
+    "title": "The Accidental Getaway Driver",
+    "overview": "During a routine pickup, an elderly Vietnamese cab driver is taken hostage by three recently escaped Orange County convicts. Based on a true story.",
+    "year": "2025",
+    "rating": 6.462,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1JpJK5nOQWBl6aaft1Tt1ymD3kK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/12IP1jQLj3r2rUvO8WJ7KGEFlCR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2obTpOlrjCUr4EJtLjPVDSqBUn6.png",
+    "certificate": null,
+    "runTimeMinutes": 102,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "807023",
+    "tmdbId": 807023,
+    "type": "movie",
+    "title": "Door Mouse",
+    "overview": "A burlesque dancer with dreams of becoming a comic book artist investigates the disappearance of a close friend.",
+    "year": "2023",
+    "rating": 5.821,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7TwoFqLYjEXMqGbmlEzI8VEFSJj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ueLcWitnNtypa1fpyriDdG1EwSO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xs1zwyFA7IhhOocbkePYxs1BFLk.png",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": ["CA"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1175343",
+    "tmdbId": 1175343,
+    "type": "movie",
+    "title": "Hurricane Season",
+    "overview": "When a group of teens finds a corpse floating in a canal, the brutal reality behind the perverse crime unravels a town's hidden secrets.",
+    "year": "2023",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1ASNdqwmwvBS8TnOouOENBZT53I.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/496gevKlhrx4RzjuW0HYJIIRPnq.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["MX"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "768702",
+    "tmdbId": 768702,
+    "type": "movie",
+    "title": "Love",
+    "overview": "Love Hotel. The best place to spend your holiday on February 14th. So this time the doors of the hotel are open for everyone who wants to make Valentine's Day special, wants to believe in love again, or at least not be alone on this day. Former classmates meet at a restaurant in honor of the 40th anniversary of graduation and old feelings flare up with renewed vigor. A jealous man tries to enter all the rooms on the floor to find his missing wife. A private detective and his attractive client arrange a spy show with wiretaps to bring out the scoundrel husband. An immigrant maid from Uzbekistan chooses between love for her young boy and money from his mother, given for her immediate flight home. And the life of a humble student who dreams of becoming a man in just one hour will never be the same after meeting the most talkative night butterfly in the city ...",
+    "year": "2020",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hS2eFigVGchssBaRlbt4hkRs09e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/zaShigpdqZugK8xe3sRdRgYV3SH.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 91,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": ["RU"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "301355",
+    "tmdbId": 301355,
+    "type": "movie",
+    "title": "Message from the King",
+    "overview": "On a relentless quest to avenge his sister's murder, a man from Cape Town infiltrates a sprawling network of lowlifes and elites in Los Angeles.",
+    "year": "2017",
+    "rating": 6.238,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/btEH0gxtMPg1B3cr3xTZ2eF1Z3Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/g8WmoShx8FGNObVdmS1mHChktvU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4fc5FUI2frgLFc77hQNya8afAEv.png",
+    "certificate": null,
+    "runTimeMinutes": 102,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Mystery",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1160025",
+    "tmdbId": 1160025,
+    "type": "movie",
+    "title": "Naga",
+    "overview": "Stranded amid Riyadh's desert dunes, Sarah, a local Saudi girl, escapes heartaches and the vengeance of a vigorous camel after discreetly sneaking out of her parent's home for a romantic date that landed her astray.",
+    "year": "2023",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5QOYVE6zS0tyQ3qeGaECD7WWoaF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5XegWsPeCcF2EHEYYNCB6E5pRu7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3eu4agCUQTVbAvfAEkdU4OpODKQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "",
+    "originCountries": ["SA"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "457962",
+    "tmdbId": 457962,
+    "type": "movie",
+    "title": "Shimmer Lake",
+    "overview": "Shot in reverse day-by-day through a week—a local sheriff embarks on a quest to unlock the mystery of three small-town criminals and a bank heist gone wrong.",
+    "year": "2017",
+    "rating": 5.934,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bQHhpTHiys0CZRrdDRKvXBmM5KL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/sj78u6ym80gdHf230MXY5BjhH1V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6jk7IGJogoNv1GbznZe21XvNkKi.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": ["CA", "US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "536650",
+    "tmdbId": 536650,
+    "type": "movie",
+    "title": "Solo",
+    "overview": "\"Solo\" tells the story of J, a saxophonist who finds a heart beating in his saxophone case, on the eve of his big concert at the International Jazz Show.",
+    "year": "2018",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uucyc7PsmvSd5Ser3Uhn22aUnBY.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 15,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "",
+    "originCountries": ["PT"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "316154",
+    "tmdbId": 316154,
+    "type": "movie",
+    "title": "The Bad Batch",
+    "overview": "After being exiled to a fenced-off wasteland, Arlen is kidnapped by a group of cannibals and goes on a journey to reunite a missing girl with her father.",
+    "year": "2017",
+    "rating": 5.258,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/aQ06MnEDLh9X3ZOtY21UD2XB197.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yOFzJpuel0rCDdS9V4JaGevY003.png",
+    "certificate": "R",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Horror",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1110586",
+    "tmdbId": 1110586,
+    "type": "movie",
+    "title": "Weathering",
+    "overview": "After losing her baby and nearly her life during labor, a journalist unravels amid disturbing visions and chilling attacks as she grieves alone at home.",
+    "year": "2023",
+    "rating": 4.888,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kGLE9Mq5Ml9CCVaAfcZ4nrqTRWK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/8Fm7orQofGDS7mA5EikK3A4dQbI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jWq7YhTZuZCWlGuRuhCwnKlOyvx.png",
+    "certificate": null,
+    "runTimeMinutes": 20,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

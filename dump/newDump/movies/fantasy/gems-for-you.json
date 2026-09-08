@@ -14,9 +14,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Action",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "TW"
-    ],
+    "originCountries": ["TW"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 12,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "DO"
-    ],
+    "originCountries": ["DO"],
     "originalLanguage": ""
   },
   {
@@ -54,29 +50,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "BR"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "734253",
-    "tmdbId": 734253,
-    "type": "movie",
-    "title": "Adipurush",
-    "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
-    "year": "2023",
-    "rating": 4.456,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xjjHH1SxphgYtwCCdAlN5wmYGqR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3OhPN4CCPddcVvwuhLFZvGrgBfS.png",
-    "certificate": "NR",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["BR"],
     "originalLanguage": ""
   },
   {
@@ -94,49 +68,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14478",
-    "tmdbId": 14478,
-    "type": "movie",
-    "title": "Adventures of Ali-Baba and the Forty Thieves",
-    "overview": "A village man accidentally uncovers a web of political intrigue after discovering and distributing treasures from Hussain's secret hideout. The Khazi sets a gang of ruthless bandits on the man to ensure the safety of his treasures.Based on the story of Ali Baba and the Forty Thieves from the 1001 Nights or Arabian Tales.",
-    "year": "1980",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hIQJMdnu5qR1PXuN8gNDdyxvwdx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/75MVhvcv5l0Sh7TbmZLzAqxkAhC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/IJGYYcIYik1CPRzE1kwfgy02Or.png",
-    "certificate": null,
-    "runTimeMinutes": 138,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1090486",
-    "tmdbId": 1090486,
-    "type": "movie",
-    "title": "BRO",
-    "overview": "After being fatally injured in a car crash, a man is given three months back on earth to make amends.",
-    "year": "2023",
-    "rating": 6.313,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/cCirdTe57qpOvb1NFKECbQRMmfQ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/cDau8XMNbURuVPOhqJo9AK1kUQm.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 133,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,29 +86,7 @@
     "runTimeMinutes": 8,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "45002",
-    "tmdbId": 45002,
-    "type": "movie",
-    "title": "Chamatkar",
-    "overview": "When Sunder loses everything, he seeks refuge in a graveyard, where he befriends a ghost.",
-    "year": "1992",
-    "rating": 6.492,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/AuHqRWvDYvw082NAaJ82KSCzuxU.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cAczU5dvIlqCeC4KUiDxqSZ9LSt.png",
-    "certificate": null,
-    "runTimeMinutes": 171,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,10 +104,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   },
   {
@@ -215,10 +122,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   },
   {
@@ -236,9 +140,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -256,9 +158,7 @@
     "runTimeMinutes": 142,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +176,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +194,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +212,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +230,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "TV Movie",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +248,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -376,9 +266,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -396,9 +284,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "BD"
-    ],
+    "originCountries": ["BD"],
     "originalLanguage": ""
   },
   {
@@ -416,9 +302,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -436,10 +320,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -457,9 +338,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -477,9 +356,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -497,9 +374,7 @@
     "runTimeMinutes": 94,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -517,9 +392,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -537,9 +410,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -557,9 +428,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -577,10 +446,7 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "BE",
-      "NL"
-    ],
+    "originCountries": ["BE", "NL"],
     "originalLanguage": ""
   },
   {
@@ -598,9 +464,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "CO"
-    ],
+    "originCountries": ["CO"],
     "originalLanguage": ""
   },
   {
@@ -618,9 +482,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -638,9 +500,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -658,9 +518,7 @@
     "runTimeMinutes": 116,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -678,29 +536,7 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Action",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "CN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14214",
-    "tmdbId": 14214,
-    "type": "movie",
-    "title": "Thoda Pyaar Thoda Magic",
-    "overview": "One day they pray to God for help and he does help them. He sends his most mischievous, childlike, lovable angel to the rescue, with a mission to bring Ranbeer and the kids together. Geeta (Rani Mukerji) comes bicycling down a rainbow… and bursts into Ranbeer's house as the selfproclaimed new nanny. And then starts the roller coaster ride of fun, emotions, magic and love.",
-    "year": "2008",
-    "rating": 5.472,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/sILNLbwCDFHsQhCzLfxU89R1dni.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/5ZfCyyxqkaoVYtnuNMtnNRWlPhP.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 145,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -718,9 +554,133 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1091181",
+    "tmdbId": 1091181,
+    "type": "movie",
+    "title": "Family Pack",
+    "overview": "When an old card game comes to life, a family jumps back in time to a medieval village where they must unmask werewolves to secure their return home.",
+    "year": "2024",
+    "rating": 5.607,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/uL1dR0L65GZgy3h2gvZcxDu0bRG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pFLs2qFhfp7k2zgT69fTkcl0uHF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/elcb0PggCqFy7cyLP8Wwd5UhEGM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["FR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "864959",
+    "tmdbId": 864959,
+    "type": "movie",
+    "title": "The Curse of Bridge Hollow",
+    "overview": "A Halloween-hating dad reluctantly teams up with his teenage daughter when an evil spirit wreaks havoc by making their town's decorations come to life.",
+    "year": "2022",
+    "rating": 6.501,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/pZv3qb5wK3h0kOUL2HOloYioAT9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vB0wfVJvE8Xoe3Ni3xBoFJGXLP1.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "24961",
+    "tmdbId": 24961,
+    "type": "movie",
+    "title": "The Wiz",
+    "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+    "year": "1978",
+    "rating": 6.189,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9zkvOuDQzpYSKUTtSlP6QDe3JNv.png",
+    "certificate": "G",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Family",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "511817",
+    "tmdbId": 511817,
+    "type": "movie",
+    "title": "Wendell & Wild",
+    "overview": "Two scheming demons strike a deal with a punk rock-loving teen so they can leave the Underworld and live out their dreams in the Land of the Living.",
+    "year": "2022",
+    "rating": 6.584,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/apBUC70udhxoLzXo7DqclQ6gcXo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/as1NqRM1L6nR2GMmg1kRkGDg0SY.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "420426",
+    "tmdbId": 420426,
+    "type": "movie",
+    "title": "Bleach",
+    "overview": "High school student Ichigo Kurosaki lives an ordinary life, besides being able to see ghosts and the blurry memories of his mother's death under strange circumstances when he was a kid. His peaceful world suddenly breaks as he meets Rukia Kuchiki, a God of Death.",
+    "year": "2018",
+    "rating": 6.517,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/hpZVfeJaCilXr9Br7wO9xkfZn7V.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oZc9fUwHJ880Q4lFP98s7T5a7Fe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bxYu5kUKEzlHBiA1EklbPuKjHyO.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["JP"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "9954",
+    "tmdbId": 9954,
+    "type": "movie",
+    "title": "The Covenant",
+    "overview": "Four young men who belong to a supernatural legacy are forced to battle a fifth power long thought to have died out. Another great force they must contend with is the jealousy and suspicion that threatens to tear them apart.",
+    "year": "2006",
+    "rating": 5.591,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/r6jbhgqKao3K3in4eftu7gqgMNH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/vn9BFSlvwILE4wPUITi4XDD3fEK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2vs4id0829wpXLKDOzBetEM4oRN.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Horror",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1203329",
+    "tmdbId": 1203329,
+    "type": "movie",
+    "title": "The Witcher: Sirens of the Deep",
+    "overview": "When human sailors are attacked by mysterious creatures of the deep, only one person can stop the war between land and sea: the Witcher, Geralt of Rivia.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tNqSFNUEHoMpPie2yuPTRqH2ncn.png",
+    "certificate": "R",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": ["PL", "KR", "US"],
     "originalLanguage": ""
   }
 ]

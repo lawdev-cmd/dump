@@ -14,9 +14,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IT"
-    ],
+    "originCountries": ["IT"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -54,9 +50,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -74,9 +68,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +86,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,9 +104,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -134,9 +122,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +140,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +158,7 @@
     "runTimeMinutes": 77,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -194,9 +176,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -214,9 +194,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,29 +212,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "496029",
-    "tmdbId": 496029,
-    "type": "movie",
-    "title": "Kolaiyuthir Kaalam",
-    "overview": "The heiress of a multi-millionaire, a hearing and speech impaired young woman, has to fend off a slasher all alone in her palatial estate.",
-    "year": "2019",
-    "rating": 4,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1TShKeGprzxHnBMtCpEKvq2z9KS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/s8O4Ko4OG4Tj2eGufGzn1WlGhtv.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 109,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -274,9 +230,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "PL"
-    ],
+    "originCountries": ["PL"],
     "originalLanguage": ""
   },
   {
@@ -294,9 +248,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "PL"
-    ],
+    "originCountries": ["PL"],
     "originalLanguage": ""
   },
   {
@@ -314,9 +266,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -334,29 +284,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "642889",
-    "tmdbId": 642889,
-    "type": "movie",
-    "title": "Psycho",
-    "overview": "Based on the Buddhist tale of Angulimala, a dreaded serial killer, Psycho tells the story of a blind man who gets involved in a murder mystery. trying to save his lover from a psychopath who has kidnapped her.",
-    "year": "2020",
-    "rating": 5.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/cTHrUUSqTNc1nyBzVGD4SbpqaIe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/pRXmRr3XSieO9xUo5SHzc1pkkWu.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 145,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -374,9 +302,7 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -394,9 +320,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -414,9 +338,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -434,9 +356,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -454,9 +374,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -474,9 +392,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -494,9 +410,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "SE"
-    ],
+    "originCountries": ["SE"],
     "originalLanguage": ""
   },
   {
@@ -514,9 +428,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -534,9 +446,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -554,9 +464,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -574,9 +482,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -594,9 +500,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

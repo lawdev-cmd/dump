@@ -14,30 +14,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "ES",
-      "BE"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1103708",
-    "tmdbId": 1103708,
-    "type": "movie",
-    "title": "Asvins",
-    "overview": "A group of Youtubers who accidentally unleash a 1500-year-old evil that crosses over from the realm of darkness to the human world.",
-    "year": "2023",
-    "rating": 4.05,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1dleEIjnnCQXMNiwIyBcd9sTieD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/92QKViNtEpKTCv88c1dFWPIktBC.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 110,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["ES", "BE"],
     "originalLanguage": ""
   },
   {
@@ -55,9 +32,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +50,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -95,9 +68,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -115,9 +86,7 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Horror",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -135,9 +104,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +122,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +140,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +158,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +176,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -235,9 +194,7 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -255,10 +212,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
+    "originCountries": ["CA", "US"],
     "originalLanguage": ""
   },
   {
@@ -276,9 +230,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -296,9 +248,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "PH"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -316,9 +266,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "ID"
-    ],
+    "originCountries": ["ID"],
     "originalLanguage": ""
   },
   {
@@ -336,9 +284,7 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -356,9 +302,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -376,9 +320,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -396,29 +338,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "AU"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1187619",
-    "tmdbId": 1187619,
-    "type": "movie",
-    "title": "Shaitaan",
-    "overview": "Kabir and his family's fun weekend retreat takes terrifying turn when an intruder takes over the control of the  body of his teenage daughter, putting her at the mercy of his increasingly sinister orders.",
-    "year": "2024",
-    "rating": 6.297,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/yNGAfRd0VZwtSAZiC1WXWqCbvIb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/h7CsY2AQ97yL6qoWY7Jmp1vhrG4.png",
-    "certificate": null,
-    "runTimeMinutes": 132,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -436,9 +356,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -456,9 +374,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,9 +392,7 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -496,9 +410,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -516,29 +428,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "PH"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1419390",
-    "tmdbId": 1419390,
-    "type": "movie",
-    "title": "Vash Level 2",
-    "overview": "Twelve years after saving his daughter Arya from a dark force, Atharva learns it never left her. When strange events begin again, he must fight to save her once more.",
-    "year": "2025",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/uTZU5eG5Afs0CLO9DlYVDW5pnfS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/5AHNEPeP4YdQDTJ7NRVvRX2VzSm.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 103,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["PH"],
     "originalLanguage": ""
   },
   {
@@ -556,9 +446,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -576,9 +464,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

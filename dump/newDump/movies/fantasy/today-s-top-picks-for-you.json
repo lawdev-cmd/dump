@@ -1,65 +1,5 @@
 [
   {
-    "id": "734253",
-    "tmdbId": 734253,
-    "type": "movie",
-    "title": "Adipurush",
-    "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
-    "year": "2023",
-    "rating": 4.456,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/xjjHH1SxphgYtwCCdAlN5wmYGqR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3OhPN4CCPddcVvwuhLFZvGrgBfS.png",
-    "certificate": "NR",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1372588",
-    "tmdbId": 1372588,
-    "type": "movie",
-    "title": "Akhanda 2: Thaandavam",
-    "overview": "When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, new threats emerge putting the world in danger. And as the world burns, Akhanda returns.",
-    "year": "2025",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/805aMQucnpLkSmQ35Pql35fq3Gw.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 164,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14478",
-    "tmdbId": 14478,
-    "type": "movie",
-    "title": "Adventures of Ali-Baba and the Forty Thieves",
-    "overview": "A village man accidentally uncovers a web of political intrigue after discovering and distributing treasures from Hussain's secret hideout. The Khazi sets a gang of ruthless bandits on the man to ensure the safety of his treasures.Based on the story of Ali Baba and the Forty Thieves from the 1001 Nights or Arabian Tales.",
-    "year": "1980",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/hIQJMdnu5qR1PXuN8gNDdyxvwdx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/75MVhvcv5l0Sh7TbmZLzAqxkAhC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/IJGYYcIYik1CPRzE1kwfgy02Or.png",
-    "certificate": null,
-    "runTimeMinutes": 138,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
     "id": "643215",
     "tmdbId": 643215,
     "type": "movie",
@@ -74,9 +14,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -94,49 +32,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1090486",
-    "tmdbId": 1090486,
-    "type": "movie",
-    "title": "BRO",
-    "overview": "After being fatally injured in a car crash, a man is given three months back on earth to make amends.",
-    "year": "2023",
-    "rating": 6.313,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/cCirdTe57qpOvb1NFKECbQRMmfQ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/cDau8XMNbURuVPOhqJo9AK1kUQm.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 133,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "45002",
-    "tmdbId": 45002,
-    "type": "movie",
-    "title": "Chamatkar",
-    "overview": "When Sunder loses everything, he seeks refuge in a graveyard, where he befriends a ghost.",
-    "year": "1992",
-    "rating": 6.492,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/tJlGNBkE0DNQ9iLkHMY2gsCOza3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/AuHqRWvDYvw082NAaJ82KSCzuxU.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cAczU5dvIlqCeC4KUiDxqSZ9LSt.png",
-    "certificate": null,
-    "runTimeMinutes": 171,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -154,10 +50,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "CN",
-      "HK"
-    ],
+    "originCountries": ["CN", "HK"],
     "originalLanguage": ""
   },
   {
@@ -175,9 +68,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -195,9 +86,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -215,9 +104,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -235,9 +122,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -255,9 +140,7 @@
     "runTimeMinutes": 122,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -275,9 +158,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -295,9 +176,7 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -315,9 +194,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "CN"
-    ],
+    "originCountries": ["CN"],
     "originalLanguage": ""
   },
   {
@@ -335,50 +212,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "33081",
-    "tmdbId": 33081,
-    "type": "movie",
-    "title": "Paheli",
-    "overview": "Kishanlal marries the beautiful Lachchi, but the day after the wedding, he leaves on business for five years. When Kishanlal reappears only a few days later, Lachchi is delighted, but this new Kishanlal is in fact a spirit who has taken the form of Lachchi's husband, after having seen her by chance and fallen in love with her. Four years later, the real Kishanlal returns and the townsfolk must determine who is who.",
-    "year": "2005",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/1oQ8mBfBKcVT758y1949ULkSXER.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/7WoyOMp0wORdgYJimHeg0XuNaTM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mcqhjCOdC2U5GGUqKZiEoZrFEfh.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "297222",
-    "tmdbId": 297222,
-    "type": "movie",
-    "title": "PK",
-    "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
-    "year": "2014",
-    "rating": 7.703,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/BnDydsaEeMhywD5Snv6jN77ifh.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 153,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -396,29 +230,7 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "AU"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1626170",
-    "tmdbId": 1626170,
-    "type": "movie",
-    "title": "Sing Geetham",
-    "overview": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/ob25gz42Uo0WUX3q4TqC7Crmex7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/y3YZvFiuWJ0b4OpCvX9UY1AIprF.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 137,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Music",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -436,29 +248,7 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "910784",
-    "tmdbId": 910784,
-    "type": "movie",
-    "title": "Thangalaan",
-    "overview": "During the British rule, Thangalaan, a fierce tribal leader, and his tribe assist Lord Clement, a British General, to trace gold in their village. While searching for the gold, the villagers earn the wrath of Aarathi, an apparent sorceress, who Thangalaan sets out to stop with all his might.",
-    "year": "2024",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/dAci50FwevkdWIUzQWpdz7kSKHe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/sNOWphqcNsq7aKw1LSKcP672gwf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aiRJYJ9mbbVm21TqBpunKjZBcbO.png",
-    "certificate": null,
-    "runTimeMinutes": 156,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -476,9 +266,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Romance",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -496,9 +284,7 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -516,9 +302,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -536,9 +320,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -556,9 +338,7 @@
     "runTimeMinutes": 114,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -576,9 +356,7 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "CO"
-    ],
+    "originCountries": ["CO"],
     "originalLanguage": ""
   },
   {
@@ -596,9 +374,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -616,9 +392,7 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -636,9 +410,7 @@
     "runTimeMinutes": 149,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -656,9 +428,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -676,9 +446,7 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -696,9 +464,7 @@
     "runTimeMinutes": 124,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -716,9 +482,7 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -736,31 +500,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Animation",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "PL",
-      "KR",
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "14214",
-    "tmdbId": 14214,
-    "type": "movie",
-    "title": "Thoda Pyaar Thoda Magic",
-    "overview": "One day they pray to God for help and he does help them. He sends his most mischievous, childlike, lovable angel to the rescue, with a mission to bring Ranbeer and the kids together. Geeta (Rani Mukerji) comes bicycling down a rainbow… and bursts into Ranbeer's house as the selfproclaimed new nanny. And then starts the roller coaster ride of fun, emotions, magic and love.",
-    "year": "2008",
-    "rating": 5.472,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/sILNLbwCDFHsQhCzLfxU89R1dni.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/5ZfCyyxqkaoVYtnuNMtnNRWlPhP.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 145,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["PL", "KR", "US"],
     "originalLanguage": ""
   },
   {
@@ -778,9 +518,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Action",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -798,9 +536,61 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "10253",
+    "tmdbId": 10253,
+    "type": "movie",
+    "title": "Dragon Wars: D-War",
+    "overview": "Ethan learns he carries the spirit of a warrior who battled dragons in 16th-century Korea -- and one day he'll find a tattooed girl carrying the spirit of that warrior's beloved. Years later, he meets Sarah and dragons soon descend on Los Angeles seeking out the two souls of the ancient lovers.",
+    "year": "2007",
+    "rating": 4.581,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/rEpvqWGu08coDLUpcpiz4sMoDYo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/5WWqrUIGrCb1QvZtYVaSfZgUG8n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cLdBBnltxZgoj7IBoQuElXHOCs6.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": ["KR"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "12797",
+    "tmdbId": 12797,
+    "type": "movie",
+    "title": "Ghost Town",
+    "overview": "Bertram Pincus, a cranky, people-hating Manhattan dentist, develops the unwelcome ability to see dead people. Really annoying dead people. Even worse, they all want something from him, particularly Frank Herlihy, a smooth-talking ghost, who pesters him into a romantic scheme involving his widow Gwen. They are soon entangled in a hilarious predicament between the now and the hereafter!",
+    "year": "2008",
+    "rating": 6.503,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/b8VS14DwpLlugTxVWSllYU0Gjn5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/iDgK5UFgXKVqegWYc5tl58qfGOw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9V3R5guFmRCG8RdBeZw0cUKJrVA.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1122634",
+    "tmdbId": 1122634,
+    "type": "movie",
+    "title": "Once Upon a Crime",
+    "overview": "While at the royal ball with Cinderella, Little Red Riding Hood finds herself in the middle of a mystery. Can she solve the case before midnight strikes?",
+    "year": "2023",
+    "rating": 6.29,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/3H7fSw5Tulm9xf14RRPtl8MS2p.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3j75tK34dYAQPS2UAtnW1u6xFPP.png",
+    "certificate": "PG",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": ["JP"],
     "originalLanguage": ""
   }
 ]

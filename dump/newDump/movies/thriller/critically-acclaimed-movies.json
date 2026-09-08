@@ -14,9 +14,7 @@
     "runTimeMinutes": 143,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "NO"
-    ],
+    "originCountries": ["NO"],
     "originalLanguage": ""
   },
   {
@@ -34,30 +32,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US",
-      "CA"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1233531",
-    "tmdbId": 1233531,
-    "type": "movie",
-    "title": "Article 370",
-    "overview": "Ahead of a major constitutional decision which rendered the Article 370 of the Indian state ineffective, special agent Zooni Haksar is tasked with a secret mission to quell violence in the conflict-ridden region.",
-    "year": "2024",
-    "rating": 7.104,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/9VTemjHMpyxzfC3JsG2aFy8Bf9Y.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/qYXnMDuwaApMRtV8JunFmieZo8R.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iO1AKUj5TFVvE9e02wh6vp5x29u.png",
-    "certificate": null,
-    "runTimeMinutes": 158,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US", "CA"],
     "originalLanguage": ""
   },
   {
@@ -75,9 +50,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "TH"
-    ],
+    "originCountries": ["TH"],
     "originalLanguage": ""
   },
   {
@@ -95,29 +68,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "35053",
-    "tmdbId": 35053,
-    "type": "movie",
-    "title": "Darr",
-    "overview": "A woman is caught between one man's love and another man's obsession. She fears one and fears for the other. One stands for love and the other for life. Who will she choose?",
-    "year": "1993",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/6y601CavDK46ap8uxeoXxpArU8p.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/boOt8kHNrl1vp2mOAqiXoaDG5Lo.jpg",
-    "logoUrl": null,
-    "certificate": "R",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["ES"],
     "originalLanguage": ""
   },
   {
@@ -135,9 +86,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -155,9 +104,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -175,12 +122,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "BE",
-      "ES",
-      "FR",
-      "GB"
-    ],
+    "originCountries": ["BE", "ES", "FR", "GB"],
     "originalLanguage": ""
   },
   {
@@ -198,29 +140,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "8453",
-    "tmdbId": 8453,
-    "type": "movie",
-    "title": "Fanaa",
-    "overview": "Zooni Ali Beg is a blind Kashmiri girl who travels without her parents for the first time with a dance troupe to Delhi to perform in a ceremony for independence day. On her journey, she meets Rehan Khan, a casanova and tour guide who flirts with her. Although her friends warn Zooni about him, she cannot resist falling in love with him and he takes her on a private tour of New Delhi. But there is more to Rehan than meets the eye and Zooni will have to make a heartbreaking decision.",
-    "year": "2006",
-    "rating": 6.739,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/4A17fF6K6WAvv4Ces0CgpMZRee4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/97wqvp0BXrXQyKhFCasdZ1XR0tI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1DwLWEaeVCZweZcJmVcV1OcNise.png",
-    "certificate": null,
-    "runTimeMinutes": 168,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -238,9 +158,7 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -258,9 +176,7 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -278,9 +194,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -298,10 +212,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US",
-      "AU"
-    ],
+    "originCountries": ["US", "AU"],
     "originalLanguage": ""
   },
   {
@@ -319,9 +230,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "MX"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -339,9 +248,7 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -359,9 +266,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "CA"
-    ],
+    "originCountries": ["CA"],
     "originalLanguage": ""
   },
   {
@@ -379,9 +284,7 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -399,49 +302,7 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "915831",
-    "tmdbId": 915831,
-    "type": "movie",
-    "title": "Monica, O My Darling",
-    "overview": "A slick robotics expert joins a murderous plot after a passionate affair takes a sudden turn, but nothing — not even death — is what it seems to be.",
-    "year": "2022",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/3iX8wpLgkx83jCLNR03nW4lpaP2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/szov0Tr05mP7rKHlG2VYyWh33wx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/phg0c5Nfp65thOw8mtp1HhEus6d.png",
-    "certificate": "R",
-    "runTimeMinutes": 129,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "753946",
-    "tmdbId": 753946,
-    "type": "movie",
-    "title": "Nayattu",
-    "overview": "Three police officers are forced to go on the run when they get tangled in the death of a youth, a few days before the election.",
-    "year": "2021",
-    "rating": 7.49,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/t1BC6XuqEGAAH0AAWXko0LUle1A.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/qoQlyVqDiKTHMvjDUrA1m3m6QJ0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hMuMds1AJBevgK3d4qb9ATEvcPB.png",
-    "certificate": null,
-    "runTimeMinutes": 124,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -459,9 +320,7 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -479,29 +338,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "589615",
-    "tmdbId": 589615,
-    "type": "movie",
-    "title": "Raat Akeli Hai",
-    "overview": "When a newly married landlord is murdered, a misfit cop’s investigation is complicated by the victim’s secretive family and his own conflicted heart.",
-    "year": "2020",
-    "rating": 6.828,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/lQPWcvQiv1D1xBlpnn5o0hepXkX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/lwZyObPbSo2t57EsRIm6e8KF5WD.jpg",
-    "logoUrl": null,
-    "certificate": null,
-    "runTimeMinutes": 149,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -519,9 +356,7 @@
     "runTimeMinutes": 13,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -539,9 +374,7 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -559,9 +392,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -579,9 +410,7 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -599,9 +428,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
+    "originCountries": ["KR"],
     "originalLanguage": ""
   },
   {
@@ -619,9 +446,7 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "TW"
-    ],
+    "originCountries": ["TW"],
     "originalLanguage": ""
   },
   {
@@ -639,9 +464,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Thriller",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "AU"
-    ],
+    "originCountries": ["AU"],
     "originalLanguage": ""
   },
   {
@@ -659,9 +482,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IE"
-    ],
+    "originCountries": ["IE"],
     "originalLanguage": ""
   },
   {
@@ -679,9 +500,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "History",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -699,9 +518,7 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -719,9 +536,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -739,9 +554,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -759,9 +572,7 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -779,9 +590,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -799,9 +608,187 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "ES"
-    ],
+    "originCountries": ["ES"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1052280",
+    "tmdbId": 1052280,
+    "type": "movie",
+    "title": "It's What's Inside",
+    "overview": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+    "year": "2024",
+    "rating": 6.473,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xU2C64VWhYJMBDrjEsFPbVTWAjN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eYDZgoOnEHrpR49oaJEdedNbUG3.png",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "973921",
+    "tmdbId": 973921,
+    "type": "movie",
+    "title": "Handing Them Over",
+    "overview": "When Khalil and Zahia discover a deep dark secret about their newly married parents, they find themselves on a rollercoaster of unexpected events.",
+    "year": "2022",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ecLiw0R09wvmKLQLs4u4dUCztDk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tVcpdJQjrI1pcWRf4rpiQNHMXQT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/z59yBDTPYCH5Gvv28BK7hjNw87p.png",
+    "certificate": null,
+    "runTimeMinutes": 107,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": ["EG"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1034335",
+    "tmdbId": 1034335,
+    "type": "movie",
+    "title": "The Murderer",
+    "overview": "After a series of deaths in a small provincial town, a determined detective attempts to uncover the killer — and British expat Earl is the prime suspect.",
+    "year": "2023",
+    "rating": 6.776,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/csZRHobe0aPYOGobhLjTnB6S2L9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/ojWxM1osQBsK340nlJKfAkicMCi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2UIlYkzMZRMh1UYvshTxUFbkGQQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": ["TH"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "744653",
+    "tmdbId": 744653,
+    "type": "movie",
+    "title": "The Thursday Murder Club",
+    "overview": "A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
+    "year": "2025",
+    "rating": 6.589,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rCsYKFaeRqkRLL8bBS3wC1Vi9xI.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1309923",
+    "tmdbId": 1309923,
+    "type": "movie",
+    "title": "Non Negotiable",
+    "overview": "Hostage negotiator Alan Bender is called to rescue the president from a kidnapping, only to find himself also mediating to save his wife and marriage.",
+    "year": "2024",
+    "rating": 6.225,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bHQG4UsLMFCy91gfLAFRpnCOPdP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/6Vbm2nHxHMlZZ199fmZtMytpFvK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o1iaHxeITvgmIGIjYwBvQbk0hTf.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["AR", "MX"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "465003",
+    "tmdbId": 465003,
+    "type": "movie",
+    "title": "The Red Sea Diving Resort",
+    "overview": "Sudan, East Africa, 1980. A team of Israeli Mossad agents plans to rescue and transfer thousands of Ethiopian Jews to Israel. To do so, and to avoid raising suspicions from the inquisitive and ruthless authorities, they establish as a cover a fake diving resort by the Red Sea.",
+    "year": "2019",
+    "rating": 6.806,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/bTgd1QQFTKdxESevtffAvIvCnz2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/7XI3DfxdQwvgXTCx29fglvcirQP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wSsTlzDKrfmNGHuZmPM9PaGum96.png",
+    "certificate": "R",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["CA", "US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "842171",
+    "tmdbId": 842171,
+    "type": "movie",
+    "title": "Deep",
+    "overview": "Four insomniac med school students are lured into a neuroscience experiment that spirals out of control and must find a way out before it’s too late.",
+    "year": "2021",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/jhbJCqSUmhFJJYo27DP44kdN6Fb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/kroGs6BT7NuMQgYF4Mo32eKaSES.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d3dt9noSze8Dw5xLdHH2snTQ8lm.png",
+    "certificate": null,
+    "runTimeMinutes": 101,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Thriller",
+    "originCountries": ["TH"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "414190",
+    "tmdbId": 414190,
+    "type": "movie",
+    "title": "iBoy",
+    "overview": "After an accident, Tom wakes from a coma to discover that fragments of his smart phone have been embedded in his head, and worse, that returning to normal teenage life is impossible because he has developed a strange set of super powers.",
+    "year": "2017",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/z2pJigKnzgDL7RI5AlYf0eeoWTF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/oKpkhLNQuLgokAx7SVIs3uu4Ig7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uFBaNWrMIUGfIJV5J90BjKKyaoJ.png",
+    "certificate": null,
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": ["US", "GB"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "401371",
+    "tmdbId": 401371,
+    "type": "movie",
+    "title": "Mute",
+    "overview": "A mute man with a violent past is forced to take on the teeming underworld of a near-future Berlin as he searches for his missing girlfriend.",
+    "year": "2018",
+    "rating": 5.568,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/ihGg1xndLl3MW34Km332pNkyLH7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/tHTmBF6nhRYmfBR3yRrmrCLy3Oi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9lYLJIFUcy8chN51dMkH3TakJBV.png",
+    "certificate": "R",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Mystery",
+    "originCountries": ["GB", "US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "827931",
+    "tmdbId": 827931,
+    "type": "movie",
+    "title": "Time Cut",
+    "overview": "A teen in 2024 accidentally time-travels to 2003, days before a masked killer murders her sister. Can she change the past without destroying the future?",
+    "year": "2024",
+    "rating": 5.641,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/qYvOcinXcnebhmCxYeivurh91T1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m65wshPpjiNP6neBp1CstMyMdAF.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": ["US"],
     "originalLanguage": ""
   }
 ]

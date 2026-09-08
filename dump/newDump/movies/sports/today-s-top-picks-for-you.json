@@ -14,9 +14,7 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -34,9 +32,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -54,29 +50,7 @@
     "runTimeMinutes": 129,
     "primaryGenre": "History",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1257957",
-    "tmdbId": 1257957,
-    "type": "movie",
-    "title": "Bison Kaalamaadan",
-    "overview": "A young man fights to overcome violence plaguing his village and succeed as a professional kabaddi player.",
-    "year": "2025",
-    "rating": 7.35,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/5IPFJ2XFbYjdIw4912ZufCMolX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/6xEk8ZbqCgmicmeICyYGospXU7R.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4rlcxD9wKS7WUAtyJeMzlnE19iq.png",
-    "certificate": null,
-    "runTimeMinutes": 169,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -94,9 +68,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -114,29 +86,7 @@
     "runTimeMinutes": 123,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "360814",
-    "tmdbId": 360814,
-    "type": "movie",
-    "title": "Dangal",
-    "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
-    "year": "2016",
-    "rating": 7.873,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/w9Bxolh7pQY8SfNPPpuKahQhxkY.png",
-    "certificate": "PG",
-    "runTimeMinutes": 161,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -154,9 +104,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -174,9 +122,7 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -194,29 +140,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1509599",
-    "tmdbId": 1509599,
-    "type": "movie",
-    "title": "Gatta Kusthi 2",
-    "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-    "year": "2026",
-    "rating": 4.929,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jOM46KdTUsBDQ93USngmQrgm56z.png",
-    "certificate": null,
-    "runTimeMinutes": 153,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -234,9 +158,7 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -254,9 +176,7 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -274,9 +194,7 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -294,9 +212,7 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -314,29 +230,7 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "821119",
-    "tmdbId": 821119,
-    "type": "movie",
-    "title": "Jaadugar",
-    "overview": "A small-time magician with zero interest in football must lead his local team to the finals of a tournament if he wishes to marry the love of his life.",
-    "year": "2022",
-    "rating": 6.539,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/wEfhAPR6VNzrt1tkTuzCamRMB3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/psT4PAYJl2uQgdq8HLSmH9JOTPx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5X1vVExofEqqMdX5AuOJu2UnjCa.png",
-    "certificate": null,
-    "runTimeMinutes": 167,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -354,9 +248,7 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -374,29 +266,7 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Comedy",
     "secondaryGenre": "History",
-    "originCountries": [
-      "MX"
-    ],
-    "originalLanguage": ""
-  },
-  {
-    "id": "1057265",
-    "tmdbId": 1057265,
-    "type": "movie",
-    "title": "Peddi",
-    "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
-    "year": "2026",
-    "rating": 5.79,
-    "posterUrl": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w780/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2WDyVZ2JJqMNWEUXewc0olRsguN.png",
-    "certificate": "NR",
-    "runTimeMinutes": 189,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
+    "originCountries": ["MX"],
     "originalLanguage": ""
   },
   {
@@ -414,9 +284,7 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -434,9 +302,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -454,9 +320,7 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -474,9 +338,7 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
+    "originCountries": ["DE"],
     "originalLanguage": ""
   },
   {
@@ -494,9 +356,7 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "FR"
-    ],
+    "originCountries": ["FR"],
     "originalLanguage": ""
   },
   {
@@ -514,11 +374,7 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "IE",
-      "US",
-      "GB"
-    ],
+    "originCountries": ["IE", "US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -536,9 +392,7 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "JP"
-    ],
+    "originCountries": ["JP"],
     "originalLanguage": ""
   },
   {
@@ -556,9 +410,7 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Drama",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -576,9 +428,7 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -596,9 +446,7 @@
     "runTimeMinutes": 41,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -616,9 +464,7 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -636,10 +482,7 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
+    "originCountries": ["GB", "US"],
     "originalLanguage": ""
   },
   {
@@ -657,9 +500,7 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Documentary",
     "secondaryGenre": "History",
-    "originCountries": [
-      "GB"
-    ],
+    "originCountries": ["GB"],
     "originalLanguage": ""
   },
   {
@@ -677,9 +518,7 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -697,9 +536,7 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -717,9 +554,7 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -737,9 +572,7 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -757,9 +590,7 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
     "originalLanguage": ""
   },
   {
@@ -777,10 +608,7 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
+    "originCountries": ["US", "GB"],
     "originalLanguage": ""
   },
   {
@@ -798,9 +626,115 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "14141",
+    "tmdbId": 14141,
+    "type": "movie",
+    "title": "Balls Out: Gary the Tennis Coach",
+    "overview": "An overenthusiastic high-school maintenance man attempts to lead an unlikely group of misfits to the Nebraska state tennis championship in Balls Out: The Gary Houseman Story? director Danny Leiner's underdog sports comedy. American Pie star Seann William Scott stars as the ambitious janitor who believes he has what it takes to coach the winning team.",
+    "year": "2009",
+    "rating": 5.076,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/s8LMr71B3ByCm2E1U33d9uynudY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/xHzK6MAvXDoh5G7is0wCNI7GHO6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iv0dktUU5Ok6ZjXyKLEWIIDxyMN.png",
+    "certificate": "R",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1675177",
+    "tmdbId": 1675177,
+    "type": "movie",
+    "title": "Chris & Martina: The Final Set",
+    "overview": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/m6XxbOjeDyHChXlJ7CVEolNCq2o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/jSzUzhPC7k7OYrOm6L8txrKZpKp.jpg",
+    "logoUrl": null,
+    "certificate": null,
+    "runTimeMinutes": 98,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "22094",
+    "tmdbId": 22094,
+    "type": "movie",
+    "title": "Hard Times",
+    "overview": "In the depression, Chaney, a strong silent streetfighter, joins with Speed, a promoter of no-holds-barred street boxing bouts. They go to New Orleans where Speed borrows money to set up fights for Chaney, but Speed gambles away any winnings.",
+    "year": "1975",
+    "rating": 6.857,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/yWIh8cMGd9XubkdhJB2TJ7buGy3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cjA8bxjXcw3I63DlO3qa6uFwrH4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xwNliDSyC80pmkuSKz7GL4WBxkI.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "35696",
+    "tmdbId": 35696,
+    "type": "movie",
+    "title": "Juwanna Mann",
+    "overview": "A basketball star is booted out of the NBA when his on-court antics go too far, so he poses as a woman and joins the WUBA.",
+    "year": "2002",
+    "rating": 5.131,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/1m5sbTbifesBhCrkE0gJncwMGXw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/chmTWdvet7wi2fqHZX58zLredPt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Aq34LzlJZ05xPfv4t1UodF4tueY.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": ["US"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1294134",
+    "tmdbId": 1294134,
+    "type": "movie",
+    "title": "The Mountain Within Me",
+    "overview": "After suffering a catastrophic and almost fatal spinal cord injury, professional rugby player Ed Jackson's world changed forever. Follows Ed's journey on his recovery as he achieves the mental and physical heights of Snowdonia, the Alps and Himalayas to the life-altering challenges closer to home.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/mRwlV2K8RKj9bJxPqVmEtjd1zAC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/eFKWfdsi9Xi9Hm7V4K5FyVHVdg6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p3A1FmQB97wyoBUw4BMLtajvX6J.png",
+    "certificate": null,
+    "runTimeMinutes": 89,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": ["GB"],
+    "originalLanguage": ""
+  },
+  {
+    "id": "1667493",
+    "tmdbId": 1667493,
+    "type": "movie",
+    "title": "USA 94: Brazil's Return to Glory",
+    "overview": "Follows Brazil's journey to winning its fourth World Cup in 1994, featuring interviews with players and unseen behind-the-scenes footage from the tournament.",
+    "year": "2026",
+    "rating": 6.767,
+    "posterUrl": "https://image.tmdb.org/t/p/w342/kzOZRlUhFCXe0eAA8HE1KocdHJ8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w780/cUJBkpXlxjO5ydkyJRo2FGOJEP7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1GLeu4cSTB8J5BsLIIhotfDad4m.png",
+    "certificate": null,
+    "runTimeMinutes": 86,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": ["BR"],
     "originalLanguage": ""
   }
 ]
