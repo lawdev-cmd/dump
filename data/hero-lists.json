@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T20:22:44.117Z",
+  "generatedAt": "2026-09-29T20:25:08.106Z",
   "movies": {
     "listPath": "giladg/lists/latest-4k-releases",
     "requestUrl": "https://api.trakt.tv/users/giladg/lists/latest-4k-releases/items?extended=full,images&page=1&limit=50",
@@ -125,26 +125,6 @@
         "originalLanguage": "en"
       },
       {
-        "id": "1240889",
-        "tmdbId": 1240889,
-        "type": "movie",
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-        "year": "2026",
-        "rating": 6.364427089691162,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-        "logoUrl": "https://image.tmdb.org/t/p/original/qNAG8RHWfpS1ZsK2Z9oygVN9uuE.png",
-        "certificate": "R",
-        "runTimeMinutes": 112,
-        "primaryGenre": "Horror",
-        "secondaryGenre": "Comedy",
-        "originCountries": [
-          "US"
-        ],
-        "originalLanguage": "en"
-      },
-      {
         "id": "1124142",
         "tmdbId": 1124142,
         "type": "movie",
@@ -185,20 +165,40 @@
         "originalLanguage": "en"
       },
       {
-        "id": "1318467",
-        "tmdbId": 1318467,
+        "id": "1432474",
+        "tmdbId": 1432474,
         "type": "movie",
-        "title": "The Last Kiss",
-        "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+        "title": "Nimrods",
+        "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
         "year": "2026",
-        "rating": 6.2897725105285645,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-        "logoUrl": "https://image.tmdb.org/t/p/original/qL3jhyoMSweX3mJ8h9ZsKGLDwOB.png",
-        "certificate": "NR",
-        "runTimeMinutes": 97,
-        "primaryGenre": "Horror",
-        "secondaryGenre": "Mystery",
+        "rating": 7.2723212242126465,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/qbXj0CoEkPseIQwqMXYFtvu0V4O.png",
+        "certificate": "R",
+        "runTimeMinutes": 107,
+        "primaryGenre": "Comedy",
+        "secondaryGenre": "Music",
+        "originCountries": [
+          "US"
+        ],
+        "originalLanguage": "en"
+      },
+      {
+        "id": "1329016",
+        "tmdbId": 1329016,
+        "type": "movie",
+        "title": "Tony",
+        "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+        "year": "2026",
+        "rating": 7.632543087005615,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+        "logoUrl": "https://image.tmdb.org/t/p/original/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+        "certificate": "R",
+        "runTimeMinutes": 106,
+        "primaryGenre": "Drama",
+        "secondaryGenre": "Comedy",
         "originCountries": [
           "US"
         ],
